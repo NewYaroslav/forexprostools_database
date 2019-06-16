@@ -1,0 +1,321 @@
+[
+    {
+        "actual": 8.5,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "Credit Card Spending (YoY)",
+        "previous": 7.8,
+        "timestamp": 1450663200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 0.9,
+        "name": "All Industries Activity Index (MoM)",
+        "previous": -0.2,
+        "timestamp": 1450672200,
+        "volatility": 0
+    },
+    {
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "BoJ Monthly Report",
+        "timestamp": 1450674000,
+        "volatility": 1
+    },
+    {
+        "actual": -0.3,
+        "country": "Estonia",
+        "currency": "EUR",
+        "name": "Estonian PPI (MoM) (Nov)",
+        "previous": -0.3,
+        "timestamp": 1450677600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.7,
+        "country": "Estonia",
+        "currency": "EUR",
+        "name": "Estonian PPI (YoY) (Nov)",
+        "previous": -2.2,
+        "timestamp": 1450677600,
+        "volatility": 0
+    },
+    {
+        "actual": -2.5,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": -2.5,
+        "name": "German PPI (YoY) (Nov)",
+        "previous": -2.3,
+        "timestamp": 1450681200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": -0.2,
+        "name": "German PPI (MoM) (Nov)",
+        "previous": -0.4,
+        "timestamp": 1450681200,
+        "volatility": 1
+    },
+    {
+        "actual": 98.7,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 97.3,
+        "name": "Consumer Confidence (Dec)",
+        "previous": 96.4,
+        "timestamp": 1450684800,
+        "volatility": 0
+    },
+    {
+        "actual": 114.3,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 109.0,
+        "name": "Manufacturing Confidence (Dec)",
+        "previous": 108.1,
+        "timestamp": 1450684800,
+        "volatility": 0
+    },
+    {
+        "actual": 6.1,
+        "country": "Denmark",
+        "currency": "DKK",
+        "name": "Consumer Confidence (Dec)",
+        "previous": 5.6,
+        "timestamp": 1450684800,
+        "volatility": 0
+    },
+    {
+        "actual": -6.3,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": -5.7,
+        "name": "Export Orders (YoY) (Nov)",
+        "previous": -5.3,
+        "timestamp": 1450684800,
+        "volatility": 0
+    },
+    {
+        "actual": 73.6,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Consumer Confidence (Dec)",
+        "previous": 77.2,
+        "timestamp": 1450684800,
+        "volatility": 0
+    },
+    {
+        "actual": -1.7,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania Current Account (Q3)",
+        "previous": -5.5,
+        "timestamp": 1450684800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.4,
+        "country": "Hong Kong",
+        "currency": "HKD",
+        "forecast": 2.3,
+        "name": "CPI (YoY) (Nov)",
+        "previous": 2.4,
+        "timestamp": 1450686600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.9,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish Trade Balance",
+        "previous": -2.5,
+        "timestamp": 1450688400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.31,
+        "country": "Greece",
+        "currency": "EUR",
+        "name": "Greek Current Account (YoY) (Oct)",
+        "previous": 0.838,
+        "timestamp": 1450688400,
+        "volatility": 0
+    },
+    {
+        "actual": 4.6,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania Industrial Production (YoY) (Nov)",
+        "previous": 5.3,
+        "timestamp": 1450688400,
+        "volatility": 0
+    },
+    {
+        "actual": -2.6,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania Industrial Production (MoM) (Nov)",
+        "previous": 11.3,
+        "timestamp": 1450688400,
+        "volatility": 0
+    },
+    {
+        "actual": 19.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 21.0,
+        "name": "CBI Distributive Trades Survey (Dec)",
+        "previous": 7.0,
+        "timestamp": 1450695600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.2,
+        "country": "Israel",
+        "currency": "ILS",
+        "name": "Industrial Output (MoM) (Oct)",
+        "previous": -3.5,
+        "timestamp": 1450695600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.7,
+        "country": "Latvia",
+        "currency": "EUR",
+        "name": "Latvian PPI (YoY) (Nov)",
+        "previous": -2.1,
+        "timestamp": 1450695600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Latvia",
+        "currency": "EUR",
+        "name": "Latvian PPI (MoM) (Nov)",
+        "previous": -0.6,
+        "timestamp": 1450695600,
+        "volatility": 0
+    },
+    {
+        "actual": -2.93,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": -4.2,
+        "name": "Current Account (USD) (Nov)",
+        "previous": -4.17,
+        "timestamp": 1450701000,
+        "volatility": 0
+    },
+    {
+        "actual": 4.93,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 5.0,
+        "name": "Foreign direct investment (USD) (Nov)",
+        "previous": 6.71,
+        "timestamp": 1450701000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.3,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.1,
+        "name": "Chicago Fed National Activity (Nov)",
+        "previous": -0.17,
+        "timestamp": 1450704600,
+        "volatility": 0
+    },
+    {
+        "actual": 63.0,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "name": "Slovak Current Account (Oct)",
+        "previous": -173.0,
+        "timestamp": 1450704600,
+        "volatility": 0
+    },
+    {
+        "actual": 4.8,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 4.7,
+        "name": "Retail Sales (YoY) (Oct)",
+        "previous": 4.9,
+        "timestamp": 1450706400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 0.5,
+        "name": "Retail Sales (MoM) (Oct)",
+        "previous": -1.1,
+        "timestamp": 1450706400,
+        "volatility": 1
+    },
+    {
+        "actual": -5.7,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -5.9,
+        "name": "Consumer Confidence (Dec)",
+        "previous": -6.0,
+        "timestamp": 1450710000,
+        "volatility": 0
+    },
+    {
+        "actual": 676.2,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Central Government Debt Stock (Nov)",
+        "previous": 677.6,
+        "timestamp": 1450711800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.25,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Month Bill Auction",
+        "previous": 0.28,
+        "timestamp": 1450715400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.515,
+        "country": "United States",
+        "currency": "USD",
+        "name": "6-Month Bill Auction",
+        "previous": 0.585,
+        "timestamp": 1450715400,
+        "volatility": 0
+    },
+    {
+        "actual": -22.8,
+        "country": "Colombia",
+        "currency": "COP",
+        "name": "Imports (YoY) (Oct)",
+        "previous": -22.3,
+        "timestamp": 1450735200,
+        "volatility": 0
+    },
+    {
+        "actual": -1.595,
+        "country": "Colombia",
+        "currency": "COP",
+        "forecast": -1.35,
+        "name": "Trade Balance (USD) (Oct)",
+        "previous": -1.4,
+        "timestamp": 1450735200,
+        "volatility": 0
+    }
+]

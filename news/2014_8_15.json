@@ -1,0 +1,540 @@
+[
+    {
+        "actual": 16.0,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "forecast": 17.4,
+        "name": "Current Acount (Q2)",
+        "previous": 19.8,
+        "timestamp": 1408075200,
+        "volatility": 0
+    },
+    {
+        "actual": 6.4,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "forecast": 5.8,
+        "name": "GDP (YoY) (Q2)",
+        "previous": 6.2,
+        "timestamp": 1408075200,
+        "volatility": 1
+    },
+    {
+        "actual": -1.1,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": -2.3,
+        "name": "Retail Sales (MoM)",
+        "previous": 5.2,
+        "timestamp": 1408078800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": 2.2,
+        "name": "Retail Sales (YoY)",
+        "previous": -5.9,
+        "timestamp": 1408078800,
+        "volatility": 0
+    },
+    {
+        "actual": 8.8,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 8.9,
+        "name": "Quarterly 3-month Jobless Average",
+        "previous": 9.0,
+        "timestamp": 1408086000,
+        "volatility": 1
+    },
+    {
+        "actual": 22.6,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 28.7,
+        "name": "Trade Balance",
+        "previous": 17.8,
+        "timestamp": 1408089600,
+        "volatility": 0
+    },
+    {
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Budget balance",
+        "previous": -0.61,
+        "timestamp": 1408089600,
+        "volatility": 1
+    },
+    {
+        "actual": 3.2,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 3.1,
+        "name": "GDP (YoY) (Q2)",
+        "previous": 3.1,
+        "timestamp": 1408091400,
+        "volatility": 2
+    },
+    {
+        "actual": 0.8,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.8,
+        "name": "GDP (QoQ) (Q2)",
+        "previous": 0.8,
+        "timestamp": 1408091400,
+        "volatility": 2
+    },
+    {
+        "actual": 1.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 1.0,
+        "name": "Index of Services",
+        "previous": 1.0,
+        "timestamp": 1408091400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Hong Kong",
+        "currency": "HKD",
+        "forecast": 0.9,
+        "name": "GDP (QoQ) (Q2)",
+        "previous": 0.3,
+        "timestamp": 1408091400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.8,
+        "country": "Hong Kong",
+        "currency": "HKD",
+        "forecast": 1.9,
+        "name": "GDP (YoY) (Q2)",
+        "previous": 2.6,
+        "timestamp": 1408091400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Israel",
+        "currency": "ILS",
+        "forecast": 0.1,
+        "name": "CPI (MoM)",
+        "previous": 0.3,
+        "timestamp": 1408100400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.3,
+        "country": "Israel",
+        "currency": "ILS",
+        "forecast": 0.4,
+        "name": "CPI (YoY)",
+        "previous": 0.5,
+        "timestamp": 1408100400,
+        "volatility": 0
+    },
+    {
+        "actual": 319.35,
+        "country": "India",
+        "currency": "INR",
+        "name": "FX Reserves, USD",
+        "previous": 319.99,
+        "timestamp": 1408102200,
+        "volatility": 0
+    },
+    {
+        "actual": -1.48,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": -1.3,
+        "name": "IBC-Br Economic Activity",
+        "previous": -0.8,
+        "timestamp": 1408102200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.5,
+        "country": "Russia",
+        "currency": "RUB",
+        "forecast": 0.7,
+        "name": "Industrial Production (YoY)",
+        "previous": 0.4,
+        "timestamp": 1408104000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.2,
+        "name": "Core PPI (MoM)",
+        "previous": 0.2,
+        "timestamp": 1408105800,
+        "volatility": 1
+    },
+    {
+        "actual": 1.6,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.6,
+        "name": "Core PPI (YoY)",
+        "previous": 1.8,
+        "timestamp": 1408105800,
+        "volatility": 0
+    },
+    {
+        "actual": 14.69,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 20.0,
+        "name": "NY Empire State Manufacturing Index",
+        "previous": 25.6,
+        "timestamp": 1408105800,
+        "volatility": 1
+    },
+    {
+        "actual": 1.7,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.8,
+        "name": "PPI (YoY)",
+        "previous": 1.9,
+        "timestamp": 1408105800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.1,
+        "name": "PPI (MoM)",
+        "previous": 0.4,
+        "timestamp": 1408105800,
+        "volatility": 2
+    },
+    {
+        "actual": 41.7,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 20.0,
+        "name": "Employment Change",
+        "previous": -9.4,
+        "timestamp": 1408105800,
+        "volatility": 2
+    },
+    {
+        "actual": -18.1,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "Full Employment Change",
+        "previous": 33.5,
+        "timestamp": 1408105800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.6,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.5,
+        "name": "Manufacturing Sales (MoM)",
+        "previous": 1.7,
+        "timestamp": 1408105800,
+        "volatility": 1
+    },
+    {
+        "actual": 59.9,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "Part Time Employment Change",
+        "previous": -43.0,
+        "timestamp": 1408105800,
+        "volatility": 0
+    },
+    {
+        "actual": 66.1,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 66.1,
+        "name": "Participation Rate",
+        "previous": 66.1,
+        "timestamp": 1408105800,
+        "volatility": 0
+    },
+    {
+        "actual": 7.0,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 7.0,
+        "name": "Unemployment Rate",
+        "previous": 7.1,
+        "timestamp": 1408105800,
+        "volatility": 1
+    },
+    {
+        "actual": -20.8,
+        "country": "United States",
+        "currency": "USD",
+        "name": "US Foreign Buying, T-bonds",
+        "previous": 25.0,
+        "timestamp": 1408107600,
+        "volatility": 0
+    },
+    {
+        "actual": -153.5,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Overall Net Capital Flow",
+        "previous": 33.1,
+        "timestamp": 1408107600,
+        "volatility": 0
+    },
+    {
+        "actual": -18.7,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 27.3,
+        "name": "TIC Net Long-Term Transactions",
+        "previous": 18.6,
+        "timestamp": 1408107600,
+        "volatility": 1
+    },
+    {
+        "actual": -30.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "TIC Net Long-Term Transactions including Swaps",
+        "previous": 7.7,
+        "timestamp": 1408107600,
+        "volatility": 0
+    },
+    {
+        "actual": 79.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 79.2,
+        "name": "Capacity Utilization Rate",
+        "previous": 79.1,
+        "timestamp": 1408108500,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.3,
+        "name": "Industrial Production (MoM)",
+        "previous": 0.4,
+        "timestamp": 1408108500,
+        "volatility": 1
+    },
+    {
+        "actual": 1.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.4,
+        "name": "Manufacturing Production (MoM)",
+        "previous": 0.3,
+        "timestamp": 1408108500,
+        "volatility": 0
+    },
+    {
+        "actual": 66.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 73.0,
+        "name": "Michigan Consumer Expectations",
+        "previous": 71.8,
+        "timestamp": 1408110900,
+        "volatility": 1
+    },
+    {
+        "actual": 79.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 82.5,
+        "name": "Michigan Consumer Sentiment",
+        "previous": 81.8,
+        "timestamp": 1408110900,
+        "volatility": 1
+    },
+    {
+        "actual": 99.6,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 97.8,
+        "name": "Michigan Current Conditions",
+        "previous": 97.4,
+        "timestamp": 1408110900,
+        "volatility": 0
+    },
+    {
+        "actual": 3.4,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Michigan Inflation Expectations",
+        "previous": 3.3,
+        "timestamp": 1408110900,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Peru",
+        "currency": "PEN",
+        "forecast": 2.0,
+        "name": "GDP (YoY)",
+        "previous": 1.84,
+        "timestamp": 1408111200,
+        "volatility": 0
+    },
+    {
+        "actual": 5.7,
+        "country": "Peru",
+        "currency": "PEN",
+        "forecast": 5.8,
+        "name": "Unemployment Rate",
+        "previous": 5.7,
+        "timestamp": 1408114800,
+        "volatility": 0
+    },
+    {
+        "actual": 1589.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "U.S. Baker Hughes Oil Rig Count",
+        "previous": 1588.0,
+        "timestamp": 1408122000,
+        "volatility": 1
+    },
+    {
+        "actual": 1.4,
+        "country": "Argentina",
+        "currency": "ARS",
+        "forecast": 1.5,
+        "name": "CPI (MoM)",
+        "previous": 1.3,
+        "timestamp": 1408129200,
+        "volatility": 1
+    },
+    {
+        "actual": 18.8,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "CFTC GBP speculative net positions",
+        "previous": 12.1,
+        "timestamp": 1408131000,
+        "volatility": 1
+    },
+    {
+        "actual": 147.7,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Gold speculative net positions",
+        "previous": 121.5,
+        "timestamp": 1408131000,
+        "volatility": 1
+    },
+    {
+        "actual": 29.7,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Silver speculative net positions",
+        "previous": 34.4,
+        "timestamp": 1408131000,
+        "volatility": 0
+    },
+    {
+        "actual": 18.0,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "CFTC CAD speculative net positions",
+        "previous": 21.5,
+        "timestamp": 1408131000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "CFTC MXN speculative net positions",
+        "previous": 32.4,
+        "timestamp": 1408131000,
+        "volatility": 0
+    },
+    {
+        "actual": -17.4,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "name": "CFTC CHF speculative net positions",
+        "previous": -18.9,
+        "timestamp": 1408131000,
+        "volatility": 0
+    },
+    {
+        "actual": 29.5,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "CFTC AUD speculative net positions",
+        "previous": 33.3,
+        "timestamp": 1408131000,
+        "volatility": 1
+    },
+    {
+        "actual": -81.1,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "CFTC JPY speculative net positions",
+        "previous": -95.4,
+        "timestamp": 1408131000,
+        "volatility": 1
+    },
+    {
+        "actual": 13.4,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "CFTC NZD speculative net positions",
+        "previous": 14.5,
+        "timestamp": 1408131000,
+        "volatility": 0
+    },
+    {
+        "actual": -126.0,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "CFTC EUR speculative net positions",
+        "previous": -128.7,
+        "timestamp": 1408131000,
+        "volatility": 1
+    },
+    {
+        "actual": 324.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Crude Oil speculative net positions",
+        "previous": 347.2,
+        "timestamp": 1408134600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.8,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "CFTC RUB speculative positions",
+        "previous": 1.4,
+        "timestamp": 1408134600,
+        "volatility": 1
+    },
+    {
+        "actual": -0.6,
+        "country": "Colombia",
+        "currency": "COP",
+        "forecast": 4.0,
+        "name": "Industrial Production (YoY)",
+        "previous": 2.0,
+        "timestamp": 1408140000,
+        "volatility": 0
+    }
+]

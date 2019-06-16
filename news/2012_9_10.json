@@ -1,0 +1,378 @@
+[
+    {
+        "actual": 2.7,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 3.0,
+        "name": "Exports (YoY)",
+        "previous": 1.0,
+        "timestamp": 1347238800,
+        "volatility": 1
+    },
+    {
+        "actual": 26.66,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 19.8,
+        "name": "Trade Balance (USD)",
+        "previous": 25.1,
+        "timestamp": 1347238800,
+        "volatility": 1
+    },
+    {
+        "actual": -1.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.1,
+        "name": "Home Loans (MoM)",
+        "previous": 1.0,
+        "timestamp": 1347240600,
+        "volatility": 1
+    },
+    {
+        "actual": 1.4,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "forecast": 3.5,
+        "name": "Industrial Production (YoY)",
+        "previous": 3.7,
+        "timestamp": 1347249660,
+        "volatility": 0
+    },
+    {
+        "actual": 40.5,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 39.6,
+        "name": "Household Confidence",
+        "previous": 39.7,
+        "timestamp": 1347253200,
+        "volatility": 0
+    },
+    {
+        "actual": 43.6,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 43.6,
+        "name": "Economy Watchers Current Index",
+        "previous": 44.2,
+        "timestamp": 1347256800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.2,
+        "country": "Finland",
+        "currency": "EUR",
+        "name": "Finnish Industry Output (YoY)",
+        "previous": -0.4,
+        "timestamp": 1347256800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": -0.5,
+        "name": "French Industrial Production (MoM)",
+        "previous": 0.0,
+        "timestamp": 1347259500,
+        "volatility": 0
+    },
+    {
+        "actual": 2.6,
+        "country": "Denmark",
+        "currency": "DKK",
+        "forecast": 2.5,
+        "name": "CPI (YoY)",
+        "previous": 2.3,
+        "timestamp": 1347260400,
+        "volatility": 1
+    },
+    {
+        "actual": 8.2,
+        "country": "Denmark",
+        "currency": "DKK",
+        "forecast": 7.0,
+        "name": "Trade Balance",
+        "previous": 7.4,
+        "timestamp": 1347260400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Austria",
+        "currency": "EUR",
+        "name": "Austrian GDP (QoQ)",
+        "previous": 0.2,
+        "timestamp": 1347260400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": 0.1,
+        "name": "CPI (MoM)",
+        "previous": -0.1,
+        "timestamp": 1347260400,
+        "volatility": 0
+    },
+    {
+        "actual": 8.3,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": 8.3,
+        "name": "Unemployment Rate",
+        "previous": 8.3,
+        "timestamp": 1347260400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.9,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 3.3,
+        "name": "GDP (YoY)",
+        "previous": 3.2,
+        "timestamp": 1347260400,
+        "volatility": 1
+    },
+    {
+        "actual": 3.4,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 2.25,
+        "name": "Industrial Production (YoY)",
+        "previous": 2.7,
+        "timestamp": 1347260400,
+        "volatility": 0
+    },
+    {
+        "actual": 18.5,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "forecast": 14.0,
+        "name": "Slovak Industrial Production (YoY)",
+        "previous": 13.0,
+        "timestamp": 1347260400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": -0.3,
+        "name": "Industrial Production (MoM)",
+        "previous": 0.4,
+        "timestamp": 1347262200,
+        "volatility": 0
+    },
+    {
+        "actual": -2.6,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": -2.5,
+        "name": "Italian GDP (YoY)",
+        "previous": -2.6,
+        "timestamp": 1347264000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.8,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": -0.7,
+        "name": "Italian GDP (QoQ)",
+        "previous": -0.8,
+        "timestamp": 1347264000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.7,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": -0.4,
+        "name": "Core Inflation (MoM)",
+        "previous": 0.0,
+        "timestamp": 1347264000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.4,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": -0.2,
+        "name": "CPI (MoM)",
+        "previous": -0.5,
+        "timestamp": 1347264000,
+        "volatility": 0
+    },
+    {
+        "actual": 4.4,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 2.5,
+        "name": "PPI (YoY)",
+        "previous": -0.6,
+        "timestamp": 1347264000,
+        "volatility": 0
+    },
+    {
+        "actual": -23.2,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -30.7,
+        "name": "Sentix Investor Confidence",
+        "previous": -30.3,
+        "timestamp": 1347265800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.7,
+        "country": "Greece",
+        "currency": "EUR",
+        "name": "Greek CPI (YoY)",
+        "previous": 1.3,
+        "timestamp": 1347267600,
+        "volatility": 0
+    },
+    {
+        "actual": -5.0,
+        "country": "Greece",
+        "currency": "EUR",
+        "name": "Greek Industrial Production (YoY)",
+        "previous": 0.2,
+        "timestamp": 1347267600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.5,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "Construction Output (MoM) (Jul)",
+        "previous": -4.3,
+        "timestamp": 1347269400,
+        "volatility": 0
+    },
+    {
+        "actual": -9.6,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "U.K. Construction Output (YoY) (Jul)",
+        "previous": -11.0,
+        "timestamp": 1347269400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.015,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German 6-Month Bubill Auction",
+        "previous": -0.05,
+        "timestamp": 1347269400,
+        "volatility": 0
+    },
+    {
+        "actual": -2.0,
+        "country": "Portugal",
+        "currency": "EUR",
+        "name": "Portuguese Trade Balance",
+        "previous": -2.35,
+        "timestamp": 1347271200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.01,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 12-Month BTF Auction",
+        "previous": 0.002,
+        "timestamp": 1347282000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.021,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 3-Month BTF Auction",
+        "previous": -0.014,
+        "timestamp": 1347282000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.005,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 6-Month BTF Auction",
+        "previous": -0.008,
+        "timestamp": 1347282000,
+        "volatility": 0
+    },
+    {
+        "actual": 108.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CB Employment Trends Index",
+        "previous": 108.0,
+        "timestamp": 1347285600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Month Bill Auction",
+        "previous": 0.1,
+        "timestamp": 1347291000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.13,
+        "country": "United States",
+        "currency": "USD",
+        "name": "6-Month Bill Auction",
+        "previous": 0.135,
+        "timestamp": 1347291000,
+        "volatility": 0
+    },
+    {
+        "actual": -3.28,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 9.1,
+        "name": "Consumer Credit",
+        "previous": 11.82,
+        "timestamp": 1347303600,
+        "volatility": 0
+    },
+    {
+        "actual": -19.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": -22.0,
+        "name": "RICS House Price Balance",
+        "previous": -23.0,
+        "timestamp": 1347318060,
+        "volatility": 1
+    },
+    {
+        "actual": 2.5,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": -6.1,
+        "name": "BSI Large Manufacturing Conditions",
+        "previous": -5.7,
+        "timestamp": 1347321000,
+        "volatility": 1
+    },
+    {
+        "actual": 2.4,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 2.3,
+        "name": "M2 Money Stock (YoY)",
+        "previous": 2.2,
+        "timestamp": 1347321000,
+        "volatility": 0
+    }
+]

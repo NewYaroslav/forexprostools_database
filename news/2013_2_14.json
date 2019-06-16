@@ -1,0 +1,336 @@
+[
+    {
+        "actual": 2.2,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "MI Inflation Expectations",
+        "previous": 2.0,
+        "timestamp": 1360800000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.75,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 2.75,
+        "name": "Interest Rate Decision",
+        "previous": 2.75,
+        "timestamp": 1360803600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.48,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "Trade Balance",
+        "previous": 0.87,
+        "timestamp": 1360810800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 0.1,
+        "name": "BoJ Interest Rate Decision",
+        "previous": 0.1,
+        "timestamp": 1360813200,
+        "volatility": 1
+    },
+    {
+        "actual": 9.3,
+        "country": "Estonia",
+        "currency": "EUR",
+        "name": "Estonian Unemployment Rate (YoY)",
+        "previous": 9.7,
+        "timestamp": 1360821600,
+        "volatility": 0
+    },
+    {
+        "actual": 6.62,
+        "country": "India",
+        "currency": "INR",
+        "forecast": 7.0,
+        "name": "WPI Inflation (YoY)",
+        "previous": 7.18,
+        "timestamp": 1360821780,
+        "volatility": 1
+    },
+    {
+        "actual": -0.3,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": -0.2,
+        "name": "French GDP (QoQ)",
+        "previous": 0.1,
+        "timestamp": 1360823400,
+        "volatility": 1
+    },
+    {
+        "actual": -0.6,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": -0.5,
+        "name": "German GDP (QoQ)",
+        "previous": 0.2,
+        "timestamp": 1360825200,
+        "volatility": 2
+    },
+    {
+        "actual": 0.1,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.2,
+        "name": "German GDP (YoY)",
+        "previous": 0.4,
+        "timestamp": 1360825200,
+        "volatility": 1
+    },
+    {
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "BoJ Press Conference",
+        "timestamp": 1360826700,
+        "volatility": 2
+    },
+    {
+        "actual": -0.2,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": -0.2,
+        "name": "French Non-Farm Payrolls (QoQ)",
+        "previous": -0.3,
+        "timestamp": 1360827900,
+        "volatility": 1
+    },
+    {
+        "actual": -0.2,
+        "country": "Austria",
+        "currency": "EUR",
+        "forecast": -0.1,
+        "name": "Austrian GDP (QoQ)",
+        "previous": 0.1,
+        "timestamp": 1360828800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": -0.3,
+        "name": "GDP (QoQ)",
+        "previous": -0.3,
+        "timestamp": 1360828800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "forecast": 1.5,
+        "name": "Slovak GDP (YoY)",
+        "previous": 2.1,
+        "timestamp": 1360828800,
+        "volatility": 0
+    },
+    {
+        "actual": 3.7,
+        "country": "Hungary",
+        "currency": "HUF",
+        "forecast": 4.0,
+        "name": "CPI (YoY)",
+        "previous": 5.0,
+        "timestamp": 1360828800,
+        "volatility": 0
+    },
+    {
+        "actual": -2.7,
+        "country": "Hungary",
+        "currency": "HUF",
+        "forecast": -2.0,
+        "name": "GDP (YoY)",
+        "previous": -1.5,
+        "timestamp": 1360828800,
+        "volatility": 1
+    },
+    {
+        "actual": -0.9,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "forecast": -1.0,
+        "name": "Dutch GDP (YoY)",
+        "previous": -1.5,
+        "timestamp": 1360830600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.48,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch Trade Balance",
+        "previous": 3.88,
+        "timestamp": 1360830600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.9,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": -0.6,
+        "name": "Italian GDP (QoQ)",
+        "previous": -0.2,
+        "timestamp": 1360832400,
+        "volatility": 0
+    },
+    {
+        "actual": -2.7,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": -2.3,
+        "name": "Italian GDP (YoY)",
+        "previous": -2.4,
+        "timestamp": 1360832400,
+        "volatility": 0
+    },
+    {
+        "actual": -3.1,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": -1.0,
+        "name": "Spanish industrial New Orders (YoY)",
+        "previous": -1.5,
+        "timestamp": 1360832400,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB Economic Bulletin",
+        "timestamp": 1360832400,
+        "volatility": 1
+    },
+    {
+        "actual": -3.8,
+        "country": "Portugal",
+        "currency": "EUR",
+        "forecast": -2.9,
+        "name": "Portuguese GDP (YoY)",
+        "previous": -3.5,
+        "timestamp": 1360836000,
+        "volatility": 0
+    },
+    {
+        "actual": -6.0,
+        "country": "Greece",
+        "currency": "EUR",
+        "name": "Greek GDP (YoY)",
+        "previous": -6.7,
+        "timestamp": 1360836000,
+        "volatility": 0
+    },
+    {
+        "actual": 27.0,
+        "country": "Greece",
+        "currency": "EUR",
+        "name": "Greek Unemployment Rate",
+        "previous": 26.6,
+        "timestamp": 1360836000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.6,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -0.4,
+        "name": "GDP (QoQ)",
+        "previous": -0.1,
+        "timestamp": 1360836000,
+        "volatility": 1
+    },
+    {
+        "actual": 3.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 3.0,
+        "name": "Continuing Jobless Claims",
+        "previous": 3.0,
+        "timestamp": 1360848600,
+        "volatility": 0
+    },
+    {
+        "actual": 341.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 360.0,
+        "name": "Initial Jobless Claims",
+        "previous": 368.0,
+        "timestamp": 1360848600,
+        "volatility": 1
+    },
+    {
+        "actual": -0.07,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Foreign Exchange Flows",
+        "previous": 0.42,
+        "timestamp": 1360852200,
+        "volatility": 0
+    },
+    {
+        "actual": 32.05,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Bloomberg Consumer Confidence",
+        "previous": 31.85,
+        "timestamp": 1360853100,
+        "volatility": 0
+    },
+    {
+        "actual": -157.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -162.0,
+        "name": "Natural Gas Storage",
+        "previous": -118.0,
+        "timestamp": 1360855800,
+        "volatility": 0
+    },
+    {
+        "actual": 3.18,
+        "country": "United States",
+        "currency": "USD",
+        "name": "30-Year Bond Auction",
+        "previous": 3.07,
+        "timestamp": 1360864800,
+        "volatility": 0
+    },
+    {
+        "actual": 5.0,
+        "country": "Chile",
+        "currency": "CLP",
+        "forecast": 5.0,
+        "name": "Interest Rate Decision",
+        "previous": 5.0,
+        "timestamp": 1360875600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.5,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "Core Retail Sales (QoQ)",
+        "previous": 0.0,
+        "timestamp": 1360878300,
+        "volatility": 1
+    },
+    {
+        "actual": 2.1,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 1.1,
+        "name": "Retail Sales (QoQ)",
+        "previous": -0.4,
+        "timestamp": 1360878300,
+        "volatility": 1
+    }
+]

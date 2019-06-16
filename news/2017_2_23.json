@@ -1,0 +1,494 @@
+[
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Kaplan Speaks",
+        "timestamp": 1487808300,
+        "volatility": 1
+    },
+    {
+        "actual": -4.1,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Building Capital Expenditure (MoM) (Q4)",
+        "previous": -3.6,
+        "timestamp": 1487809800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Plant/Machinery Capital Expenditure (QoQ) (Q4)",
+        "previous": -3.0,
+        "timestamp": 1487809800,
+        "volatility": 0
+    },
+    {
+        "actual": -2.1,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": -0.5,
+        "name": "Private New Capital Expenditure (QoQ) (Q4)",
+        "previous": -3.3,
+        "timestamp": 1487809800,
+        "volatility": 1
+    },
+    {
+        "actual": 1.25,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 1.25,
+        "name": "Interest Rate Decision (Feb)",
+        "previous": 1.25,
+        "timestamp": 1487811600,
+        "volatility": 0
+    },
+    {
+        "actual": 104.8,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 105.2,
+        "name": "Leading Index",
+        "previous": 105.2,
+        "timestamp": 1487826000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.6,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": 0.6,
+        "name": "CPI (YoY) (Jan)",
+        "previous": 0.2,
+        "timestamp": 1487826000,
+        "volatility": 1
+    },
+    {
+        "actual": 1.2,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 1.2,
+        "name": "German GDP (YoY) (Q4)",
+        "previous": 1.2,
+        "timestamp": 1487833200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.4,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.4,
+        "name": "German GDP (QoQ) (Q4)",
+        "previous": 0.4,
+        "timestamp": 1487833200,
+        "volatility": 2
+    },
+    {
+        "actual": 10.0,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 10.1,
+        "name": "GfK German Consumer Climate (Mar)",
+        "previous": 10.2,
+        "timestamp": 1487833200,
+        "volatility": 1
+    },
+    {
+        "actual": 107.0,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 106.0,
+        "name": "French Business Survey (Feb)",
+        "previous": 106.0,
+        "timestamp": 1487835900,
+        "volatility": 0
+    },
+    {
+        "actual": 2.77,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "name": "Industrial Production (YoY) (Jan)",
+        "previous": 6.25,
+        "timestamp": 1487836800,
+        "volatility": 0
+    },
+    {
+        "actual": -3.3,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "name": "Industrial orders (Q4)",
+        "previous": 6.2,
+        "timestamp": 1487837700,
+        "volatility": 0
+    },
+    {
+        "actual": -0.5,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.2,
+        "name": "Italian Retail Sales (MoM) (Dec)",
+        "previous": -0.7,
+        "timestamp": 1487840400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.8,
+        "name": "Italian Retail Sales (YoY) (Dec)",
+        "previous": 0.8,
+        "timestamp": 1487840400,
+        "volatility": 0
+    },
+    {
+        "actual": 8.6,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 8.7,
+        "name": "Unemployment Rate (Jan)",
+        "previous": 8.3,
+        "timestamp": 1487840400,
+        "volatility": 1
+    },
+    {
+        "actual": 5.9,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": 6.6,
+        "name": "PPI (YoY) (Jan)",
+        "previous": 7.1,
+        "timestamp": 1487842200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": 1.0,
+        "name": "PPI (MoM) (Jan)",
+        "previous": 0.5,
+        "timestamp": 1487842200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.029,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian 2-Year CTZ Auction",
+        "previous": -0.071,
+        "timestamp": 1487845200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.18,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "10-Year Treasury Gilt Auction",
+        "previous": 1.451,
+        "timestamp": 1487846100,
+        "volatility": 0
+    },
+    {
+        "actual": 9.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 5.0,
+        "name": "CBI Distributive Trades Survey (Feb)",
+        "previous": -8.0,
+        "timestamp": 1487847600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.08,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 0.01,
+        "name": "IGP-M Inflation Index (MoM) (Feb)",
+        "previous": 0.64,
+        "timestamp": 1487847600,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "Treasury Secretary Mnuchin Speaks",
+        "timestamp": 1487851200,
+        "volatility": 1
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "Treasury Secretary Mnuchin Speaks",
+        "timestamp": 1487854800,
+        "volatility": 1
+    },
+    {
+        "actual": -0.05,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.1,
+        "name": "Chicago Fed National Activity (Jan)",
+        "previous": 0.18,
+        "timestamp": 1487856600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.0,
+        "name": "Continuing Jobless Claims",
+        "previous": 2.0,
+        "timestamp": 1487856600,
+        "volatility": 0
+    },
+    {
+        "actual": 244.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 241.0,
+        "name": "Initial Jobless Claims",
+        "previous": 238.0,
+        "timestamp": 1487856600,
+        "volatility": 1
+    },
+    {
+        "actual": 241.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Jobless Claims 4-Week Avg.",
+        "previous": 245.0,
+        "timestamp": 1487856600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.6,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "Corporate Profits (QoQ)",
+        "previous": 14.0,
+        "timestamp": 1487856600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.0,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Bank lending (MoM) (Jan)",
+        "previous": 0.1,
+        "timestamp": 1487856600,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Lockhart Speaks",
+        "timestamp": 1487856900,
+        "volatility": 1
+    },
+    {
+        "actual": 0.4,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.4,
+        "name": "House Price Index (MoM) (Dec)",
+        "previous": 0.7,
+        "timestamp": 1487858400,
+        "volatility": 0
+    },
+    {
+        "actual": 6.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "House Price Index (YoY) (Dec)",
+        "previous": 6.1,
+        "timestamp": 1487858400,
+        "volatility": 0
+    },
+    {
+        "actual": 242.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "House Price Index (Dec)",
+        "previous": 241.6,
+        "timestamp": 1487858400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.46,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 0.28,
+        "name": "1st Half-Month Core CPI (Feb)",
+        "previous": 0.37,
+        "timestamp": 1487858400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.33,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 0.29,
+        "name": "1st Half-Month CPI (Feb)",
+        "previous": 1.51,
+        "timestamp": 1487858400,
+        "volatility": 0
+    },
+    {
+        "actual": 48.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Bloomberg Consumer Confidence",
+        "previous": 48.1,
+        "timestamp": 1487861100,
+        "volatility": 0
+    },
+    {
+        "actual": -89.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -85.0,
+        "name": "Natural Gas Storage",
+        "previous": -114.0,
+        "timestamp": 1487863800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.564,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 3.475,
+        "name": "Crude Oil Inventories",
+        "previous": 9.527,
+        "timestamp": 1487865600,
+        "volatility": 2
+    },
+    {
+        "actual": -1.39,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Crude Oil Imports",
+        "previous": -1.34,
+        "timestamp": 1487865600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.528,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Cushing Crude Oil Inventories",
+        "previous": -0.702,
+        "timestamp": 1487865600,
+        "volatility": 1
+    },
+    {
+        "actual": -0.064,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Distillate Fuel Production",
+        "previous": -0.271,
+        "timestamp": 1487865600,
+        "volatility": 0
+    },
+    {
+        "actual": -4.924,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.483,
+        "name": "EIA Weekly Distillates Stocks",
+        "previous": -0.689,
+        "timestamp": 1487865600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.479,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Gasoline Production",
+        "previous": -0.854,
+        "timestamp": 1487865600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.036,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Heating Oil Stockpiles",
+        "previous": -0.343,
+        "timestamp": 1487865600,
+        "volatility": 0
+    },
+    {
+        "actual": -2.628,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.888,
+        "name": "Gasoline Inventories",
+        "previous": 2.846,
+        "timestamp": 1487865600,
+        "volatility": 0
+    },
+    {
+        "actual": 14.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 10.0,
+        "name": "KC Fed Composite Index (Feb)",
+        "previous": 9.0,
+        "timestamp": 1487865600,
+        "volatility": 0
+    },
+    {
+        "actual": 11.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "KC Fed Manufacturing Index (Feb)",
+        "previous": 20.0,
+        "timestamp": 1487865600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.197,
+        "country": "United States",
+        "currency": "USD",
+        "name": "7-Year Note Auction",
+        "previous": 2.335,
+        "timestamp": 1487872800,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Kaplan Speaks",
+        "timestamp": 1487872800,
+        "volatility": 1
+    },
+    {
+        "actual": -1.1,
+        "country": "Argentina",
+        "currency": "ARS",
+        "forecast": -1.0,
+        "name": "Industrial Production (YoY) (Jan)",
+        "previous": -2.3,
+        "timestamp": 1487876400,
+        "volatility": 1
+    },
+    {
+        "actual": 94.0,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "Consumer Confidence (Feb)",
+        "previous": 93.0,
+        "timestamp": 1487883600,
+        "volatility": 0
+    },
+    {
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "RBA Governor Lowe Speaks",
+        "timestamp": 1487889000,
+        "volatility": 1
+    }
+]

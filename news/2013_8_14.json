@@ -1,0 +1,504 @@
+[
+    {
+        "actual": 3.5,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Westpac Consumer Sentiment",
+        "previous": -0.1,
+        "timestamp": 1376440200,
+        "volatility": 1
+    },
+    {
+        "actual": 2.9,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 3.0,
+        "name": "Wage Price Index (YoY)",
+        "previous": 3.2,
+        "timestamp": 1376443800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.8,
+        "name": "Wage Price Index (QoQ)",
+        "previous": 0.7,
+        "timestamp": 1376443800,
+        "volatility": 1
+    },
+    {
+        "actual": 2.54,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "Trade Balance",
+        "previous": 2.7,
+        "timestamp": 1376449200,
+        "volatility": 0
+    },
+    {
+        "actual": 8.1,
+        "country": "Estonia",
+        "currency": "EUR",
+        "name": "Estonian Unemployment Rate (YoY)",
+        "previous": 10.2,
+        "timestamp": 1376456400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 0.2,
+        "name": "French GDP (QoQ)",
+        "previous": -0.2,
+        "timestamp": 1376458200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.7,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.6,
+        "name": "German GDP (QoQ)",
+        "previous": 0.1,
+        "timestamp": 1376460000,
+        "volatility": 2
+    },
+    {
+        "actual": 0.9,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.3,
+        "name": "German GDP (YoY)",
+        "previous": -1.6,
+        "timestamp": 1376460000,
+        "volatility": 1
+    },
+    {
+        "actual": 1.6,
+        "country": "Finland",
+        "currency": "EUR",
+        "name": "Finnish CPI (YoY)",
+        "previous": 1.4,
+        "timestamp": 1376460000,
+        "volatility": 0
+    },
+    {
+        "actual": 5.79,
+        "country": "India",
+        "currency": "INR",
+        "forecast": 5.0,
+        "name": "WPI Inflation (YoY)",
+        "previous": 4.86,
+        "timestamp": 1376461800,
+        "volatility": 1
+    },
+    {
+        "actual": -0.3,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": -0.1,
+        "name": "French CPI (MoM)",
+        "previous": 0.2,
+        "timestamp": 1376462700,
+        "volatility": 1
+    },
+    {
+        "actual": -0.2,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 0.0,
+        "name": "French Non-Farm Payrolls (QoQ)",
+        "previous": -0.1,
+        "timestamp": 1376462700,
+        "volatility": 1
+    },
+    {
+        "actual": 0.2,
+        "country": "Austria",
+        "currency": "EUR",
+        "forecast": 0.2,
+        "name": "Austrian GDP (QoQ)",
+        "previous": 0.0,
+        "timestamp": 1376463600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": 0.4,
+        "name": "GDP (QoQ)",
+        "previous": -1.1,
+        "timestamp": 1376463600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.9,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "forecast": 0.5,
+        "name": "Slovak GDP (YoY)",
+        "previous": 0.6,
+        "timestamp": 1376463600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Hungary",
+        "currency": "HUF",
+        "forecast": 0.5,
+        "name": "GDP (YoY)",
+        "previous": -0.9,
+        "timestamp": 1376463600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.0,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 0.2,
+        "name": "PPI (MoM)",
+        "previous": 0.1,
+        "timestamp": 1376464500,
+        "volatility": 1
+    },
+    {
+        "actual": 0.5,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 0.5,
+        "name": "PPI (YoY)",
+        "previous": 0.2,
+        "timestamp": 1376464500,
+        "volatility": 0
+    },
+    {
+        "actual": 3.0,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 1.0,
+        "name": "Industrial Production (MoM)",
+        "previous": -2.9,
+        "timestamp": 1376465400,
+        "volatility": 0
+    },
+    {
+        "actual": -1.8,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "forecast": -2.0,
+        "name": "Dutch GDP (YoY)",
+        "previous": -1.8,
+        "timestamp": 1376465400,
+        "volatility": 0
+    },
+    {
+        "actual": 8.7,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "forecast": 8.6,
+        "name": "Dutch Unemployment Rate",
+        "previous": 8.5,
+        "timestamp": 1376465400,
+        "volatility": 0
+    },
+    {
+        "actual": -7.8,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": -4.0,
+        "name": "Spanish industrial New Orders (YoY)",
+        "previous": -1.3,
+        "timestamp": 1376465400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 0.8,
+        "name": "GDP (QoQ)",
+        "previous": 0.2,
+        "timestamp": 1376467200,
+        "volatility": 1
+    },
+    {
+        "actual": 1.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 1.1,
+        "name": "Average Earnings ex Bonus",
+        "previous": 1.0,
+        "timestamp": 1376469000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 2.0,
+        "name": "Average Earnings Index +Bonus",
+        "previous": 1.8,
+        "timestamp": 1376469000,
+        "volatility": 2
+    },
+    {
+        "actual": -29.2,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": -15.0,
+        "name": "Claimant Count Change",
+        "previous": -29.4,
+        "timestamp": 1376469000,
+        "volatility": 2
+    },
+    {
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BoE MPC Meeting Minutes",
+        "timestamp": 1376469000,
+        "volatility": 2
+    },
+    {
+        "actual": 7.8,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 7.8,
+        "name": "Unemployment Rate",
+        "previous": 7.8,
+        "timestamp": 1376469000,
+        "volatility": 1
+    },
+    {
+        "actual": 1.1,
+        "country": "Portugal",
+        "currency": "EUR",
+        "forecast": -0.2,
+        "name": "Portuguese GDP (QoQ)",
+        "previous": -0.4,
+        "timestamp": 1376469000,
+        "volatility": 0
+    },
+    {
+        "actual": -2.0,
+        "country": "Portugal",
+        "currency": "EUR",
+        "forecast": -3.2,
+        "name": "Portuguese GDP (YoY)",
+        "previous": -4.0,
+        "timestamp": 1376469000,
+        "volatility": 0
+    },
+    {
+        "actual": 7.2,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 10.0,
+        "name": "ZEW Expectations",
+        "previous": 4.8,
+        "timestamp": 1376470800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.2,
+        "name": "GDP (QoQ)",
+        "previous": -0.3,
+        "timestamp": 1376470800,
+        "volatility": 1
+    },
+    {
+        "actual": 1.8,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German 10-Year Bund Auction",
+        "previous": 1.57,
+        "timestamp": 1376472900,
+        "volatility": 1
+    },
+    {
+        "actual": -4.7,
+        "country": "United States",
+        "currency": "USD",
+        "name": "MBA Mortgage Applications (WoW)",
+        "previous": 0.2,
+        "timestamp": 1376478000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.9,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": 3.0,
+        "name": "Retail Sales (YoY)",
+        "previous": 6.0,
+        "timestamp": 1376478000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 0.7,
+        "name": "Retail Sales (MoM)",
+        "previous": 0.0,
+        "timestamp": 1376481600,
+        "volatility": 1
+    },
+    {
+        "actual": 1.7,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 2.2,
+        "name": "Retail Sales (YoY)",
+        "previous": 4.4,
+        "timestamp": 1376481600,
+        "volatility": 1
+    },
+    {
+        "actual": 1.1,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 0.5,
+        "name": "CPI (YoY)",
+        "previous": 0.2,
+        "timestamp": 1376481600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.3,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": -0.2,
+        "name": "CPI (MoM)",
+        "previous": 0.0,
+        "timestamp": 1376481600,
+        "volatility": 1
+    },
+    {
+        "actual": 6.5,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 7.1,
+        "name": "M3 Money Supply (MoM)",
+        "previous": 7.0,
+        "timestamp": 1376481600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.4,
+        "name": "Core PPI (YoY)",
+        "previous": 1.7,
+        "timestamp": 1376483400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.2,
+        "name": "Core PPI (MoM)",
+        "previous": 0.2,
+        "timestamp": 1376483400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.3,
+        "name": "PPI (MoM)",
+        "previous": 0.8,
+        "timestamp": 1376483400,
+        "volatility": 2
+    },
+    {
+        "actual": 2.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.4,
+        "name": "PPI (YoY)",
+        "previous": 2.5,
+        "timestamp": 1376483400,
+        "volatility": 0
+    },
+    {
+        "actual": -2.812,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -1.511,
+        "name": "Crude Oil Inventories",
+        "previous": -1.32,
+        "timestamp": 1376490600,
+        "volatility": 2
+    },
+    {
+        "actual": 2.027,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.794,
+        "name": "EIA Weekly Distillates Stocks",
+        "previous": 0.469,
+        "timestamp": 1376490600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.169,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.822,
+        "name": "Gasoline Inventories",
+        "previous": 0.135,
+        "timestamp": 1376490600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.09,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Foreign Exchange Flows",
+        "previous": 0.51,
+        "timestamp": 1376494200,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Bullard Speaks",
+        "timestamp": 1376500800,
+        "volatility": 1
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Bullard Speaks",
+        "timestamp": 1376507700,
+        "volatility": 1
+    },
+    {
+        "actual": 59.5,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "Business NZ PMI",
+        "previous": 54.7,
+        "timestamp": 1376519400,
+        "volatility": 1
+    },
+    {
+        "actual": 1.0,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Foreign Bonds Buying",
+        "previous": 690.3,
+        "timestamp": 1376524200,
+        "volatility": 0
+    }
+]

@@ -1,0 +1,275 @@
+[
+    {
+        "actual": 6.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "NAB Business Confidence",
+        "previous": 7.0,
+        "timestamp": 1308015000,
+        "volatility": 1
+    },
+    {
+        "actual": 5.5,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 5.5,
+        "name": "CPI (YoY)",
+        "previous": 5.3,
+        "timestamp": 1308016800,
+        "volatility": 1
+    },
+    {
+        "actual": 25.8,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 25.3,
+        "name": "Fixed Asset Investment (YoY)",
+        "previous": 25.4,
+        "timestamp": 1308016800,
+        "volatility": 1
+    },
+    {
+        "actual": 13.3,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 13.1,
+        "name": "Industrial Production (YoY)",
+        "previous": 13.4,
+        "timestamp": 1308016800,
+        "volatility": 2
+    },
+    {
+        "actual": 6.8,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 6.5,
+        "name": "PPI (YoY)",
+        "previous": 6.8,
+        "timestamp": 1308016800,
+        "volatility": 1
+    },
+    {
+        "actual": 16.9,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 17.0,
+        "name": "Retail Sales (YoY)",
+        "previous": 17.1,
+        "timestamp": 1308016800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 0.1,
+        "name": "BoJ Interest Rate Decision",
+        "previous": 0.1,
+        "timestamp": 1308023100,
+        "volatility": 1
+    },
+    {
+        "actual": 1.6,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 1.0,
+        "name": "Industrial Production (MoM)",
+        "previous": 1.0,
+        "timestamp": 1308025800,
+        "volatility": 1
+    },
+    {
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "BoJ Press Conference",
+        "timestamp": 1308035700,
+        "volatility": 2
+    },
+    {
+        "actual": 3.3,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 3.4,
+        "name": "CPI (YoY)",
+        "previous": 3.3,
+        "timestamp": 1308036600,
+        "volatility": 1
+    },
+    {
+        "actual": 3.3,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 3.5,
+        "name": "Core CPI (YoY)",
+        "previous": 3.7,
+        "timestamp": 1308040200,
+        "volatility": 0
+    },
+    {
+        "actual": 4.5,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 4.5,
+        "name": "CPI (YoY)",
+        "previous": 4.5,
+        "timestamp": 1308040200,
+        "volatility": 2
+    },
+    {
+        "actual": -0.3,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 1.2,
+        "name": "House Price Index (YoY)",
+        "previous": 0.9,
+        "timestamp": 1308040200,
+        "volatility": 0
+    },
+    {
+        "actual": 5.2,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 5.3,
+        "name": "RPI (YoY)",
+        "previous": 5.2,
+        "timestamp": 1308040200,
+        "volatility": 0
+    },
+    {
+        "actual": 90.9,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 90.3,
+        "name": "NFIB Small Business Optimism",
+        "previous": 91.2,
+        "timestamp": 1308051000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.2,
+        "name": "Core PPI (MoM)",
+        "previous": 0.3,
+        "timestamp": 1308054600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.3,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.2,
+        "name": "Core Retail Sales (MoM)",
+        "previous": 0.5,
+        "timestamp": 1308054600,
+        "volatility": 2
+    },
+    {
+        "actual": 0.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.1,
+        "name": "PPI (MoM)",
+        "previous": 0.8,
+        "timestamp": 1308054600,
+        "volatility": 2
+    },
+    {
+        "actual": -0.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.7,
+        "name": "Retail Sales (MoM)",
+        "previous": 0.3,
+        "timestamp": 1308054600,
+        "volatility": 2
+    },
+    {
+        "actual": 79.0,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 77.2,
+        "name": "Capacity Utilization Rate",
+        "previous": 76.8,
+        "timestamp": 1308054600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.1,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 1.8,
+        "name": "New Motor Vehicle Sales (MoM)",
+        "previous": 2.0,
+        "timestamp": 1308054600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.8,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.9,
+        "name": "Business Inventories (MoM)",
+        "previous": 1.3,
+        "timestamp": 1308060000,
+        "volatility": 1
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "Fed Chairman Bernanke Speaks",
+        "timestamp": 1308076200,
+        "volatility": 2
+    },
+    {
+        "actual": 3.3,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 3.8,
+        "name": "Unemployment Rate",
+        "previous": 3.6,
+        "timestamp": 1308088800,
+        "volatility": 0
+    },
+    {
+        "actual": 5.25,
+        "country": "Chile",
+        "currency": "CLP",
+        "forecast": 5.25,
+        "name": "Interest Rate Decision",
+        "previous": 5.0,
+        "timestamp": 1308088800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 0.7,
+        "name": "Core Retail Sales (QoQ)",
+        "previous": 0.0,
+        "timestamp": 1308091500,
+        "volatility": 1
+    },
+    {
+        "actual": 0.9,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 0.9,
+        "name": "Retail Sales (QoQ)",
+        "previous": -0.4,
+        "timestamp": 1308091500,
+        "volatility": 1
+    },
+    {
+        "actual": 55.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 41.0,
+        "name": "Nationwide Consumer Confidence",
+        "previous": 44.0,
+        "timestamp": 1308092460,
+        "volatility": 1
+    }
+]

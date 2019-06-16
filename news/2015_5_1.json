@@ -1,0 +1,547 @@
+[
+    {
+        "actual": -8.1,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": -6.8,
+        "name": "Exports (YoY) (Apr)",
+        "previous": -4.3,
+        "timestamp": 1430438400,
+        "volatility": 0
+    },
+    {
+        "actual": -17.8,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": -12.5,
+        "name": "Imports (YoY) (Apr)",
+        "previous": -15.3,
+        "timestamp": 1430438400,
+        "volatility": 0
+    },
+    {
+        "actual": 8.5,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 7.52,
+        "name": "Trade Balance (Apr)",
+        "previous": 8.4,
+        "timestamp": 1430438400,
+        "volatility": 0
+    },
+    {
+        "actual": 50.1,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 50.0,
+        "name": "Manufacturing PMI (Apr)",
+        "previous": 50.1,
+        "timestamp": 1430442000,
+        "volatility": 2
+    },
+    {
+        "actual": 53.4,
+        "country": "China",
+        "currency": "CNY",
+        "name": "Non-Manufacturing PMI (Apr)",
+        "previous": 53.7,
+        "timestamp": 1430442000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.7,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "PPI (YoY) (Q1)",
+        "previous": 1.1,
+        "timestamp": 1430443800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.5,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.2,
+        "name": "PPI (QoQ) (Q1)",
+        "previous": 0.1,
+        "timestamp": 1430443800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.1,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 0.4,
+        "name": "Average Cash Earnings (YoY)",
+        "previous": 0.1,
+        "timestamp": 1430443800,
+        "volatility": 0
+    },
+    {
+        "actual": -2.3,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Overtime Pay (YoY) (Mar)",
+        "previous": 0.4,
+        "timestamp": 1430443800,
+        "volatility": 0
+    },
+    {
+        "actual": 49.9,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 49.8,
+        "name": "Manufacturing PMI (Apr)",
+        "previous": 49.7,
+        "timestamp": 1430444100,
+        "volatility": 0
+    },
+    {
+        "actual": 1.02,
+        "country": "Thailand",
+        "currency": "THB",
+        "forecast": 1.2,
+        "name": "Core CPI (YoY) (Apr)",
+        "previous": 1.31,
+        "timestamp": 1430454600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.04,
+        "country": "Thailand",
+        "currency": "THB",
+        "forecast": -0.8,
+        "name": "CPI (YoY) (Apr)",
+        "previous": -0.57,
+        "timestamp": 1430454600,
+        "volatility": 1
+    },
+    {
+        "actual": 55.8,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Manufacturing PMI (Apr)",
+        "previous": 56.8,
+        "timestamp": 1430456400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.39,
+        "country": "Peru",
+        "currency": "PEN",
+        "forecast": 0.39,
+        "name": "CPI (MoM) (Apr)",
+        "previous": 0.76,
+        "timestamp": 1430456400,
+        "volatility": 0
+    },
+    {
+        "actual": -20.5,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Commodity Prices (YoY)",
+        "previous": -19.2,
+        "timestamp": 1430461800,
+        "volatility": 0
+    },
+    {
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Exports (Apr)",
+        "previous": 11.23,
+        "timestamp": 1430467200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.242,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.8,
+        "name": "BoE Consumer Credit (Mar)",
+        "previous": 0.785,
+        "timestamp": 1430469000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.1,
+        "name": "M4 Money Supply (MoM) (Mar)",
+        "previous": -0.2,
+        "timestamp": 1430469000,
+        "volatility": 0
+    },
+    {
+        "actual": 51.9,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 54.6,
+        "name": "Manufacturing PMI (Apr)",
+        "previous": 54.0,
+        "timestamp": 1430469000,
+        "volatility": 2
+    },
+    {
+        "actual": 61.34,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 62.4,
+        "name": "Mortgage Approvals (Mar)",
+        "previous": 61.52,
+        "timestamp": 1430469000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.8,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 1.8,
+        "name": "Mortgage Lending (Mar)",
+        "previous": 1.8,
+        "timestamp": 1430469000,
+        "volatility": 0
+    },
+    {
+        "actual": 3.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 2.6,
+        "name": "Net Lending to Individuals",
+        "previous": 2.6,
+        "timestamp": 1430469000,
+        "volatility": 0
+    },
+    {
+        "actual": 9.8,
+        "country": "India",
+        "currency": "INR",
+        "name": "Bank Loan Growth",
+        "previous": 12.6,
+        "timestamp": 1430479800,
+        "volatility": 0
+    },
+    {
+        "actual": 11.4,
+        "country": "India",
+        "currency": "INR",
+        "name": "Deposit Growth",
+        "previous": 12.8,
+        "timestamp": 1430479800,
+        "volatility": 0
+    },
+    {
+        "actual": 344.61,
+        "country": "India",
+        "currency": "INR",
+        "name": "FX Reserves, USD",
+        "previous": 343.2,
+        "timestamp": 1430479800,
+        "volatility": 0
+    },
+    {
+        "actual": 49.0,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "RBC Manufacturing PMI (Apr)",
+        "previous": 48.9,
+        "timestamp": 1430487000,
+        "volatility": 0
+    },
+    {
+        "actual": 54.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 54.2,
+        "name": "Manufacturing PMI (Apr)",
+        "previous": 54.2,
+        "timestamp": 1430487900,
+        "volatility": 1
+    },
+    {
+        "actual": -0.6,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.5,
+        "name": "Construction Spending (MoM) (Mar)",
+        "previous": -0.1,
+        "timestamp": 1430488800,
+        "volatility": 0
+    },
+    {
+        "actual": 48.3,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 50.2,
+        "name": "ISM Manufacturing Employment (Apr)",
+        "previous": 50.0,
+        "timestamp": 1430488800,
+        "volatility": 1
+    },
+    {
+        "actual": 53.5,
+        "country": "United States",
+        "currency": "USD",
+        "name": "ISM Manufacturing New Orders Index (Apr)",
+        "previous": 51.8,
+        "timestamp": 1430488800,
+        "volatility": 0
+    },
+    {
+        "actual": 51.5,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 52.0,
+        "name": "ISM Manufacturing PMI (Apr)",
+        "previous": 51.5,
+        "timestamp": 1430488800,
+        "volatility": 2
+    },
+    {
+        "actual": 40.5,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 42.3,
+        "name": "ISM Manufacturing Prices (Apr)",
+        "previous": 39.0,
+        "timestamp": 1430488800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Michigan 5-Year Inflation Expectations (Apr)",
+        "previous": 2.6,
+        "timestamp": 1430488800,
+        "volatility": 0
+    },
+    {
+        "actual": 88.8,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 88.1,
+        "name": "Michigan Consumer Expectations (Apr)",
+        "previous": 88.0,
+        "timestamp": 1430488800,
+        "volatility": 1
+    },
+    {
+        "actual": 95.9,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 96.0,
+        "name": "Michigan Consumer Sentiment (Apr)",
+        "previous": 95.9,
+        "timestamp": 1430488800,
+        "volatility": 1
+    },
+    {
+        "actual": 107.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 108.3,
+        "name": "Michigan Current Conditions (Apr)",
+        "previous": 108.2,
+        "timestamp": 1430488800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Michigan Inflation Expectations (Apr)",
+        "previous": 2.5,
+        "timestamp": 1430488800,
+        "volatility": 0
+    },
+    {
+        "actual": 679.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "U.S. Baker Hughes Oil Rig Count",
+        "previous": 703.0,
+        "timestamp": 1430499600,
+        "volatility": 1
+    },
+    {
+        "actual": 9.14,
+        "country": "United States",
+        "currency": "USD",
+        "name": "All Truck Sales (Apr)",
+        "previous": 9.44,
+        "timestamp": 1430501400,
+        "volatility": 0
+    },
+    {
+        "actual": 7.86,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 8.0,
+        "name": "Domestic Truck Sales (Apr)",
+        "previous": 8.24,
+        "timestamp": 1430501400,
+        "volatility": 0
+    },
+    {
+        "actual": -34.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "CFTC GBP speculative net positions",
+        "previous": -29.3,
+        "timestamp": 1430508600,
+        "volatility": 1
+    },
+    {
+        "actual": -16.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Copper speculative net positions",
+        "previous": -12.3,
+        "timestamp": 1430508600,
+        "volatility": 0
+    },
+    {
+        "actual": 101.3,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Gold speculative net positions",
+        "previous": 101.2,
+        "timestamp": 1430508600,
+        "volatility": 1
+    },
+    {
+        "actual": -34.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC S&P 500 speculative net positions",
+        "previous": -48.2,
+        "timestamp": 1430508600,
+        "volatility": 1
+    },
+    {
+        "actual": 22.9,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Silver speculative net positions",
+        "previous": 24.3,
+        "timestamp": 1430508600,
+        "volatility": 0
+    },
+    {
+        "actual": -20.9,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "CFTC CAD speculative net positions",
+        "previous": -27.1,
+        "timestamp": 1430508600,
+        "volatility": 0
+    },
+    {
+        "actual": -23.4,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "CFTC MXN speculative net positions",
+        "previous": -13.7,
+        "timestamp": 1430508600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.3,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "name": "CFTC CHF speculative net positions",
+        "previous": 0.3,
+        "timestamp": 1430508600,
+        "volatility": 0
+    },
+    {
+        "actual": -27.4,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "CFTC AUD speculative net positions",
+        "previous": -34.7,
+        "timestamp": 1430508600,
+        "volatility": 1
+    },
+    {
+        "actual": -5.5,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "CFTC JPY speculative net positions",
+        "previous": -14.4,
+        "timestamp": 1430508600,
+        "volatility": 1
+    },
+    {
+        "actual": 10.2,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "CFTC NZD speculative net positions",
+        "previous": 8.5,
+        "timestamp": 1430508600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.2,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "CFTC RUB speculative positions",
+        "previous": 1.4,
+        "timestamp": 1430508600,
+        "volatility": 1
+    },
+    {
+        "actual": -197.8,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "CFTC EUR speculative net positions",
+        "previous": -214.6,
+        "timestamp": 1430508600,
+        "volatility": 1
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Williams Speaks",
+        "timestamp": 1430509500,
+        "volatility": 1
+    },
+    {
+        "actual": 7.36,
+        "country": "United States",
+        "currency": "USD",
+        "name": "All Car Sales",
+        "previous": 7.7,
+        "timestamp": 1430510400,
+        "volatility": 0
+    },
+    {
+        "actual": 5.31,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Domestic Car Sales",
+        "previous": 5.45,
+        "timestamp": 1430510400,
+        "volatility": 0
+    },
+    {
+        "actual": 16.5,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 16.9,
+        "name": "Total Vehicle Sales",
+        "previous": 17.15,
+        "timestamp": 1430510400,
+        "volatility": 0
+    },
+    {
+        "actual": 314.8,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Crude Oil speculative net positions",
+        "previous": 323.1,
+        "timestamp": 1430512200,
+        "volatility": 1
+    }
+]

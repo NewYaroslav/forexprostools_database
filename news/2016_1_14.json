@@ -1,0 +1,617 @@
+[
+    {
+        "actual": -1.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": -12.5,
+        "name": "Employment Change (Dec)",
+        "previous": 75.0,
+        "timestamp": 1452731400,
+        "volatility": 2
+    },
+    {
+        "actual": 17.6,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Full Employment Change (Dec)",
+        "previous": 47.3,
+        "timestamp": 1452731400,
+        "volatility": 1
+    },
+    {
+        "actual": 65.1,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 65.2,
+        "name": "Participation Rate (Dec)",
+        "previous": 65.3,
+        "timestamp": 1452731400,
+        "volatility": 0
+    },
+    {
+        "actual": 5.8,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 5.9,
+        "name": "Unemployment Rate (Dec)",
+        "previous": 5.8,
+        "timestamp": 1452731400,
+        "volatility": 1
+    },
+    {
+        "actual": 1.5,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 1.5,
+        "name": "Interest Rate Decision (Jan)",
+        "previous": 1.5,
+        "timestamp": 1452733200,
+        "volatility": 0
+    },
+    {
+        "actual": -25.8,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Machine Tool Orders (YoY)",
+        "previous": -17.7,
+        "timestamp": 1452751200,
+        "volatility": 0
+    },
+    {
+        "actual": 8.17,
+        "country": "India",
+        "currency": "INR",
+        "name": "WPI Food (YoY) (Dec)",
+        "previous": 5.2,
+        "timestamp": 1452753000,
+        "volatility": 0
+    },
+    {
+        "actual": -9.15,
+        "country": "India",
+        "currency": "INR",
+        "name": "WPI Fuel (YoY) (Dec)",
+        "previous": -11.09,
+        "timestamp": 1452753000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.73,
+        "country": "India",
+        "currency": "INR",
+        "forecast": -1.15,
+        "name": "WPI Inflation (YoY) (Dec)",
+        "previous": -1.99,
+        "timestamp": 1452753000,
+        "volatility": 1
+    },
+    {
+        "actual": -1.36,
+        "country": "India",
+        "currency": "INR",
+        "name": "WPI Manufacturing Inflation (YoY) (Dec)",
+        "previous": -1.42,
+        "timestamp": 1452753000,
+        "volatility": 0
+    },
+    {
+        "actual": -1.0,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German WPI (YoY) (Dec)",
+        "previous": -1.1,
+        "timestamp": 1452754800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.8,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "German WPI (MoM) (Dec)",
+        "previous": -0.2,
+        "timestamp": 1452754800,
+        "volatility": 0
+    },
+    {
+        "actual": 7.25,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": 7.5,
+        "name": "Interest Rate Decision (Jan)",
+        "previous": 7.5,
+        "timestamp": 1452754800,
+        "volatility": 1
+    },
+    {
+        "actual": 5.25,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": 5.5,
+        "name": "Deposit Facility Rate (Jan)",
+        "previous": 5.5,
+        "timestamp": 1452754800,
+        "volatility": 0
+    },
+    {
+        "actual": 7.75,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": 8.0,
+        "name": "Lending Facility Rate (Jan)",
+        "previous": 8.0,
+        "timestamp": 1452754800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "Finland",
+        "currency": "EUR",
+        "name": "Finnish CPI (YoY) (Dec)",
+        "previous": -0.2,
+        "timestamp": 1452754800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.4,
+        "country": "Hungary",
+        "currency": "HUF",
+        "name": "Core CPI (YoY) (Dec)",
+        "previous": 1.4,
+        "timestamp": 1452758400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.9,
+        "country": "Hungary",
+        "currency": "HUF",
+        "forecast": 1.1,
+        "name": "CPI (YoY) (Dec)",
+        "previous": 0.5,
+        "timestamp": 1452758400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 0.1,
+        "name": "CPI (MoM) (Dec)",
+        "previous": -0.2,
+        "timestamp": 1452760200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.1,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 0.1,
+        "name": "CPI (YoY) (Dec)",
+        "previous": 0.1,
+        "timestamp": 1452760200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.9,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 1.0,
+        "name": "CPIF (CPI at constant interest rates) (YoY) (Dec)",
+        "previous": 1.0,
+        "timestamp": 1452760200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 0.1,
+        "name": "CPIF (CPI at constant interest rates) (MoM) (Dec)",
+        "previous": -0.1,
+        "timestamp": 1452760200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.5,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.2,
+        "name": "Italian Industrial Production (MoM) (Nov)",
+        "previous": 0.5,
+        "timestamp": 1452762000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.9,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 2.5,
+        "name": "Italian Industrial Production (YoY) (Nov)",
+        "previous": 3.0,
+        "timestamp": 1452762000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.7,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 1.6,
+        "name": "German GDP Annual (12M)",
+        "previous": 1.6,
+        "timestamp": 1452762000,
+        "volatility": 0
+    },
+    {
+        "actual": 45.5,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": 45.5,
+        "name": "Manufacturing PMI",
+        "previous": 43.3,
+        "timestamp": 1452762000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.2,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "name": "Gold Production (YoY) (Nov)",
+        "previous": -7.8,
+        "timestamp": 1452763800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.8,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": -3.7,
+        "name": "Mining Production (Nov)",
+        "previous": -4.7,
+        "timestamp": 1452763800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.124,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 3-Year Bonos Auction",
+        "previous": 0.124,
+        "timestamp": 1452765000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.656,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 5-Year Bonos Auction",
+        "previous": 0.657,
+        "timestamp": 1452765000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.266,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 8-Year Obligacion Auction",
+        "previous": 1.354,
+        "timestamp": 1452765000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Ireland",
+        "currency": "EUR",
+        "forecast": -0.1,
+        "name": "Irish CPI (YoY) (Dec)",
+        "previous": -0.2,
+        "timestamp": 1452769200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Ireland",
+        "currency": "EUR",
+        "forecast": -0.2,
+        "name": "Irish CPI (MoM) (Dec)",
+        "previous": -0.3,
+        "timestamp": 1452769200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Ireland",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "Irish HICP (YoY) (Dec)",
+        "previous": -0.1,
+        "timestamp": 1452769200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Ireland",
+        "currency": "EUR",
+        "forecast": -0.1,
+        "name": "Irish HICP (MoM) (Dec)",
+        "previous": -0.4,
+        "timestamp": 1452769200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.5,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 1.5,
+        "name": "Interest Rate Decision (Jan)",
+        "previous": 1.5,
+        "timestamp": 1452770400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.0,
+        "name": "BoE MPC vote cut (Jan)",
+        "previous": 0.0,
+        "timestamp": 1452772800,
+        "volatility": 1
+    },
+    {
+        "actual": 1.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 1.0,
+        "name": "BoE MPC vote hike (Jan)",
+        "previous": 1.0,
+        "timestamp": 1452772800,
+        "volatility": 1
+    },
+    {
+        "actual": 8.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 8.0,
+        "name": "BoE MPC vote unchanged (Jan)",
+        "previous": 8.0,
+        "timestamp": 1452772800,
+        "volatility": 1
+    },
+    {
+        "actual": 375.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 375.0,
+        "name": "BoE QE Total (Jan)",
+        "previous": 375.0,
+        "timestamp": 1452772800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.5,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.5,
+        "name": "BoE Interest Rate Decision (Jan)",
+        "previous": 0.5,
+        "timestamp": 1452772800,
+        "volatility": 2
+    },
+    {
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BoE MPC Meeting Minutes",
+        "timestamp": 1452772800,
+        "volatility": 2
+    },
+    {
+        "actual": 8.19,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "End Year CPI Forecast (Jan)",
+        "previous": 8.53,
+        "timestamp": 1452774600,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB Publishes Account of Monetary Policy Meeting",
+        "timestamp": 1452774600,
+        "volatility": 2
+    },
+    {
+        "actual": 9.1,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 9.6,
+        "name": "M3 Money Supply (MoM) (Dec)",
+        "previous": 9.8,
+        "timestamp": 1452776400,
+        "volatility": 0
+    },
+    {
+        "actual": 368.1,
+        "country": "Russia",
+        "currency": "RUB",
+        "forecast": 370.0,
+        "name": "Central Bank reserves (USD)",
+        "previous": 370.2,
+        "timestamp": 1452776400,
+        "volatility": 1
+    },
+    {
+        "actual": 2.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.0,
+        "name": "Continuing Jobless Claims",
+        "previous": 2.0,
+        "timestamp": 1452778200,
+        "volatility": 0
+    },
+    {
+        "actual": -1.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.5,
+        "name": "Export Price Index (MoM) (Dec)",
+        "previous": -0.7,
+        "timestamp": 1452778200,
+        "volatility": 1
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Bullard Speaks",
+        "timestamp": 1452778200,
+        "volatility": 1
+    },
+    {
+        "actual": -1.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -1.4,
+        "name": "Import Price Index (MoM) (Dec)",
+        "previous": -0.5,
+        "timestamp": 1452778200,
+        "volatility": 1
+    },
+    {
+        "actual": 284.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 275.0,
+        "name": "Initial Jobless Claims",
+        "previous": 277.0,
+        "timestamp": 1452778200,
+        "volatility": 1
+    },
+    {
+        "actual": 278.75,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Jobless Claims 4-Week Avg.",
+        "previous": 275.75,
+        "timestamp": 1452778200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.2,
+        "name": "New Housing Price Index (MoM) (Nov)",
+        "previous": 0.3,
+        "timestamp": 1452778200,
+        "volatility": 1
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Lockhart Speaks",
+        "timestamp": 1452778800,
+        "volatility": 1
+    },
+    {
+        "actual": 1.0,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 2.95,
+        "name": "Gross Fixed Investments (YoY) (Oct)",
+        "previous": 5.3,
+        "timestamp": 1452780000,
+        "volatility": 0
+    },
+    {
+        "actual": -1.1,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "Gross Fixed Investments (MoM) (Oct)",
+        "previous": 1.4,
+        "timestamp": 1452780000,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "Eurogroup Meetings",
+        "timestamp": 1452780000,
+        "volatility": 1
+    },
+    {
+        "actual": 44.4,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Bloomberg Consumer Confidence",
+        "previous": 44.2,
+        "timestamp": 1452783000,
+        "volatility": 0
+    },
+    {
+        "actual": -168.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -178.0,
+        "name": "Natural Gas Storage",
+        "previous": -113.0,
+        "timestamp": 1452785400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Ukraine",
+        "currency": "UAH",
+        "name": "Trade Balance YTD (USD) (Nov)",
+        "previous": 0.4,
+        "timestamp": 1452787860,
+        "volatility": 1
+    },
+    {
+        "actual": 2.905,
+        "country": "United States",
+        "currency": "USD",
+        "name": "30-Year Bond Auction",
+        "previous": 2.978,
+        "timestamp": 1452794400,
+        "volatility": 0
+    },
+    {
+        "actual": 3.5,
+        "country": "Chile",
+        "currency": "CLP",
+        "forecast": 3.5,
+        "name": "Interest Rate Decision (Jan)",
+        "previous": 3.5,
+        "timestamp": 1452805200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.8,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 0.2,
+        "name": "FPI (MoM) (Dec)",
+        "previous": -0.2,
+        "timestamp": 1452807900,
+        "volatility": 0
+    },
+    {
+        "actual": 323.1,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Foreign Bonds Buying",
+        "previous": 85.9,
+        "timestamp": 1452815400,
+        "volatility": 0
+    },
+    {
+        "actual": -746.5,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Foreign Investments in Japanese Stocks",
+        "previous": 135.7,
+        "timestamp": 1452815400,
+        "volatility": 0
+    }
+]

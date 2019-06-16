@@ -1,0 +1,433 @@
+[
+    {
+        "actual": 53.3,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 53.4,
+        "name": "Manufacturing PMI (Apr)",
+        "previous": 53.1,
+        "timestamp": 1524443400,
+        "volatility": 0
+    },
+    {
+        "actual": 7.2,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "Credit Card Spending (YoY)",
+        "previous": 7.0,
+        "timestamp": 1524452400,
+        "volatility": 0
+    },
+    {
+        "actual": 7.06,
+        "country": "Thailand",
+        "currency": "THB",
+        "forecast": 8.0,
+        "name": "Custom-Based Export Data (Mar)",
+        "previous": 10.3,
+        "timestamp": 1524456000,
+        "volatility": 0
+    },
+    {
+        "actual": 9.47,
+        "country": "Thailand",
+        "currency": "THB",
+        "forecast": 11.6,
+        "name": "Custom-Based Import Data (Mar)",
+        "previous": 16.0,
+        "timestamp": 1524456000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.27,
+        "country": "Thailand",
+        "currency": "THB",
+        "forecast": 0.7,
+        "name": "Custom-Based Trade Data (USD) (Mar)",
+        "previous": 0.81,
+        "timestamp": 1524456000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.7,
+        "country": "United Arab Emirates",
+        "currency": "AED",
+        "name": "CPI (MoM) (Mar)",
+        "previous": -0.2,
+        "timestamp": 1524459300,
+        "volatility": 0
+    },
+    {
+        "actual": 3.4,
+        "country": "United Arab Emirates",
+        "currency": "AED",
+        "name": "CPI (YoY) (Mar)",
+        "previous": 4.5,
+        "timestamp": 1524459300,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": 0.5,
+        "name": "CPI (YoY) (Mar)",
+        "previous": 0.5,
+        "timestamp": 1524459600,
+        "volatility": 1
+    },
+    {
+        "actual": 2.1,
+        "country": "United Arab Emirates",
+        "currency": "AED",
+        "name": "Private Sector Loans (YoY) (Mar)",
+        "previous": 2.1,
+        "timestamp": 1524461100,
+        "volatility": 0
+    },
+    {
+        "actual": 53.4,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 53.4,
+        "name": "French Manufacturing PMI (Apr)",
+        "previous": 53.7,
+        "timestamp": 1524466800,
+        "volatility": 1
+    },
+    {
+        "actual": 56.9,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 55.9,
+        "name": "French Markit Composite PMI (Apr)",
+        "previous": 56.3,
+        "timestamp": 1524466800,
+        "volatility": 0
+    },
+    {
+        "actual": 57.4,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 56.6,
+        "name": "French Services PMI (Apr)",
+        "previous": 56.9,
+        "timestamp": 1524466800,
+        "volatility": 1
+    },
+    {
+        "actual": 55.3,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 54.8,
+        "name": "German Composite PMI (Apr)",
+        "previous": 55.1,
+        "timestamp": 1524468600,
+        "volatility": 0
+    },
+    {
+        "actual": 58.1,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 57.6,
+        "name": "German Manufacturing PMI (Apr)",
+        "previous": 58.2,
+        "timestamp": 1524468600,
+        "volatility": 2
+    },
+    {
+        "actual": 54.1,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 53.9,
+        "name": "German Services PMI (Apr)",
+        "previous": 53.9,
+        "timestamp": 1524468600,
+        "volatility": 1
+    },
+    {
+        "actual": 3.09,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "name": "Industrial Production (YoY) (Mar)",
+        "previous": -1.93,
+        "timestamp": 1524470400,
+        "volatility": 0
+    },
+    {
+        "actual": 3.67,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "name": "Unemployment Rate (Mar)",
+        "previous": 3.7,
+        "timestamp": 1524470400,
+        "volatility": 0
+    },
+    {
+        "actual": 9.2,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 8.2,
+        "name": "Retail Sales (YoY) (Mar)",
+        "previous": 7.9,
+        "timestamp": 1524470400,
+        "volatility": 1
+    },
+    {
+        "actual": 56.0,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 56.6,
+        "name": "Manufacturing PMI (Apr)",
+        "previous": 56.6,
+        "timestamp": 1524470400,
+        "volatility": 1
+    },
+    {
+        "actual": 55.2,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 54.9,
+        "name": "Markit Composite PMI (Apr)",
+        "previous": 55.2,
+        "timestamp": 1524470400,
+        "volatility": 1
+    },
+    {
+        "actual": 55.0,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 54.8,
+        "name": "Services PMI (Apr)",
+        "previous": 54.9,
+        "timestamp": 1524470400,
+        "volatility": 1
+    },
+    {
+        "actual": 8.8,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania Industrial Production (YoY) (Mar)",
+        "previous": 1.9,
+        "timestamp": 1524470400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania Industrial Production (MoM) (Mar)",
+        "previous": -4.0,
+        "timestamp": 1524470400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.6,
+        "country": "Hong Kong",
+        "currency": "HKD",
+        "name": "CPI (YoY) (Mar)",
+        "previous": 3.1,
+        "timestamp": 1524472200,
+        "volatility": 0
+    },
+    {
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German Buba Monthly Report",
+        "timestamp": 1524477600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.27,
+        "name": "Chicago Fed National Activity (Mar)",
+        "previous": 0.98,
+        "timestamp": 1524486600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.8,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.3,
+        "name": "Wholesale Sales (MoM) (Feb)",
+        "previous": 0.3,
+        "timestamp": 1524486600,
+        "volatility": 1
+    },
+    {
+        "actual": 2.4,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 1.9,
+        "name": "Economic Activity (YoY) (Feb)",
+        "previous": 2.1,
+        "timestamp": 1524488400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 0.2,
+        "name": "Economic Activity (MoM) (Feb)",
+        "previous": -0.6,
+        "timestamp": 1524488400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.55,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 12-Month BTF Auction",
+        "previous": -0.55,
+        "timestamp": 1524488400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.572,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 3-Month BTF Auction",
+        "previous": -0.573,
+        "timestamp": 1524488400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.566,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 6-Month BTF Auction",
+        "previous": -0.566,
+        "timestamp": 1524488400,
+        "volatility": 0
+    },
+    {
+        "actual": 56.5,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 55.2,
+        "name": "Manufacturing PMI (Apr)",
+        "previous": 55.6,
+        "timestamp": 1524491100,
+        "volatility": 1
+    },
+    {
+        "actual": 54.8,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 55.3,
+        "name": "Markit Composite PMI",
+        "previous": 54.2,
+        "timestamp": 1524491100,
+        "volatility": 1
+    },
+    {
+        "actual": 54.4,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 54.3,
+        "name": "Services PMI (Apr)",
+        "previous": 54.0,
+        "timestamp": 1524491100,
+        "volatility": 1
+    },
+    {
+        "actual": 1.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.2,
+        "name": "Existing Home Sales (MoM) (Mar)",
+        "previous": 3.0,
+        "timestamp": 1524492000,
+        "volatility": 1
+    },
+    {
+        "actual": 5.6,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 5.55,
+        "name": "Existing Home Sales (Mar)",
+        "previous": 5.54,
+        "timestamp": 1524492000,
+        "volatility": 2
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB's Coeure Speaks",
+        "timestamp": 1524492000,
+        "volatility": 1
+    },
+    {
+        "actual": 1.83,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Month Bill Auction",
+        "previous": 1.76,
+        "timestamp": 1524497400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.985,
+        "country": "United States",
+        "currency": "USD",
+        "name": "6-Month Bill Auction",
+        "previous": 1.945,
+        "timestamp": 1524497400,
+        "volatility": 0
+    },
+    {
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "BoC Gov Poloz Speaks",
+        "timestamp": 1524511800,
+        "volatility": 2
+    },
+    {
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "RBA Assist Gov Kent Speaks",
+        "timestamp": 1524520800,
+        "volatility": 1
+    },
+    {
+        "actual": 13.0,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "External Migration & Visitors (Mar)",
+        "previous": 11.4,
+        "timestamp": 1524523500,
+        "volatility": 0
+    },
+    {
+        "actual": 5.0,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "Permanent/Long-Term Migration (Mar)",
+        "previous": 4.0,
+        "timestamp": 1524523500,
+        "volatility": 0
+    },
+    {
+        "actual": -2.1,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "Visitor Arrivals (MoM)",
+        "previous": 3.6,
+        "timestamp": 1524523500,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 0.5,
+        "name": "Corporate Services Price Index (CSPI) (YoY)",
+        "previous": 0.7,
+        "timestamp": 1524527400,
+        "volatility": 0
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "actual": 3.2,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "MI Inflation Expectations",
+        "previous": 3.5,
+        "timestamp": 1265846400,
+        "volatility": 0
+    },
+    {
+        "actual": 52.7,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 15.0,
+        "name": "Employment Change",
+        "previous": 37.5,
+        "timestamp": 1265848200,
+        "volatility": 2
+    },
+    {
+        "actual": 5.3,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 5.6,
+        "name": "Unemployment Rate",
+        "previous": 5.5,
+        "timestamp": 1265848200,
+        "volatility": 1
+    },
+    {
+        "actual": 1.3,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "German WPI (MoM)",
+        "previous": 0.2,
+        "timestamp": 1265871600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": -0.4,
+        "name": "CPI (MoM)",
+        "previous": -0.2,
+        "timestamp": 1265876100,
+        "volatility": 1
+    },
+    {
+        "actual": 0.25,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 0.25,
+        "name": "Interest Rate Decision",
+        "previous": 0.25,
+        "timestamp": 1265877000,
+        "volatility": 1
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB Economic Bulletin",
+        "timestamp": 1265878800,
+        "volatility": 1
+    },
+    {
+        "actual": 440.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 460.0,
+        "name": "Initial Jobless Claims",
+        "previous": 483.0,
+        "timestamp": 1265895000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.4,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.4,
+        "name": "New Housing Price Index (MoM)",
+        "previous": 0.4,
+        "timestamp": 1265895000,
+        "volatility": 1
+    },
+    {
+        "actual": 1.3,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "Core Retail Sales (QoQ)",
+        "previous": 0.7,
+        "timestamp": 1265924700,
+        "volatility": 1
+    },
+    {
+        "actual": 1.0,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 1.5,
+        "name": "Retail Sales (QoQ)",
+        "previous": 0.3,
+        "timestamp": 1265924700,
+        "volatility": 1
+    }
+]

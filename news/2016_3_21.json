@@ -1,0 +1,363 @@
+[
+    {
+        "actual": 1.3,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "Rightmove House Price Index (MoM)",
+        "previous": 2.9,
+        "timestamp": 1458518460,
+        "volatility": 0
+    },
+    {
+        "actual": 7.3,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "Credit Card Spending (YoY)",
+        "previous": 8.3,
+        "timestamp": 1458525600,
+        "volatility": 0
+    },
+    {
+        "actual": -2.2,
+        "country": "Estonia",
+        "currency": "EUR",
+        "name": "Estonian PPI (YoY) (Feb)",
+        "previous": -0.1,
+        "timestamp": 1458540000,
+        "volatility": 0
+    },
+    {
+        "actual": -2.3,
+        "country": "Estonia",
+        "currency": "EUR",
+        "name": "Estonian PPI (MoM) (Feb)",
+        "previous": 2.0,
+        "timestamp": 1458540000,
+        "volatility": 0
+    },
+    {
+        "actual": 3.6,
+        "country": "Denmark",
+        "currency": "DKK",
+        "forecast": 4.0,
+        "name": "Consumer Confidence (Mar)",
+        "previous": 4.0,
+        "timestamp": 1458547200,
+        "volatility": 0
+    },
+    {
+        "actual": -2.39,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": -2.0,
+        "name": "Spanish Trade Balance",
+        "previous": -1.79,
+        "timestamp": 1458547200,
+        "volatility": 0
+    },
+    {
+        "actual": -7.4,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": -10.0,
+        "name": "Export Orders (YoY) (Feb)",
+        "previous": -12.4,
+        "timestamp": 1458547200,
+        "volatility": 0
+    },
+    {
+        "actual": 67.0,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 63.9,
+        "name": "Consumer Confidence (Mar)",
+        "previous": 66.6,
+        "timestamp": 1458547200,
+        "volatility": 0
+    },
+    {
+        "actual": 4.4,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania Current Account (Q4)",
+        "previous": -2.2,
+        "timestamp": 1458547200,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Lacker Speaks",
+        "timestamp": 1458548100,
+        "volatility": 1
+    },
+    {
+        "actual": 3.1,
+        "country": "Hong Kong",
+        "currency": "HKD",
+        "forecast": 2.6,
+        "name": "CPI (YoY) (Feb)",
+        "previous": 2.7,
+        "timestamp": 1458549000,
+        "volatility": 0
+    },
+    {
+        "actual": 25.4,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 26.3,
+        "name": "Current Account (Jan)",
+        "previous": 28.6,
+        "timestamp": 1458550800,
+        "volatility": 0
+    },
+    {
+        "actual": 6.3,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "Current Account n.s.a. (Jan)",
+        "previous": 44.8,
+        "timestamp": 1458550800,
+        "volatility": 0
+    },
+    {
+        "actual": 45.6,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "Net Investment Flow (Jan)",
+        "previous": 89.3,
+        "timestamp": 1458550800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.7,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania Industrial Production (MoM) (Feb)",
+        "previous": 4.6,
+        "timestamp": 1458550800,
+        "volatility": 0
+    },
+    {
+        "actual": 6.3,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania Industrial Production (YoY) (Feb)",
+        "previous": 8.2,
+        "timestamp": 1458550800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.488,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German 12-Month Bubill Auction",
+        "previous": -0.5,
+        "timestamp": 1458556500,
+        "volatility": 0
+    },
+    {
+        "actual": -0.495,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch 3-Month T-bill Auction",
+        "previous": -0.475,
+        "timestamp": 1458557100,
+        "volatility": 0
+    },
+    {
+        "actual": -0.49,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch 6-Month T-bill Auction",
+        "previous": -0.48,
+        "timestamp": 1458557100,
+        "volatility": 0
+    },
+    {
+        "actual": -14.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": -14.0,
+        "name": "CBI Industrial Trends Orders (Mar)",
+        "previous": -17.0,
+        "timestamp": 1458558000,
+        "volatility": 1
+    },
+    {
+        "actual": -2.7,
+        "country": "Latvia",
+        "currency": "EUR",
+        "name": "Latvian PPI (YoY) (Feb)",
+        "previous": -2.0,
+        "timestamp": 1458558000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.9,
+        "country": "Latvia",
+        "currency": "EUR",
+        "name": "Latvian PPI (MoM) (Feb)",
+        "previous": -0.2,
+        "timestamp": 1458558000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.16,
+        "country": "Portugal",
+        "currency": "EUR",
+        "name": "Portuguese Current Account (Jan)",
+        "previous": 0.813,
+        "timestamp": 1458561600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.29,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.25,
+        "name": "Chicago Fed National Activity (Feb)",
+        "previous": 0.41,
+        "timestamp": 1458563400,
+        "volatility": 0
+    },
+    {
+        "actual": 8.29,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "End Year CPI Forecast (Mar)",
+        "previous": 8.48,
+        "timestamp": 1458563400,
+        "volatility": 0
+    },
+    {
+        "actual": -5.9,
+        "country": "Russia",
+        "currency": "RUB",
+        "forecast": -6.4,
+        "name": "Retail Sales (YoY)",
+        "previous": -7.3,
+        "timestamp": 1458565200,
+        "volatility": 1
+    },
+    {
+        "actual": 5.8,
+        "country": "Russia",
+        "currency": "RUB",
+        "forecast": 5.8,
+        "name": "Unemployment Rate (Feb)",
+        "previous": 5.8,
+        "timestamp": 1458565200,
+        "volatility": 1
+    },
+    {
+        "actual": 5.08,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 5.34,
+        "name": "Existing Home Sales (Feb)",
+        "previous": 5.47,
+        "timestamp": 1458568800,
+        "volatility": 2
+    },
+    {
+        "actual": -7.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -2.2,
+        "name": "Existing Home Sales (MoM) (Feb)",
+        "previous": 0.4,
+        "timestamp": 1458568800,
+        "volatility": 1
+    },
+    {
+        "actual": -0.427,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 12-Month BTF Auction",
+        "previous": -0.418,
+        "timestamp": 1458568800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.431,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 3-Month BTF Auction",
+        "previous": -0.425,
+        "timestamp": 1458568800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.434,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 6-Month BTF Auction",
+        "previous": -0.419,
+        "timestamp": 1458568800,
+        "volatility": 0
+    },
+    {
+        "actual": -9.9,
+        "country": "Ukraine",
+        "currency": "UAH",
+        "forecast": 0.1,
+        "name": "GDP (YoY) (Q4)",
+        "timestamp": 1458569880,
+        "volatility": 0
+    },
+    {
+        "actual": 11.5,
+        "country": "Kenya",
+        "currency": "KES",
+        "forecast": 11.5,
+        "name": "Interest Rate Decision (Mar)",
+        "previous": 11.5,
+        "timestamp": 1458570600,
+        "volatility": 0
+    },
+    {
+        "actual": -9.7,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -8.5,
+        "name": "Consumer Confidence (Mar)",
+        "previous": -8.8,
+        "timestamp": 1458572400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Month Bill Auction",
+        "previous": 0.335,
+        "timestamp": 1458574200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.44,
+        "country": "United States",
+        "currency": "USD",
+        "name": "6-Month Bill Auction",
+        "previous": 0.51,
+        "timestamp": 1458574200,
+        "volatility": 0
+    },
+    {
+        "actual": 684.9,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Central Government Debt Stock (Feb)",
+        "previous": 685.8,
+        "timestamp": 1458574200,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Lockhart Speaks",
+        "timestamp": 1458578400,
+        "volatility": 1
+    }
+]

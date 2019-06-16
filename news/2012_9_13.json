@@ -1,0 +1,332 @@
+[
+    {
+        "actual": 3.0,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 2.75,
+        "name": "Interest Rate Decision",
+        "previous": 3.0,
+        "timestamp": 1347498000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.4,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "MI Inflation Expectations",
+        "previous": 2.4,
+        "timestamp": 1347498000,
+        "volatility": 0
+    },
+    {
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "RBA Bulletin",
+        "timestamp": 1347499800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": -0.4,
+        "name": "PPI (MoM)",
+        "previous": -0.3,
+        "timestamp": 1347520500,
+        "volatility": 1
+    },
+    {
+        "actual": 0.7,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 0.9,
+        "name": "CPI (YoY)",
+        "previous": 0.7,
+        "timestamp": 1347521400,
+        "volatility": 1
+    },
+    {
+        "actual": 7.2,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 6.8,
+        "name": "Unemployment Rate",
+        "previous": 7.0,
+        "timestamp": 1347521400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 0.0,
+        "name": "SNB Interest Rate Decision",
+        "previous": 0.0,
+        "timestamp": 1347521400,
+        "volatility": 2
+    },
+    {
+        "actual": -4.0,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch Retail Sales (YoY)",
+        "previous": 1.0,
+        "timestamp": 1347521400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.4,
+        "name": "Italian CPI (MoM)",
+        "previous": 0.4,
+        "timestamp": 1347523200,
+        "volatility": 1
+    },
+    {
+        "actual": 3.2,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 3.2,
+        "name": "Italian CPI (YoY)",
+        "previous": 3.2,
+        "timestamp": 1347523200,
+        "volatility": 0
+    },
+    {
+        "actual": 3.75,
+        "country": "Philippines",
+        "currency": "PHP",
+        "forecast": 3.75,
+        "name": "Interest Rate Decision",
+        "previous": 3.75,
+        "timestamp": 1347523200,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB Economic Bulletin",
+        "timestamp": 1347523200,
+        "volatility": 1
+    },
+    {
+        "actual": 2.75,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian 3-Year BTP Auction",
+        "previous": 4.65,
+        "timestamp": 1347527700,
+        "volatility": 0
+    },
+    {
+        "actual": 1.825,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "10-Year Treasury Gilt Auction",
+        "previous": 1.719,
+        "timestamp": 1347529200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.6,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish CPI (MoM)",
+        "previous": -0.1,
+        "timestamp": 1347530400,
+        "volatility": 0
+    },
+    {
+        "actual": 7.1,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 6.9,
+        "name": "Retail Sales (YoY)",
+        "previous": 9.5,
+        "timestamp": 1347537600,
+        "volatility": 1
+    },
+    {
+        "actual": 3.8,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 3.8,
+        "name": "CPI (YoY)",
+        "previous": 4.0,
+        "timestamp": 1347537600,
+        "volatility": 1
+    },
+    {
+        "actual": 3.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 3.0,
+        "name": "Continuing Jobless Claims",
+        "previous": 3.0,
+        "timestamp": 1347539400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.5,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.6,
+        "name": "Core PPI (YoY)",
+        "previous": 2.5,
+        "timestamp": 1347539400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.2,
+        "name": "Core PPI (MoM)",
+        "previous": 0.4,
+        "timestamp": 1347539400,
+        "volatility": 1
+    },
+    {
+        "actual": 382.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 370.0,
+        "name": "Initial Jobless Claims",
+        "previous": 367.0,
+        "timestamp": 1347539400,
+        "volatility": 1
+    },
+    {
+        "actual": 1.7,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.1,
+        "name": "PPI (MoM)",
+        "previous": 0.3,
+        "timestamp": 1347539400,
+        "volatility": 2
+    },
+    {
+        "actual": 2.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.4,
+        "name": "PPI (YoY)",
+        "previous": 0.5,
+        "timestamp": 1347539400,
+        "volatility": 0
+    },
+    {
+        "actual": 81.0,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 81.0,
+        "name": "Capacity Utilization Rate",
+        "previous": 80.5,
+        "timestamp": 1347539400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.3,
+        "name": "New Housing Price Index (MoM)",
+        "previous": 0.2,
+        "timestamp": 1347539400,
+        "volatility": 1
+    },
+    {
+        "actual": 8.25,
+        "country": "Russia",
+        "currency": "RUB",
+        "forecast": 8.0,
+        "name": "Interest Rate Decision",
+        "previous": 8.0,
+        "timestamp": 1347543000,
+        "volatility": 2
+    },
+    {
+        "actual": 28.9,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Bloomberg Consumer Confidence",
+        "previous": 26.75,
+        "timestamp": 1347544200,
+        "volatility": 0
+    },
+    {
+        "actual": 27.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 28.0,
+        "name": "Natural Gas Storage",
+        "previous": 28.0,
+        "timestamp": 1347546600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.896,
+        "country": "United States",
+        "currency": "USD",
+        "name": "30-Year Bond Auction",
+        "previous": 2.825,
+        "timestamp": 1347550200,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Statement",
+        "timestamp": 1347553800,
+        "volatility": 2
+    },
+    {
+        "actual": 0.25,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.25,
+        "name": "Fed Interest Rate Decision",
+        "previous": 0.25,
+        "timestamp": 1347553800,
+        "volatility": 2
+    },
+    {
+        "actual": -191.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -155.0,
+        "name": "Federal Budget Balance",
+        "previous": -69.6,
+        "timestamp": 1347559200,
+        "volatility": 1
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "Fed Chairman Bernanke Speaks",
+        "timestamp": 1347560100,
+        "volatility": 2
+    },
+    {
+        "actual": 5.0,
+        "country": "Chile",
+        "currency": "CLP",
+        "forecast": 5.0,
+        "name": "Interest Rate Decision",
+        "previous": 5.0,
+        "timestamp": 1347573600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "FPI (MoM)",
+        "previous": 0.2,
+        "timestamp": 1347576300,
+        "volatility": 0
+    }
+]

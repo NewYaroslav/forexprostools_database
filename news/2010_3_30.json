@@ -1,0 +1,119 @@
+[
+    {
+        "actual": 1.2,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "name": "Consumption Indicator",
+        "previous": 1.32,
+        "timestamp": 1269928800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.5,
+        "name": "German Import Price Index (MoM)",
+        "previous": 1.7,
+        "timestamp": 1269928800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.2,
+        "name": "Nationwide HPI (MoM)",
+        "previous": -0.8,
+        "timestamp": 1269932400,
+        "volatility": 1
+    },
+    {
+        "actual": -1.7,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": -4.6,
+        "name": "Current Account",
+        "previous": -5.9,
+        "timestamp": 1269937800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.4,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.3,
+        "name": "GDP (QoQ)",
+        "previous": 0.3,
+        "timestamp": 1269937800,
+        "volatility": 2
+    },
+    {
+        "actual": 0.0,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.0,
+        "name": "IPPI (MoM)",
+        "previous": 0.4,
+        "timestamp": 1269952200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": -1.0,
+        "name": "RMPI (MoM)",
+        "previous": 3.4,
+        "timestamp": 1269952200,
+        "volatility": 1
+    },
+    {
+        "actual": -0.7,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.5,
+        "name": "S&P/CS HPI Composite - 20 n.s.a. (YoY)",
+        "previous": -3.1,
+        "timestamp": 1269954000,
+        "volatility": 1
+    },
+    {
+        "actual": 52.5,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 50.0,
+        "name": "CB Consumer Confidence",
+        "previous": 46.4,
+        "timestamp": 1269957600,
+        "volatility": 2
+    },
+    {
+        "actual": 27.5,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Bloomberg Consumer Confidence",
+        "previous": 28.0,
+        "timestamp": 1269982800,
+        "volatility": 0
+    },
+    {
+        "actual": -15.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": -13.0,
+        "name": "GfK Consumer Confidence",
+        "previous": -14.0,
+        "timestamp": 1269990060,
+        "volatility": 0
+    },
+    {
+        "actual": 52.4,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Manufacturing PMI",
+        "previous": 52.5,
+        "timestamp": 1269990900,
+        "volatility": 0
+    }
+]

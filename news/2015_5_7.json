@@ -1,0 +1,595 @@
+[
+    {
+        "actual": -2.9,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 5.0,
+        "name": "Employment Change (Apr)",
+        "previous": 48.2,
+        "timestamp": 1430962200,
+        "volatility": 2
+    },
+    {
+        "actual": -21.9,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Full Employment Change (Apr)",
+        "previous": 41.3,
+        "timestamp": 1430962200,
+        "volatility": 1
+    },
+    {
+        "actual": 64.8,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 64.8,
+        "name": "Participation Rate (Apr)",
+        "previous": 64.8,
+        "timestamp": 1430962200,
+        "volatility": 0
+    },
+    {
+        "actual": 6.2,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 6.2,
+        "name": "Unemployment Rate (Apr)",
+        "previous": 6.1,
+        "timestamp": 1430962200,
+        "volatility": 1
+    },
+    {
+        "actual": 76.6,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Consumer Confidence (Apr)",
+        "previous": 77.7,
+        "timestamp": 1430971200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.3,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "forecast": -3.9,
+        "name": "Exports (YoY) (Mar)",
+        "previous": -9.7,
+        "timestamp": 1430971200,
+        "volatility": 0
+    },
+    {
+        "actual": 5.8,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "forecast": 1.0,
+        "name": "Imports (YoY) (Mar)",
+        "previous": 0.4,
+        "timestamp": 1430971200,
+        "volatility": 0
+    },
+    {
+        "actual": 7.82,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "forecast": 6.4,
+        "name": "Trade Balance (Mar)",
+        "previous": 4.5,
+        "timestamp": 1430971200,
+        "volatility": 0
+    },
+    {
+        "actual": -6.0,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": -11.0,
+        "name": "SECO Consumer Climate (Q2)",
+        "previous": -6.0,
+        "timestamp": 1430977500,
+        "volatility": 1
+    },
+    {
+        "actual": 0.9,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 1.5,
+        "name": "German Factory Orders (MoM) (Mar)",
+        "previous": -0.9,
+        "timestamp": 1430978400,
+        "volatility": 1
+    },
+    {
+        "actual": 50.7,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "Markit Services PMI",
+        "previous": 46.1,
+        "timestamp": 1430978400,
+        "volatility": 1
+    },
+    {
+        "actual": 37.6,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French Exports (Mar)",
+        "previous": 37.3,
+        "timestamp": 1430981100,
+        "volatility": 0
+    },
+    {
+        "actual": 42.2,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French Imports (Mar)",
+        "previous": 40.8,
+        "timestamp": 1430981100,
+        "volatility": 0
+    },
+    {
+        "actual": -0.3,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "French Industrial Production (MoM) (Mar)",
+        "previous": 0.5,
+        "timestamp": 1430981100,
+        "volatility": 0
+    },
+    {
+        "actual": -4.6,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": -3.6,
+        "name": "French Trade Balance (Mar)",
+        "previous": -3.6,
+        "timestamp": 1430981100,
+        "volatility": 0
+    },
+    {
+        "actual": 0.6,
+        "country": "Austria",
+        "currency": "EUR",
+        "name": "Austrian Wholesale Prices n.s.a (MoM) (Apr)",
+        "previous": 0.8,
+        "timestamp": 1430982000,
+        "volatility": 0
+    },
+    {
+        "actual": -3.0,
+        "country": "Austria",
+        "currency": "EUR",
+        "name": "Austrian Wholesale Prices n.s.a (YoY) (Apr)",
+        "previous": -3.2,
+        "timestamp": 1430982000,
+        "volatility": 0
+    },
+    {
+        "actual": 8.4,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "name": "Construction Output (YoY) (Mar)",
+        "previous": 6.0,
+        "timestamp": 1430982000,
+        "volatility": 0
+    },
+    {
+        "actual": 6.2,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": 6.3,
+        "name": "Industrial Production (YoY) (Mar)",
+        "previous": 4.5,
+        "timestamp": 1430982000,
+        "volatility": 0
+    },
+    {
+        "actual": 19.2,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": 27.0,
+        "name": "Trade Balance NRA (Mar)",
+        "previous": 18.1,
+        "timestamp": 1430982000,
+        "volatility": 0
+    },
+    {
+        "actual": 11.6,
+        "country": "Hungary",
+        "currency": "HUF",
+        "forecast": 6.0,
+        "name": "Industrial Output (YoY) (Mar)",
+        "previous": 6.0,
+        "timestamp": 1430982000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.6,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "forecast": 0.4,
+        "name": "Dutch CPI (YoY) (Apr)",
+        "previous": 0.4,
+        "timestamp": 1430983800,
+        "volatility": 0
+    },
+    {
+        "actual": 48.81,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "name": "FX Reserves (EUR) (Apr)",
+        "previous": 48.73,
+        "timestamp": 1430985600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.25,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 1.0,
+        "name": "Interest Rate Decision",
+        "previous": 1.25,
+        "timestamp": 1430985600,
+        "volatility": 1
+    },
+    {
+        "actual": 49.5,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "Retail PMI",
+        "previous": 48.6,
+        "timestamp": 1430986200,
+        "volatility": 0
+    },
+    {
+        "actual": 343.2,
+        "country": "Hong Kong",
+        "currency": "HKD",
+        "name": "Foreign Reserves (USD) (Apr)",
+        "previous": 332.2,
+        "timestamp": 1430987400,
+        "volatility": 0
+    },
+    {
+        "actual": 80.8,
+        "country": "Philippines",
+        "currency": "PHP",
+        "name": "FX Reserves USD (Apr)",
+        "previous": 80.46,
+        "timestamp": 1430987400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.882,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 10-Year Obligacion Auction",
+        "previous": 1.282,
+        "timestamp": 1430988600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.193,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 2-Year Bonos Auction",
+        "previous": 0.133,
+        "timestamp": 1430988600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.98,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 10-Year OAT Auction",
+        "previous": 0.46,
+        "timestamp": 1430989200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.74,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 8-Year OAT Auction",
+        "previous": 0.44,
+        "timestamp": 1430989200,
+        "volatility": 0
+    },
+    {
+        "actual": 251.9,
+        "country": "Singapore",
+        "currency": "SGD",
+        "name": "Foreign Reserves USD (MoM) (Apr)",
+        "previous": 248.4,
+        "timestamp": 1430989200,
+        "volatility": 0
+    },
+    {
+        "country": "Indonesia",
+        "currency": "IDR",
+        "name": "M2 Money Supply (YoY) (Mar)",
+        "previous": 16.1,
+        "timestamp": 1430989200,
+        "volatility": 0
+    },
+    {
+        "actual": 85.91,
+        "country": "Israel",
+        "currency": "ILS",
+        "name": "FX Reserve - USD (Apr)",
+        "previous": 84.983,
+        "timestamp": 1430990100,
+        "volatility": 0
+    },
+    {
+        "actual": -0.26,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch 3-Month T-bill Auction",
+        "previous": -0.23,
+        "timestamp": 1430991600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.25,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch 6-Month T-bill Auction",
+        "previous": -0.23,
+        "timestamp": 1430991600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.25,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "forecast": 3.25,
+        "name": "Interest Rate",
+        "previous": 3.25,
+        "timestamp": 1430992800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.92,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 0.9,
+        "name": "IGP-DI Inflation Index (MoM) (Apr)",
+        "previous": 1.21,
+        "timestamp": 1430996400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.05,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": 0.05,
+        "name": "Interest Rate Decision",
+        "previous": 0.05,
+        "timestamp": 1430996400,
+        "volatility": 0
+    },
+    {
+        "actual": 52.8,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Challenger Job Cuts (YoY)",
+        "previous": 6.4,
+        "timestamp": 1430998200,
+        "volatility": 0
+    },
+    {
+        "actual": 61.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Challenger Job Cuts (Apr)",
+        "previous": 36.6,
+        "timestamp": 1430998200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "Chile",
+        "currency": "CLP",
+        "name": "Copper Exports (USD) (Apr)",
+        "previous": 2.0,
+        "timestamp": 1430998200,
+        "volatility": 0
+    },
+    {
+        "actual": 5.0,
+        "country": "Chile",
+        "currency": "CLP",
+        "forecast": 6.0,
+        "name": "Exports (USD) (Apr)",
+        "previous": 6.0,
+        "timestamp": 1430998200,
+        "volatility": 0
+    },
+    {
+        "actual": 4.0,
+        "country": "Chile",
+        "currency": "CLP",
+        "forecast": 4.0,
+        "name": "Imports (USD) (Apr)",
+        "previous": 5.0,
+        "timestamp": 1430998200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.15,
+        "country": "Chile",
+        "currency": "CLP",
+        "forecast": 1.29,
+        "name": "Trade Balance (Apr)",
+        "previous": 1.0,
+        "timestamp": 1430998200,
+        "volatility": 0
+    },
+    {
+        "actual": 91.8,
+        "country": "Poland",
+        "currency": "PLN",
+        "name": "FX Reserves (EUR) (Apr)",
+        "previous": 90.5,
+        "timestamp": 1431000000,
+        "volatility": 0
+    },
+    {
+        "actual": 358.5,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "Central Bank reserves (USD)",
+        "previous": 353.5,
+        "timestamp": 1431000000,
+        "volatility": 1
+    },
+    {
+        "actual": 2.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.0,
+        "name": "Continuing Jobless Claims",
+        "previous": 2.0,
+        "timestamp": 1431001800,
+        "volatility": 0
+    },
+    {
+        "actual": 265.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 280.0,
+        "name": "Initial Jobless Claims",
+        "previous": 262.0,
+        "timestamp": 1431001800,
+        "volatility": 1
+    },
+    {
+        "actual": 279.5,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Jobless Claims 4-Week Avg.",
+        "previous": 283.75,
+        "timestamp": 1431001800,
+        "volatility": 0
+    },
+    {
+        "actual": 11.6,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 2.5,
+        "name": "Building Permits (MoM) (Mar)",
+        "previous": -0.3,
+        "timestamp": 1431001800,
+        "volatility": 1
+    },
+    {
+        "actual": -3.5,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "name": "Budget Balance (12M)",
+        "previous": -4.0,
+        "timestamp": 1431002100,
+        "volatility": 0
+    },
+    {
+        "actual": -137.4,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "name": "Budget Balance (12M)",
+        "previous": -200.3,
+        "timestamp": 1431002100,
+        "volatility": 0
+    },
+    {
+        "actual": 0.16,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 0.15,
+        "name": "Core CPI (MoM) (Apr)",
+        "previous": 0.26,
+        "timestamp": 1431003600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.06,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 3.1,
+        "name": "CPI (YoY) (Apr)",
+        "previous": 3.14,
+        "timestamp": 1431003600,
+        "volatility": 1
+    },
+    {
+        "actual": -0.26,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": -0.24,
+        "name": "CPI (MoM) (Apr)",
+        "previous": 0.41,
+        "timestamp": 1431003600,
+        "volatility": 1
+    },
+    {
+        "actual": -14.5,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Auto Production (MoM) (Apr)",
+        "previous": 22.9,
+        "timestamp": 1431005400,
+        "volatility": 0
+    },
+    {
+        "actual": -6.6,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Auto Sales (MoM) (Apr)",
+        "previous": 26.2,
+        "timestamp": 1431005400,
+        "volatility": 0
+    },
+    {
+        "actual": 43.7,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Bloomberg Consumer Confidence",
+        "previous": 44.7,
+        "timestamp": 1431006300,
+        "volatility": 0
+    },
+    {
+        "actual": -73.1,
+        "country": "Hungary",
+        "currency": "HUF",
+        "name": "Budget Balance (Apr)",
+        "previous": -226.0,
+        "timestamp": 1431008100,
+        "volatility": 0
+    },
+    {
+        "actual": 76.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 75.0,
+        "name": "Natural Gas Storage",
+        "previous": 81.0,
+        "timestamp": 1431009000,
+        "volatility": 0
+    },
+    {
+        "actual": 20.52,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 16.0,
+        "name": "Consumer Credit (Mar)",
+        "previous": 14.79,
+        "timestamp": 1431025200,
+        "volatility": 0
+    },
+    {
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Monetary Policy Meeting Minutes",
+        "timestamp": 1431042600,
+        "volatility": 1
+    }
+]

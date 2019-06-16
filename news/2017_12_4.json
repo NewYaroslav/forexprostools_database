@@ -1,0 +1,428 @@
+[
+    {
+        "actual": 0.2,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "MI Inflation Gauge (MoM)",
+        "previous": 0.3,
+        "timestamp": 1512345600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.5,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "ANZ Job Advertisements (MoM)",
+        "previous": 1.5,
+        "timestamp": 1512347400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.1,
+        "name": "Business inventories (MoM) (Q3)",
+        "previous": -0.5,
+        "timestamp": 1512347400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.2,
+        "name": "Company Gross Operating Profits (QoQ) (Q3)",
+        "previous": -3.3,
+        "timestamp": 1512347400,
+        "volatility": 1
+    },
+    {
+        "actual": 3.8,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Company Profits Pre-Tax (QoQ) (Q3)",
+        "previous": -8.3,
+        "timestamp": 1512347400,
+        "volatility": 0
+    },
+    {
+        "actual": 50.4,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "name": "Nikkei Manufacturing PMI (Nov)",
+        "previous": 50.1,
+        "timestamp": 1512347400,
+        "volatility": 0
+    },
+    {
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "BoJ Governor Kuroda Speaks",
+        "timestamp": 1512360000,
+        "volatility": 1
+    },
+    {
+        "actual": 3.05,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": 3.1,
+        "name": "Core Inflation (YoY) (Nov)",
+        "previous": 3.07,
+        "timestamp": 1512360000,
+        "volatility": 1
+    },
+    {
+        "actual": 2.7,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "name": "Foreign Tourism (Oct)",
+        "previous": 12.72,
+        "timestamp": 1512360000,
+        "volatility": 0
+    },
+    {
+        "actual": 3.3,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": 3.4,
+        "name": "Inflation (YoY) (Nov)",
+        "previous": 3.58,
+        "timestamp": 1512360000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": 0.26,
+        "name": "Inflation (MoM) (Nov)",
+        "previous": 0.01,
+        "timestamp": 1512360000,
+        "volatility": 1
+    },
+    {
+        "actual": 44.9,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 44.8,
+        "name": "Household Confidence (Nov)",
+        "previous": 44.5,
+        "timestamp": 1512363600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.29,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 0.33,
+        "name": "IPC-Fipe Inflation Index (MoM) (Nov)",
+        "previous": 0.32,
+        "timestamp": 1512370800,
+        "volatility": 1
+    },
+    {
+        "actual": 12.98,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 7.5,
+        "name": "CPI (YoY) (Nov)",
+        "previous": 11.9,
+        "timestamp": 1512370800,
+        "volatility": 1
+    },
+    {
+        "actual": 1.49,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 1.2,
+        "name": "CPI (MoM) (Nov)",
+        "previous": 2.08,
+        "timestamp": 1512370800,
+        "volatility": 1
+    },
+    {
+        "actual": 2.02,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "PPI (MoM) (Nov)",
+        "previous": 1.71,
+        "timestamp": 1512370800,
+        "volatility": 0
+    },
+    {
+        "actual": 17.3,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "PPI (YoY) (Nov)",
+        "previous": 17.28,
+        "timestamp": 1512370800,
+        "volatility": 0
+    },
+    {
+        "actual": 4.0,
+        "country": "Romania",
+        "currency": "RON",
+        "name": "PPI (YoY) (Oct)",
+        "previous": 4.3,
+        "timestamp": 1512370800,
+        "volatility": 0
+    },
+    {
+        "actual": 4.0,
+        "country": "Uganda",
+        "currency": "UGX",
+        "name": "CPI (YoY) (Nov)",
+        "previous": 4.8,
+        "timestamp": 1512372000,
+        "volatility": 0
+    },
+    {
+        "actual": 7.3,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 54.3,
+        "name": "Spanish Unemployment Change",
+        "previous": 56.8,
+        "timestamp": 1512374400,
+        "volatility": 1
+    },
+    {
+        "actual": 100.5,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish Consumer Confidence",
+        "previous": 99.6,
+        "timestamp": 1512378000,
+        "volatility": 0
+    },
+    {
+        "actual": 53.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 51.0,
+        "name": "Construction PMI (Nov)",
+        "previous": 50.8,
+        "timestamp": 1512379800,
+        "volatility": 2
+    },
+    {
+        "actual": 31.1,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 33.6,
+        "name": "Sentix Investor Confidence (Dec)",
+        "previous": 34.0,
+        "timestamp": 1512379800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.3,
+        "country": "Greece",
+        "currency": "EUR",
+        "forecast": 1.0,
+        "name": "Greek GDP (YoY) (Q3)",
+        "previous": 1.6,
+        "timestamp": 1512381600,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "Eurogroup Meetings",
+        "timestamp": 1512381600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.4,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.3,
+        "name": "PPI (MoM) (Oct)",
+        "previous": 0.5,
+        "timestamp": 1512381600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.5,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 2.6,
+        "name": "PPI (YoY) (Oct)",
+        "previous": 2.8,
+        "timestamp": 1512381600,
+        "volatility": 0
+    },
+    {
+        "actual": -4.2,
+        "country": "Latvia",
+        "currency": "EUR",
+        "name": "Latvian Current Account % of GDP (Q3)",
+        "previous": -3.1,
+        "timestamp": 1512385200,
+        "volatility": 0
+    },
+    {
+        "actual": -2.0,
+        "country": "Latvia",
+        "currency": "EUR",
+        "name": "Latvian Industrial Production (MoM) (Oct)",
+        "previous": 1.4,
+        "timestamp": 1512385200,
+        "volatility": 0
+    },
+    {
+        "actual": 5.4,
+        "country": "Latvia",
+        "currency": "EUR",
+        "name": "Latvian Industrial Production (YoY) (Oct)",
+        "previous": 12.9,
+        "timestamp": 1512385200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "GDP Monthly (YoY) (Oct)",
+        "previous": 2.4,
+        "timestamp": 1512387600,
+        "volatility": 1
+    },
+    {
+        "actual": 1.0,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "GDP Quarterly (YoY) (Q3)",
+        "previous": 1.8,
+        "timestamp": 1512387600,
+        "volatility": 1
+    },
+    {
+        "actual": 52.9,
+        "country": "Singapore",
+        "currency": "SGD",
+        "name": "Manufacturing PMI (Nov)",
+        "previous": 52.6,
+        "timestamp": 1512392400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.637,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 12-Month BTF Auction",
+        "previous": -0.631,
+        "timestamp": 1512396000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.711,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 3-Month BTF Auction",
+        "previous": -0.701,
+        "timestamp": 1512396000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.691,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 6-Month BTF Auction",
+        "previous": -0.671,
+        "timestamp": 1512396000,
+        "volatility": 0
+    },
+    {
+        "actual": 36.72,
+        "country": "Egypt",
+        "currency": "EGP",
+        "name": "Foreign Reserves (USD) (Nov)",
+        "previous": 36.7,
+        "timestamp": 1512397200,
+        "volatility": 0
+    },
+    {
+        "actual": 753.5,
+        "country": "United States",
+        "currency": "USD",
+        "name": "ISM - NY Business Conditions (Nov)",
+        "previous": 749.4,
+        "timestamp": 1512398700,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.4,
+        "name": "Factory Orders (MoM) (Oct)",
+        "previous": 1.7,
+        "timestamp": 1512399600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.8,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Factory orders ex transportation (MoM) (Oct)",
+        "previous": 1.1,
+        "timestamp": 1512399600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.29,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Month Bill Auction",
+        "previous": 1.285,
+        "timestamp": 1512405000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.45,
+        "country": "United States",
+        "currency": "USD",
+        "name": "6-Month Bill Auction",
+        "previous": 1.435,
+        "timestamp": 1512405000,
+        "volatility": 0
+    },
+    {
+        "actual": 4.596,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Exchequer Returns (Nov)",
+        "previous": 0.326,
+        "timestamp": 1512405000,
+        "volatility": 0
+    },
+    {
+        "actual": 387.25,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "FX Reserves - USD (Nov)",
+        "previous": 384.46,
+        "timestamp": 1512421200,
+        "volatility": 0
+    },
+    {
+        "actual": 51.7,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "AIG Services Index (Nov)",
+        "previous": 51.4,
+        "timestamp": 1512426600,
+        "volatility": 0
+    },
+    {
+        "actual": 5.01,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "Current Account (Oct)",
+        "previous": 10.42,
+        "timestamp": 1512428400,
+        "volatility": 0
+    }
+]

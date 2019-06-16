@@ -1,0 +1,408 @@
+[
+    {
+        "actual": 6.5,
+        "country": "Thailand",
+        "currency": "THB",
+        "forecast": -1.4,
+        "name": "Custom-Based Export Data (Aug)",
+        "previous": -4.4,
+        "timestamp": 1474860600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.5,
+        "country": "Thailand",
+        "currency": "THB",
+        "forecast": -4.25,
+        "name": "Custom-Based Import Data (Aug)",
+        "previous": -7.2,
+        "timestamp": 1474860600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.13,
+        "country": "Thailand",
+        "currency": "THB",
+        "forecast": 1.22,
+        "name": "Custom-Based Trade Data (USD) (Aug)",
+        "previous": 1.21,
+        "timestamp": 1474860600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.5,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "forecast": 3.4,
+        "name": "Unemployment Rate",
+        "previous": 3.4,
+        "timestamp": 1474862400,
+        "volatility": 0
+    },
+    {
+        "actual": 100.0,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 100.0,
+        "name": "Leading Index",
+        "previous": 100.0,
+        "timestamp": 1474866000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": 0.6,
+        "name": "Industrial Production (YoY) (Aug)",
+        "previous": -3.5,
+        "timestamp": 1474866000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": 1.8,
+        "name": "Industrial Production (MoM) (Aug)",
+        "previous": -3.9,
+        "timestamp": 1474866000,
+        "volatility": 0
+    },
+    {
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "BoJ Governor Kuroda Speaks",
+        "timestamp": 1474867800,
+        "volatility": 1
+    },
+    {
+        "actual": -2.6,
+        "country": "Finland",
+        "currency": "EUR",
+        "name": "Finnish PPI (YoY) (Aug)",
+        "previous": -3.8,
+        "timestamp": 1474869600,
+        "volatility": 0
+    },
+    {
+        "actual": -3.2,
+        "country": "Finland",
+        "currency": "EUR",
+        "name": "Finnish Export Price Index (YoY) (Aug)",
+        "previous": -4.8,
+        "timestamp": 1474873200,
+        "volatility": 0
+    },
+    {
+        "actual": -2.7,
+        "country": "Finland",
+        "currency": "EUR",
+        "name": "Finnish Import Price Index (YoY) (Aug)",
+        "previous": -5.0,
+        "timestamp": 1474873200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.3,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.0,
+        "name": "Italian Retail Sales (MoM) (Jul)",
+        "previous": 0.3,
+        "timestamp": 1474876800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian Retail Sales (YoY) (Jul)",
+        "previous": 0.8,
+        "timestamp": 1474876800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.13,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian Trade Balance Non-EU (Aug)",
+        "previous": 3.46,
+        "timestamp": 1474876800,
+        "volatility": 0
+    },
+    {
+        "actual": 104.5,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 100.2,
+        "name": "German Business Expectations (Sep)",
+        "previous": 100.1,
+        "timestamp": 1474876800,
+        "volatility": 1
+    },
+    {
+        "actual": 114.7,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 113.0,
+        "name": "German Current Assessment (Sep)",
+        "previous": 112.9,
+        "timestamp": 1474876800,
+        "volatility": 1
+    },
+    {
+        "actual": 101.4,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German Ifo Business Climate Index (Sep)",
+        "previous": 99.8,
+        "timestamp": 1474876800,
+        "volatility": 2
+    },
+    {
+        "actual": 37.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 37.2,
+        "name": "Gross Mortgage Approvals",
+        "previous": 37.7,
+        "timestamp": 1474878600,
+        "volatility": 1
+    },
+    {
+        "country": "Switzerland",
+        "currency": "CHF",
+        "name": "SNB Chairman Thomas Jordan speaks",
+        "timestamp": 1474882200,
+        "volatility": 1
+    },
+    {
+        "actual": -0.658,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German 12-Month Bubill Auction",
+        "previous": -0.611,
+        "timestamp": 1474882500,
+        "volatility": 0
+    },
+    {
+        "actual": 76.6,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Capacity Utilization (Sep)",
+        "previous": 75.2,
+        "timestamp": 1474889400,
+        "volatility": 1
+    },
+    {
+        "actual": 106.5,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Manufacturing Confidence (Sep)",
+        "previous": 103.6,
+        "timestamp": 1474889400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "Economic Activity (MoM) (Jul)",
+        "previous": 0.6,
+        "timestamp": 1474894800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.3,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 2.18,
+        "name": "Economic Activity (YoY) (Jul)",
+        "previous": 2.2,
+        "timestamp": 1474894800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.589,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 12-Month BTF Auction",
+        "previous": -0.569,
+        "timestamp": 1474894800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.659,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 3-Month BTF Auction",
+        "previous": -0.58,
+        "timestamp": 1474894800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.623,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 6-Month BTF Auction",
+        "previous": -0.583,
+        "timestamp": 1474894800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Israel",
+        "currency": "ILS",
+        "forecast": 0.1,
+        "name": "Interest Rate Decision (Oct)",
+        "previous": 0.1,
+        "timestamp": 1474894800,
+        "volatility": 1
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Kashkari Speaks",
+        "timestamp": 1474896600,
+        "volatility": 1
+    },
+    {
+        "actual": -0.58,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": -0.85,
+        "name": "Current Account (USD) (Aug)",
+        "previous": -4.05,
+        "timestamp": 1474896600,
+        "volatility": 0
+    },
+    {
+        "actual": 7.21,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 7.0,
+        "name": "Foreign direct investment (USD) (Aug)",
+        "previous": 0.08,
+        "timestamp": 1474896600,
+        "volatility": 0
+    },
+    {
+        "actual": -7.6,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -8.8,
+        "name": "New Home Sales (MoM) (Aug)",
+        "previous": 13.8,
+        "timestamp": 1474898400,
+        "volatility": 1
+    },
+    {
+        "actual": 609.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 600.0,
+        "name": "New Home Sales (Aug)",
+        "previous": 659.0,
+        "timestamp": 1474898400,
+        "volatility": 2
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB President Draghi Speaks",
+        "timestamp": 1474898700,
+        "volatility": 2
+    },
+    {
+        "actual": -3.7,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -3.0,
+        "name": "Dallas Fed Mfg Business Index (Sep)",
+        "previous": -6.2,
+        "timestamp": 1474900200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.25,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Month Bill Auction",
+        "previous": 0.305,
+        "timestamp": 1474903800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.42,
+        "country": "United States",
+        "currency": "USD",
+        "name": "6-Month Bill Auction",
+        "previous": 0.5,
+        "timestamp": 1474903800,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Tarullo Speaks",
+        "timestamp": 1474904700,
+        "volatility": 1
+    },
+    {
+        "actual": 3.0,
+        "country": "France",
+        "currency": "EUR",
+        "name": "France Jobseekers Total (Aug)",
+        "previous": 3.0,
+        "timestamp": 1474905600,
+        "volatility": 1
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB's Nowotny Speaks",
+        "timestamp": 1474905600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.75,
+        "country": "United States",
+        "currency": "USD",
+        "name": "2-Year Note Auction",
+        "previous": 0.76,
+        "timestamp": 1474909200,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Kaplan Speaks",
+        "timestamp": 1474911000,
+        "volatility": 1
+    },
+    {
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "BoC Gov Poloz Speaks",
+        "timestamp": 1474931400,
+        "volatility": 2
+    },
+    {
+        "actual": 0.2,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 0.3,
+        "name": "Corporate Services Price Index (CSPI) (YoY)",
+        "previous": 0.3,
+        "timestamp": 1474933800,
+        "volatility": 0
+    },
+    {
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Monetary Policy Meeting Minutes",
+        "timestamp": 1474933800,
+        "volatility": 1
+    }
+]

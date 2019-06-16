@@ -1,0 +1,480 @@
+[
+    {
+        "actual": 2.4,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": 2.4,
+        "name": "GDP (YoY) (Q2)",
+        "previous": 2.1,
+        "timestamp": 1407801600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": -0.1,
+        "name": "GDP (QoQ) (Q2)",
+        "previous": -0.8,
+        "timestamp": 1407801600,
+        "volatility": 0
+    },
+    {
+        "actual": 21.3,
+        "country": "Philippines",
+        "currency": "PHP",
+        "forecast": 20.2,
+        "name": "Exports (YoY)",
+        "previous": 6.9,
+        "timestamp": 1407805200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.8,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 1.1,
+        "name": "House Price Index (QoQ) (Q2)",
+        "previous": 1.5,
+        "timestamp": 1407807000,
+        "volatility": 1
+    },
+    {
+        "actual": 11.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "NAB Business Confidence",
+        "previous": 8.0,
+        "timestamp": 1407807000,
+        "volatility": 1
+    },
+    {
+        "actual": 8.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "NAB Business Survey",
+        "previous": 2.0,
+        "timestamp": 1407807000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.676,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "30-Year JGB Auction",
+        "previous": 1.703,
+        "timestamp": 1407815100,
+        "volatility": 0
+    },
+    {
+        "actual": -3.3,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Capacity Utilization (MoM)",
+        "previous": -0.7,
+        "timestamp": 1407817800,
+        "volatility": 0
+    },
+    {
+        "actual": -3.4,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": -3.3,
+        "name": "Industrial Production (MoM)",
+        "previous": -3.3,
+        "timestamp": 1407817800,
+        "volatility": 1
+    },
+    {
+        "actual": -7.4,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": -3.2,
+        "name": "French Current Account",
+        "previous": -3.3,
+        "timestamp": 1407825900,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "name": "Slovak CPI (MoM)",
+        "previous": 0.1,
+        "timestamp": 1407826800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "name": "Slovak CPI (YoY)",
+        "previous": -0.1,
+        "timestamp": 1407826800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Hungary",
+        "currency": "HUF",
+        "forecast": -0.1,
+        "name": "CPI (YoY)",
+        "previous": -0.3,
+        "timestamp": 1407826800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.3,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": -0.4,
+        "name": "CPI (MoM)",
+        "previous": 0.2,
+        "timestamp": 1407828600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.0,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 0.1,
+        "name": "CPI (YoY)",
+        "previous": 0.2,
+        "timestamp": 1407828600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.1,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "Italian CPI (YoY)",
+        "previous": 0.1,
+        "timestamp": 1407830400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": -0.1,
+        "name": "Italian CPI (MoM)",
+        "previous": -0.1,
+        "timestamp": 1407830400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.0,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.0,
+        "name": "Italian HICP (YoY)",
+        "previous": 0.0,
+        "timestamp": 1407830400,
+        "volatility": 0
+    },
+    {
+        "actual": -2.1,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": -2.1,
+        "name": "Italian HICP (MoM)",
+        "previous": -2.1,
+        "timestamp": 1407830400,
+        "volatility": 0
+    },
+    {
+        "actual": 44.3,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 55.5,
+        "name": "German ZEW Current Conditions",
+        "previous": 61.8,
+        "timestamp": 1407834000,
+        "volatility": 1
+    },
+    {
+        "actual": 8.6,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 18.2,
+        "name": "German ZEW Economic Sentiment",
+        "previous": 27.1,
+        "timestamp": 1407834000,
+        "volatility": 2
+    },
+    {
+        "actual": 23.7,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 41.3,
+        "name": "ZEW Economic Sentiment",
+        "previous": 48.1,
+        "timestamp": 1407834000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.279,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian 12-Month BOT Auction",
+        "previous": 0.387,
+        "timestamp": 1407834600,
+        "volatility": 0
+    },
+    {
+        "actual": 4.0,
+        "country": "Israel",
+        "currency": "ILS",
+        "name": "Exports (USD)",
+        "previous": 4.0,
+        "timestamp": 1407837600,
+        "volatility": 0
+    },
+    {
+        "actual": 6.0,
+        "country": "Israel",
+        "currency": "ILS",
+        "name": "Imports (USD)",
+        "previous": 5.0,
+        "timestamp": 1407837600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.0,
+        "country": "Israel",
+        "currency": "ILS",
+        "forecast": -1.0,
+        "name": "Trade Balance",
+        "previous": -1.0,
+        "timestamp": 1407837600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.9,
+        "country": "Portugal",
+        "currency": "EUR",
+        "forecast": -0.2,
+        "name": "Portuguese CPI (YoY)",
+        "previous": -0.4,
+        "timestamp": 1407837720,
+        "volatility": 0
+    },
+    {
+        "actual": -0.7,
+        "country": "Portugal",
+        "currency": "EUR",
+        "name": "Portuguese CPI (MoM)",
+        "previous": 0.1,
+        "timestamp": 1407837720,
+        "volatility": 0
+    },
+    {
+        "actual": 95.7,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 96.3,
+        "name": "NFIB Small Business Optimism",
+        "previous": 95.0,
+        "timestamp": 1407843000,
+        "volatility": 0
+    },
+    {
+        "actual": -1.4,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Chain Store Sales (WoW)",
+        "previous": 0.2,
+        "timestamp": 1407843900,
+        "volatility": 0
+    },
+    {
+        "actual": 3.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Chain Store Sales (YoY)",
+        "previous": 4.5,
+        "timestamp": 1407843900,
+        "volatility": 0
+    },
+    {
+        "actual": 7.96,
+        "country": "India",
+        "currency": "INR",
+        "forecast": 7.4,
+        "name": "CPI (YoY)",
+        "previous": 7.31,
+        "timestamp": 1407844800,
+        "volatility": 1
+    },
+    {
+        "actual": 3.4,
+        "country": "India",
+        "currency": "INR",
+        "forecast": 5.4,
+        "name": "Industrial Production (YoY)",
+        "previous": 4.7,
+        "timestamp": 1407844800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.8,
+        "country": "India",
+        "currency": "INR",
+        "name": "Manufacturing Output (MoM)",
+        "previous": 4.8,
+        "timestamp": 1407844800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (MoM)",
+        "previous": -0.4,
+        "timestamp": 1407848100,
+        "volatility": 0
+    },
+    {
+        "actual": 4.8,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (YoY)",
+        "previous": 4.6,
+        "timestamp": 1407848100,
+        "volatility": 0
+    },
+    {
+        "actual": 4.67,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 4.74,
+        "name": "JOLTs Job Openings",
+        "previous": 4.58,
+        "timestamp": 1407852000,
+        "volatility": 2
+    },
+    {
+        "actual": 0.04,
+        "country": "United States",
+        "currency": "USD",
+        "name": "4-Week Bill Auction",
+        "previous": 0.02,
+        "timestamp": 1407857400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.924,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Year Note Auction",
+        "previous": 0.992,
+        "timestamp": 1407862800,
+        "volatility": 0
+    },
+    {
+        "actual": -95.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -96.0,
+        "name": "Federal Budget Balance",
+        "previous": 71.0,
+        "timestamp": 1407866400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.229,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -2.0,
+        "name": "API Weekly Crude Oil Stock",
+        "previous": -5.5,
+        "timestamp": 1407875400,
+        "volatility": 1
+    },
+    {
+        "actual": -2.6,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.25,
+        "name": "API Weekly Distillates Stocks",
+        "previous": -0.544,
+        "timestamp": 1407875400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.7,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -1.5,
+        "name": "API Weekly Gasoline Stock",
+        "previous": -3.6,
+        "timestamp": 1407875400,
+        "volatility": 0
+    },
+    {
+        "actual": -9.4,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "Export Price Index (YoY)",
+        "previous": -10.6,
+        "timestamp": 1407877200,
+        "volatility": 0
+    },
+    {
+        "actual": -8.5,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "Import Price Index (YoY)",
+        "previous": -8.8,
+        "timestamp": 1407877200,
+        "volatility": 0
+    },
+    {
+        "actual": 3.4,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 3.5,
+        "name": "Unemployment Rate",
+        "previous": 3.6,
+        "timestamp": 1407884400,
+        "volatility": 0
+    },
+    {
+        "actual": -1.7,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": -1.8,
+        "name": "GDP (QoQ) (Q2)",
+        "previous": 1.5,
+        "timestamp": 1407887400,
+        "volatility": 2
+    },
+    {
+        "actual": -6.8,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": -7.1,
+        "name": "GDP (YoY) (Q2)",
+        "previous": 6.1,
+        "timestamp": 1407887400,
+        "volatility": 1
+    },
+    {
+        "actual": 2.0,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 1.7,
+        "name": "GDP Price Index (YoY)",
+        "previous": -0.1,
+        "timestamp": 1407887400,
+        "volatility": 0
+    },
+    {
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Monetary Policy Meeting Minutes",
+        "timestamp": 1407887400,
+        "volatility": 1
+    }
+]

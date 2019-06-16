@@ -1,0 +1,479 @@
+[
+    {
+        "actual": 1.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Exports (MoM) (Apr)",
+        "previous": 4.0,
+        "timestamp": 1464831000,
+        "volatility": 0
+    },
+    {
+        "actual": -1.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Imports (MoM) (Apr)",
+        "previous": 1.0,
+        "timestamp": 1464831000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.3,
+        "name": "Retail Sales (MoM) (Apr)",
+        "previous": 0.4,
+        "timestamp": 1464831000,
+        "volatility": 2
+    },
+    {
+        "actual": -1.579,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": -2.0,
+        "name": "Trade Balance (Apr)",
+        "previous": -1.971,
+        "timestamp": 1464831000,
+        "volatility": 1
+    },
+    {
+        "actual": -0.094,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "10-Year JGB Auction",
+        "previous": -0.096,
+        "timestamp": 1464839100,
+        "volatility": 1
+    },
+    {
+        "actual": 40.9,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 40.4,
+        "name": "Household Confidence (May)",
+        "previous": 40.8,
+        "timestamp": 1464843600,
+        "volatility": 0
+    },
+    {
+        "actual": -3.0,
+        "country": "Romania",
+        "currency": "RON",
+        "name": "PPI (YoY) (Apr)",
+        "previous": -3.4,
+        "timestamp": 1464847200,
+        "volatility": 0
+    },
+    {
+        "actual": -119.8,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": -110.0,
+        "name": "Spanish Unemployment Change",
+        "previous": -83.6,
+        "timestamp": 1464850800,
+        "volatility": 1
+    },
+    {
+        "actual": 952.0,
+        "country": "Hungary",
+        "currency": "HUF",
+        "name": "Trade Balance (EUR) (MoM) (Mar)",
+        "previous": 966.0,
+        "timestamp": 1464850800,
+        "volatility": 0
+    },
+    {
+        "actual": 64.3,
+        "country": "Sweden",
+        "currency": "SEK",
+        "name": "Current Account (Q1)",
+        "previous": 62.7,
+        "timestamp": 1464852600,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "OPEC Meeting",
+        "timestamp": 1464854400,
+        "volatility": 1
+    },
+    {
+        "actual": 51.2,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 52.0,
+        "name": "Construction PMI (May)",
+        "previous": 52.0,
+        "timestamp": 1464856200,
+        "volatility": 2
+    },
+    {
+        "actual": 1.498,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 10-Year Obligacion Auction",
+        "previous": 1.592,
+        "timestamp": 1464857400,
+        "volatility": 1
+    },
+    {
+        "actual": 2.722,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 30-Year Obligacion Auction",
+        "previous": 2.697,
+        "timestamp": 1464857400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.492,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 5-Year Bonos Auction",
+        "previous": 0.569,
+        "timestamp": 1464857400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.49,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 10-Year OAT Auction",
+        "previous": 0.57,
+        "timestamp": 1464858000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.44,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 30-Year OAT Auction",
+        "previous": 1.77,
+        "timestamp": 1464858000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.16,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 8-Year OAT Auction",
+        "previous": 0.5,
+        "timestamp": 1464858000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.3,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "PPI (MoM) (Apr)",
+        "previous": 0.3,
+        "timestamp": 1464858000,
+        "volatility": 0
+    },
+    {
+        "actual": -4.4,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -4.1,
+        "name": "PPI (YoY) (Apr)",
+        "previous": -4.1,
+        "timestamp": 1464858000,
+        "volatility": 0
+    },
+    {
+        "actual": 30.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Challenger Job Cuts (May)",
+        "previous": 65.1,
+        "timestamp": 1464867000,
+        "volatility": 0
+    },
+    {
+        "actual": -26.5,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Challenger Job Cuts (YoY)",
+        "previous": 5.8,
+        "timestamp": 1464867000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.4,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -0.4,
+        "name": "Deposit Facility Rate",
+        "previous": -0.4,
+        "timestamp": 1464867900,
+        "volatility": 2
+    },
+    {
+        "actual": 0.0,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.0,
+        "name": "ECB Interest Rate Decision (Jun)",
+        "previous": 0.0,
+        "timestamp": 1464867900,
+        "volatility": 2
+    },
+    {
+        "actual": -7.2,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": -8.8,
+        "name": "Industrial Production (YoY) (Apr)",
+        "previous": -11.5,
+        "timestamp": 1464868800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.1,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": -0.9,
+        "name": "Industrial Production (MoM) (Apr)",
+        "previous": 1.4,
+        "timestamp": 1464868800,
+        "volatility": 0
+    },
+    {
+        "actual": 173.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 175.0,
+        "name": "ADP Nonfarm Employment Change (May)",
+        "previous": 166.0,
+        "timestamp": 1464869700,
+        "volatility": 2
+    },
+    {
+        "actual": 2.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.0,
+        "name": "Continuing Jobless Claims",
+        "previous": 2.0,
+        "timestamp": 1464870600,
+        "volatility": 0
+    },
+    {
+        "actual": 267.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 270.0,
+        "name": "Initial Jobless Claims",
+        "previous": 268.0,
+        "timestamp": 1464870600,
+        "volatility": 1
+    },
+    {
+        "actual": 276.75,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Jobless Claims 4-Week Avg.",
+        "previous": 278.5,
+        "timestamp": 1464870600,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB Press Conference",
+        "timestamp": 1464870600,
+        "volatility": 2
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Powell Speaks",
+        "timestamp": 1464870900,
+        "volatility": 2
+    },
+    {
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BoE Gov Carney Speaks",
+        "timestamp": 1464872400,
+        "volatility": 2
+    },
+    {
+        "actual": 49.8,
+        "country": "Singapore",
+        "currency": "SGD",
+        "name": "Manufacturing PMI (May)",
+        "previous": 49.8,
+        "timestamp": 1464872400,
+        "volatility": 0
+    },
+    {
+        "actual": 389.0,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "Central Bank reserves (USD)",
+        "previous": 388.3,
+        "timestamp": 1464872400,
+        "volatility": 1
+    },
+    {
+        "actual": 43.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Bloomberg Consumer Confidence",
+        "previous": 42.0,
+        "timestamp": 1464875100,
+        "volatility": 0
+    },
+    {
+        "actual": 718.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "ISM - NY Business Conditions (May)",
+        "previous": 724.4,
+        "timestamp": 1464875100,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB President Draghi Speaks",
+        "timestamp": 1464876000,
+        "volatility": 2
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB's Nowotny Speaks",
+        "timestamp": 1464876000,
+        "volatility": 1
+    },
+    {
+        "actual": 82.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 85.0,
+        "name": "Natural Gas Storage",
+        "previous": 71.0,
+        "timestamp": 1464877800,
+        "volatility": 0
+    },
+    {
+        "actual": -1.366,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -2.49,
+        "name": "Crude Oil Inventories",
+        "previous": -4.226,
+        "timestamp": 1464879600,
+        "volatility": 2
+    },
+    {
+        "actual": 0.425,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Crude Oil Imports",
+        "previous": -0.362,
+        "timestamp": 1464879600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.704,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Cushing Crude Oil Inventories",
+        "previous": -0.649,
+        "timestamp": 1464879600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.096,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Distillate Fuel Production",
+        "previous": -0.109,
+        "timestamp": 1464879600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.255,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.891,
+        "name": "EIA Weekly Distillates Stocks",
+        "previous": -1.284,
+        "timestamp": 1464879600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.05,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Gasoline Production",
+        "previous": -0.131,
+        "timestamp": 1464879600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.106,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Heating Oil Stockpiles",
+        "previous": -0.16,
+        "timestamp": 1464879600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.492,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.157,
+        "name": "Gasoline Inventories",
+        "previous": 2.043,
+        "timestamp": 1464879600,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Dudley Speaks",
+        "timestamp": 1464881400,
+        "volatility": 1
+    },
+    {
+        "actual": -0.13,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Exchequer Returns (May)",
+        "previous": -1.055,
+        "timestamp": 1464881400,
+        "volatility": 0
+    },
+    {
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "BoC Gov Poloz Speaks",
+        "timestamp": 1464882300,
+        "volatility": 2
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Kaplan Speaks",
+        "timestamp": 1464886800,
+        "volatility": 1
+    },
+    {
+        "actual": 51.5,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "AIG Services Index (May)",
+        "previous": 49.7,
+        "timestamp": 1464910200,
+        "volatility": 0
+    }
+]

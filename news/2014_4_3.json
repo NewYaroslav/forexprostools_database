@@ -1,0 +1,483 @@
+[
+    {
+        "actual": 0.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Exports (MoM)",
+        "previous": 4.0,
+        "timestamp": 1396485000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Imports (MoM)",
+        "previous": 1.0,
+        "timestamp": 1396485000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.3,
+        "name": "Retail Sales (MoM)",
+        "previous": 1.2,
+        "timestamp": 1396485000,
+        "volatility": 2
+    },
+    {
+        "actual": 1.2,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.85,
+        "name": "Trade Balance",
+        "previous": 1.392,
+        "timestamp": 1396485000,
+        "volatility": 1
+    },
+    {
+        "actual": 54.5,
+        "country": "China",
+        "currency": "CNY",
+        "name": "Non-Manufacturing PMI",
+        "previous": 55.0,
+        "timestamp": 1396486800,
+        "volatility": 1
+    },
+    {
+        "actual": 51.9,
+        "country": "China",
+        "currency": "CNY",
+        "name": "Caixin Services PMI",
+        "previous": 51.0,
+        "timestamp": 1396489500,
+        "volatility": 1
+    },
+    {
+        "actual": 49.9,
+        "country": "Hong Kong",
+        "currency": "HKD",
+        "name": "Manufacturing PMI",
+        "previous": 53.3,
+        "timestamp": 1396492200,
+        "volatility": 0
+    },
+    {
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "RBA Governor Stevens Speaks",
+        "timestamp": 1396493400,
+        "volatility": 1
+    },
+    {
+        "actual": 68.8,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Consumer Confidence",
+        "previous": 69.9,
+        "timestamp": 1396497600,
+        "volatility": 0
+    },
+    {
+        "actual": 47.5,
+        "country": "India",
+        "currency": "INR",
+        "name": "Nikkei Services PMI",
+        "previous": 48.8,
+        "timestamp": 1396501200,
+        "volatility": 0
+    },
+    {
+        "actual": 8.39,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 8.14,
+        "name": "CPI (YoY)",
+        "previous": 7.89,
+        "timestamp": 1396508400,
+        "volatility": 1
+    },
+    {
+        "actual": 1.13,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 0.9,
+        "name": "CPI (MoM)",
+        "previous": 0.43,
+        "timestamp": 1396508400,
+        "volatility": 1
+    },
+    {
+        "actual": 12.31,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 12.52,
+        "name": "PPI (YoY)",
+        "previous": 12.4,
+        "timestamp": 1396508400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.74,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 0.8,
+        "name": "PPI (MoM)",
+        "previous": 1.38,
+        "timestamp": 1396508400,
+        "volatility": 0
+    },
+    {
+        "actual": 6.7,
+        "country": "Hungary",
+        "currency": "HUF",
+        "forecast": 5.4,
+        "name": "Retail Sales (YoY)",
+        "previous": 6.2,
+        "timestamp": 1396508400,
+        "volatility": 0
+    },
+    {
+        "actual": 54.0,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 53.5,
+        "name": "Spanish Services PMI",
+        "previous": 53.7,
+        "timestamp": 1396509180,
+        "volatility": 1
+    },
+    {
+        "actual": 49.5,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 52.0,
+        "name": "Italian Services PMI",
+        "previous": 52.9,
+        "timestamp": 1396511100,
+        "volatility": 1
+    },
+    {
+        "actual": 51.5,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 51.4,
+        "name": "French Services PMI",
+        "previous": 51.4,
+        "timestamp": 1396511400,
+        "volatility": 1
+    },
+    {
+        "actual": 53.0,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 54.0,
+        "name": "German Services PMI",
+        "previous": 54.0,
+        "timestamp": 1396511700,
+        "volatility": 1
+    },
+    {
+        "actual": -6.3,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": -6.0,
+        "name": "Spanish Government Budget Balance",
+        "previous": -3.6,
+        "timestamp": 1396512000,
+        "volatility": 0
+    },
+    {
+        "actual": 52.2,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 52.4,
+        "name": "Services PMI",
+        "previous": 52.4,
+        "timestamp": 1396512000,
+        "volatility": 1
+    },
+    {
+        "actual": -10.6,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": -9.4,
+        "name": "Housing Equity Withdrawal (QoQ)",
+        "previous": -10.6,
+        "timestamp": 1396513800,
+        "volatility": 0
+    },
+    {
+        "actual": 57.6,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 58.1,
+        "name": "Services PMI",
+        "previous": 58.2,
+        "timestamp": 1396513800,
+        "volatility": 2
+    },
+    {
+        "actual": 3.291,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 10-Year Obligacion Auction",
+        "previous": 3.344,
+        "timestamp": 1396514700,
+        "volatility": 1
+    },
+    {
+        "actual": 1.869,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 5-Year Bonos Auction",
+        "previous": 1.991,
+        "timestamp": 1396514700,
+        "volatility": 0
+    },
+    {
+        "actual": 2.15,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 10-Year OAT Auction",
+        "previous": 2.2,
+        "timestamp": 1396515600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.46,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 7-Year OAT Auction",
+        "previous": 1.54,
+        "timestamp": 1396515600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.8,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.8,
+        "name": "Retail Sales (YoY)",
+        "previous": 0.8,
+        "timestamp": 1396515600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -0.6,
+        "name": "Retail Sales (MoM)",
+        "previous": 1.0,
+        "timestamp": 1396515600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.6,
+        "country": "Oman",
+        "currency": "OMR",
+        "name": "CPI (YoY)",
+        "previous": 1.2,
+        "timestamp": 1396515600,
+        "volatility": 0
+    },
+    {
+        "actual": 484.0,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "Central Bank reserves (USD)",
+        "previous": 486.6,
+        "timestamp": 1396522800,
+        "volatility": 1
+    },
+    {
+        "actual": 34.4,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Challenger Job Cuts",
+        "previous": 41.8,
+        "timestamp": 1396524600,
+        "volatility": 0
+    },
+    {
+        "actual": -30.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Challenger Job Cuts (YoY)",
+        "previous": -24.4,
+        "timestamp": 1396524600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.25,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.25,
+        "name": "ECB Interest Rate Decision",
+        "previous": 0.25,
+        "timestamp": 1396525500,
+        "volatility": 2
+    },
+    {
+        "actual": 2.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.0,
+        "name": "Continuing Jobless Claims",
+        "previous": 2.0,
+        "timestamp": 1396528200,
+        "volatility": 0
+    },
+    {
+        "actual": 326.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 317.0,
+        "name": "Initial Jobless Claims",
+        "previous": 310.0,
+        "timestamp": 1396528200,
+        "volatility": 1
+    },
+    {
+        "actual": 319.5,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Jobless Claims 4-Week Avg.",
+        "previous": 319.25,
+        "timestamp": 1396528200,
+        "volatility": 0
+    },
+    {
+        "actual": -42.3,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -38.5,
+        "name": "Trade Balance",
+        "previous": -39.28,
+        "timestamp": 1396528200,
+        "volatility": 1
+    },
+    {
+        "actual": 42.35,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 41.6,
+        "name": "Exports",
+        "previous": 40.87,
+        "timestamp": 1396528200,
+        "volatility": 0
+    },
+    {
+        "actual": 42.06,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 41.8,
+        "name": "Imports",
+        "previous": 41.21,
+        "timestamp": 1396528200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.29,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.2,
+        "name": "Trade Balance",
+        "previous": -0.34,
+        "timestamp": 1396528200,
+        "volatility": 1
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB Press Conference",
+        "timestamp": 1396528200,
+        "volatility": 2
+    },
+    {
+        "actual": 35.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Bloomberg Consumer Confidence",
+        "previous": 34.25,
+        "timestamp": 1396532700,
+        "volatility": 0
+    },
+    {
+        "actual": 55.3,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 55.5,
+        "name": "Services PMI",
+        "previous": 55.5,
+        "timestamp": 1396532700,
+        "volatility": 1
+    },
+    {
+        "actual": 53.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "ISM Non-Manufacturing Employment",
+        "previous": 47.5,
+        "timestamp": 1396533600,
+        "volatility": 1
+    },
+    {
+        "actual": 53.4,
+        "country": "United States",
+        "currency": "USD",
+        "name": "ISM Non-Manufacturing New Orders",
+        "previous": 51.3,
+        "timestamp": 1396533600,
+        "volatility": 0
+    },
+    {
+        "actual": 53.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 53.5,
+        "name": "ISM Non-Manufacturing PMI",
+        "previous": 51.6,
+        "timestamp": 1396533600,
+        "volatility": 2
+    },
+    {
+        "actual": 58.3,
+        "country": "United States",
+        "currency": "USD",
+        "name": "ISM Non-Manufacturing Prices",
+        "previous": 53.7,
+        "timestamp": 1396533600,
+        "volatility": 0
+    },
+    {
+        "actual": 88.8,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 85.2,
+        "name": "Consumer Confidence n.s.a.",
+        "previous": 84.5,
+        "timestamp": 1396533600,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB President Draghi Speaks",
+        "timestamp": 1396533600,
+        "volatility": 2
+    },
+    {
+        "actual": -74.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -74.0,
+        "name": "Natural Gas Storage",
+        "previous": -57.0,
+        "timestamp": 1396535400,
+        "volatility": 0
+    }
+]

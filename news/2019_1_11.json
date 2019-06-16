@@ -1,0 +1,578 @@
+[
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Clarida Speaks",
+        "timestamp": 1547164800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.4,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.3,
+        "name": "Retail Sales (MoM) (Nov)",
+        "previous": 0.3,
+        "timestamp": 1547166600,
+        "volatility": 2
+    },
+    {
+        "actual": 2.5,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "forecast": 2.2,
+        "name": "Industrial Production (YoY) (Nov)",
+        "previous": 4.2,
+        "timestamp": 1547179200,
+        "volatility": 0
+    },
+    {
+        "actual": 48.0,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 50.5,
+        "name": "Economy Watchers Current Index (Dec)",
+        "previous": 51.0,
+        "timestamp": 1547182800,
+        "volatility": 0
+    },
+    {
+        "actual": -3.0,
+        "country": "Singapore",
+        "currency": "SGD",
+        "name": "Retail Sales (YoY)",
+        "previous": 0.1,
+        "timestamp": 1547182800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Singapore",
+        "currency": "SGD",
+        "name": "Retail Sales (MoM)",
+        "previous": -0.3,
+        "timestamp": 1547182800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.5,
+        "country": "Denmark",
+        "currency": "DKK",
+        "name": "Industrial Production (MoM) (Nov)",
+        "previous": 1.0,
+        "timestamp": 1547190000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.99,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 0.97,
+        "name": "Current Account (USD) (Nov)",
+        "previous": 2.77,
+        "timestamp": 1547190000,
+        "volatility": 0
+    },
+    {
+        "actual": 4.4,
+        "country": "Romania",
+        "currency": "RON",
+        "forecast": 4.3,
+        "name": "GDP (YoY)",
+        "previous": 4.3,
+        "timestamp": 1547190000,
+        "volatility": 0
+    },
+    {
+        "actual": 33.5,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Currency Swaps (USD)",
+        "previous": 33.7,
+        "timestamp": 1547191800,
+        "volatility": 0
+    },
+    {
+        "actual": 205.7,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Foreign Reserves (USD)",
+        "previous": 205.0,
+        "timestamp": 1547191800,
+        "volatility": 0
+    },
+    {
+        "actual": -2.6,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish Industrial Production (YoY) (Nov)",
+        "previous": 0.7,
+        "timestamp": 1547193600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.6,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "name": "GDP (QoQ) (Q3)",
+        "previous": 0.6,
+        "timestamp": 1547193600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.4,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "name": "GDP (YoY) (Q3)",
+        "previous": 2.4,
+        "timestamp": 1547193600,
+        "volatility": 0
+    },
+    {
+        "actual": 6.1,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": 4.7,
+        "name": "Retail Sales (YoY) (Nov)",
+        "previous": 6.4,
+        "timestamp": 1547193600,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB's Mersch Speaks",
+        "timestamp": 1547194800,
+        "volatility": 1
+    },
+    {
+        "actual": -2.6,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.2,
+        "name": "Italian Industrial Production (YoY) (Nov)",
+        "previous": 1.0,
+        "timestamp": 1547197200,
+        "volatility": 0
+    },
+    {
+        "actual": -1.6,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": -0.3,
+        "name": "Italian Industrial Production (MoM) (Nov)",
+        "previous": -0.1,
+        "timestamp": 1547197200,
+        "volatility": 0
+    },
+    {
+        "actual": 3.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 2.5,
+        "name": "U.K. Construction Output (YoY) (Nov)",
+        "previous": 4.1,
+        "timestamp": 1547199000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.6,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.2,
+        "name": "Construction Output (MoM) (Nov)",
+        "previous": -0.2,
+        "timestamp": 1547199000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.1,
+        "name": "GDP (MoM)",
+        "previous": 0.1,
+        "timestamp": 1547199000,
+        "volatility": 2
+    },
+    {
+        "actual": 0.3,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.2,
+        "name": "Index of Services",
+        "previous": 0.3,
+        "timestamp": 1547199000,
+        "volatility": 0
+    },
+    {
+        "actual": -1.5,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": -0.7,
+        "name": "Industrial Production (YoY) (Nov)",
+        "previous": -0.9,
+        "timestamp": 1547199000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.4,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.3,
+        "name": "Industrial Production (MoM) (Nov)",
+        "previous": -0.5,
+        "timestamp": 1547199000,
+        "volatility": 1
+    },
+    {
+        "actual": -0.3,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.4,
+        "name": "Manufacturing Production (MoM) (Nov)",
+        "previous": -0.6,
+        "timestamp": 1547199000,
+        "volatility": 2
+    },
+    {
+        "actual": -1.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": -0.7,
+        "name": "Manufacturing Production (YoY) (Nov)",
+        "previous": -0.7,
+        "timestamp": 1547199000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.3,
+        "name": "Monthly GDP 3M/3M Change",
+        "previous": 0.4,
+        "timestamp": 1547199000,
+        "volatility": 2
+    },
+    {
+        "actual": -12.02,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": -11.4,
+        "name": "Trade Balance (Nov)",
+        "previous": -11.95,
+        "timestamp": 1547199000,
+        "volatility": 1
+    },
+    {
+        "actual": -3.93,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": -3.7,
+        "name": "Trade Balance Non-EU (Nov)",
+        "previous": -4.32,
+        "timestamp": 1547199000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.6,
+        "country": "Greece",
+        "currency": "EUR",
+        "name": "Greek CPI (YoY) (Dec)",
+        "previous": 1.0,
+        "timestamp": 1547200800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.6,
+        "country": "Greece",
+        "currency": "EUR",
+        "name": "Greek HICP (YoY) (Dec)",
+        "previous": 1.1,
+        "timestamp": 1547200800,
+        "volatility": 0
+    },
+    {
+        "actual": 12.0,
+        "country": "Egypt",
+        "currency": "EGP",
+        "name": "CPI (YoY) (Dec)",
+        "previous": 15.7,
+        "timestamp": 1547200800,
+        "volatility": 0
+    },
+    {
+        "actual": 397.3,
+        "country": "Hungary",
+        "currency": "HUF",
+        "name": "Budget Balance (Dec)",
+        "previous": -164.3,
+        "timestamp": 1547200800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.07,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian 3-Year BTP Auction",
+        "previous": 1.98,
+        "timestamp": 1547203500,
+        "volatility": 0
+    },
+    {
+        "actual": 2.35,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian 7-Year BTP Auction",
+        "previous": 3.12,
+        "timestamp": 1547203500,
+        "volatility": 0
+    },
+    {
+        "actual": 0.15,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 0.13,
+        "name": "CPI (MoM) (Dec)",
+        "previous": -0.21,
+        "timestamp": 1547204400,
+        "volatility": 1
+    },
+    {
+        "actual": 3.75,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 3.7,
+        "name": "CPI (YoY) (Dec)",
+        "previous": 4.05,
+        "timestamp": 1547204400,
+        "volatility": 1
+    },
+    {
+        "actual": -0.2,
+        "country": "Portugal",
+        "currency": "EUR",
+        "forecast": -0.2,
+        "name": "Portuguese CPI (MoM) (Dec)",
+        "previous": -0.2,
+        "timestamp": 1547204400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "Portugal",
+        "currency": "EUR",
+        "forecast": 0.7,
+        "name": "Portuguese CPI (YoY) (Dec)",
+        "previous": 0.7,
+        "timestamp": 1547204400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.6,
+        "country": "Latvia",
+        "currency": "EUR",
+        "name": "Latvian CPI (YoY) (Dec)",
+        "previous": 3.0,
+        "timestamp": 1547204400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.4,
+        "country": "Latvia",
+        "currency": "EUR",
+        "name": "Latvian CPI (MoM) (Dec)",
+        "previous": -0.1,
+        "timestamp": 1547204400,
+        "volatility": 0
+    },
+    {
+        "actual": 396.08,
+        "country": "India",
+        "currency": "INR",
+        "name": "FX Reserves, USD",
+        "previous": 393.4,
+        "timestamp": 1547206200,
+        "volatility": 0
+    },
+    {
+        "actual": 16.45,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "End Year CPI Forecast (Jan)",
+        "previous": 21.28,
+        "timestamp": 1547206200,
+        "volatility": 0
+    },
+    {
+        "actual": 5.0,
+        "country": "India",
+        "currency": "INR",
+        "name": "Cumulative Industrial Production (Nov)",
+        "previous": 5.6,
+        "timestamp": 1547208000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "India",
+        "currency": "INR",
+        "forecast": 4.1,
+        "name": "Industrial Production (YoY) (Nov)",
+        "previous": 8.1,
+        "timestamp": 1547208000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.4,
+        "country": "India",
+        "currency": "INR",
+        "name": "Manufacturing Output (MoM) (Nov)",
+        "previous": 8.2,
+        "timestamp": 1547208000,
+        "volatility": 0
+    },
+    {
+        "actual": 3.68,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian 30-Year BTP Auction",
+        "previous": 3.79,
+        "timestamp": 1547210700,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "NIESR GDP Estimate",
+        "previous": 0.3,
+        "timestamp": 1547211600,
+        "volatility": 1
+    },
+    {
+        "actual": 2.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.2,
+        "name": "Core CPI (YoY) (Dec)",
+        "previous": 2.2,
+        "timestamp": 1547213400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.2,
+        "name": "Core CPI (MoM) (Dec)",
+        "previous": 0.2,
+        "timestamp": 1547213400,
+        "volatility": 2
+    },
+    {
+        "actual": 260.03,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Core CPI Index (Dec)",
+        "previous": 259.48,
+        "timestamp": 1547213400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.1,
+        "name": "CPI (MoM) (Dec)",
+        "previous": 0.0,
+        "timestamp": 1547213400,
+        "volatility": 1
+    },
+    {
+        "actual": 1.9,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.9,
+        "name": "CPI (YoY) (Dec)",
+        "previous": 2.2,
+        "timestamp": 1547213400,
+        "volatility": 0
+    },
+    {
+        "actual": 251.23,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 251.1,
+        "name": "CPI Index, n.s.a. (Dec)",
+        "previous": 252.04,
+        "timestamp": 1547213400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.3,
+        "name": "Real Earnings (MoM) (Dec)",
+        "previous": -0.1,
+        "timestamp": 1547213400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "NIESR Monthly GDP Tracker",
+        "previous": 0.4,
+        "timestamp": 1547215200,
+        "volatility": 1
+    },
+    {
+        "actual": -0.6,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "Industrial Production (MoM) (Nov)",
+        "previous": -1.6,
+        "timestamp": 1547215200,
+        "volatility": 0
+    },
+    {
+        "actual": -1.3,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 0.5,
+        "name": "Industrial Production (YoY) (Nov)",
+        "previous": 1.0,
+        "timestamp": 1547215200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Cleveland CPI (MoM) (Dec)",
+        "previous": 0.3,
+        "timestamp": 1547222400,
+        "volatility": 0
+    },
+    {
+        "actual": 873.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "U.S. Baker Hughes Oil Rig Count",
+        "previous": 877.0,
+        "timestamp": 1547229600,
+        "volatility": 1
+    },
+    {
+        "actual": 1.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "U.S. Baker Hughes Total Rig Count",
+        "previous": 1.0,
+        "timestamp": 1547229600,
+        "volatility": 1
+    }
+]

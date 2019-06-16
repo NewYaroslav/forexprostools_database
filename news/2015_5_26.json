@@ -1,0 +1,530 @@
+[
+    {
+        "actual": 3.2,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": 1.8,
+        "name": "GDP (QoQ) (Q1)",
+        "previous": 1.1,
+        "timestamp": 1432598400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.6,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": 2.2,
+        "name": "GDP (YoY) (Q1)",
+        "previous": 2.1,
+        "timestamp": 1432598400,
+        "volatility": 0
+    },
+    {
+        "actual": -6.8,
+        "country": "Philippines",
+        "currency": "PHP",
+        "forecast": 5.5,
+        "name": "Imports (YoY) (Mar)",
+        "previous": 11.2,
+        "timestamp": 1432602000,
+        "volatility": 0
+    },
+    {
+        "actual": 264.0,
+        "country": "Philippines",
+        "currency": "PHP",
+        "forecast": -409.0,
+        "name": "Trade Balance (Mar)",
+        "previous": -813.0,
+        "timestamp": 1432602000,
+        "volatility": 0
+    },
+    {
+        "actual": -1.7,
+        "country": "Thailand",
+        "currency": "THB",
+        "forecast": -3.2,
+        "name": "Custom-Based Export Data (Apr)",
+        "previous": -4.45,
+        "timestamp": 1432612800,
+        "volatility": 0
+    },
+    {
+        "actual": -6.84,
+        "country": "Thailand",
+        "currency": "THB",
+        "forecast": -6.8,
+        "name": "Custom-Based Import Data (Apr)",
+        "previous": -5.89,
+        "timestamp": 1432612800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.52,
+        "country": "Thailand",
+        "currency": "THB",
+        "forecast": -0.78,
+        "name": "Custom-Based Trade Data (USD) (Apr)",
+        "previous": 1.5,
+        "timestamp": 1432612800,
+        "volatility": 0
+    },
+    {
+        "actual": -5.8,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": 0.5,
+        "name": "Industrial Production (MoM) (Apr)",
+        "previous": 1.2,
+        "timestamp": 1432616400,
+        "volatility": 0
+    },
+    {
+        "actual": -8.7,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": -3.0,
+        "name": "Industrial Production (YoY) (Apr)",
+        "previous": -5.5,
+        "timestamp": 1432616400,
+        "volatility": 0
+    },
+    {
+        "actual": 4.22,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 4.21,
+        "name": "Employment Level (Q1)",
+        "previous": 4.231,
+        "timestamp": 1432624500,
+        "volatility": 1
+    },
+    {
+        "actual": -0.3,
+        "country": "Sweden",
+        "currency": "SEK",
+        "name": "PPI (MoM) (Apr)",
+        "previous": 0.3,
+        "timestamp": 1432625400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.4,
+        "country": "Sweden",
+        "currency": "SEK",
+        "name": "PPI (YoY) (Apr)",
+        "previous": 2.3,
+        "timestamp": 1432625400,
+        "volatility": 0
+    },
+    {
+        "actual": 4.1,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "forecast": 3.1,
+        "name": "Dutch Business Confidence (May)",
+        "previous": 3.3,
+        "timestamp": 1432625400,
+        "volatility": 0
+    },
+    {
+        "actual": 11.2,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 11.2,
+        "name": "Unemployment Rate (Apr)",
+        "previous": 11.7,
+        "timestamp": 1432627200,
+        "volatility": 1
+    },
+    {
+        "actual": 1.3,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": 1.7,
+        "name": "GDP Annualized (QoQ) (Q1)",
+        "previous": 4.1,
+        "timestamp": 1432632600,
+        "volatility": 1
+    },
+    {
+        "actual": 2.1,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": 2.1,
+        "name": "GDP (YoY) (Q1)",
+        "previous": 1.3,
+        "timestamp": 1432632600,
+        "volatility": 0
+    },
+    {
+        "actual": 51.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 17.0,
+        "name": "CBI Distributive Trades Survey (May)",
+        "previous": 12.0,
+        "timestamp": 1432634400,
+        "volatility": 0
+    },
+    {
+        "actual": 81.5,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 83.0,
+        "name": "FGV Consumer confidence (May)",
+        "previous": 85.6,
+        "timestamp": 1432638000,
+        "volatility": 0
+    },
+    {
+        "actual": 26.4,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": 25.0,
+        "name": "Unemployment Rate (Q1)",
+        "previous": 24.3,
+        "timestamp": 1432638000,
+        "volatility": 0
+    },
+    {
+        "actual": 5.53,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "name": "Unemployment (Q1)",
+        "previous": 4.909,
+        "timestamp": 1432638000,
+        "volatility": 0
+    },
+    {
+        "actual": 132.0,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "name": "Slovak Current Account (Mar)",
+        "previous": 355.0,
+        "timestamp": 1432641600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.65,
+        "country": "Hungary",
+        "currency": "HUF",
+        "forecast": 1.65,
+        "name": "Interest Rate Decision (May)",
+        "previous": 1.8,
+        "timestamp": 1432641600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.4,
+        "name": "Core Durable Goods Orders (MoM) (Apr)",
+        "previous": 0.6,
+        "timestamp": 1432643400,
+        "volatility": 2
+    },
+    {
+        "actual": -0.5,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.4,
+        "name": "Durable Goods Orders (MoM) (Apr)",
+        "previous": 5.1,
+        "timestamp": 1432643400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.4,
+        "name": "Durables Excluding Defense (MoM) (Apr)",
+        "previous": 3.4,
+        "timestamp": 1432643400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.3,
+        "name": "Goods Orders Non Defense Ex Air (MoM) (Apr)",
+        "previous": 1.5,
+        "timestamp": 1432643400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.7,
+        "name": "House Price Index (MoM) (Mar)",
+        "previous": 0.6,
+        "timestamp": 1432645200,
+        "volatility": 0
+    },
+    {
+        "actual": 5.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "House Price Index (YoY) (Mar)",
+        "previous": 5.4,
+        "timestamp": 1432645200,
+        "volatility": 0
+    },
+    {
+        "actual": 221.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "House Price Index (Mar)",
+        "previous": 220.2,
+        "timestamp": 1432645200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.9,
+        "name": "S&P/CS HPI Composite - 20 s.a. (MoM) (Mar)",
+        "previous": 1.2,
+        "timestamp": 1432645200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.9,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.7,
+        "name": "S&P/CS HPI Composite - 20 n.s.a. (MoM) (Mar)",
+        "previous": 0.5,
+        "timestamp": 1432645200,
+        "volatility": 0
+    },
+    {
+        "actual": 5.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 4.6,
+        "name": "S&P/CS HPI Composite - 20 n.s.a. (YoY) (Mar)",
+        "previous": 5.0,
+        "timestamp": 1432645200,
+        "volatility": 1
+    },
+    {
+        "actual": 5.5,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 4.4,
+        "name": "Retail Sales (YoY) (Mar)",
+        "previous": 5.6,
+        "timestamp": 1432645200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": -0.2,
+        "name": "Retail Sales (MoM) (Mar)",
+        "previous": 0.5,
+        "timestamp": 1432645200,
+        "volatility": 1
+    },
+    {
+        "actual": -0.186,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 12-Month BTF Auction",
+        "previous": -0.175,
+        "timestamp": 1432645200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.193,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 3-Month BTF Auction",
+        "previous": -0.181,
+        "timestamp": 1432645200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.189,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 6-Month BTF Auction",
+        "previous": -0.175,
+        "timestamp": 1432645200,
+        "volatility": 0
+    },
+    {
+        "actual": -6.9,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": -6.78,
+        "name": "Current Account (USD) (Apr)",
+        "previous": -5.74,
+        "timestamp": 1432647000,
+        "volatility": 0
+    },
+    {
+        "actual": 5.78,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 4.3,
+        "name": "Foreign direct investment (USD) (Apr)",
+        "previous": 4.26,
+        "timestamp": 1432647000,
+        "volatility": 0
+    },
+    {
+        "actual": 56.4,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 56.8,
+        "name": "Services PMI (May)",
+        "previous": 57.4,
+        "timestamp": 1432647900,
+        "volatility": 1
+    },
+    {
+        "actual": 95.4,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 94.9,
+        "name": "CB Consumer Confidence (May)",
+        "previous": 94.3,
+        "timestamp": 1432648800,
+        "volatility": 2
+    },
+    {
+        "actual": 517.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 510.0,
+        "name": "New Home Sales (Apr)",
+        "previous": 484.0,
+        "timestamp": 1432648800,
+        "volatility": 2
+    },
+    {
+        "actual": 6.8,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 5.0,
+        "name": "New Home Sales (MoM) (Apr)",
+        "previous": -10.0,
+        "timestamp": 1432648800,
+        "volatility": 1
+    },
+    {
+        "actual": 1.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.0,
+        "name": "Richmond Manufacturing Index (May)",
+        "previous": -3.0,
+        "timestamp": 1432648800,
+        "volatility": 0
+    },
+    {
+        "actual": -1.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Richmond Manufacturing Shipments (May)",
+        "previous": -6.0,
+        "timestamp": 1432648800,
+        "volatility": 0
+    },
+    {
+        "actual": 13.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Richmond Services Index (May)",
+        "previous": 2.0,
+        "timestamp": 1432648800,
+        "volatility": 0
+    },
+    {
+        "actual": -20.8,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -11.5,
+        "name": "Dallas Fed Mfg Business Index (May)",
+        "previous": -16.0,
+        "timestamp": 1432650600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.015,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Month Bill Auction",
+        "previous": 0.015,
+        "timestamp": 1432654200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.085,
+        "country": "United States",
+        "currency": "USD",
+        "name": "6-Month Bill Auction",
+        "previous": 0.08,
+        "timestamp": 1432654200,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Stanley Fischer Speaks",
+        "timestamp": 1432657800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.648,
+        "country": "United States",
+        "currency": "USD",
+        "name": "2-Year Note Auction",
+        "previous": 0.54,
+        "timestamp": 1432659600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "Argentina",
+        "currency": "ARS",
+        "forecast": 1.5,
+        "name": "Economic Activity (YoY) (Mar)",
+        "previous": 1.4,
+        "timestamp": 1432666800,
+        "volatility": 1
+    },
+    {
+        "actual": -1.5,
+        "country": "Argentina",
+        "currency": "ARS",
+        "forecast": -1.0,
+        "name": "Industrial Production (YoY) (Apr)",
+        "previous": -1.6,
+        "timestamp": 1432666800,
+        "volatility": 1
+    },
+    {
+        "country": "Oman",
+        "currency": "OMR",
+        "name": "Budget Balance (Mar)",
+        "previous": -299.0,
+        "timestamp": 1432674000,
+        "volatility": 0
+    },
+    {
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Monetary Policy Meeting Minutes",
+        "timestamp": 1432684200,
+        "volatility": 1
+    }
+]

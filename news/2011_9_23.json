@@ -1,0 +1,242 @@
+[
+    {
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "RBA Financial Stability Review",
+        "timestamp": 1316741400,
+        "volatility": 1
+    },
+    {
+        "actual": 99.0,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 100.0,
+        "name": "French Business Survey",
+        "previous": 105.0,
+        "timestamp": 1316760300,
+        "volatility": 0
+    },
+    {
+        "actual": 80.0,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 83.0,
+        "name": "French Consumer Confidence",
+        "previous": 86.0,
+        "timestamp": 1316760300,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.3,
+        "name": "Italian Retail Sales (MoM)",
+        "previous": -0.3,
+        "timestamp": 1316764800,
+        "volatility": 0
+    },
+    {
+        "actual": 7.1,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish PPI (YoY)",
+        "previous": 7.5,
+        "timestamp": 1316764800,
+        "volatility": 0
+    },
+    {
+        "actual": 3.9,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": 4.0,
+        "name": "Industrial Production (YoY)",
+        "previous": 3.9,
+        "timestamp": 1316764800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.21,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": 2.5,
+        "name": "Trade Balance",
+        "previous": 1.23,
+        "timestamp": 1316764800,
+        "volatility": 0
+    },
+    {
+        "actual": 35.2,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 33.2,
+        "name": "Gross Mortgage Approvals",
+        "previous": 33.7,
+        "timestamp": 1316766600,
+        "volatility": 1
+    },
+    {
+        "actual": 5.8,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 5.6,
+        "name": "Unemployment Rate n.s.a.",
+        "previous": 5.6,
+        "timestamp": 1316782800,
+        "volatility": 0
+    },
+    {
+        "actual": -9.4,
+        "country": "Belgium",
+        "currency": "EUR",
+        "forecast": -8.9,
+        "name": "Belgium NBB Business Climate",
+        "previous": -7.8,
+        "timestamp": 1316782800,
+        "volatility": 0
+    },
+    {
+        "actual": 1071.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "U.S. Baker Hughes Oil Rig Count",
+        "previous": 1062.0,
+        "timestamp": 1316797200,
+        "volatility": 1
+    },
+    {
+        "actual": 7.7,
+        "country": "Argentina",
+        "currency": "ARS",
+        "forecast": 7.4,
+        "name": "Economic Activity (YoY)",
+        "previous": 9.4,
+        "timestamp": 1316804400,
+        "volatility": 1
+    },
+    {
+        "actual": 5.2,
+        "country": "Argentina",
+        "currency": "ARS",
+        "forecast": 6.7,
+        "name": "Industrial Production (YoY)",
+        "previous": 7.1,
+        "timestamp": 1316804400,
+        "volatility": 1
+    },
+    {
+        "actual": -59.8,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "CFTC GBP speculative net positions",
+        "previous": -26.2,
+        "timestamp": 1316806200,
+        "volatility": 1
+    },
+    {
+        "actual": 150.5,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Gold speculative net positions",
+        "previous": 168.8,
+        "timestamp": 1316806200,
+        "volatility": 1
+    },
+    {
+        "actual": 22.5,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Silver speculative net positions",
+        "previous": 26.3,
+        "timestamp": 1316806200,
+        "volatility": 0
+    },
+    {
+        "actual": -5.5,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "CFTC CAD speculative net positions",
+        "previous": -6.3,
+        "timestamp": 1316806200,
+        "volatility": 0
+    },
+    {
+        "actual": -16.9,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "CFTC MXN speculative net positions",
+        "previous": -1.2,
+        "timestamp": 1316806200,
+        "volatility": 0
+    },
+    {
+        "actual": 4.2,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "name": "CFTC CHF speculative net positions",
+        "previous": 5.5,
+        "timestamp": 1316806200,
+        "volatility": 0
+    },
+    {
+        "actual": 23.1,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "CFTC AUD speculative net positions",
+        "previous": 36.9,
+        "timestamp": 1316806200,
+        "volatility": 1
+    },
+    {
+        "actual": 45.6,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "CFTC JPY speculative net positions",
+        "previous": 35.0,
+        "timestamp": 1316806200,
+        "volatility": 1
+    },
+    {
+        "actual": 13.6,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "CFTC NZD speculative net positions",
+        "previous": 17.7,
+        "timestamp": 1316806200,
+        "volatility": 0
+    },
+    {
+        "actual": -79.5,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "CFTC EUR speculative net positions",
+        "previous": -54.5,
+        "timestamp": 1316806200,
+        "volatility": 1
+    },
+    {
+        "actual": 160.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Crude Oil speculative net positions",
+        "previous": 165.4,
+        "timestamp": 1316809800,
+        "volatility": 1
+    },
+    {
+        "actual": 17.2,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "CFTC RUB speculative positions",
+        "previous": 16.5,
+        "timestamp": 1316809800,
+        "volatility": 1
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB President Trichet Speaks",
+        "timestamp": 1316809800,
+        "volatility": 2
+    }
+]

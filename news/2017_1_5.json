@@ -1,0 +1,646 @@
+[
+    {
+        "actual": 50.3,
+        "country": "Hong Kong",
+        "currency": "HKD",
+        "name": "Manufacturing PMI (Dec)",
+        "previous": 49.5,
+        "timestamp": 1483576200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.11,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "name": "CPI (MoM) (Dec)",
+        "previous": 0.29,
+        "timestamp": 1483576200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.7,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": 2.11,
+        "name": "CPI (YoY) (Dec)",
+        "previous": 1.97,
+        "timestamp": 1483576200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.41,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "name": "Wholesale Prices (MoM) (Dec)",
+        "previous": -0.28,
+        "timestamp": 1483576200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.5,
+        "country": "Philippines",
+        "currency": "PHP",
+        "name": "Core CPI (YoY) (Dec)",
+        "previous": 2.4,
+        "timestamp": 1483578000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Philippines",
+        "currency": "PHP",
+        "name": "CPI (MoM) (Dec)",
+        "previous": 0.6,
+        "timestamp": 1483578000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.6,
+        "country": "Philippines",
+        "currency": "PHP",
+        "forecast": 2.6,
+        "name": "CPI (YoY) (Dec)",
+        "previous": 2.5,
+        "timestamp": 1483578000,
+        "volatility": 0
+    },
+    {
+        "actual": 53.4,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 53.3,
+        "name": "Caixin Services PMI (Dec)",
+        "previous": 53.1,
+        "timestamp": 1483580700,
+        "volatility": 1
+    },
+    {
+        "actual": 73.7,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Consumer Confidence (Dec)",
+        "previous": 72.3,
+        "timestamp": 1483587000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.056,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "10-Year JGB Auction",
+        "previous": 0.032,
+        "timestamp": 1483587900,
+        "volatility": 1
+    },
+    {
+        "actual": 1.0,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch CPI (YoY) (Dec)",
+        "previous": 0.6,
+        "timestamp": 1483594200,
+        "volatility": 0
+    },
+    {
+        "actual": 59.1,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Services PMI (Dec)",
+        "previous": 56.0,
+        "timestamp": 1483596000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "Romania",
+        "currency": "RON",
+        "name": "PPI (YoY) (Nov)",
+        "previous": -0.5,
+        "timestamp": 1483599600,
+        "volatility": 0
+    },
+    {
+        "actual": 51.6,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "name": "South Africa Standard Bank PMI (Dec)",
+        "previous": 50.8,
+        "timestamp": 1483600500,
+        "volatility": 0
+    },
+    {
+        "actual": 3.4,
+        "country": "Denmark",
+        "currency": "DKK",
+        "name": "Unemployment Rate (Nov)",
+        "previous": 3.4,
+        "timestamp": 1483603200,
+        "volatility": 0
+    },
+    {
+        "actual": 4.3,
+        "country": "Austria",
+        "currency": "EUR",
+        "name": "Austrian Wholesale Prices n.s.a (YoY) (Dec)",
+        "previous": -0.2,
+        "timestamp": 1483603200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.2,
+        "country": "Austria",
+        "currency": "EUR",
+        "name": "Austrian Wholesale Prices n.s.a (MoM) (Dec)",
+        "previous": -0.4,
+        "timestamp": 1483603200,
+        "volatility": 0
+    },
+    {
+        "actual": 4.5,
+        "country": "Hungary",
+        "currency": "HUF",
+        "name": "Quarterly Unemployment Rate (Nov)",
+        "previous": 4.7,
+        "timestamp": 1483603200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.0,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 0.0,
+        "name": "CPI (YoY) (Dec)",
+        "previous": -0.3,
+        "timestamp": 1483604100,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": -0.1,
+        "name": "CPI (MoM) (Dec)",
+        "previous": -0.2,
+        "timestamp": 1483604100,
+        "volatility": 1
+    },
+    {
+        "actual": 2.1,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian Public Deficit (Q3)",
+        "previous": 0.2,
+        "timestamp": 1483606800,
+        "volatility": 0
+    },
+    {
+        "actual": 50.4,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "Retail PMI",
+        "previous": 48.6,
+        "timestamp": 1483607400,
+        "volatility": 0
+    },
+    {
+        "actual": 56.2,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 54.7,
+        "name": "Services PMI (Dec)",
+        "previous": 55.2,
+        "timestamp": 1483608600,
+        "volatility": 2
+    },
+    {
+        "actual": 1.45,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 10-Year Obligacion Auction",
+        "previous": 1.423,
+        "timestamp": 1483609800,
+        "volatility": 1
+    },
+    {
+        "actual": 2.761,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 30-Year Obligacion Auction",
+        "previous": 2.569,
+        "timestamp": 1483609800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.271,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 5-Year Bonos Auction",
+        "previous": 0.207,
+        "timestamp": 1483609800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.78,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 10-Year OAT Auction",
+        "previous": 0.46,
+        "timestamp": 1483610400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.76,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 30-Year OAT Auction",
+        "previous": 1.01,
+        "timestamp": 1483610400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -0.1,
+        "name": "PPI (YoY) (Nov)",
+        "previous": -0.4,
+        "timestamp": 1483610400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "PPI (MoM) (Nov)",
+        "previous": 0.8,
+        "timestamp": 1483610400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.97,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "20-Year Treasury Gilt Auction",
+        "previous": 1.811,
+        "timestamp": 1483612500,
+        "volatility": 0
+    },
+    {
+        "actual": -1.1,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 0.5,
+        "name": "Industrial Production (YoY) (Nov)",
+        "previous": -7.3,
+        "timestamp": 1483614000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.2,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 2.0,
+        "name": "Industrial Production (MoM) (Nov)",
+        "previous": -1.2,
+        "timestamp": 1483614000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.9,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Retail Sales (MoM) (Nov)",
+        "previous": -0.3,
+        "timestamp": 1483614000,
+        "volatility": 0
+    },
+    {
+        "actual": 4.3,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Retail Sales (YoY) (Nov)",
+        "previous": 4.1,
+        "timestamp": 1483614000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.8,
+        "country": "Chile",
+        "currency": "CLP",
+        "forecast": 0.8,
+        "name": "Economic Activity (YoY)",
+        "previous": -0.4,
+        "timestamp": 1483615800,
+        "volatility": 0
+    },
+    {
+        "actual": 42.4,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Challenger Job Cuts (YoY)",
+        "previous": -13.0,
+        "timestamp": 1483619400,
+        "volatility": 0
+    },
+    {
+        "actual": 33.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Challenger Job Cuts (Dec)",
+        "previous": 26.9,
+        "timestamp": 1483619400,
+        "volatility": 0
+    },
+    {
+        "actual": 98.361,
+        "country": "Israel",
+        "currency": "ILS",
+        "name": "FX Reserve - USD (Dec)",
+        "previous": 97.127,
+        "timestamp": 1483621200,
+        "volatility": 0
+    },
+    {
+        "actual": 108.0,
+        "country": "Poland",
+        "currency": "PLN",
+        "name": "FX Reserves (EUR) (Dec)",
+        "previous": 104.1,
+        "timestamp": 1483621200,
+        "volatility": 0
+    },
+    {
+        "actual": 153.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 170.0,
+        "name": "ADP Nonfarm Employment Change (Dec)",
+        "previous": 215.0,
+        "timestamp": 1483622100,
+        "volatility": 2
+    },
+    {
+        "actual": -7.1,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Auto Production (MoM) (Dec)",
+        "previous": 2.3,
+        "timestamp": 1483622400,
+        "volatility": 0
+    },
+    {
+        "actual": 14.7,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Auto Sales (MoM) (Dec)",
+        "previous": -0.6,
+        "timestamp": 1483622400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.0,
+        "name": "Continuing Jobless Claims",
+        "previous": 2.0,
+        "timestamp": 1483623000,
+        "volatility": 0
+    },
+    {
+        "actual": 235.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 260.0,
+        "name": "Initial Jobless Claims",
+        "previous": 263.0,
+        "timestamp": 1483623000,
+        "volatility": 1
+    },
+    {
+        "actual": 256.75,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Jobless Claims 4-Week Avg.",
+        "previous": 262.5,
+        "timestamp": 1483623000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.2,
+        "name": "IPPI (MoM) (Nov)",
+        "previous": 0.7,
+        "timestamp": 1483623000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.4,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "IPPI (YoY) (Nov)",
+        "previous": 0.8,
+        "timestamp": 1483623000,
+        "volatility": 0
+    },
+    {
+        "actual": -2.0,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": -1.5,
+        "name": "RMPI (MoM) (Nov)",
+        "previous": 3.3,
+        "timestamp": 1483623000,
+        "volatility": 1
+    },
+    {
+        "actual": 4.1,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "RMPI (YoY) (Nov)",
+        "previous": 1.5,
+        "timestamp": 1483623000,
+        "volatility": 0
+    },
+    {
+        "actual": 54.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Markit Composite PMI (Dec)",
+        "previous": 53.7,
+        "timestamp": 1483627500,
+        "volatility": 1
+    },
+    {
+        "actual": 53.9,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 53.4,
+        "name": "Services PMI (Dec)",
+        "previous": 53.4,
+        "timestamp": 1483627500,
+        "volatility": 1
+    },
+    {
+        "actual": 45.5,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Bloomberg Consumer Confidence",
+        "previous": 46.0,
+        "timestamp": 1483627800,
+        "volatility": 0
+    },
+    {
+        "actual": 61.4,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 61.0,
+        "name": "ISM Non-Manufacturing Business Activity (Dec)",
+        "previous": 61.7,
+        "timestamp": 1483628400,
+        "volatility": 0
+    },
+    {
+        "actual": 53.8,
+        "country": "United States",
+        "currency": "USD",
+        "name": "ISM Non-Manufacturing Employment (Dec)",
+        "previous": 58.2,
+        "timestamp": 1483628400,
+        "volatility": 1
+    },
+    {
+        "actual": 61.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "ISM Non-Manufacturing New Orders (Dec)",
+        "previous": 57.0,
+        "timestamp": 1483628400,
+        "volatility": 0
+    },
+    {
+        "actual": 57.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 56.6,
+        "name": "ISM Non-Manufacturing PMI (Dec)",
+        "previous": 57.2,
+        "timestamp": 1483628400,
+        "volatility": 2
+    },
+    {
+        "actual": 57.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "ISM Non-Manufacturing Prices (Dec)",
+        "previous": 56.3,
+        "timestamp": 1483628400,
+        "volatility": 0
+    },
+    {
+        "actual": -49.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -82.0,
+        "name": "Natural Gas Storage",
+        "previous": -237.0,
+        "timestamp": 1483630200,
+        "volatility": 0
+    },
+    {
+        "actual": -7.051,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -2.152,
+        "name": "Crude Oil Inventories",
+        "previous": 0.614,
+        "timestamp": 1483632000,
+        "volatility": 2
+    },
+    {
+        "actual": -1.043,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Crude Oil Imports",
+        "previous": -0.374,
+        "timestamp": 1483632000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.074,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Cushing Crude Oil Inventories",
+        "previous": 0.172,
+        "timestamp": 1483632000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.372,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Distillate Fuel Production",
+        "previous": -0.165,
+        "timestamp": 1483632000,
+        "volatility": 0
+    },
+    {
+        "actual": 10.051,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.1,
+        "name": "EIA Weekly Distillates Stocks",
+        "previous": -1.881,
+        "timestamp": 1483632000,
+        "volatility": 0
+    },
+    {
+        "actual": -1.07,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Gasoline Production",
+        "previous": 0.387,
+        "timestamp": 1483632000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.986,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Heating Oil Stockpiles",
+        "previous": -0.585,
+        "timestamp": 1483632000,
+        "volatility": 0
+    },
+    {
+        "actual": 8.307,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.786,
+        "name": "Gasoline Inventories",
+        "previous": -1.593,
+        "timestamp": 1483632000,
+        "volatility": 0
+    },
+    {
+        "actual": -501.4,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Foreign Bonds Buying",
+        "previous": -216.7,
+        "timestamp": 1483660200,
+        "volatility": 0
+    },
+    {
+        "actual": 58.5,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Foreign Investments in Japanese Stocks",
+        "previous": 114.1,
+        "timestamp": 1483660200,
+        "volatility": 0
+    }
+]

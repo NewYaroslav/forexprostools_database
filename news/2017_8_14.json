@@ -1,0 +1,326 @@
+[
+    {
+        "actual": 8.3,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 8.6,
+        "name": "Fixed Asset Investment (YoY) (Jul)",
+        "previous": 8.6,
+        "timestamp": 1502676000,
+        "volatility": 1
+    },
+    {
+        "actual": 6.4,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 7.2,
+        "name": "Industrial Production (YoY) (Jul)",
+        "previous": 7.6,
+        "timestamp": 1502676000,
+        "volatility": 2
+    },
+    {
+        "actual": 10.4,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 10.8,
+        "name": "Retail Sales (YoY) (Jul)",
+        "previous": 11.0,
+        "timestamp": 1502676000,
+        "volatility": 0
+    },
+    {
+        "actual": 3.4,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "name": "Unemployment Rate",
+        "previous": 3.4,
+        "timestamp": 1502683200,
+        "volatility": 0
+    },
+    {
+        "actual": 4.7,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch Retail Sales (YoY) (Jun)",
+        "previous": 5.8,
+        "timestamp": 1502685000,
+        "volatility": 0
+    },
+    {
+        "actual": 7.0,
+        "country": "Estonia",
+        "currency": "EUR",
+        "name": "Estonian Unemployment Rate (YoY) (Q2)",
+        "previous": 5.6,
+        "timestamp": 1502686800,
+        "volatility": 0
+    },
+    {
+        "actual": 7.3,
+        "country": "Sweden",
+        "currency": "SEK",
+        "name": "Unemployment Rate (Jul)",
+        "previous": 7.2,
+        "timestamp": 1502690400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Finland",
+        "currency": "EUR",
+        "name": "Finnish CPI (YoY) (Jul)",
+        "previous": 0.7,
+        "timestamp": 1502690400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.15,
+        "country": "India",
+        "currency": "INR",
+        "name": "WPI Food (YoY) (Jul)",
+        "previous": -1.25,
+        "timestamp": 1502692200,
+        "volatility": 0
+    },
+    {
+        "actual": 4.37,
+        "country": "India",
+        "currency": "INR",
+        "name": "WPI Fuel (YoY) (Jul)",
+        "previous": 5.28,
+        "timestamp": 1502692200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.88,
+        "country": "India",
+        "currency": "INR",
+        "forecast": 1.3,
+        "name": "WPI Inflation (YoY) (Jul)",
+        "previous": 0.9,
+        "timestamp": 1502692200,
+        "volatility": 1
+    },
+    {
+        "actual": 2.18,
+        "country": "India",
+        "currency": "INR",
+        "name": "WPI Manufacturing Inflation (YoY) (Jul)",
+        "previous": 2.27,
+        "timestamp": 1502692200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.1,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "forecast": 1.9,
+        "name": "Slovak Core CPI (YoY) (Jul)",
+        "previous": 1.7,
+        "timestamp": 1502694000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "forecast": -0.1,
+        "name": "Slovak Core CPI (MoM) (Jul)",
+        "previous": 0.3,
+        "timestamp": 1502694000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.4,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "forecast": 1.2,
+        "name": "Slovak CPI (YoY) (Jul)",
+        "previous": 1.0,
+        "timestamp": 1502694000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "forecast": -0.1,
+        "name": "Slovak CPI (MoM) (Jul)",
+        "previous": 0.0,
+        "timestamp": 1502694000,
+        "volatility": 0
+    },
+    {
+        "actual": -14.49,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": -3.0,
+        "name": "Current Account (Jun)",
+        "previous": -2.88,
+        "timestamp": 1502697600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.6,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 2.8,
+        "name": "Industrial Production (YoY) (Jun)",
+        "previous": 3.9,
+        "timestamp": 1502701200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.6,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -0.5,
+        "name": "Industrial Production (MoM) (Jun)",
+        "previous": 1.2,
+        "timestamp": 1502701200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.2,
+        "country": "Portugal",
+        "currency": "EUR",
+        "forecast": 0.5,
+        "name": "Portuguese GDP (QoQ) (Q2)",
+        "previous": 1.0,
+        "timestamp": 1502704800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.8,
+        "country": "Portugal",
+        "currency": "EUR",
+        "forecast": 3.1,
+        "name": "Portuguese GDP (YoY) (Q2)",
+        "previous": 2.8,
+        "timestamp": 1502704800,
+        "volatility": 0
+    },
+    {
+        "actual": 9.46,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "End Year CPI Forecast (Aug)",
+        "previous": 9.49,
+        "timestamp": 1502710200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.36,
+        "country": "India",
+        "currency": "INR",
+        "forecast": 1.87,
+        "name": "CPI (YoY) (Jul)",
+        "previous": 1.54,
+        "timestamp": 1502712000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.8,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 0.8,
+        "name": "Core CPI (YoY) (Jul)",
+        "previous": 0.8,
+        "timestamp": 1502712000,
+        "volatility": 0
+    },
+    {
+        "actual": -11.45,
+        "country": "India",
+        "currency": "INR",
+        "name": "Trade Balance",
+        "previous": -12.96,
+        "timestamp": 1502712300,
+        "volatility": 0
+    },
+    {
+        "actual": -0.568,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 12-Month BTF Auction",
+        "previous": -0.556,
+        "timestamp": 1502715600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.627,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 3-Month BTF Auction",
+        "previous": -0.632,
+        "timestamp": 1502715600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.644,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 6-Month BTF Auction",
+        "previous": -0.644,
+        "timestamp": 1502715600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.9,
+        "country": "Ukraine",
+        "currency": "UAH",
+        "name": "Trade Balance YTD (USD) (Jun)",
+        "previous": -1.3,
+        "timestamp": 1502716200,
+        "volatility": 1
+    },
+    {
+        "actual": -1.9,
+        "country": "Colombia",
+        "currency": "COP",
+        "forecast": 1.5,
+        "name": "Industrial Production (YoY) (Jun)",
+        "previous": -0.8,
+        "timestamp": 1502722800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "Colombia",
+        "currency": "COP",
+        "forecast": 2.0,
+        "name": "Retail Sales (YoY) (Jun)",
+        "previous": 0.0,
+        "timestamp": 1502722800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.832,
+        "country": "Colombia",
+        "currency": "COP",
+        "forecast": -0.6,
+        "name": "Trade Balance (USD) (Jun)",
+        "previous": -0.186,
+        "timestamp": 1502722800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.015,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Month Bill Auction",
+        "previous": 1.04,
+        "timestamp": 1502724600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.115,
+        "country": "United States",
+        "currency": "USD",
+        "name": "6-Month Bill Auction",
+        "previous": 1.14,
+        "timestamp": 1502724600,
+        "volatility": 0
+    }
+]

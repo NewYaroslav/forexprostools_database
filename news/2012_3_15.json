@@ -1,0 +1,256 @@
+[
+    {
+        "actual": 2.7,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "MI Inflation Expectations",
+        "previous": 2.5,
+        "timestamp": 1331769600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 2.2,
+        "name": "New Motor Vehicle Sales (MoM)",
+        "previous": 1.2,
+        "timestamp": 1331771400,
+        "volatility": 0
+    },
+    {
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "RBA Bulletin",
+        "timestamp": 1331771400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": 2.1,
+        "name": "Unemployment Rate",
+        "previous": 2.0,
+        "timestamp": 1331780400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.7,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": 3.5,
+        "name": "Retail Sales (YoY)",
+        "previous": 4.2,
+        "timestamp": 1331787600,
+        "volatility": 0
+    },
+    {
+        "actual": 9.8,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Quarterly 3-month Jobless Average",
+        "previous": 9.1,
+        "timestamp": 1331798400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.0,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 0.0,
+        "name": "SNB Interest Rate Decision",
+        "previous": 0.0,
+        "timestamp": 1331800200,
+        "volatility": 2
+    },
+    {
+        "actual": 0.8,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch Retail Sales (YoY)",
+        "previous": 1.0,
+        "timestamp": 1331800200,
+        "volatility": 0
+    },
+    {
+        "actual": 6.0,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "forecast": 6.1,
+        "name": "Dutch Unemployment Rate",
+        "previous": 6.0,
+        "timestamp": 1331800200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.5,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German House Price Index (MoM)",
+        "previous": -0.5,
+        "timestamp": 1331802000,
+        "volatility": 0
+    },
+    {
+        "actual": 45.3,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 42.0,
+        "name": "Trade Balance",
+        "previous": 44.1,
+        "timestamp": 1331802000,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB Economic Bulletin",
+        "timestamp": 1331802000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.7,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 2-Year BTAN Auction",
+        "previous": 0.89,
+        "timestamp": 1331805000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -0.2,
+        "name": "Employment Change (QoQ)",
+        "previous": -0.2,
+        "timestamp": 1331805600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 3.0,
+        "name": "Continuing Jobless Claims",
+        "previous": 3.0,
+        "timestamp": 1331814600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.2,
+        "name": "Core PPI (MoM)",
+        "previous": 0.4,
+        "timestamp": 1331814600,
+        "volatility": 1
+    },
+    {
+        "actual": 351.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 356.0,
+        "name": "Initial Jobless Claims",
+        "previous": 365.0,
+        "timestamp": 1331814600,
+        "volatility": 1
+    },
+    {
+        "actual": 20.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 17.4,
+        "name": "NY Empire State Manufacturing Index",
+        "previous": 19.5,
+        "timestamp": 1331814600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.4,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.5,
+        "name": "PPI (MoM)",
+        "previous": 0.1,
+        "timestamp": 1331814600,
+        "volatility": 2
+    },
+    {
+        "actual": 101.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 29.3,
+        "name": "TIC Net Long-Term Transactions",
+        "previous": 19.1,
+        "timestamp": 1331816400,
+        "volatility": 1
+    },
+    {
+        "actual": 8.3,
+        "country": "Peru",
+        "currency": "PEN",
+        "forecast": 8.2,
+        "name": "Unemployment Rate",
+        "previous": 7.8,
+        "timestamp": 1331818200,
+        "volatility": 0
+    },
+    {
+        "actual": 33.15,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Bloomberg Consumer Confidence",
+        "previous": 31.65,
+        "timestamp": 1331819100,
+        "volatility": 0
+    },
+    {
+        "actual": 12.5,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 11.4,
+        "name": "Philadelphia Fed Manufacturing Index",
+        "previous": 10.2,
+        "timestamp": 1331820000,
+        "volatility": 2
+    },
+    {
+        "actual": -64.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -58.0,
+        "name": "Natural Gas Storage",
+        "previous": -80.0,
+        "timestamp": 1331821800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.7,
+        "country": "Israel",
+        "currency": "ILS",
+        "name": "CPI (YoY) (Feb)",
+        "previous": 2.0,
+        "timestamp": 1331823600,
+        "volatility": 0
+    },
+    {
+        "actual": 5.0,
+        "country": "Chile",
+        "currency": "CLP",
+        "forecast": 5.0,
+        "name": "Interest Rate Decision",
+        "previous": 5.0,
+        "timestamp": 1331848800,
+        "volatility": 0
+    },
+    {
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Monetary Policy Meeting Minutes",
+        "timestamp": 1331855400,
+        "volatility": 1
+    }
+]

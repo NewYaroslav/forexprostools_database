@@ -1,0 +1,312 @@
+[
+    {
+        "actual": 110.4,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Consumer Confidence (Jan)",
+        "previous": 103.2,
+        "timestamp": 1518393660,
+        "volatility": 0
+    },
+    {
+        "actual": 4.6,
+        "country": "Singapore",
+        "currency": "SGD",
+        "name": "Retail Sales (YoY) (Dec)",
+        "previous": 5.0,
+        "timestamp": 1518411600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "Singapore",
+        "currency": "SGD",
+        "name": "Retail Sales (MoM) (Dec)",
+        "previous": 4.9,
+        "timestamp": 1518411600,
+        "volatility": 0
+    },
+    {
+        "actual": 7.4,
+        "country": "Sweden",
+        "currency": "SEK",
+        "name": "Unemployment Rate (Jan)",
+        "previous": 7.5,
+        "timestamp": 1518418800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "Denmark",
+        "currency": "DKK",
+        "forecast": 0.9,
+        "name": "CPI (YoY) (Jan)",
+        "previous": 1.0,
+        "timestamp": 1518418800,
+        "volatility": 1
+    },
+    {
+        "actual": 3.7,
+        "country": "Romania",
+        "currency": "RON",
+        "name": "Industrial Production (MoM) (Dec)",
+        "previous": 0.7,
+        "timestamp": 1518418800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": -0.1,
+        "name": "CPI (MoM) (Jan)",
+        "previous": 0.0,
+        "timestamp": 1518422400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.7,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 0.8,
+        "name": "CPI (YoY) (Jan)",
+        "previous": 0.8,
+        "timestamp": 1518422400,
+        "volatility": 0
+    },
+    {
+        "actual": 8.6,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 8.4,
+        "name": "M2 Money Stock (YoY) (Jan)",
+        "previous": 8.2,
+        "timestamp": 1518426000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 2.0,
+        "name": "New Loans (Jan)",
+        "previous": 584.4,
+        "timestamp": 1518426000,
+        "volatility": 1
+    },
+    {
+        "actual": 13.2,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 12.5,
+        "name": "Outstanding Loan Growth (YoY) (Jan)",
+        "previous": 12.7,
+        "timestamp": 1518426000,
+        "volatility": 0
+    },
+    {
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "MPC Member Vlieghe Speaks",
+        "timestamp": 1518429000,
+        "volatility": 1
+    },
+    {
+        "actual": -0.401,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian 12-Month BOT Auction",
+        "previous": -0.42,
+        "timestamp": 1518432300,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "Portugal",
+        "currency": "EUR",
+        "name": "Portuguese CPI (YoY) (Jan)",
+        "previous": 1.5,
+        "timestamp": 1518433200,
+        "volatility": 0
+    },
+    {
+        "actual": -1.0,
+        "country": "Portugal",
+        "currency": "EUR",
+        "forecast": -1.0,
+        "name": "Portuguese CPI (MoM) (Jan)",
+        "previous": 0.0,
+        "timestamp": 1518433200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "Latvia",
+        "currency": "EUR",
+        "name": "Latvian CPI (MoM) (Jan)",
+        "previous": 0.1,
+        "timestamp": 1518433200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "Latvia",
+        "currency": "EUR",
+        "name": "Latvian CPI (YoY) (Jan)",
+        "previous": 2.2,
+        "timestamp": 1518433200,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "OPEC Monthly Report",
+        "timestamp": 1518434400,
+        "volatility": 1
+    },
+    {
+        "actual": 5.07,
+        "country": "India",
+        "currency": "INR",
+        "forecast": 5.14,
+        "name": "CPI (YoY) (Jan)",
+        "previous": 5.21,
+        "timestamp": 1518436800,
+        "volatility": 1
+    },
+    {
+        "actual": 3.7,
+        "country": "India",
+        "currency": "INR",
+        "name": "Cumulative Industrial Production (Dec)",
+        "previous": 3.2,
+        "timestamp": 1518436800,
+        "volatility": 0
+    },
+    {
+        "actual": 7.1,
+        "country": "India",
+        "currency": "INR",
+        "forecast": 6.2,
+        "name": "Industrial Production (YoY) (Dec)",
+        "previous": 8.8,
+        "timestamp": 1518436800,
+        "volatility": 0
+    },
+    {
+        "actual": 8.4,
+        "country": "India",
+        "currency": "INR",
+        "name": "Manufacturing Output (MoM) (Dec)",
+        "previous": 10.7,
+        "timestamp": 1518436800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.563,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 12-Month BTF Auction",
+        "previous": -0.56,
+        "timestamp": 1518444000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.582,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 3-Month BTF Auction",
+        "previous": -0.587,
+        "timestamp": 1518444000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.587,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 6-Month BTF Auction",
+        "previous": -0.584,
+        "timestamp": 1518444000,
+        "volatility": 0
+    },
+    {
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BoE MPC Member McCafferty Speaks",
+        "timestamp": 1518453000,
+        "volatility": 1
+    },
+    {
+        "actual": 1.57,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Month Bill Auction",
+        "previous": 1.5,
+        "timestamp": 1518453000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.785,
+        "country": "United States",
+        "currency": "USD",
+        "name": "6-Month Bill Auction",
+        "previous": 1.65,
+        "timestamp": 1518453000,
+        "volatility": 0
+    },
+    {
+        "actual": 49.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 51.0,
+        "name": "Federal Budget Balance (Jan)",
+        "previous": -23.0,
+        "timestamp": 1518462000,
+        "volatility": 1
+    },
+    {
+        "actual": -3.5,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "Export Price Index (YoY) (Jan)",
+        "previous": -2.0,
+        "timestamp": 1518469200,
+        "volatility": 0
+    },
+    {
+        "actual": -2.4,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "Import Price Index (YoY) (Jan)",
+        "previous": -0.9,
+        "timestamp": 1518469200,
+        "volatility": 0
+    },
+    {
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "RBA Assist Gov Ellis Speaks",
+        "timestamp": 1518472200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.3,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 0.2,
+        "name": "PPI (MoM) (Jan)",
+        "previous": 0.2,
+        "timestamp": 1518479400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.7,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 2.7,
+        "name": "PPI (YoY) (Jan)",
+        "previous": 3.1,
+        "timestamp": 1518479400,
+        "volatility": 0
+    }
+]

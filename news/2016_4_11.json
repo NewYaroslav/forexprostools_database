@@ -1,0 +1,430 @@
+[
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Kaplan Speaks",
+        "timestamp": 1460333700,
+        "volatility": 1
+    },
+    {
+        "actual": 1.5,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 2.0,
+        "name": "Home Loans (MoM) (Feb)",
+        "previous": -4.4,
+        "timestamp": 1460338200,
+        "volatility": 1
+    },
+    {
+        "actual": 4.1,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Invest Housing Finance (MoM) (Feb)",
+        "previous": -1.6,
+        "timestamp": 1460338200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.3,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 2.5,
+        "name": "CPI (YoY) (Mar)",
+        "previous": 2.3,
+        "timestamp": 1460338200,
+        "volatility": 1
+    },
+    {
+        "actual": -0.4,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": -0.3,
+        "name": "CPI (MoM) (Mar)",
+        "previous": 1.6,
+        "timestamp": 1460338200,
+        "volatility": 1
+    },
+    {
+        "actual": -4.3,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": -4.6,
+        "name": "PPI (YoY) (Mar)",
+        "previous": -4.9,
+        "timestamp": 1460338200,
+        "volatility": 1
+    },
+    {
+        "actual": 3.9,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "forecast": 4.0,
+        "name": "Industrial Production (YoY) (Feb)",
+        "previous": 3.2,
+        "timestamp": 1460347200,
+        "volatility": 0
+    },
+    {
+        "actual": -139.7,
+        "country": "Estonia",
+        "currency": "EUR",
+        "name": "Estonian Trade Balance (Feb)",
+        "previous": -148.9,
+        "timestamp": 1460350800,
+        "volatility": 0
+    },
+    {
+        "actual": -3.0,
+        "country": "Romania",
+        "currency": "RON",
+        "forecast": -3.0,
+        "name": "CPI (YoY) (Mar)",
+        "previous": -2.7,
+        "timestamp": 1460354400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.61,
+        "country": "Romania",
+        "currency": "RON",
+        "name": "Trade Balance (EUR) (Feb)",
+        "previous": -0.383,
+        "timestamp": 1460354400,
+        "volatility": 0
+    },
+    {
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "BoJ Governor Kuroda Speaks",
+        "timestamp": 1460355300,
+        "volatility": 1
+    },
+    {
+        "actual": 0.0,
+        "country": "Denmark",
+        "currency": "DKK",
+        "forecast": 0.3,
+        "name": "CPI (YoY) (Mar)",
+        "previous": 0.3,
+        "timestamp": 1460358000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.3,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": 0.4,
+        "name": "CPI (YoY) (Mar)",
+        "previous": 0.5,
+        "timestamp": 1460358000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": 0.1,
+        "name": "CPI (MoM) (Mar)",
+        "previous": 0.1,
+        "timestamp": 1460358000,
+        "volatility": 0
+    },
+    {
+        "actual": -1.78,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": -2.15,
+        "name": "Current Account (USD) (Feb)",
+        "previous": -2.23,
+        "timestamp": 1460358000,
+        "volatility": 0
+    },
+    {
+        "actual": 7.4,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "forecast": 4.0,
+        "name": "Slovak Industrial Production (YoY) (Feb)",
+        "previous": 1.7,
+        "timestamp": 1460358000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.2,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 1.6,
+        "name": "Italian Industrial Production (YoY) (Feb)",
+        "previous": 3.8,
+        "timestamp": 1460361600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.6,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": -0.7,
+        "name": "Italian Industrial Production (MoM) (Feb)",
+        "previous": 1.7,
+        "timestamp": 1460361600,
+        "volatility": 0
+    },
+    {
+        "actual": -11.4,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": -9.6,
+        "name": "Exports (YoY) (Mar)",
+        "previous": -11.8,
+        "timestamp": 1460361600,
+        "volatility": 0
+    },
+    {
+        "actual": -17.0,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": -12.5,
+        "name": "Imports (YoY) (Mar)",
+        "previous": -13.1,
+        "timestamp": 1460361600,
+        "volatility": 0
+    },
+    {
+        "actual": 4.5,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": 4.28,
+        "name": "Trade Balance (Mar)",
+        "previous": 4.16,
+        "timestamp": 1460361600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.3,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 3.3,
+        "name": "Core CPI YTD (Mar)",
+        "previous": 3.4,
+        "timestamp": 1460361600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 0.3,
+        "name": "Core Inflation (MoM) (Mar)",
+        "previous": 1.0,
+        "timestamp": 1460361600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.3,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 3.2,
+        "name": "CPI (YoY) (Mar)",
+        "previous": 3.1,
+        "timestamp": 1460361600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 0.4,
+        "name": "CPI (MoM) (Mar)",
+        "previous": 0.5,
+        "timestamp": 1460361600,
+        "volatility": 0
+    },
+    {
+        "actual": -14.9,
+        "country": "Norway",
+        "currency": "NOK",
+        "name": "PPI (YoY) (Mar)",
+        "previous": -14.9,
+        "timestamp": 1460361600,
+        "volatility": 0
+    },
+    {
+        "actual": -9.9,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania PPI (YoY) (Mar)",
+        "previous": -9.0,
+        "timestamp": 1460361600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.5,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania PPI (MoM) (Mar)",
+        "previous": -1.5,
+        "timestamp": 1460361600,
+        "volatility": 0
+    },
+    {
+        "actual": -139.5,
+        "country": "Latvia",
+        "currency": "EUR",
+        "name": "Latvian Trade Balance (Feb)",
+        "previous": -109.8,
+        "timestamp": 1460368800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Poland",
+        "currency": "PLN",
+        "name": "CPI (MoM) (Mar)",
+        "previous": -0.1,
+        "timestamp": 1460376000,
+        "volatility": 1
+    },
+    {
+        "actual": -0.9,
+        "country": "Poland",
+        "currency": "PLN",
+        "name": "CPI (YoY) (Mar)",
+        "previous": -0.8,
+        "timestamp": 1460376000,
+        "volatility": 1
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "Treasury Secretary Lew Speaks",
+        "timestamp": 1460377800,
+        "volatility": 1
+    },
+    {
+        "actual": 2.6,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 1.4,
+        "name": "Industrial Production (YoY) (Feb)",
+        "previous": 0.8,
+        "timestamp": 1460379600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": -0.4,
+        "name": "Industrial Production (MoM) (Feb)",
+        "previous": 0.7,
+        "timestamp": 1460379600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.439,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 12-Month BTF Auction",
+        "previous": -0.424,
+        "timestamp": 1460379600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.438,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 3-Month BTF Auction",
+        "previous": -0.432,
+        "timestamp": 1460379600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.441,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 6-Month BTF Auction",
+        "previous": -0.431,
+        "timestamp": 1460379600,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Dudley Speaks",
+        "timestamp": 1460381100,
+        "volatility": 1
+    },
+    {
+        "actual": 7.35,
+        "country": "Russia",
+        "currency": "RUB",
+        "forecast": 7.2,
+        "name": "Trade Balance (Feb)",
+        "previous": 7.89,
+        "timestamp": 1460384280,
+        "volatility": 0
+    },
+    {
+        "actual": 0.23,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Month Bill Auction",
+        "previous": 0.235,
+        "timestamp": 1460388600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.35,
+        "country": "United States",
+        "currency": "USD",
+        "name": "6-Month Bill Auction",
+        "previous": 0.385,
+        "timestamp": 1460388600,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Kaplan Speaks",
+        "timestamp": 1460394000,
+        "volatility": 1
+    },
+    {
+        "actual": -4.5,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "Export Price Index (YoY) (Mar)",
+        "previous": -2.1,
+        "timestamp": 1460408400,
+        "volatility": 0
+    },
+    {
+        "actual": -7.7,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "Import Price Index (YoY) (Mar)",
+        "previous": -7.4,
+        "timestamp": 1460408400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.7,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BRC Retail Sales Monitor (YoY) (Mar)",
+        "previous": 0.1,
+        "timestamp": 1460415660,
+        "volatility": 1
+    },
+    {
+        "actual": 2.0,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 2.1,
+        "name": "Bank Lending (YoY) (Mar)",
+        "previous": 2.2,
+        "timestamp": 1460418600,
+        "volatility": 0
+    }
+]

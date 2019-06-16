@@ -1,0 +1,258 @@
+[
+    {
+        "actual": 23.4,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 15.0,
+        "name": "Employment Change",
+        "previous": -0.5,
+        "timestamp": 1310002200,
+        "volatility": 2
+    },
+    {
+        "actual": 4.9,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 4.9,
+        "name": "Unemployment Rate",
+        "previous": 4.9,
+        "timestamp": 1310002200,
+        "volatility": 1
+    },
+    {
+        "actual": -7.4,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": -6.7,
+        "name": "French Trade Balance",
+        "previous": -7.2,
+        "timestamp": 1310021100,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": -0.2,
+        "name": "CPI (MoM)",
+        "previous": 0.0,
+        "timestamp": 1310022900,
+        "volatility": 1
+    },
+    {
+        "actual": 0.9,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 1.1,
+        "name": "Industrial Production (MoM)",
+        "previous": -1.7,
+        "timestamp": 1310027400,
+        "volatility": 1
+    },
+    {
+        "actual": 1.8,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 1.0,
+        "name": "Manufacturing Production (MoM)",
+        "previous": -1.6,
+        "timestamp": 1310027400,
+        "volatility": 2
+    },
+    {
+        "actual": 1.2,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.7,
+        "name": "German Industrial Production (MoM)",
+        "previous": -0.8,
+        "timestamp": 1310032800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.5,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.5,
+        "name": "BoE Interest Rate Decision",
+        "previous": 0.5,
+        "timestamp": 1310036400,
+        "volatility": 2
+    },
+    {
+        "actual": 1.5,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 1.5,
+        "name": "ECB Interest Rate Decision",
+        "previous": 1.25,
+        "timestamp": 1310039100,
+        "volatility": 2
+    },
+    {
+        "actual": 6.7,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 6.8,
+        "name": "CPI (YoY)",
+        "previous": 6.6,
+        "timestamp": 1310040000,
+        "volatility": 1
+    },
+    {
+        "actual": 157.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 60.0,
+        "name": "ADP Nonfarm Employment Change",
+        "previous": 36.0,
+        "timestamp": 1310040900,
+        "volatility": 2
+    },
+    {
+        "actual": 3.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 3.0,
+        "name": "Continuing Jobless Claims",
+        "previous": 3.0,
+        "timestamp": 1310041800,
+        "volatility": 0
+    },
+    {
+        "actual": 418.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 420.0,
+        "name": "Initial Jobless Claims",
+        "previous": 432.0,
+        "timestamp": 1310041800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.4,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.2,
+        "name": "New Housing Price Index (MoM)",
+        "previous": 0.3,
+        "timestamp": 1310041800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.59,
+        "country": "Chile",
+        "currency": "CLP",
+        "forecast": 2.0,
+        "name": "Trade Balance",
+        "previous": 1.79,
+        "timestamp": 1310041800,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB Press Conference",
+        "timestamp": 1310041800,
+        "volatility": 2
+    },
+    {
+        "actual": 27.25,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -44.3,
+        "name": "Bloomberg Consumer Confidence",
+        "previous": 28.05,
+        "timestamp": 1310046300,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "NIESR GDP Estimate",
+        "previous": 0.5,
+        "timestamp": 1310047200,
+        "volatility": 1
+    },
+    {
+        "actual": 59.9,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 65.0,
+        "name": "Ivey PMI",
+        "previous": 65.5,
+        "timestamp": 1310047200,
+        "volatility": 2
+    },
+    {
+        "actual": 3.3,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 3.2,
+        "name": "CPI (YoY)",
+        "previous": 3.2,
+        "timestamp": 1310047200,
+        "volatility": 1
+    },
+    {
+        "actual": 95.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 81.0,
+        "name": "Natural Gas Storage",
+        "previous": 78.0,
+        "timestamp": 1310049000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.9,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -2.5,
+        "name": "Crude Oil Inventories",
+        "previous": -4.4,
+        "timestamp": 1310050800,
+        "volatility": 2
+    },
+    {
+        "actual": -0.6,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.8,
+        "name": "Gasoline Inventories",
+        "previous": -1.4,
+        "timestamp": 1310050800,
+        "volatility": 0
+    },
+    {
+        "actual": 25.1,
+        "country": "Venezuela",
+        "currency": "VEF",
+        "forecast": 25.2,
+        "name": "CPI (YoY)",
+        "previous": 24.8,
+        "timestamp": 1310068800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.39,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 0.19,
+        "name": "Adjusted Current Account",
+        "previous": 0.55,
+        "timestamp": 1310082600,
+        "volatility": 1
+    },
+    {
+        "actual": -0.6,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": -0.5,
+        "name": "Bank Lending (YoY)",
+        "previous": -0.8,
+        "timestamp": 1310082600,
+        "volatility": 0
+    }
+]

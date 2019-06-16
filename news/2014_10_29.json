@@ -1,0 +1,548 @@
+[
+    {
+        "actual": 26.5,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "ANZ Business Confidence (Oct)",
+        "previous": 13.4,
+        "timestamp": 1414540800,
+        "volatility": 1
+    },
+    {
+        "actual": 37.8,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "NBNZ Own Activity (Oct)",
+        "previous": 37.0,
+        "timestamp": 1414540800,
+        "volatility": 0
+    },
+    {
+        "actual": -5.2,
+        "country": "Philippines",
+        "currency": "PHP",
+        "name": "Budget Balance (Sep)",
+        "previous": 29.9,
+        "timestamp": 1414551600,
+        "volatility": 0
+    },
+    {
+        "actual": 7.85,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": 6.5,
+        "name": "M3 Money Supply (YoY) (Sep)",
+        "previous": 6.41,
+        "timestamp": 1414562400,
+        "volatility": 0
+    },
+    {
+        "actual": 8.74,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": 8.6,
+        "name": "Private Sector Credit (Sep)",
+        "previous": 8.78,
+        "timestamp": 1414562400,
+        "volatility": 0
+    },
+    {
+        "actual": 85.0,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 86.0,
+        "name": "French Consumer Confidence (Oct)",
+        "previous": 86.0,
+        "timestamp": 1414568700,
+        "volatility": 0
+    },
+    {
+        "actual": 98.0,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 101.0,
+        "name": "Consumer Confidence (Oct)",
+        "previous": 102.4,
+        "timestamp": 1414569600,
+        "volatility": 0
+    },
+    {
+        "actual": 107.7,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 100.8,
+        "name": "Manufacturing Confidence (Oct)",
+        "previous": 102.8,
+        "timestamp": 1414569600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.1,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 0.6,
+        "name": "Spanish Retail Sales (YoY) (Sep)",
+        "previous": 0.4,
+        "timestamp": 1414569600,
+        "volatility": 0
+    },
+    {
+        "actual": 7.4,
+        "country": "Hungary",
+        "currency": "HUF",
+        "name": "Quarterly Unemployment Rate (Sep)",
+        "previous": 7.6,
+        "timestamp": 1414569600,
+        "volatility": 1
+    },
+    {
+        "actual": -0.1,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 0.8,
+        "name": "Core Retail Sales (MoM) (Sep)",
+        "previous": 0.6,
+        "timestamp": 1414573200,
+        "volatility": 0
+    },
+    {
+        "actual": 3.7,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 3.4,
+        "name": "Unemployment Rate (Aug)",
+        "previous": 3.4,
+        "timestamp": 1414573200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.9,
+        "country": "Iceland",
+        "currency": "ISK",
+        "name": "CPI (YoY) (Oct)",
+        "previous": 1.8,
+        "timestamp": 1414573200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Iceland",
+        "currency": "ISK",
+        "name": "CPI (MoM) (Oct)",
+        "previous": -0.1,
+        "timestamp": 1414573200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.915,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.8,
+        "name": "BoE Consumer Credit (Sep)",
+        "previous": 0.96,
+        "timestamp": 1414575000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.7,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.5,
+        "name": "M4 Money Supply (MoM) (Sep)",
+        "previous": 0.3,
+        "timestamp": 1414575000,
+        "volatility": 0
+    },
+    {
+        "actual": 61.27,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 62.25,
+        "name": "Mortgage Approvals (Sep)",
+        "previous": 64.05,
+        "timestamp": 1414575000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.8,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 2.0,
+        "name": "Mortgage Lending (Sep)",
+        "previous": 2.2,
+        "timestamp": 1414575000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.7,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 2.8,
+        "name": "Net Lending to Individuals",
+        "previous": 3.2,
+        "timestamp": 1414575000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.379,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian 6-Month BOT Auction",
+        "previous": 0.232,
+        "timestamp": 1414577100,
+        "volatility": 0
+    },
+    {
+        "actual": 12.0,
+        "country": "India",
+        "currency": "INR",
+        "name": "M3 Money Supply",
+        "previous": 12.6,
+        "timestamp": 1414578600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.87,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German 10-Year Bund Auction",
+        "previous": 0.93,
+        "timestamp": 1414578900,
+        "volatility": 1
+    },
+    {
+        "actual": 4.13,
+        "country": "United States",
+        "currency": "USD",
+        "name": "MBA 30-Year Mortgage Rate",
+        "previous": 4.1,
+        "timestamp": 1414580400,
+        "volatility": 0
+    },
+    {
+        "actual": -6.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "MBA Mortgage Applications (WoW)",
+        "previous": 11.6,
+        "timestamp": 1414580400,
+        "volatility": 0
+    },
+    {
+        "actual": 155.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "MBA Purchase Index",
+        "previous": 163.4,
+        "timestamp": 1414580400,
+        "volatility": 0
+    },
+    {
+        "actual": 386.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Mortgage Market Index",
+        "previous": 413.2,
+        "timestamp": 1414580400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Mortgage Refinance Index",
+        "previous": 1.0,
+        "timestamp": 1414580400,
+        "volatility": 0
+    },
+    {
+        "actual": 5.9,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Retail Sales (YoY) (Sep)",
+        "previous": 6.8,
+        "timestamp": 1414580400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Retail Sales (MoM) (Sep)",
+        "previous": -2.9,
+        "timestamp": 1414580400,
+        "volatility": 0
+    },
+    {
+        "actual": -5.0,
+        "country": "Chile",
+        "currency": "CLP",
+        "name": "Copper Production (YoY) (Sep)",
+        "previous": -2.0,
+        "timestamp": 1414584000,
+        "volatility": 0
+    },
+    {
+        "actual": 5.0,
+        "country": "Chile",
+        "currency": "CLP",
+        "forecast": 0.8,
+        "name": "Chilean Manufacturing Production (YoY) (Sep)",
+        "previous": -4.9,
+        "timestamp": 1414584000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.9,
+        "country": "Chile",
+        "currency": "CLP",
+        "forecast": 1.8,
+        "name": "Retail Sales (YoY)",
+        "previous": 1.7,
+        "timestamp": 1414584000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.4,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.3,
+        "name": "IPPI (MoM) (Sep)",
+        "previous": 0.3,
+        "timestamp": 1414585800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.5,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 3.0,
+        "name": "IPPI (YoY) (Sep)",
+        "previous": 2.6,
+        "timestamp": 1414585800,
+        "volatility": 0
+    },
+    {
+        "actual": -1.8,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": -1.0,
+        "name": "RMPI (MoM) (Sep)",
+        "previous": -2.2,
+        "timestamp": 1414585800,
+        "volatility": 1
+    },
+    {
+        "actual": -0.9,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "RMPI (YoY) (Sep)",
+        "previous": -0.6,
+        "timestamp": 1414585800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Belgium",
+        "currency": "EUR",
+        "forecast": 0.2,
+        "name": "Belgian GDP (QoQ) (Q3)",
+        "previous": 0.1,
+        "timestamp": 1414591200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.061,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 3.371,
+        "name": "Crude Oil Inventories",
+        "previous": 7.111,
+        "timestamp": 1414593000,
+        "volatility": 2
+    },
+    {
+        "actual": -5.294,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -1.157,
+        "name": "EIA Weekly Distillates Stocks",
+        "previous": 1.049,
+        "timestamp": 1414593000,
+        "volatility": 0
+    },
+    {
+        "actual": -1.236,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.986,
+        "name": "Gasoline Inventories",
+        "previous": -1.299,
+        "timestamp": 1414593000,
+        "volatility": 0
+    },
+    {
+        "actual": 3.03,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Foreign Exchange Flows",
+        "previous": -0.67,
+        "timestamp": 1414593000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.567,
+        "country": "United States",
+        "currency": "USD",
+        "name": "5-Year Note Auction",
+        "previous": 1.8,
+        "timestamp": 1414602000,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Statement",
+        "timestamp": 1414605600,
+        "volatility": 2
+    },
+    {
+        "actual": 0.25,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.25,
+        "name": "Fed Interest Rate Decision",
+        "previous": 0.25,
+        "timestamp": 1414605600,
+        "volatility": 2
+    },
+    {
+        "actual": 0.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.0,
+        "name": "QE MBS",
+        "previous": 5.0,
+        "timestamp": 1414605600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.0,
+        "name": "QE Total",
+        "previous": 15.0,
+        "timestamp": 1414605600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.0,
+        "name": "QE Treasuries",
+        "previous": 10.0,
+        "timestamp": 1414605600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.5,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 3.5,
+        "name": "RBNZ Interest Rate Decision",
+        "previous": 3.5,
+        "timestamp": 1414612800,
+        "volatility": 2
+    },
+    {
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "RBNZ Rate Statement",
+        "timestamp": 1414612800,
+        "volatility": 2
+    },
+    {
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "BoC Gov Poloz Speaks",
+        "timestamp": 1414613700,
+        "volatility": 2
+    },
+    {
+        "actual": 76.0,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "Manufacturing BSI Index (Nov)",
+        "previous": 78.0,
+        "timestamp": 1414616400,
+        "volatility": 0
+    },
+    {
+        "actual": 11.25,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 11.0,
+        "name": "Interest Rate Decision",
+        "previous": 11.0,
+        "timestamp": 1414621140,
+        "volatility": 1
+    },
+    {
+        "actual": -1.9,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 2.8,
+        "name": "Industrial Production (YoY) (Sep)",
+        "previous": -2.8,
+        "timestamp": 1414623600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 1.9,
+        "name": "Industrial Production (MoM) (Sep)",
+        "previous": -3.9,
+        "timestamp": 1414623600,
+        "volatility": 0
+    },
+    {
+        "actual": -3.2,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "Retail Sales (MoM)",
+        "previous": 2.7,
+        "timestamp": 1414623600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "Service Sector Output (MoM) (Sep)",
+        "previous": 0.3,
+        "timestamp": 1414623600,
+        "volatility": 0
+    },
+    {
+        "actual": 40.6,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Foreign Bonds Buying",
+        "previous": -1.0,
+        "timestamp": 1414626600,
+        "volatility": 0
+    },
+    {
+        "actual": 178.0,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Foreign Investments in Japanese Stocks",
+        "previous": -414.2,
+        "timestamp": 1414626600,
+        "volatility": 0
+    }
+]

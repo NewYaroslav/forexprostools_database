@@ -1,0 +1,764 @@
+[
+    {
+        "actual": 4.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "MI Inflation Expectations",
+        "previous": 4.0,
+        "timestamp": 1536800400,
+        "volatility": 0
+    },
+    {
+        "actual": 44.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 16.5,
+        "name": "Employment Change (Aug)",
+        "previous": -4.3,
+        "timestamp": 1536802200,
+        "volatility": 2
+    },
+    {
+        "actual": 33.7,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Full Employment Change (Aug)",
+        "previous": 20.1,
+        "timestamp": 1536802200,
+        "volatility": 1
+    },
+    {
+        "actual": 65.7,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 65.6,
+        "name": "Participation Rate (Aug)",
+        "previous": 65.6,
+        "timestamp": 1536802200,
+        "volatility": 0
+    },
+    {
+        "actual": 5.3,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 5.3,
+        "name": "Unemployment Rate (Aug)",
+        "previous": 5.3,
+        "timestamp": 1536802200,
+        "volatility": 1
+    },
+    {
+        "actual": 2.1,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": 2.1,
+        "name": "Unemployment Rate (Q2)",
+        "previous": 2.1,
+        "timestamp": 1536805800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 2.0,
+        "name": "German CPI (YoY) (Aug)",
+        "previous": 2.0,
+        "timestamp": 1536818400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "German CPI (MoM) (Aug)",
+        "previous": 0.1,
+        "timestamp": 1536818400,
+        "volatility": 1
+    },
+    {
+        "actual": 1.9,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 1.9,
+        "name": "German HICP (YoY) (Aug)",
+        "previous": 1.9,
+        "timestamp": 1536818400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.4,
+        "name": "German HICP (MoM) (Aug)",
+        "previous": 0.4,
+        "timestamp": 1536818400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.3,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 2.3,
+        "name": "French CPI (YoY)",
+        "previous": 2.3,
+        "timestamp": 1536821100,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 0.5,
+        "name": "French CPI (MoM) (Aug)",
+        "previous": 0.5,
+        "timestamp": 1536821100,
+        "volatility": 1
+    },
+    {
+        "actual": 0.5,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 0.6,
+        "name": "French HICP (MoM) (Aug)",
+        "previous": -0.1,
+        "timestamp": 1536821100,
+        "volatility": 1
+    },
+    {
+        "actual": 2.6,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 2.6,
+        "name": "French HICP (YoY) (Aug)",
+        "previous": 2.6,
+        "timestamp": 1536821100,
+        "volatility": 0
+    },
+    {
+        "actual": 2.3,
+        "country": "China",
+        "currency": "CNY",
+        "name": "FDI (Aug)",
+        "previous": 2.3,
+        "timestamp": 1536822000,
+        "volatility": 0
+    },
+    {
+        "actual": 4.4,
+        "country": "Namibia",
+        "currency": "NAD",
+        "name": "CPI (YoY) (Aug)",
+        "previous": 4.5,
+        "timestamp": 1536822300,
+        "volatility": 0
+    },
+    {
+        "actual": 0.03,
+        "country": "Namibia",
+        "currency": "NAD",
+        "name": "CPI (MoM) (Aug)",
+        "previous": 0.5,
+        "timestamp": 1536822300,
+        "volatility": 0
+    },
+    {
+        "actual": 3.4,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 3.4,
+        "name": "PPI (YoY) (Aug)",
+        "previous": 3.6,
+        "timestamp": 1536822900,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 0.0,
+        "name": "PPI (MoM) (Aug)",
+        "previous": 0.1,
+        "timestamp": 1536822900,
+        "volatility": 1
+    },
+    {
+        "actual": 2.5,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 3.3,
+        "name": "GDP (YoY)",
+        "previous": 3.3,
+        "timestamp": 1536823800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.8,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 1.0,
+        "name": "GDP (QoQ)",
+        "previous": 1.0,
+        "timestamp": 1536823800,
+        "volatility": 1
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "IEA Monthly Report",
+        "timestamp": 1536825600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.0,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 0.0,
+        "name": "CPI (MoM)",
+        "previous": -0.1,
+        "timestamp": 1536825600,
+        "volatility": 1
+    },
+    {
+        "actual": 2.0,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 2.0,
+        "name": "CPI (YoY)",
+        "previous": 2.0,
+        "timestamp": 1536825600,
+        "volatility": 1
+    },
+    {
+        "actual": -0.1,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": -26.0,
+        "name": "Current Account (Jul)",
+        "previous": -22.43,
+        "timestamp": 1536825600,
+        "volatility": 0
+    },
+    {
+        "actual": 19.0,
+        "country": "Greece",
+        "currency": "EUR",
+        "name": "Greek Quarterly Unemployment Rate (Q2)",
+        "previous": 21.2,
+        "timestamp": 1536829200,
+        "volatility": 0
+    },
+    {
+        "actual": -15.0,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "name": "Gold Production (YoY) (Jul)",
+        "previous": -17.3,
+        "timestamp": 1536831000,
+        "volatility": 0
+    },
+    {
+        "actual": -5.2,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": 2.9,
+        "name": "Mining Production (Jul)",
+        "previous": 3.7,
+        "timestamp": 1536831000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.2,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian 3-Year BTP Auction",
+        "previous": 1.1,
+        "timestamp": 1536831900,
+        "volatility": 0
+    },
+    {
+        "actual": 3.55,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian 30-Year BTP Auction",
+        "previous": 3.54,
+        "timestamp": 1536831900,
+        "volatility": 0
+    },
+    {
+        "actual": 2.55,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian 7-Year BTP Auction",
+        "previous": 2.31,
+        "timestamp": 1536831900,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish CPI (MoM) (Aug)",
+        "previous": 0.4,
+        "timestamp": 1536832800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish CPI (YoY) (Aug)",
+        "previous": 0.8,
+        "timestamp": 1536832800,
+        "volatility": 0
+    },
+    {
+        "actual": 9.0,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish GDP (YoY) (Q2)",
+        "previous": 9.3,
+        "timestamp": 1536832800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.5,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish GDP (QoQ) (Q2)",
+        "previous": -0.4,
+        "timestamp": 1536832800,
+        "volatility": 0
+    },
+    {
+        "actual": 11.9,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish GNP (YoY) (Q2)",
+        "previous": 9.1,
+        "timestamp": 1536832800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish GNP (QoQ) (Q2)",
+        "previous": -4.9,
+        "timestamp": 1536832800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.9,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish HICP (YoY) (Aug)",
+        "previous": 1.0,
+        "timestamp": 1536832800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish HICP (MoM) (Aug)",
+        "previous": 0.4,
+        "timestamp": 1536832800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.0,
+        "name": "BoE MPC vote cut (Sep)",
+        "previous": 0.0,
+        "timestamp": 1536836400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.0,
+        "name": "BoE MPC vote hike (Sep)",
+        "previous": 9.0,
+        "timestamp": 1536836400,
+        "volatility": 1
+    },
+    {
+        "actual": 9.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 9.0,
+        "name": "BoE MPC vote unchanged (Sep)",
+        "previous": 0.0,
+        "timestamp": 1536836400,
+        "volatility": 1
+    },
+    {
+        "actual": 435.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 435.0,
+        "name": "BoE QE Total (Sep)",
+        "previous": 435.0,
+        "timestamp": 1536836400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.75,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.75,
+        "name": "BoE Interest Rate Decision (Sep)",
+        "previous": 0.75,
+        "timestamp": 1536836400,
+        "volatility": 2
+    },
+    {
+        "actual": 24.0,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Turkish Late Liquidity Window Rate",
+        "previous": 17.75,
+        "timestamp": 1536836400,
+        "volatility": 1
+    },
+    {
+        "actual": 24.0,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 22.0,
+        "name": "One-Week Repo Rate (Sep)",
+        "previous": 17.75,
+        "timestamp": 1536836400,
+        "volatility": 2
+    },
+    {
+        "actual": 22.5,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Overnight Borrowing Rate (Sep)",
+        "previous": 16.25,
+        "timestamp": 1536836400,
+        "volatility": 2
+    },
+    {
+        "actual": 25.5,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Overnight Lending Rate (Sep)",
+        "previous": 19.25,
+        "timestamp": 1536836400,
+        "volatility": 1
+    },
+    {
+        "actual": -0.4,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -0.4,
+        "name": "Deposit Facility Rate",
+        "previous": -0.4,
+        "timestamp": 1536839100,
+        "volatility": 2
+    },
+    {
+        "actual": 0.25,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.25,
+        "name": "ECB Marginal Lending Facility",
+        "previous": 0.25,
+        "timestamp": 1536839100,
+        "volatility": 2
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB Monetary Policy Statement",
+        "timestamp": 1536839100,
+        "volatility": 2
+    },
+    {
+        "actual": 0.0,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.0,
+        "name": "ECB Interest Rate Decision (Sep)",
+        "previous": 0.0,
+        "timestamp": 1536839100,
+        "volatility": 2
+    },
+    {
+        "actual": -1.0,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 1.2,
+        "name": "Retail Sales (YoY) (Jul)",
+        "previous": 1.4,
+        "timestamp": 1536840000,
+        "volatility": 1
+    },
+    {
+        "actual": -0.5,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 0.3,
+        "name": "Retail Sales (MoM) (Jul)",
+        "previous": -0.4,
+        "timestamp": 1536840000,
+        "volatility": 1
+    },
+    {
+        "actual": -809.0,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": -596.0,
+        "name": "Current Account (EUR) (Jul)",
+        "previous": -240.0,
+        "timestamp": 1536840000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.0,
+        "name": "Continuing Jobless Claims",
+        "previous": 1.0,
+        "timestamp": 1536841800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.2,
+        "name": "Core CPI (MoM) (Aug)",
+        "previous": 0.2,
+        "timestamp": 1536841800,
+        "volatility": 2
+    },
+    {
+        "actual": 2.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.4,
+        "name": "Core CPI (YoY) (Aug)",
+        "previous": 2.4,
+        "timestamp": 1536841800,
+        "volatility": 1
+    },
+    {
+        "actual": 258.14,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Core CPI Index (Aug)",
+        "previous": 257.93,
+        "timestamp": 1536841800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.7,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.8,
+        "name": "CPI (YoY) (Aug)",
+        "previous": 2.9,
+        "timestamp": 1536841800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.3,
+        "name": "CPI (MoM) (Aug)",
+        "previous": 0.2,
+        "timestamp": 1536841800,
+        "volatility": 1
+    },
+    {
+        "actual": 252.15,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 252.4,
+        "name": "CPI Index, n.s.a. (Aug)",
+        "previous": 252.01,
+        "timestamp": 1536841800,
+        "volatility": 0
+    },
+    {
+        "actual": 204.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 210.0,
+        "name": "Initial Jobless Claims",
+        "previous": 205.0,
+        "timestamp": 1536841800,
+        "volatility": 1
+    },
+    {
+        "actual": 208.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Jobless Claims 4-Week Avg.",
+        "previous": 210.0,
+        "timestamp": 1536841800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Real Earnings (MoM) (Aug)",
+        "previous": -0.2,
+        "timestamp": 1536841800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.1,
+        "name": "New Housing Price Index (MoM) (Jul)",
+        "previous": 0.1,
+        "timestamp": 1536841800,
+        "volatility": 1
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB Press Conference",
+        "timestamp": 1536841800,
+        "volatility": 2
+    },
+    {
+        "actual": 459.4,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "Central Bank reserves (USD)",
+        "previous": 460.6,
+        "timestamp": 1536843600,
+        "volatility": 1
+    },
+    {
+        "actual": 13.0,
+        "country": "Israel",
+        "currency": "ILS",
+        "name": "M1 Money Supply (MoM) (Aug)",
+        "previous": 12.8,
+        "timestamp": 1536843900,
+        "volatility": 1
+    },
+    {
+        "actual": 59.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Bloomberg Consumer Confidence",
+        "previous": 58.0,
+        "timestamp": 1536846300,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Quarles Speaks",
+        "timestamp": 1536847200,
+        "volatility": 1
+    },
+    {
+        "actual": 69.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 68.0,
+        "name": "Natural Gas Storage",
+        "previous": 63.0,
+        "timestamp": 1536849000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Cleveland CPI (MoM) (Aug)",
+        "previous": 0.2,
+        "timestamp": 1536850800,
+        "volatility": 0
+    },
+    {
+        "actual": 3.088,
+        "country": "United States",
+        "currency": "USD",
+        "name": "30-Year Bond Auction",
+        "previous": 3.09,
+        "timestamp": 1536858000,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Bostic Speaks",
+        "timestamp": 1536858900,
+        "volatility": 1
+    },
+    {
+        "actual": -214.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -169.8,
+        "name": "Federal Budget Balance (Aug)",
+        "previous": -77.0,
+        "timestamp": 1536861600,
+        "volatility": 1
+    },
+    {
+        "actual": 4.1,
+        "country": "Argentina",
+        "currency": "ARS",
+        "name": "CPI (MoM) (Aug)",
+        "previous": 2.8,
+        "timestamp": 1536865200,
+        "volatility": 1
+    },
+    {
+        "actual": 2.1,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "Export Price Index (YoY) (Aug)",
+        "previous": 2.8,
+        "timestamp": 1536872400,
+        "volatility": 0
+    },
+    {
+        "actual": 10.0,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "Import Price Index (YoY) (Aug)",
+        "previous": 11.9,
+        "timestamp": 1536872400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.75,
+        "country": "Peru",
+        "currency": "PEN",
+        "forecast": 2.75,
+        "name": "Interest Rate Decision (Sep)",
+        "previous": 2.75,
+        "timestamp": 1536872400,
+        "volatility": 0
+    },
+    {
+        "actual": 52.0,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "Business NZ PMI (Aug)",
+        "previous": 51.2,
+        "timestamp": 1536877800,
+        "volatility": 1
+    }
+]

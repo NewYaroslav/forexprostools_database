@@ -1,0 +1,511 @@
+[
+    {
+        "actual": 4.7,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": 2.0,
+        "name": "Non-Oil Exports (YoY) (Jun)",
+        "previous": -0.3,
+        "timestamp": 1437006600,
+        "volatility": 0
+    },
+    {
+        "actual": -2.4,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": -1.2,
+        "name": "Non-Oil Exports (MoM) (Jun)",
+        "previous": -3.3,
+        "timestamp": 1437006600,
+        "volatility": 0
+    },
+    {
+        "actual": 4.93,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": 7.1,
+        "name": "Trade Balance",
+        "previous": 6.61,
+        "timestamp": 1437006600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.4,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "MI Inflation Expectations",
+        "previous": 3.0,
+        "timestamp": 1437008400,
+        "volatility": 0
+    },
+    {
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "BoJ Monthly Report",
+        "timestamp": 1437022800,
+        "volatility": 1
+    },
+    {
+        "actual": 1.0,
+        "country": "Austria",
+        "currency": "EUR",
+        "name": "Austrian HICP (YoY) (Jun)",
+        "previous": 1.0,
+        "timestamp": 1437030000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Austria",
+        "currency": "EUR",
+        "name": "Austrian HICP (MoM) (Jun)",
+        "previous": 0.2,
+        "timestamp": 1437030000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "forecast": 0.2,
+        "name": "Slovak EU Normalized CPI (MoM) (Jun)",
+        "previous": 0.3,
+        "timestamp": 1437030000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "forecast": -0.1,
+        "name": "Slovak EU Normalized CPI (YoY) (Jun)",
+        "previous": -0.1,
+        "timestamp": 1437030000,
+        "volatility": 0
+    },
+    {
+        "actual": -1.8,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 1.9,
+        "name": "Retail Sales (YoY)",
+        "previous": 1.6,
+        "timestamp": 1437030900,
+        "volatility": 1
+    },
+    {
+        "actual": 6.9,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch Unemployment Rate (Jun)",
+        "previous": 6.9,
+        "timestamp": 1437031800,
+        "volatility": 0
+    },
+    {
+        "actual": 4.18,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 2.83,
+        "name": "Italian Trade Balance (May)",
+        "previous": 3.73,
+        "timestamp": 1437033600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.31,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian Trade Balance EU (May)",
+        "previous": 1.13,
+        "timestamp": 1437033600,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "Eurogroup Meetings",
+        "timestamp": 1437033600,
+        "volatility": 1
+    },
+    {
+        "actual": 2.099,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 10-Year Obligacion Auction",
+        "previous": 2.258,
+        "timestamp": 1437036900,
+        "volatility": 1
+    },
+    {
+        "actual": 0.395,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 3-Year Bonos Auction",
+        "previous": 0.691,
+        "timestamp": 1437036900,
+        "volatility": 0
+    },
+    {
+        "actual": -0.08,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 3-Year BTAN Auction",
+        "previous": -0.04,
+        "timestamp": 1437037200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.28,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 5-Year BTAN Auction",
+        "previous": 0.35,
+        "timestamp": 1437037200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.8,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.8,
+        "name": "Core CPI (YoY)",
+        "previous": 0.8,
+        "timestamp": 1437037200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.0,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "Core CPI (MoM) (Jun)",
+        "previous": 0.1,
+        "timestamp": 1437037200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.2,
+        "name": "CPI (YoY) (Jun)",
+        "previous": 0.2,
+        "timestamp": 1437037200,
+        "volatility": 2
+    },
+    {
+        "actual": 0.0,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.0,
+        "name": "CPI (MoM) (Jun)",
+        "previous": 0.2,
+        "timestamp": 1437037200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.0,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "CPI ex Tobacco (MoM) (Jun)",
+        "previous": 0.2,
+        "timestamp": 1437037200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "CPI ex Tobacco (YoY) (Jun)",
+        "previous": 0.3,
+        "timestamp": 1437037200,
+        "volatility": 0
+    },
+    {
+        "actual": 18.8,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 22.3,
+        "name": "Trade Balance (May)",
+        "previous": 24.9,
+        "timestamp": 1437037200,
+        "volatility": 1
+    },
+    {
+        "actual": 2.0,
+        "country": "Israel",
+        "currency": "ILS",
+        "forecast": 2.1,
+        "name": "GDP Annualized (QoQ) (Q1)",
+        "previous": 2.1,
+        "timestamp": 1437040800,
+        "volatility": 1
+    },
+    {
+        "actual": -0.2,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -0.2,
+        "name": "Deposit Facility Rate",
+        "previous": -0.2,
+        "timestamp": 1437047100,
+        "volatility": 2
+    },
+    {
+        "actual": 0.05,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.05,
+        "name": "ECB Interest Rate Decision (Jul)",
+        "previous": 0.05,
+        "timestamp": 1437047100,
+        "volatility": 2
+    },
+    {
+        "actual": 0.2,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 0.4,
+        "name": "Core CPI (YoY) (Jun)",
+        "previous": 0.4,
+        "timestamp": 1437048000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.5,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 4.1,
+        "name": "Corp. Sector Wages (YoY) (Jun)",
+        "previous": 3.2,
+        "timestamp": 1437048000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.9,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 1.1,
+        "name": "Employment Growth (YoY) (Jun)",
+        "previous": 1.1,
+        "timestamp": 1437048000,
+        "volatility": 0
+    },
+    {
+        "actual": 359.9,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "Central Bank reserves (USD)",
+        "previous": 359.6,
+        "timestamp": 1437048000,
+        "volatility": 1
+    },
+    {
+        "actual": 2.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.0,
+        "name": "Continuing Jobless Claims",
+        "previous": 2.0,
+        "timestamp": 1437049800,
+        "volatility": 0
+    },
+    {
+        "actual": 281.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 285.0,
+        "name": "Initial Jobless Claims",
+        "previous": 296.0,
+        "timestamp": 1437049800,
+        "volatility": 1
+    },
+    {
+        "actual": 282.5,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Jobless Claims 4-Week Avg.",
+        "previous": 279.25,
+        "timestamp": 1437049800,
+        "volatility": 0
+    },
+    {
+        "actual": -5.45,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 10.23,
+        "name": "Foreign Securities Purchases (May)",
+        "previous": 16.73,
+        "timestamp": 1437049800,
+        "volatility": 1
+    },
+    {
+        "actual": 5.58,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "Foreign Securities Purchases by Canadians (May)",
+        "previous": 9.7,
+        "timestamp": 1437049800,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB Press Conference",
+        "timestamp": 1437049800,
+        "volatility": 2
+    },
+    {
+        "actual": 43.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Bloomberg Consumer Confidence",
+        "previous": 43.5,
+        "timestamp": 1437054300,
+        "volatility": 0
+    },
+    {
+        "actual": 60.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 60.0,
+        "name": "NAHB Housing Market Index (Jul)",
+        "previous": 60.0,
+        "timestamp": 1437055200,
+        "volatility": 0
+    },
+    {
+        "actual": 5.7,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 12.0,
+        "name": "Philadelphia Fed Manufacturing Index (Jul)",
+        "previous": 15.2,
+        "timestamp": 1437055200,
+        "volatility": 2
+    },
+    {
+        "actual": 41.5,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Philly Fed Business Conditions (Jul)",
+        "previous": 39.7,
+        "timestamp": 1437055200,
+        "volatility": 0
+    },
+    {
+        "actual": 7.7,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Philly Fed CAPEX Index (Jul)",
+        "previous": 8.1,
+        "timestamp": 1437055200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.4,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Philly Fed Employment (Jul)",
+        "previous": 3.8,
+        "timestamp": 1437055200,
+        "volatility": 1
+    },
+    {
+        "actual": 7.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Philly Fed New Orders (Jul)",
+        "previous": 15.2,
+        "timestamp": 1437055200,
+        "volatility": 0
+    },
+    {
+        "actual": 20.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Philly Fed Prices Paid (Jul)",
+        "previous": 17.2,
+        "timestamp": 1437055200,
+        "volatility": 0
+    },
+    {
+        "actual": 99.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 95.0,
+        "name": "Natural Gas Storage",
+        "previous": 91.0,
+        "timestamp": 1437057000,
+        "volatility": 0
+    },
+    {
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BoE Gov Carney Speaks",
+        "timestamp": 1437069600,
+        "volatility": 2
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "Fed Chair Yellen Testifies",
+        "timestamp": 1437071400,
+        "volatility": 2
+    },
+    {
+        "actual": 53.4,
+        "country": "United States",
+        "currency": "USD",
+        "name": "US Foreign Buying, T-bonds (May)",
+        "previous": 6.4,
+        "timestamp": 1437076800,
+        "volatility": 0
+    },
+    {
+        "actual": 115.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Overall Net Capital Flow (May)",
+        "previous": 107.9,
+        "timestamp": 1437076800,
+        "volatility": 0
+    },
+    {
+        "actual": 93.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 30.0,
+        "name": "TIC Net Long-Term Transactions (May)",
+        "previous": 54.4,
+        "timestamp": 1437076800,
+        "volatility": 1
+    },
+    {
+        "actual": 76.5,
+        "country": "United States",
+        "currency": "USD",
+        "name": "TIC Net Long-Term Transactions including Swaps (May)",
+        "previous": 38.7,
+        "timestamp": 1437076800,
+        "volatility": 0
+    },
+    {
+        "actual": -3.6,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "PPI (YoY) (Jun)",
+        "previous": -3.5,
+        "timestamp": 1437080400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "PPI (MoM) (Jun)",
+        "previous": 0.1,
+        "timestamp": 1437080400,
+        "volatility": 0
+    }
+]

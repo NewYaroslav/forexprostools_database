@@ -1,0 +1,282 @@
+[
+    {
+        "actual": 0.4,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.7,
+        "name": "CPI (QoQ)",
+        "previous": 0.2,
+        "timestamp": 1366767000,
+        "volatility": 2
+    },
+    {
+        "actual": 0.3,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.5,
+        "name": "Trimmed Mean CPI (QoQ)",
+        "previous": 0.6,
+        "timestamp": 1366767000,
+        "volatility": 1
+    },
+    {
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "RBA Governor Lowe Speaks",
+        "timestamp": 1366774200,
+        "volatility": 1
+    },
+    {
+        "actual": 1.25,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "name": "Consumption Indicator",
+        "previous": 1.24,
+        "timestamp": 1366783200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "Finland",
+        "currency": "EUR",
+        "name": "Finnish PPI (YoY)",
+        "previous": 0.1,
+        "timestamp": 1366783200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 1.9,
+        "name": "Spanish PPI (YoY)",
+        "previous": 2.2,
+        "timestamp": 1366786800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.4,
+        "country": "Austria",
+        "currency": "EUR",
+        "name": "Austrian Industrial Production (YoY)",
+        "previous": 2.2,
+        "timestamp": 1366786800,
+        "volatility": 0
+    },
+    {
+        "actual": -5.6,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch Business Confidence",
+        "previous": -4.8,
+        "timestamp": 1366788600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.0,
+        "country": "Russia",
+        "currency": "RUB",
+        "forecast": 1.0,
+        "name": "Business Confidence",
+        "previous": 0.0,
+        "timestamp": 1366788600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.4,
+        "name": "Italian Retail Sales (MoM)",
+        "previous": -0.4,
+        "timestamp": 1366790400,
+        "volatility": 0
+    },
+    {
+        "actual": 101.6,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 103.0,
+        "name": "German Business Expectations",
+        "previous": 103.6,
+        "timestamp": 1366790400,
+        "volatility": 1
+    },
+    {
+        "actual": 107.2,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 109.5,
+        "name": "German Current Assessment",
+        "previous": 109.9,
+        "timestamp": 1366790400,
+        "volatility": 1
+    },
+    {
+        "actual": 95.4,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German Ifo Business Climate Index",
+        "previous": 97.8,
+        "timestamp": 1366790400,
+        "volatility": 2
+    },
+    {
+        "actual": 31.2,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 31.2,
+        "name": "Gross Mortgage Approvals",
+        "previous": 30.6,
+        "timestamp": 1366792200,
+        "volatility": 1
+    },
+    {
+        "actual": 1.167,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian 2-Year CTZ Auction",
+        "previous": 1.746,
+        "timestamp": 1366794900,
+        "volatility": 0
+    },
+    {
+        "actual": 2.16,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German 30-Year Bund Auction",
+        "previous": 2.45,
+        "timestamp": 1366795800,
+        "volatility": 0
+    },
+    {
+        "actual": -1.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 7.0,
+        "name": "CBI Distributive Trades Survey",
+        "previous": 0.0,
+        "timestamp": 1366797600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "MBA Mortgage Applications (WoW)",
+        "previous": 4.8,
+        "timestamp": 1366801200,
+        "volatility": 0
+    },
+    {
+        "actual": 112.0,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Manufacturing Confidence",
+        "previous": 112.1,
+        "timestamp": 1366803000,
+        "volatility": 0
+    },
+    {
+        "actual": -1.4,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.5,
+        "name": "Core Durable Goods Orders (MoM)",
+        "previous": -1.7,
+        "timestamp": 1366806600,
+        "volatility": 2
+    },
+    {
+        "actual": -5.7,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -2.8,
+        "name": "Durable Goods Orders (MoM)",
+        "previous": 4.3,
+        "timestamp": 1366806600,
+        "volatility": 1
+    },
+    {
+        "actual": -14.7,
+        "country": "Belgium",
+        "currency": "EUR",
+        "forecast": -14.0,
+        "name": "Belgium NBB Business Climate",
+        "previous": -15.0,
+        "timestamp": 1366808400,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "Treasury Secretary Lew Speaks",
+        "timestamp": 1366810200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.947,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.513,
+        "name": "Crude Oil Inventories",
+        "previous": -1.233,
+        "timestamp": 1366813800,
+        "volatility": 2
+    },
+    {
+        "actual": -3.928,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.175,
+        "name": "Gasoline Inventories",
+        "previous": -0.633,
+        "timestamp": 1366813800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.12,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Foreign Exchange Flows",
+        "previous": -3.0,
+        "timestamp": 1366817400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.71,
+        "country": "United States",
+        "currency": "USD",
+        "name": "5-Year Note Auction",
+        "previous": 0.76,
+        "timestamp": 1366822800,
+        "volatility": 0
+    },
+    {
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "BoC Gov Carney Speaks",
+        "timestamp": 1366834500,
+        "volatility": 1
+    },
+    {
+        "actual": 1.5,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 1.4,
+        "name": "GDP (YoY)",
+        "previous": 1.5,
+        "timestamp": 1366844400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.9,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 0.6,
+        "name": "GDP (QoQ)",
+        "previous": 0.3,
+        "timestamp": 1366844400,
+        "volatility": 0
+    }
+]

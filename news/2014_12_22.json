@@ -1,0 +1,412 @@
+[
+    {
+        "actual": 3.87,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": 3.87,
+        "name": "Unemployment Rate (Nov)",
+        "previous": 3.87,
+        "timestamp": 1419208200,
+        "volatility": 0
+    },
+    {
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "BoJ Monthly Report",
+        "timestamp": 1419224400,
+        "volatility": 1
+    },
+    {
+        "actual": -0.7,
+        "country": "Estonia",
+        "currency": "EUR",
+        "name": "Estonian PPI (MoM) (Nov)",
+        "previous": -0.9,
+        "timestamp": 1419228000,
+        "volatility": 0
+    },
+    {
+        "actual": -2.3,
+        "country": "Estonia",
+        "currency": "EUR",
+        "name": "Estonian PPI (YoY) (Nov)",
+        "previous": -2.1,
+        "timestamp": 1419228000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.8,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": -0.5,
+        "name": "German Import Price Index (MoM) (Nov)",
+        "previous": -0.3,
+        "timestamp": 1419231600,
+        "volatility": 0
+    },
+    {
+        "actual": -2.1,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": -1.8,
+        "name": "German Import Price Index (YoY) (Nov)",
+        "previous": -1.2,
+        "timestamp": 1419231600,
+        "volatility": 0
+    },
+    {
+        "actual": 6.0,
+        "country": "Denmark",
+        "currency": "DKK",
+        "forecast": 4.6,
+        "name": "Consumer Confidence (Dec)",
+        "previous": 6.3,
+        "timestamp": 1419235200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.8,
+        "country": "Denmark",
+        "currency": "DKK",
+        "name": "Retail Sales (YoY) (Nov)",
+        "previous": 3.0,
+        "timestamp": 1419235200,
+        "volatility": 0
+    },
+    {
+        "actual": 6.0,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": 8.1,
+        "name": "Export Orders (YoY) (Nov)",
+        "previous": 13.4,
+        "timestamp": 1419235200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 0.2,
+        "name": "Retail Sales (MoM) (Nov)",
+        "previous": 1.1,
+        "timestamp": 1419237000,
+        "volatility": 0
+    },
+    {
+        "actual": 4.5,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 3.6,
+        "name": "Retail Sales (YoY) (Nov)",
+        "previous": 4.5,
+        "timestamp": 1419237000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.72,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian Trade Balance Non-EU (Nov)",
+        "previous": 4.02,
+        "timestamp": 1419238800,
+        "volatility": 0
+    },
+    {
+        "actual": 120.7,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "name": "FX Reserves USD",
+        "previous": 125.7,
+        "timestamp": 1419238800,
+        "volatility": 0
+    },
+    {
+        "actual": 4.9,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania Industrial Production (YoY) (Nov)",
+        "previous": 1.3,
+        "timestamp": 1419238800,
+        "volatility": 0
+    },
+    {
+        "actual": -2.0,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania Industrial Production (MoM) (Nov)",
+        "previous": 4.9,
+        "timestamp": 1419238800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "Greece",
+        "currency": "EUR",
+        "name": "Greek Current Account (YoY) (Oct)",
+        "previous": 1.622,
+        "timestamp": 1419242400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.2,
+        "country": "Bahrain",
+        "currency": "BHD",
+        "name": "CPI (YoY)",
+        "previous": 2.6,
+        "timestamp": 1419242400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.4,
+        "country": "Portugal",
+        "currency": "EUR",
+        "name": "Portuguese Current Account (Oct)",
+        "previous": 0.895,
+        "timestamp": 1419250860,
+        "volatility": 0
+    },
+    {
+        "actual": 1.3,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Bank lending (MoM) (Nov)",
+        "previous": 0.8,
+        "timestamp": 1419251400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.73,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Chicago Fed National Activity (Nov)",
+        "previous": 0.31,
+        "timestamp": 1419255000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.6,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "Aggregate Demand (QoQ) (Q3)",
+        "previous": 1.4,
+        "timestamp": 1419256800,
+        "volatility": 0
+    },
+    {
+        "actual": 3.0,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "Aggregate Demand (YoY) (Q3)",
+        "previous": 1.9,
+        "timestamp": 1419256800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "Private Spending (QoQ) (Q3)",
+        "previous": 1.4,
+        "timestamp": 1419256800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.2,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "Private Spending (YoY) (Q3)",
+        "previous": 1.2,
+        "timestamp": 1419256800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.028,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 12-Month BTF Auction",
+        "previous": -0.005,
+        "timestamp": 1419256800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.007,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 3-Month BTF Auction",
+        "previous": -0.007,
+        "timestamp": 1419256800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.035,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 6-Month BTF Auction",
+        "previous": -0.007,
+        "timestamp": 1419256800,
+        "volatility": 0
+    },
+    {
+        "actual": -6.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.9,
+        "name": "Existing Home Sales (MoM) (Nov)",
+        "previous": 1.4,
+        "timestamp": 1419260400,
+        "volatility": 1
+    },
+    {
+        "actual": 4.93,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 5.19,
+        "name": "Existing Home Sales (Nov)",
+        "previous": 5.25,
+        "timestamp": 1419260400,
+        "volatility": 2
+    },
+    {
+        "actual": 602.2,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Central Government Debt Stock (Nov)",
+        "previous": 599.7,
+        "timestamp": 1419260400,
+        "volatility": 0
+    },
+    {
+        "actual": -10.9,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -11.0,
+        "name": "Consumer Confidence (Dec)",
+        "previous": -11.5,
+        "timestamp": 1419260400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.055,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Month Bill Auction",
+        "previous": 0.035,
+        "timestamp": 1419262200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.155,
+        "country": "United States",
+        "currency": "USD",
+        "name": "6-Month Bill Auction",
+        "previous": 0.11,
+        "timestamp": 1419262200,
+        "volatility": 0
+    },
+    {
+        "actual": -3.95,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "Budget Balance (YoY) (Oct)",
+        "previous": -0.74,
+        "timestamp": 1419264000,
+        "volatility": 0
+    },
+    {
+        "actual": -3.21,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "Budget Balance (Oct)",
+        "previous": 0.38,
+        "timestamp": 1419264000,
+        "volatility": 0
+    },
+    {
+        "actual": 104.47,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 103.0,
+        "name": "Federal Tax Revenue (Nov)",
+        "previous": 106.0,
+        "timestamp": 1419265860,
+        "volatility": 0
+    },
+    {
+        "actual": 0.703,
+        "country": "United States",
+        "currency": "USD",
+        "name": "2-Year Note Auction",
+        "previous": 0.542,
+        "timestamp": 1419271200,
+        "volatility": 0
+    },
+    {
+        "actual": 51.7,
+        "country": "United States",
+        "currency": "USD",
+        "name": "U.S. Small Business Health Index (Sep)",
+        "previous": 55.4,
+        "timestamp": 1419278400,
+        "volatility": 0
+    },
+    {
+        "actual": 4.02,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 3.96,
+        "name": "Exports (Nov)",
+        "previous": 4.03,
+        "timestamp": 1419284700,
+        "volatility": 0
+    },
+    {
+        "actual": 4.24,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 4.52,
+        "name": "Imports (Nov)",
+        "previous": 4.93,
+        "timestamp": 1419284700,
+        "volatility": 0
+    },
+    {
+        "actual": -450.0,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": -800.0,
+        "name": "Trade Balance (YoY) (Nov)",
+        "previous": -110.0,
+        "timestamp": 1419284700,
+        "volatility": 1
+    },
+    {
+        "actual": -213.0,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": -564.0,
+        "name": "Trade Balance (MoM) (Nov)",
+        "previous": -908.0,
+        "timestamp": 1419284700,
+        "volatility": 1
+    },
+    {
+        "actual": 9.3,
+        "country": "Colombia",
+        "currency": "COP",
+        "name": "Imports (YoY) (Oct)",
+        "previous": 12.5,
+        "timestamp": 1419285600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.356,
+        "country": "Colombia",
+        "currency": "COP",
+        "forecast": -0.87,
+        "name": "Trade Balance (USD)",
+        "previous": -0.45,
+        "timestamp": 1419285600,
+        "volatility": 0
+    }
+]

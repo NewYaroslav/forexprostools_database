@@ -1,0 +1,428 @@
+[
+    {
+        "actual": 0.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "MI Inflation Gauge (MoM) (Mar)",
+        "previous": -0.2,
+        "timestamp": 1459731600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "ANZ Internet Job Ads (MoM) (Mar)",
+        "previous": -1.3,
+        "timestamp": 1459733400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "ANZ Job Advertisements (MoM)",
+        "previous": -1.2,
+        "timestamp": 1459733400,
+        "volatility": 0
+    },
+    {
+        "actual": -11.4,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "ANZ Newspaper Job Ads (MoM) (Mar)",
+        "previous": 6.9,
+        "timestamp": 1459733400,
+        "volatility": 0
+    },
+    {
+        "actual": 3.1,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 2.0,
+        "name": "Building Approvals (MoM) (Feb)",
+        "previous": -6.6,
+        "timestamp": 1459733400,
+        "volatility": 1
+    },
+    {
+        "actual": -1.2,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Private House Approvals (Feb)",
+        "previous": -6.4,
+        "timestamp": 1459733400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.4,
+        "name": "Retail Sales (MoM) (Feb)",
+        "previous": 0.3,
+        "timestamp": 1459733400,
+        "volatility": 2
+    },
+    {
+        "actual": 52.4,
+        "country": "India",
+        "currency": "INR",
+        "forecast": 51.5,
+        "name": "Nikkei Markit Manufacturing PMI (Mar)",
+        "previous": 51.1,
+        "timestamp": 1459746000,
+        "volatility": 0
+    },
+    {
+        "actual": -3.3,
+        "country": "Romania",
+        "currency": "RON",
+        "name": "PPI (YoY) (Feb)",
+        "previous": -2.0,
+        "timestamp": 1459749600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.5,
+        "country": "Denmark",
+        "currency": "DKK",
+        "forecast": 4.4,
+        "name": "Unemployment Rate (Feb)",
+        "previous": 4.4,
+        "timestamp": 1459753200,
+        "volatility": 0
+    },
+    {
+        "actual": -58.2,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 21.3,
+        "name": "Spanish Unemployment Change",
+        "previous": 2.2,
+        "timestamp": 1459753200,
+        "volatility": 1
+    },
+    {
+        "actual": -0.04,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 0.5,
+        "name": "CPI (MoM) (Mar)",
+        "previous": -0.02,
+        "timestamp": 1459753200,
+        "volatility": 1
+    },
+    {
+        "actual": 7.46,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 8.15,
+        "name": "CPI (YoY) (Mar)",
+        "previous": 8.78,
+        "timestamp": 1459753200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.4,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 0.5,
+        "name": "PPI (MoM) (Mar)",
+        "previous": -0.2,
+        "timestamp": 1459753200,
+        "volatility": 0
+    },
+    {
+        "actual": 3.8,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 3.95,
+        "name": "PPI (YoY) (Mar)",
+        "previous": 4.47,
+        "timestamp": 1459753200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.2,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian Public Deficit (Q4)",
+        "previous": 2.0,
+        "timestamp": 1459756800,
+        "volatility": 0
+    },
+    {
+        "actual": 54.2,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 54.0,
+        "name": "Construction PMI (Mar)",
+        "previous": 54.2,
+        "timestamp": 1459758600,
+        "volatility": 2
+    },
+    {
+        "actual": 5.7,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 6.4,
+        "name": "Sentix Investor Confidence (Apr)",
+        "previous": 5.5,
+        "timestamp": 1459758600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.7,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -0.6,
+        "name": "PPI (MoM) (Feb)",
+        "previous": -1.1,
+        "timestamp": 1459760400,
+        "volatility": 0
+    },
+    {
+        "actual": -4.2,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -4.0,
+        "name": "PPI (YoY) (Feb)",
+        "previous": -3.0,
+        "timestamp": 1459760400,
+        "volatility": 0
+    },
+    {
+        "actual": 10.3,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 10.3,
+        "name": "Unemployment Rate (Feb)",
+        "previous": 10.4,
+        "timestamp": 1459760400,
+        "volatility": 1
+    },
+    {
+        "actual": -0.5,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch 3-Month T-bill Auction",
+        "previous": -0.495,
+        "timestamp": 1459763100,
+        "volatility": 0
+    },
+    {
+        "actual": -0.49,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch 6-Month T-bill Auction",
+        "previous": -0.49,
+        "timestamp": 1459763100,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Latvia",
+        "currency": "EUR",
+        "name": "Latvian Industrial Production (MoM) (Feb)",
+        "previous": -0.3,
+        "timestamp": 1459764000,
+        "volatility": 0
+    },
+    {
+        "actual": 3.8,
+        "country": "Latvia",
+        "currency": "EUR",
+        "name": "Latvian Industrial Production (YoY) (Feb)",
+        "previous": 4.6,
+        "timestamp": 1459764000,
+        "volatility": 0
+    },
+    {
+        "actual": 16.0,
+        "country": "Uganda",
+        "currency": "UGX",
+        "name": "Interest Rate Decision",
+        "previous": 17.0,
+        "timestamp": 1459764000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.424,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 12-Month BTF Auction",
+        "previous": -0.431,
+        "timestamp": 1459774800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.432,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 3-Month BTF Auction",
+        "previous": -0.425,
+        "timestamp": 1459774800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.431,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 6-Month BTF Auction",
+        "previous": -0.423,
+        "timestamp": 1459774800,
+        "volatility": 0
+    },
+    {
+        "actual": 49.4,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": 48.9,
+        "name": "Manufacturing PMI (Mar)",
+        "previous": 48.5,
+        "timestamp": 1459774800,
+        "volatility": 0
+    },
+    {
+        "actual": 721.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "ISM - NY Business Conditions (Mar)",
+        "previous": 720.8,
+        "timestamp": 1459777500,
+        "volatility": 0
+    },
+    {
+        "actual": 127.48,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CB Employment Trends Index (Mar)",
+        "previous": 128.54,
+        "timestamp": 1459778400,
+        "volatility": 0
+    },
+    {
+        "actual": -1.7,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -1.7,
+        "name": "Factory Orders (MoM) (Feb)",
+        "previous": 1.2,
+        "timestamp": 1459778400,
+        "volatility": 1
+    },
+    {
+        "actual": -0.8,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Factory orders ex transportation (MoM) (Feb)",
+        "previous": -0.6,
+        "timestamp": 1459778400,
+        "volatility": 0
+    },
+    {
+        "actual": -2.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.5,
+        "name": "Fed Labor Market Conditions Index",
+        "previous": -2.5,
+        "timestamp": 1459778400,
+        "volatility": 0
+    },
+    {
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "BoC Gov Poloz Speaks",
+        "timestamp": 1459778400,
+        "volatility": 2
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Rosengren Speaks",
+        "timestamp": 1459779300,
+        "volatility": 1
+    },
+    {
+        "actual": 0.235,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Month Bill Auction",
+        "previous": 0.3,
+        "timestamp": 1459783800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.385,
+        "country": "United States",
+        "currency": "USD",
+        "name": "6-Month Bill Auction",
+        "previous": 0.475,
+        "timestamp": 1459783800,
+        "volatility": 0
+    },
+    {
+        "actual": -1.17,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Exchequer Returns (Mar)",
+        "previous": 0.31,
+        "timestamp": 1459783800,
+        "volatility": 0
+    },
+    {
+        "actual": 369.84,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "FX Reserves - USD (Mar)",
+        "previous": 365.76,
+        "timestamp": 1459803600,
+        "volatility": 0
+    },
+    {
+        "actual": 137.8,
+        "country": "Argentina",
+        "currency": "ARS",
+        "forecast": 138.0,
+        "name": "Tax Revenue (Mar)",
+        "previous": 134.8,
+        "timestamp": 1459803600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "NZIER Business Confidence (Q1)",
+        "previous": 15.0,
+        "timestamp": 1459807200,
+        "volatility": 1
+    },
+    {
+        "actual": 93.2,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "NZIER QSBO Capacity Utilization (Q1)",
+        "previous": 93.2,
+        "timestamp": 1459807200,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Kashkari Speaks",
+        "timestamp": 1459810800,
+        "volatility": 1
+    },
+    {
+        "actual": 49.5,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "AIG Services Index (Mar)",
+        "previous": 51.8,
+        "timestamp": 1459812600,
+        "volatility": 0
+    }
+]

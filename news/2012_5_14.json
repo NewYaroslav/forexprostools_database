@@ -1,0 +1,223 @@
+[
+    {
+        "actual": 0.3,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": -2.0,
+        "name": "Home Loans (MoM)",
+        "previous": -2.5,
+        "timestamp": 1336959000,
+        "volatility": 1
+    },
+    {
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "RBA Governor Lowe Speaks",
+        "timestamp": 1336962300,
+        "volatility": 1
+    },
+    {
+        "actual": 0.5,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.4,
+        "name": "German WPI (MoM)",
+        "previous": 0.9,
+        "timestamp": 1336975200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Machine Tool Orders (YoY)",
+        "previous": 2.4,
+        "timestamp": 1336975200,
+        "volatility": 0
+    },
+    {
+        "actual": 3.1,
+        "country": "Finland",
+        "currency": "EUR",
+        "name": "Finnish CPI (YoY)",
+        "previous": 2.9,
+        "timestamp": 1336975200,
+        "volatility": 0
+    },
+    {
+        "actual": 7.23,
+        "country": "India",
+        "currency": "INR",
+        "forecast": 6.7,
+        "name": "WPI Inflation (YoY)",
+        "previous": 6.89,
+        "timestamp": 1336977000,
+        "volatility": 1
+    },
+    {
+        "actual": -4.1,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French Current Account",
+        "previous": -5.3,
+        "timestamp": 1336977900,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "forecast": 0.2,
+        "name": "Slovak CPI (MoM)",
+        "previous": 0.3,
+        "timestamp": 1336978800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 0.3,
+        "name": "PPI (MoM)",
+        "previous": 0.3,
+        "timestamp": 1336979700,
+        "volatility": 1
+    },
+    {
+        "actual": 2.2,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch Retail Sales (YoY)",
+        "previous": 1.1,
+        "timestamp": 1336980600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.3,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 3.3,
+        "name": "Italian CPI (YoY)",
+        "previous": 3.3,
+        "timestamp": 1336982400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.5,
+        "name": "Italian CPI (MoM)",
+        "previous": 0.5,
+        "timestamp": 1336982400,
+        "volatility": 1
+    },
+    {
+        "actual": 2.985,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 12-Month Letras Auction",
+        "previous": 2.623,
+        "timestamp": 1336984200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.3,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.4,
+        "name": "Industrial Production (MoM)",
+        "previous": 0.8,
+        "timestamp": 1336986000,
+        "volatility": 1
+    },
+    {
+        "actual": 5.66,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian 10-Year BTP Auction",
+        "previous": 5.84,
+        "timestamp": 1336986600,
+        "volatility": 1
+    },
+    {
+        "actual": 3.91,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian 3-Year BTP Auction",
+        "previous": 3.89,
+        "timestamp": 1336986600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.037,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German 6-Month Bubill Auction",
+        "previous": 0.066,
+        "timestamp": 1336987800,
+        "volatility": 0
+    },
+    {
+        "actual": 3.1,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 3.3,
+        "name": "Industrial Production (YoY)",
+        "previous": 6.1,
+        "timestamp": 1337000400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.185,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 12-Month BTF Auction",
+        "previous": 0.174,
+        "timestamp": 1337000400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.074,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 3-Month BTF Auction",
+        "previous": 0.082,
+        "timestamp": 1337000400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.111,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 6-Month BTF Auction",
+        "previous": 0.114,
+        "timestamp": 1337000400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.095,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Month Bill Auction",
+        "previous": 0.09,
+        "timestamp": 1337009400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.145,
+        "country": "United States",
+        "currency": "USD",
+        "name": "6-Month Bill Auction",
+        "previous": 0.145,
+        "timestamp": 1337009400,
+        "volatility": 0
+    },
+    {
+        "country": "Switzerland",
+        "currency": "CHF",
+        "name": "SNB Chairman Thomas Jordan speaks",
+        "timestamp": 1337010300,
+        "volatility": 1
+    }
+]

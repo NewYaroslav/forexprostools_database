@@ -1,0 +1,465 @@
+[
+    {
+        "actual": 0.2,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "HIA New Home Sales (MoM) (Dec)",
+        "previous": 6.1,
+        "timestamp": 1486598400,
+        "volatility": 1
+    },
+    {
+        "actual": 25.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 22.0,
+        "name": "RICS House Price Balance (Jan)",
+        "previous": 23.0,
+        "timestamp": 1486598460,
+        "volatility": 1
+    },
+    {
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "RBNZ Gov Wheeler Speaks",
+        "timestamp": 1486599000,
+        "volatility": 2
+    },
+    {
+        "actual": 5.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "NAB Quarterly Business Confidence",
+        "previous": 6.0,
+        "timestamp": 1486600200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.907,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "30-Year JGB Auction",
+        "previous": 0.745,
+        "timestamp": 1486611900,
+        "volatility": 0
+    },
+    {
+        "actual": 1.7,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch CPI (YoY) (Jan)",
+        "previous": 1.0,
+        "timestamp": 1486618200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.4,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch Manufacturing Production (MoM) (Dec)",
+        "previous": 1.4,
+        "timestamp": 1486618200,
+        "volatility": 0
+    },
+    {
+        "actual": 3.5,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Machine Tool Orders (YoY)",
+        "previous": 4.4,
+        "timestamp": 1486620000,
+        "volatility": 0
+    },
+    {
+        "actual": -170.3,
+        "country": "Estonia",
+        "currency": "EUR",
+        "name": "Estonian Trade Balance (Dec)",
+        "previous": -96.1,
+        "timestamp": 1486620000,
+        "volatility": 0
+    },
+    {
+        "actual": 3.7,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 3.6,
+        "name": "Unemployment Rate n.s.a. (Jan)",
+        "previous": 3.5,
+        "timestamp": 1486622700,
+        "volatility": 1
+    },
+    {
+        "actual": 3.3,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 3.3,
+        "name": "Unemployment Rate s.a. (Jan)",
+        "previous": 3.3,
+        "timestamp": 1486622700,
+        "volatility": 1
+    },
+    {
+        "actual": -3.3,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": -1.1,
+        "name": "German Exports (MoM) (Dec)",
+        "previous": 3.9,
+        "timestamp": 1486623600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": -1.0,
+        "name": "German Imports (MoM) (Dec)",
+        "previous": 3.5,
+        "timestamp": 1486623600,
+        "volatility": 0
+    },
+    {
+        "actual": 18.4,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 21.4,
+        "name": "German Trade Balance (Dec)",
+        "previous": 21.8,
+        "timestamp": 1486623600,
+        "volatility": 1
+    },
+    {
+        "actual": 1.1,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 0.7,
+        "name": "GDP (QoQ) (Q4)",
+        "previous": -0.6,
+        "timestamp": 1486623600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.3,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 0.4,
+        "name": "GDP Mainland (QoQ) (Q4)",
+        "previous": 0.1,
+        "timestamp": 1486623600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.19,
+        "country": "Romania",
+        "currency": "RON",
+        "name": "Trade Balance (EUR) (Dec)",
+        "previous": -0.866,
+        "timestamp": 1486623600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.0,
+        "country": "Philippines",
+        "currency": "PHP",
+        "forecast": 3.0,
+        "name": "Interest Rate Decision",
+        "previous": 3.0,
+        "timestamp": 1486627200,
+        "volatility": 0
+    },
+    {
+        "actual": 556.0,
+        "country": "Hungary",
+        "currency": "HUF",
+        "forecast": 663.0,
+        "name": "Trade Balance (EUR) (MoM) (Dec)",
+        "previous": 878.0,
+        "timestamp": 1486627200,
+        "volatility": 0
+    },
+    {
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "RBA Governor Lowe Speaks",
+        "timestamp": 1486630800,
+        "volatility": 1
+    },
+    {
+        "actual": -0.24,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania Trade Balance (Dec)",
+        "previous": -0.04,
+        "timestamp": 1486630800,
+        "volatility": 0
+    },
+    {
+        "actual": -7.1,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "name": "Gold Production (YoY) (Dec)",
+        "previous": -10.0,
+        "timestamp": 1486632600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.9,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": -3.8,
+        "name": "Mining Production (Dec)",
+        "previous": -4.5,
+        "timestamp": 1486632600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.2,
+        "country": "Greece",
+        "currency": "EUR",
+        "name": "Greek Industrial Production (YoY) (Dec)",
+        "previous": 2.0,
+        "timestamp": 1486634400,
+        "volatility": 0
+    },
+    {
+        "actual": 23.0,
+        "country": "Greece",
+        "currency": "EUR",
+        "name": "Greek Unemployment Rate (Nov)",
+        "previous": 23.0,
+        "timestamp": 1486634400,
+        "volatility": 0
+    },
+    {
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "CBRT Gov Cetinkaya Speaks",
+        "timestamp": 1486634400,
+        "volatility": 1
+    },
+    {
+        "actual": 1.863,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "30-Year Treasury Gilt Auction",
+        "previous": 1.956,
+        "timestamp": 1486636500,
+        "volatility": 0
+    },
+    {
+        "actual": -3.05,
+        "country": "Portugal",
+        "currency": "EUR",
+        "name": "Portuguese Trade Balance (Dec)",
+        "previous": -2.58,
+        "timestamp": 1486638000,
+        "volatility": 0
+    },
+    {
+        "actual": -240.1,
+        "country": "Latvia",
+        "currency": "EUR",
+        "name": "Latvian Trade Balance (Dec)",
+        "previous": -122.1,
+        "timestamp": 1486638000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": 0.1,
+        "name": "Manufacturing Production (MoM) (Dec)",
+        "previous": 0.3,
+        "timestamp": 1486638000,
+        "volatility": 0
+    },
+    {
+        "actual": 394.1,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "Central Bank reserves (USD)",
+        "previous": 392.5,
+        "timestamp": 1486645200,
+        "volatility": 1
+    },
+    {
+        "actual": 2.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.0,
+        "name": "Continuing Jobless Claims",
+        "previous": 2.0,
+        "timestamp": 1486647000,
+        "volatility": 0
+    },
+    {
+        "actual": 234.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 250.0,
+        "name": "Initial Jobless Claims",
+        "previous": 246.0,
+        "timestamp": 1486647000,
+        "volatility": 1
+    },
+    {
+        "actual": 244.25,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Jobless Claims 4-Week Avg.",
+        "previous": 248.0,
+        "timestamp": 1486647000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.2,
+        "name": "New Housing Price Index (MoM) (Dec)",
+        "previous": 0.2,
+        "timestamp": 1486647000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.58,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 0.5,
+        "name": "Core CPI (MoM) (Jan)",
+        "previous": 0.45,
+        "timestamp": 1486648800,
+        "volatility": 0
+    },
+    {
+        "actual": 4.72,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 4.7,
+        "name": "CPI (YoY) (Jan)",
+        "previous": 3.36,
+        "timestamp": 1486648800,
+        "volatility": 1
+    },
+    {
+        "actual": 1.7,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 1.68,
+        "name": "CPI (MoM) (Jan)",
+        "previous": 0.46,
+        "timestamp": 1486648800,
+        "volatility": 1
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Bullard Speaks",
+        "timestamp": 1486649100,
+        "volatility": 1
+    },
+    {
+        "actual": 47.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Bloomberg Consumer Confidence",
+        "previous": 46.6,
+        "timestamp": 1486651500,
+        "volatility": 0
+    },
+    {
+        "actual": -152.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -153.0,
+        "name": "Natural Gas Storage",
+        "previous": -87.0,
+        "timestamp": 1486652400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.0,
+        "name": "Wholesale Inventories (MoM) (Dec)",
+        "previous": 1.0,
+        "timestamp": 1486652400,
+        "volatility": 0
+    },
+    {
+        "actual": 3.005,
+        "country": "United States",
+        "currency": "USD",
+        "name": "30-Year Bond Auction",
+        "previous": 2.914,
+        "timestamp": 1486663200,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "Chicago Fed President Evans Speaks",
+        "timestamp": 1486663800,
+        "volatility": 0
+    },
+    {
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BoE Gov Carney Speaks",
+        "timestamp": 1486665000,
+        "volatility": 2
+    },
+    {
+        "actual": 6.25,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 6.25,
+        "name": "Interest Rate Decision (Feb)",
+        "previous": 5.75,
+        "timestamp": 1486666800,
+        "volatility": 1
+    },
+    {
+        "actual": 1.3,
+        "country": "Argentina",
+        "currency": "ARS",
+        "forecast": 1.7,
+        "name": "CPI (MoM) (Jan)",
+        "previous": 1.2,
+        "timestamp": 1486666800,
+        "volatility": 1
+    },
+    {
+        "actual": 4.25,
+        "country": "Peru",
+        "currency": "PEN",
+        "forecast": 4.25,
+        "name": "Interest Rate Decision (Feb)",
+        "previous": 4.25,
+        "timestamp": 1486681200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.6,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 0.2,
+        "name": "PPI (MoM) (Jan)",
+        "previous": 0.6,
+        "timestamp": 1486684200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 0.0,
+        "name": "PPI (YoY) (Jan)",
+        "previous": -1.2,
+        "timestamp": 1486684200,
+        "volatility": 0
+    }
+]

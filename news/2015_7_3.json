@@ -1,0 +1,415 @@
+[
+    {
+        "actual": 0.3,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.5,
+        "name": "Retail Sales (MoM) (May)",
+        "previous": -0.1,
+        "timestamp": 1435887000,
+        "volatility": 2
+    },
+    {
+        "actual": 51.8,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 53.8,
+        "name": "Caixin Services PMI (Jun)",
+        "previous": 53.5,
+        "timestamp": 1435887900,
+        "volatility": 1
+    },
+    {
+        "actual": -6.7,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "forecast": -8.9,
+        "name": "Exports (YoY) (May)",
+        "previous": -8.8,
+        "timestamp": 1435896060,
+        "volatility": 0
+    },
+    {
+        "actual": -7.2,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "forecast": -8.7,
+        "name": "Imports (YoY) (May)",
+        "previous": -7.0,
+        "timestamp": 1435896060,
+        "volatility": 0
+    },
+    {
+        "actual": 5.51,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "forecast": 5.5,
+        "name": "Trade Balance (May)",
+        "previous": 6.9,
+        "timestamp": 1435896060,
+        "volatility": 0
+    },
+    {
+        "actual": 47.7,
+        "country": "India",
+        "currency": "INR",
+        "name": "Nikkei Services PMI (Jun)",
+        "previous": 49.6,
+        "timestamp": 1435899600,
+        "volatility": 0
+    },
+    {
+        "actual": 63.3,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Services PMI (Jun)",
+        "previous": 61.4,
+        "timestamp": 1435899600,
+        "volatility": 0
+    },
+    {
+        "actual": 49.5,
+        "country": "Russia",
+        "currency": "RUB",
+        "forecast": 50.0,
+        "name": "Markit Services PMI (Jun)",
+        "previous": 52.8,
+        "timestamp": 1435903200,
+        "volatility": 1
+    },
+    {
+        "actual": 54.9,
+        "country": "Sweden",
+        "currency": "SEK",
+        "name": "Services PMI (MoM) (Jun)",
+        "previous": 58.2,
+        "timestamp": 1435905000,
+        "volatility": 0
+    },
+    {
+        "actual": 17.3,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": 16.0,
+        "name": "Trade Balance NRA (May)",
+        "previous": 19.2,
+        "timestamp": 1435906800,
+        "volatility": 0
+    },
+    {
+        "actual": 7.2,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 7.8,
+        "name": "CPI (YoY) (Jun)",
+        "previous": 8.09,
+        "timestamp": 1435906800,
+        "volatility": 1
+    },
+    {
+        "actual": -0.51,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": -0.25,
+        "name": "CPI (MoM) (Jun)",
+        "previous": 0.56,
+        "timestamp": 1435906800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.25,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 1.47,
+        "name": "PPI (MoM) (Jun)",
+        "previous": 1.11,
+        "timestamp": 1435906800,
+        "volatility": 0
+    },
+    {
+        "actual": 6.73,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "PPI (YoY) (Jun)",
+        "previous": 6.52,
+        "timestamp": 1435906800,
+        "volatility": 0
+    },
+    {
+        "actual": 5.2,
+        "country": "Hungary",
+        "currency": "HUF",
+        "name": "Retail Sales (YoY) (May)",
+        "previous": 5.0,
+        "timestamp": 1435906800,
+        "volatility": 0
+    },
+    {
+        "actual": 497.0,
+        "country": "Hungary",
+        "currency": "HUF",
+        "name": "Trade Balance (EUR) (MoM) (Apr)",
+        "previous": 533.6,
+        "timestamp": 1435906800,
+        "volatility": 0
+    },
+    {
+        "actual": 56.1,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 58.0,
+        "name": "Spanish Services PMI (Jun)",
+        "previous": 58.4,
+        "timestamp": 1435907700,
+        "volatility": 1
+    },
+    {
+        "actual": 49.2,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "name": "South Africa Standard Bank PMI (Jun)",
+        "previous": 50.1,
+        "timestamp": 1435907700,
+        "volatility": 0
+    },
+    {
+        "actual": 3.3,
+        "country": "Sweden",
+        "currency": "SEK",
+        "name": "Industrial Production (YoY) (May)",
+        "previous": 1.4,
+        "timestamp": 1435908600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": -0.6,
+        "name": "Industrial Production (MoM) (May)",
+        "previous": 2.0,
+        "timestamp": 1435908600,
+        "volatility": 0
+    },
+    {
+        "actual": 5.9,
+        "country": "Sweden",
+        "currency": "SEK",
+        "name": "Industrial New Orders (YoY) (May)",
+        "previous": 4.5,
+        "timestamp": 1435908600,
+        "volatility": 0
+    },
+    {
+        "actual": 18.2,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Currency Swaps (USD)",
+        "previous": 17.5,
+        "timestamp": 1435908600,
+        "volatility": 0
+    },
+    {
+        "actual": 160.3,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Foreign Reserves (USD)",
+        "previous": 162.5,
+        "timestamp": 1435908600,
+        "volatility": 0
+    },
+    {
+        "actual": 53.4,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 52.5,
+        "name": "Italian Services PMI (Jun)",
+        "previous": 52.5,
+        "timestamp": 1435909500,
+        "volatility": 1
+    },
+    {
+        "actual": 53.3,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 53.4,
+        "name": "French Markit Composite PMI (Jun)",
+        "previous": 53.4,
+        "timestamp": 1435909800,
+        "volatility": 0
+    },
+    {
+        "actual": 54.1,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 54.1,
+        "name": "French Services PMI (Jun)",
+        "previous": 54.1,
+        "timestamp": 1435909800,
+        "volatility": 1
+    },
+    {
+        "actual": 53.7,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 54.0,
+        "name": "German Composite PMI (Jun)",
+        "previous": 54.0,
+        "timestamp": 1435910100,
+        "volatility": 0
+    },
+    {
+        "actual": 53.8,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 54.2,
+        "name": "German Services PMI (Jun)",
+        "previous": 54.2,
+        "timestamp": 1435910100,
+        "volatility": 1
+    },
+    {
+        "actual": 91.93,
+        "country": "Norway",
+        "currency": "NOK",
+        "name": "Unemployment Change (Jun)",
+        "previous": 90.36,
+        "timestamp": 1435910400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.8,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 2.8,
+        "name": "Unemployment Rate n.s.a. (Jun)",
+        "previous": 2.7,
+        "timestamp": 1435910400,
+        "volatility": 0
+    },
+    {
+        "actual": 54.2,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 54.1,
+        "name": "Markit Composite PMI (Jun)",
+        "previous": 54.1,
+        "timestamp": 1435910400,
+        "volatility": 1
+    },
+    {
+        "actual": 54.4,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 54.4,
+        "name": "Services PMI (Jun)",
+        "previous": 54.4,
+        "timestamp": 1435910400,
+        "volatility": 1
+    },
+    {
+        "actual": 58.5,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 57.4,
+        "name": "Services PMI (Jun)",
+        "previous": 56.5,
+        "timestamp": 1435912200,
+        "volatility": 2
+    },
+    {
+        "actual": 13.4,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "name": "M2 Money Supply (YoY) (May)",
+        "previous": 14.9,
+        "timestamp": 1435914000,
+        "volatility": 0
+    },
+    {
+        "actual": 8.1,
+        "country": "Norway",
+        "currency": "NOK",
+        "name": "House Price Index (YoY) (Jun)",
+        "previous": 7.5,
+        "timestamp": 1435914000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "Retail Sales (MoM) (May)",
+        "previous": 0.7,
+        "timestamp": 1435914000,
+        "volatility": 1
+    },
+    {
+        "actual": 2.4,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 2.3,
+        "name": "Retail Sales (YoY) (May)",
+        "previous": 2.7,
+        "timestamp": 1435914000,
+        "volatility": 0
+    },
+    {
+        "actual": 355.22,
+        "country": "India",
+        "currency": "INR",
+        "name": "FX Reserves, USD",
+        "previous": 355.46,
+        "timestamp": 1435923000,
+        "volatility": 0
+    },
+    {
+        "actual": 5.3,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 4.6,
+        "name": "Gross Fixed Investments (YoY) (Apr)",
+        "previous": 6.6,
+        "timestamp": 1435928400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "Gross Fixed Investments (MoM) (Apr)",
+        "previous": 4.0,
+        "timestamp": 1435928400,
+        "volatility": 0
+    },
+    {
+        "actual": 41.0,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 42.0,
+        "name": "Markit Composite PMI (Jun)",
+        "previous": 42.9,
+        "timestamp": 1435928400,
+        "volatility": 0
+    },
+    {
+        "actual": 39.9,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 40.5,
+        "name": "Markit Services PMI (Jun)",
+        "previous": 42.5,
+        "timestamp": 1435928400,
+        "volatility": 0
+    },
+    {
+        "actual": 328.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Crude Oil speculative net positions",
+        "previous": 327.4,
+        "timestamp": 1435955400,
+        "volatility": 1
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "RBA Bulletin",
+        "timestamp": 1247707800,
+        "volatility": 0
+    },
+    {
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "BoJ Monthly Report",
+        "timestamp": 1247720400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.1,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 0.3,
+        "name": "French CPI (MoM)",
+        "previous": 0.2,
+        "timestamp": 1247726700,
+        "volatility": 1
+    },
+    {
+        "actual": 1.19,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": -0.36,
+        "name": "Italian Trade Balance",
+        "previous": -0.25,
+        "timestamp": 1247731200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "name": "ZEW Expectations",
+        "previous": 9.7,
+        "timestamp": 1247734800,
+        "volatility": 0
+    },
+    {
+        "actual": 522.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 525.0,
+        "name": "Initial Jobless Claims",
+        "previous": 569.0,
+        "timestamp": 1247747400,
+        "volatility": 1
+    },
+    {
+        "actual": -19.8,
+        "country": "United States",
+        "currency": "USD",
+        "name": "TIC Net Long-Term Transactions",
+        "previous": 11.5,
+        "timestamp": 1247749200,
+        "volatility": 1
+    },
+    {
+        "actual": -7.5,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -5.0,
+        "name": "Philadelphia Fed Manufacturing Index",
+        "previous": -2.2,
+        "timestamp": 1247752800,
+        "volatility": 2
+    },
+    {
+        "actual": 90.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Natural Gas Storage",
+        "previous": 75.0,
+        "timestamp": 1247754600,
+        "volatility": 0
+    },
+    {
+        "actual": 17.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 16.0,
+        "name": "NAHB Housing Market Index",
+        "previous": 15.0,
+        "timestamp": 1247763600,
+        "volatility": 0
+    }
+]

@@ -1,0 +1,494 @@
+[
+    {
+        "actual": 2.5,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 2.5,
+        "name": "Interest Rate Decision",
+        "previous": 2.5,
+        "timestamp": 1402534800,
+        "volatility": 0
+    },
+    {
+        "actual": 4.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "MI Inflation Expectations",
+        "previous": 4.4,
+        "timestamp": 1402534800,
+        "volatility": 0
+    },
+    {
+        "actual": -4.8,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 10.0,
+        "name": "Employment Change",
+        "previous": 10.3,
+        "timestamp": 1402536600,
+        "volatility": 2
+    },
+    {
+        "actual": 22.2,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Full Employment Change",
+        "previous": 14.2,
+        "timestamp": 1402536600,
+        "volatility": 1
+    },
+    {
+        "actual": 64.6,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 64.7,
+        "name": "Participation Rate",
+        "previous": 64.7,
+        "timestamp": 1402536600,
+        "volatility": 0
+    },
+    {
+        "actual": 5.8,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 5.9,
+        "name": "Unemployment Rate",
+        "previous": 5.8,
+        "timestamp": 1402536600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.183,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "5-Year JGB Auction",
+        "previous": 0.185,
+        "timestamp": 1402544700,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": -0.3,
+        "name": "German WPI (MoM)",
+        "previous": 0.2,
+        "timestamp": 1402552800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "French CPI (MoM)",
+        "previous": 0.0,
+        "timestamp": 1402555500,
+        "volatility": 1
+    },
+    {
+        "actual": -1.6,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French Current Account",
+        "previous": -1.5,
+        "timestamp": 1402555500,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "French HICP (MoM)",
+        "previous": 0.0,
+        "timestamp": 1402555500,
+        "volatility": 1
+    },
+    {
+        "actual": 0.8,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 0.8,
+        "name": "French HICP (YoY)",
+        "previous": 0.8,
+        "timestamp": 1402555500,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "Slovak CPI (MoM)",
+        "previous": 0.0,
+        "timestamp": 1402556400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": -0.1,
+        "name": "CPI (YoY)",
+        "previous": 0.0,
+        "timestamp": 1402558200,
+        "volatility": 1
+    },
+    {
+        "actual": 4.51,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch Trade Balance",
+        "previous": 4.85,
+        "timestamp": 1402558200,
+        "volatility": 0
+    },
+    {
+        "actual": 13.4,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 13.1,
+        "name": "M2 Money Stock (YoY)",
+        "previous": 13.2,
+        "timestamp": 1402560000,
+        "volatility": 0
+    },
+    {
+        "actual": 871.0,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 750.0,
+        "name": "New Loans",
+        "previous": 775.0,
+        "timestamp": 1402560000,
+        "volatility": 1
+    },
+    {
+        "actual": 7.5,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": 7.5,
+        "name": "Interest Rate Decision",
+        "previous": 7.5,
+        "timestamp": 1402560000,
+        "volatility": 1
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB Economic Bulletin",
+        "timestamp": 1402560000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.8,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.4,
+        "name": "Industrial Production (MoM)",
+        "previous": -0.4,
+        "timestamp": 1402563600,
+        "volatility": 1
+    },
+    {
+        "actual": 1.4,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.9,
+        "name": "Industrial Production (YoY)",
+        "previous": 0.2,
+        "timestamp": 1402563600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.89,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian 3-Year BTP Auction",
+        "previous": 1.12,
+        "timestamp": 1402564800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.12,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian 7-Year BTP Auction",
+        "previous": 2.71,
+        "timestamp": 1402564800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish CPI (MoM)",
+        "previous": 0.1,
+        "timestamp": 1402567200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Portugal",
+        "currency": "EUR",
+        "forecast": 0.2,
+        "name": "Portuguese CPI (MoM)",
+        "previous": 0.2,
+        "timestamp": 1402567200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.4,
+        "country": "Portugal",
+        "currency": "EUR",
+        "forecast": -0.2,
+        "name": "Portuguese CPI (YoY)",
+        "previous": -0.1,
+        "timestamp": 1402567200,
+        "volatility": 0
+    },
+    {
+        "actual": 5.0,
+        "country": "Israel",
+        "currency": "ILS",
+        "name": "Exports (USD)",
+        "previous": 4.0,
+        "timestamp": 1402570800,
+        "volatility": 0
+    },
+    {
+        "actual": 6.0,
+        "country": "Israel",
+        "currency": "ILS",
+        "name": "Imports (USD)",
+        "previous": 5.0,
+        "timestamp": 1402570800,
+        "volatility": 0
+    },
+    {
+        "actual": -843.3,
+        "country": "Israel",
+        "currency": "ILS",
+        "name": "Trade Balance",
+        "previous": -1.0,
+        "timestamp": 1402570800,
+        "volatility": 0
+    },
+    {
+        "actual": 8.28,
+        "country": "India",
+        "currency": "INR",
+        "forecast": 8.4,
+        "name": "CPI (YoY)",
+        "previous": 8.59,
+        "timestamp": 1402574400,
+        "volatility": 1
+    },
+    {
+        "actual": 3.4,
+        "country": "India",
+        "currency": "INR",
+        "forecast": 1.9,
+        "name": "Industrial Production (YoY)",
+        "previous": -0.5,
+        "timestamp": 1402574400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.6,
+        "country": "India",
+        "currency": "INR",
+        "name": "Manufacturing Output (MoM)",
+        "previous": -1.2,
+        "timestamp": 1402574400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.4,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": -0.2,
+        "name": "Retail Sales (MoM)",
+        "previous": -0.5,
+        "timestamp": 1402574400,
+        "volatility": 1
+    },
+    {
+        "actual": 6.7,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 6.2,
+        "name": "Retail Sales (YoY)",
+        "previous": -1.1,
+        "timestamp": 1402574400,
+        "volatility": 1
+    },
+    {
+        "actual": 2.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.0,
+        "name": "Continuing Jobless Claims",
+        "previous": 2.0,
+        "timestamp": 1402576200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.4,
+        "name": "Core Retail Sales (MoM)",
+        "previous": 0.4,
+        "timestamp": 1402576200,
+        "volatility": 2
+    },
+    {
+        "actual": 0.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.2,
+        "name": "Import Price Index (MoM)",
+        "previous": -0.5,
+        "timestamp": 1402576200,
+        "volatility": 1
+    },
+    {
+        "actual": 317.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 310.0,
+        "name": "Initial Jobless Claims",
+        "previous": 313.0,
+        "timestamp": 1402576200,
+        "volatility": 1
+    },
+    {
+        "actual": 315.25,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Jobless Claims 4-Week Avg.",
+        "previous": 310.5,
+        "timestamp": 1402576200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.6,
+        "name": "Retail Sales (MoM)",
+        "previous": 0.5,
+        "timestamp": 1402576200,
+        "volatility": 2
+    },
+    {
+        "actual": 82.5,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 82.6,
+        "name": "Capacity Utilization Rate",
+        "previous": 82.2,
+        "timestamp": 1402576200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.3,
+        "name": "New Housing Price Index (MoM)",
+        "previous": 0.2,
+        "timestamp": 1402576200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.6,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.4,
+        "name": "Business Inventories (MoM)",
+        "previous": 0.4,
+        "timestamp": 1402581600,
+        "volatility": 1
+    },
+    {
+        "actual": 107.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 110.0,
+        "name": "Natural Gas Storage",
+        "previous": 119.0,
+        "timestamp": 1402583400,
+        "volatility": 0
+    },
+    {
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "BoC Gov Poloz Speaks",
+        "timestamp": 1402586100,
+        "volatility": 2
+    },
+    {
+        "actual": 3.444,
+        "country": "United States",
+        "currency": "USD",
+        "name": "30-Year Bond Auction",
+        "previous": 3.44,
+        "timestamp": 1402592400,
+        "volatility": 0
+    },
+    {
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German Buba President Weidmann Speaks",
+        "timestamp": 1402596000,
+        "volatility": 1
+    },
+    {
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BoE Gov Carney Speaks",
+        "timestamp": 1402603200,
+        "volatility": 2
+    },
+    {
+        "actual": 4.0,
+        "country": "Chile",
+        "currency": "CLP",
+        "forecast": 4.0,
+        "name": "Interest Rate Decision",
+        "previous": 4.0,
+        "timestamp": 1402610400,
+        "volatility": 0
+    },
+    {
+        "actual": 52.7,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "Business NZ PMI",
+        "previous": 54.4,
+        "timestamp": 1402612200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.6,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "FPI (MoM)",
+        "previous": 0.6,
+        "timestamp": 1402613100,
+        "volatility": 0
+    },
+    {
+        "actual": 4.0,
+        "country": "Peru",
+        "currency": "PEN",
+        "forecast": 4.0,
+        "name": "Interest Rate Decision",
+        "previous": 4.0,
+        "timestamp": 1402614000,
+        "volatility": 0
+    }
+]

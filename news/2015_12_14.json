@@ -1,0 +1,329 @@
+[
+    {
+        "actual": -1.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "Rightmove House Price Index (MoM)",
+        "previous": -1.3,
+        "timestamp": 1450051260,
+        "volatility": 0
+    },
+    {
+        "actual": 1.3,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Capacity Utilization (MoM) (Oct)",
+        "previous": 1.5,
+        "timestamp": 1450067400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.4,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 1.4,
+        "name": "Industrial Production (MoM) (Oct)",
+        "previous": 1.4,
+        "timestamp": 1450067400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.9,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 0.5,
+        "name": "Tertiary Industry Activity Index (MoM)",
+        "previous": -0.4,
+        "timestamp": 1450067400,
+        "volatility": 1
+    },
+    {
+        "actual": 3.82,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch Trade Balance (Oct)",
+        "previous": 4.31,
+        "timestamp": 1450071000,
+        "volatility": 0
+    },
+    {
+        "actual": 5.2,
+        "country": "India",
+        "currency": "INR",
+        "name": "WPI Food (YoY) (Nov)",
+        "previous": 2.44,
+        "timestamp": 1450074600,
+        "volatility": 0
+    },
+    {
+        "actual": -11.09,
+        "country": "India",
+        "currency": "INR",
+        "name": "WPI Fuel (YoY) (Nov)",
+        "previous": -16.32,
+        "timestamp": 1450074600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.99,
+        "country": "India",
+        "currency": "INR",
+        "forecast": -2.8,
+        "name": "WPI Inflation (YoY) (Nov)",
+        "previous": -3.81,
+        "timestamp": 1450074600,
+        "volatility": 1
+    },
+    {
+        "actual": -1.42,
+        "country": "India",
+        "currency": "INR",
+        "name": "WPI Manufacturing Inflation (YoY) (Nov)",
+        "previous": -1.67,
+        "timestamp": 1450074600,
+        "volatility": 0
+    },
+    {
+        "actual": 7.8,
+        "country": "Sweden",
+        "currency": "SEK",
+        "name": "Unemployment Rate (Nov)",
+        "previous": 7.8,
+        "timestamp": 1450076400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "Finland",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "Finnish CPI (YoY) (Nov)",
+        "previous": -0.3,
+        "timestamp": 1450076400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Romania",
+        "currency": "RON",
+        "name": "Industrial Production (MoM) (Oct)",
+        "previous": 1.2,
+        "timestamp": 1450076400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "Slovak Core CPI (MoM) (Nov)",
+        "previous": 0.1,
+        "timestamp": 1450080000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "Slovak Core CPI (YoY) (Nov)",
+        "previous": -0.1,
+        "timestamp": 1450080000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.4,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "forecast": -0.4,
+        "name": "Slovak CPI (YoY) (Nov)",
+        "previous": -0.6,
+        "timestamp": 1450080000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "Slovak CPI (MoM) (Nov)",
+        "previous": 0.1,
+        "timestamp": 1450080000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.4,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": -0.4,
+        "name": "Italian CPI (MoM) (Nov)",
+        "previous": -0.4,
+        "timestamp": 1450083600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.1,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "Italian CPI (YoY) (Nov)",
+        "previous": 0.1,
+        "timestamp": 1450083600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.4,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": -0.5,
+        "name": "Italian HICP (MoM) (Nov)",
+        "previous": -0.4,
+        "timestamp": 1450083600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "Italian HICP (YoY) (Nov)",
+        "previous": 0.2,
+        "timestamp": 1450083600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.12,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": 3.2,
+        "name": "Current Account (Oct)",
+        "previous": -0.16,
+        "timestamp": 1450083600,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB's Nowotny Speaks",
+        "timestamp": 1450087200,
+        "volatility": 1
+    },
+    {
+        "actual": 1.9,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 1.3,
+        "name": "Industrial Production (YoY) (Oct)",
+        "previous": 1.3,
+        "timestamp": 1450087200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.6,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.3,
+        "name": "Industrial Production (MoM) (Oct)",
+        "previous": -0.3,
+        "timestamp": 1450087200,
+        "volatility": 1
+    },
+    {
+        "actual": -4.8,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "name": "Car Sales (YoY) (Nov)",
+        "previous": -16.2,
+        "timestamp": 1450088400,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB President Draghi Speaks",
+        "timestamp": 1450090800,
+        "volatility": 2
+    },
+    {
+        "actual": 5.41,
+        "country": "India",
+        "currency": "INR",
+        "forecast": 5.4,
+        "name": "CPI (YoY) (Nov)",
+        "previous": 5.0,
+        "timestamp": 1450094400,
+        "volatility": 1
+    },
+    {
+        "actual": -113.0,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": -591.0,
+        "name": "Current Account (EUR) (Oct)",
+        "previous": -959.0,
+        "timestamp": 1450098000,
+        "volatility": 0
+    },
+    {
+        "actual": 9.8,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 9.2,
+        "name": "M3 Money Supply (MoM) (Nov)",
+        "previous": 9.2,
+        "timestamp": 1450098000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.314,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 12-Month BTF Auction",
+        "previous": -0.283,
+        "timestamp": 1450101600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.328,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 3-Month BTF Auction",
+        "previous": -0.291,
+        "timestamp": 1450101600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.317,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 6-Month BTF Auction",
+        "previous": -0.286,
+        "timestamp": 1450101600,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB's Costa Speaks",
+        "timestamp": 1450105200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.28,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Month Bill Auction",
+        "previous": 0.28,
+        "timestamp": 1450110600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.585,
+        "country": "United States",
+        "currency": "USD",
+        "name": "6-Month Bill Auction",
+        "previous": 0.535,
+        "timestamp": 1450110600,
+        "volatility": 0
+    }
+]

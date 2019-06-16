@@ -1,0 +1,288 @@
+[
+    {
+        "actual": -1.5,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 0.5,
+        "name": "Average Cash Earnings (YoY)",
+        "previous": 0.2,
+        "timestamp": 1419557400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.9,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Overtime Pay (YoY) (Nov)",
+        "previous": 0.4,
+        "timestamp": 1419557400,
+        "volatility": 0
+    },
+    {
+        "actual": -1.4,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": 0.5,
+        "name": "Industrial Production (MoM) (Nov)",
+        "previous": 2.3,
+        "timestamp": 1419570000,
+        "volatility": 0
+    },
+    {
+        "actual": -2.8,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": 0.7,
+        "name": "Industrial Production (YoY) (Nov)",
+        "previous": -0.2,
+        "timestamp": 1419570000,
+        "volatility": 0
+    },
+    {
+        "actual": 24.0,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Currency Swaps (USD)",
+        "previous": 23.7,
+        "timestamp": 1419579000,
+        "volatility": 0
+    },
+    {
+        "actual": -1.0,
+        "country": "Thailand",
+        "currency": "THB",
+        "forecast": 3.46,
+        "name": "Custom-Based Export Data (Nov)",
+        "previous": 3.97,
+        "timestamp": 1419579000,
+        "volatility": 0
+    },
+    {
+        "actual": -3.46,
+        "country": "Thailand",
+        "currency": "THB",
+        "forecast": 2.29,
+        "name": "Custom-Based Import Data (Nov)",
+        "previous": -4.88,
+        "timestamp": 1419579000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.08,
+        "country": "Thailand",
+        "currency": "THB",
+        "forecast": -0.37,
+        "name": "Custom-Based Trade Data (USD) (Nov)",
+        "previous": 0.03,
+        "timestamp": 1419579000,
+        "volatility": 0
+    },
+    {
+        "actual": 157.1,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Foreign Reserves (USD)",
+        "previous": 158.5,
+        "timestamp": 1419579000,
+        "volatility": 0
+    },
+    {
+        "actual": 10.9,
+        "country": "India",
+        "currency": "INR",
+        "name": "Bank Loan Growth",
+        "previous": 11.3,
+        "timestamp": 1419593400,
+        "volatility": 0
+    },
+    {
+        "actual": 10.6,
+        "country": "India",
+        "currency": "INR",
+        "name": "Deposit Growth",
+        "previous": 11.7,
+        "timestamp": 1419593400,
+        "volatility": 0
+    },
+    {
+        "actual": 320.0,
+        "country": "India",
+        "currency": "INR",
+        "name": "FX Reserves, USD",
+        "previous": 316.83,
+        "timestamp": 1419593400,
+        "volatility": 0
+    },
+    {
+        "actual": 74.6,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Capacity Utilization (Dec)",
+        "previous": 74.5,
+        "timestamp": 1419597000,
+        "volatility": 1
+    },
+    {
+        "actual": 101.2,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Manufacturing Confidence (Dec)",
+        "previous": 102.7,
+        "timestamp": 1419597000,
+        "volatility": 0
+    },
+    {
+        "actual": -1.076,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": -0.426,
+        "name": "Trade Balance (Nov)",
+        "previous": 0.143,
+        "timestamp": 1419602400,
+        "volatility": 0
+    },
+    {
+        "actual": -1.06,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "Trade Balance (USD) (Nov)",
+        "previous": 0.712,
+        "timestamp": 1419602400,
+        "volatility": 0
+    },
+    {
+        "actual": 1499.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "U.S. Baker Hughes Oil Rig Count",
+        "previous": 1536.0,
+        "timestamp": 1419613200,
+        "volatility": 1
+    },
+    {
+        "actual": -15.2,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "CFTC GBP speculative net positions",
+        "previous": -14.6,
+        "timestamp": 1419625800,
+        "volatility": 1
+    },
+    {
+        "actual": 281.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Crude Oil speculative net positions",
+        "previous": 284.1,
+        "timestamp": 1419625800,
+        "volatility": 1
+    },
+    {
+        "actual": 110.9,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Gold speculative net positions",
+        "previous": 118.4,
+        "timestamp": 1419625800,
+        "volatility": 1
+    },
+    {
+        "actual": 26.3,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Silver speculative net positions",
+        "previous": 26.5,
+        "timestamp": 1419625800,
+        "volatility": 0
+    },
+    {
+        "actual": -12.2,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "CFTC CAD speculative net positions",
+        "previous": -15.7,
+        "timestamp": 1419625800,
+        "volatility": 0
+    },
+    {
+        "actual": -63.4,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "CFTC MXN speculative net positions",
+        "previous": -52.8,
+        "timestamp": 1419625800,
+        "volatility": 0
+    },
+    {
+        "actual": -16.8,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "name": "CFTC CHF speculative net positions",
+        "previous": -3.7,
+        "timestamp": 1419625800,
+        "volatility": 0
+    },
+    {
+        "actual": -39.2,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "CFTC AUD speculative net positions",
+        "previous": -34.3,
+        "timestamp": 1419625800,
+        "volatility": 1
+    },
+    {
+        "actual": -93.7,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "CFTC JPY speculative net positions",
+        "previous": -86.9,
+        "timestamp": 1419625800,
+        "volatility": 1
+    },
+    {
+        "actual": -1.4,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "CFTC NZD speculative net positions",
+        "previous": -0.6,
+        "timestamp": 1419625800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.6,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "CFTC RUB speculative positions",
+        "previous": -2.6,
+        "timestamp": 1419625800,
+        "volatility": 1
+    },
+    {
+        "actual": -146.6,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "CFTC EUR speculative net positions",
+        "previous": -126.7,
+        "timestamp": 1419625800,
+        "volatility": 1
+    },
+    {
+        "actual": 12.6,
+        "country": "Oman",
+        "currency": "OMR",
+        "name": "M2 Money Supply (YoY) (Oct)",
+        "previous": 15.1,
+        "timestamp": 1419631200,
+        "volatility": 0
+    },
+    {
+        "actual": 9.6,
+        "country": "Oman",
+        "currency": "OMR",
+        "name": "Total Credit (YoY) (Oct)",
+        "previous": 8.8,
+        "timestamp": 1419631200,
+        "volatility": 0
+    }
+]

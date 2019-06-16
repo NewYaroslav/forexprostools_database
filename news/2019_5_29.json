@@ -1,0 +1,605 @@
+[
+    {
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "BoJ Governor Kuroda Speaks",
+        "timestamp": 1559088000,
+        "volatility": 1
+    },
+    {
+        "actual": -32.0,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": -42.7,
+        "name": "ANZ Business Confidence (May)",
+        "previous": -37.5,
+        "timestamp": 1559091600,
+        "volatility": 1
+    },
+    {
+        "actual": 8.5,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "NBNZ Own Activity (May)",
+        "previous": 7.1,
+        "timestamp": 1559091600,
+        "volatility": 0
+    },
+    {
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "RBNZ Gov Orr Speaks",
+        "timestamp": 1559092200,
+        "volatility": 2
+    },
+    {
+        "actual": 2.88,
+        "country": "Vietnam",
+        "currency": "VND",
+        "name": "Vietnamese CPI (YoY)",
+        "previous": 2.9,
+        "timestamp": 1559095200,
+        "volatility": 1
+    },
+    {
+        "actual": 1.0,
+        "country": "Vietnam",
+        "currency": "VND",
+        "name": "Trade Balance",
+        "previous": -554.0,
+        "timestamp": 1559095200,
+        "volatility": 0
+    },
+    {
+        "actual": 10.0,
+        "country": "Vietnam",
+        "currency": "VND",
+        "name": "Vietnamese Industrial Production (YoY)",
+        "previous": 9.3,
+        "timestamp": 1559098800,
+        "volatility": 0
+    },
+    {
+        "actual": 11.4,
+        "country": "Vietnam",
+        "currency": "VND",
+        "name": "Vietnamese Retail Sales (YoY)",
+        "previous": 12.0,
+        "timestamp": 1559098800,
+        "volatility": 0
+    },
+    {
+        "actual": 4.7,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch Business Confidence (May)",
+        "previous": 6.7,
+        "timestamp": 1559104200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Finland",
+        "currency": "EUR",
+        "forecast": 0.6,
+        "name": "Finnish GDP (QoQ) (Q1)",
+        "previous": 0.5,
+        "timestamp": 1559106000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.2,
+        "country": "Finland",
+        "currency": "EUR",
+        "forecast": 2.2,
+        "name": "Finnish GDP (YoY) (Q1)",
+        "previous": 2.2,
+        "timestamp": 1559106000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Denmark",
+        "currency": "DKK",
+        "forecast": 0.3,
+        "name": "GDP (QoQ)",
+        "previous": 0.8,
+        "timestamp": 1559109600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.1,
+        "country": "Denmark",
+        "currency": "DKK",
+        "name": "Unemployment Rate (Apr)",
+        "previous": 3.1,
+        "timestamp": 1559109600,
+        "volatility": 0
+    },
+    {
+        "actual": 5.7,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 5.7,
+        "name": "Credit Indicator (YoY) (Apr)",
+        "previous": 5.8,
+        "timestamp": 1559109600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.8,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 0.3,
+        "name": "Core Retail Sales (MoM) (Apr)",
+        "previous": 0.7,
+        "timestamp": 1559109600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.8,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 0.5,
+        "name": "French Consumer Spending (MoM) (Apr)",
+        "previous": -0.3,
+        "timestamp": 1559112300,
+        "volatility": 1
+    },
+    {
+        "actual": 0.2,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 0.3,
+        "name": "French CPI (MoM)",
+        "previous": 0.3,
+        "timestamp": 1559112300,
+        "volatility": 1
+    },
+    {
+        "actual": 1.0,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French CPI (YoY)",
+        "previous": 1.3,
+        "timestamp": 1559112300,
+        "volatility": 0
+    },
+    {
+        "actual": 1.2,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French GDP (YoY)",
+        "previous": 1.1,
+        "timestamp": 1559112300,
+        "volatility": 1
+    },
+    {
+        "actual": 0.3,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 0.3,
+        "name": "French GDP (QoQ) (Q1)",
+        "previous": 0.3,
+        "timestamp": 1559112300,
+        "volatility": 1
+    },
+    {
+        "actual": 1.1,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 1.2,
+        "name": "French HICP (YoY)",
+        "previous": 1.5,
+        "timestamp": 1559112300,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French HICP (MoM)",
+        "previous": 0.4,
+        "timestamp": 1559112300,
+        "volatility": 1
+    },
+    {
+        "actual": -0.6,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French PPI (MoM) (Apr)",
+        "previous": 0.0,
+        "timestamp": 1559112300,
+        "volatility": 0
+    },
+    {
+        "actual": 94.4,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 96.4,
+        "name": "KOF Leading Indicators (May)",
+        "previous": 96.2,
+        "timestamp": 1559113200,
+        "volatility": 1
+    },
+    {
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German Buba President Weidmann Speaks",
+        "timestamp": 1559113200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.4,
+        "country": "Austria",
+        "currency": "EUR",
+        "forecast": 0.3,
+        "name": "Austrian GDP (QoQ) (Q1)",
+        "previous": 0.3,
+        "timestamp": 1559113200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.4,
+        "country": "Austria",
+        "currency": "EUR",
+        "name": "Austrian PPI (YoY) (Apr)",
+        "previous": 1.5,
+        "timestamp": 1559113200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Austria",
+        "currency": "EUR",
+        "name": "Austrian PPI (MoM) (Apr)",
+        "previous": -0.1,
+        "timestamp": 1559113200,
+        "volatility": 0
+    },
+    {
+        "actual": 3.5,
+        "country": "Hungary",
+        "currency": "HUF",
+        "name": "Quarterly Unemployment Rate (Apr)",
+        "previous": 3.6,
+        "timestamp": 1559113200,
+        "volatility": 1
+    },
+    {
+        "actual": 2.1,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 1.7,
+        "name": "GDP (YoY) (Q1)",
+        "previous": 2.4,
+        "timestamp": 1559115000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.6,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 0.2,
+        "name": "GDP (QoQ) (Q1)",
+        "previous": 1.2,
+        "timestamp": 1559115000,
+        "volatility": 1
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB's Mersch Speaks",
+        "timestamp": 1559115000,
+        "volatility": 1
+    },
+    {
+        "actual": 60.0,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": -8.0,
+        "name": "German Unemployment Change (May)",
+        "previous": -12.0,
+        "timestamp": 1559116500,
+        "volatility": 2
+    },
+    {
+        "actual": 5.0,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 4.9,
+        "name": "German Unemployment Rate (May)",
+        "previous": 4.9,
+        "timestamp": 1559116500,
+        "volatility": 1
+    },
+    {
+        "actual": 2.279,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German Unemployment (May)",
+        "previous": 2.22,
+        "timestamp": 1559116500,
+        "volatility": 0
+    },
+    {
+        "actual": 2.236,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German Unemployment n.s.a. (May)",
+        "previous": 2.229,
+        "timestamp": 1559116500,
+        "volatility": 0
+    },
+    {
+        "actual": 102.0,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 100.4,
+        "name": "Italian Business Confidence (May)",
+        "previous": 100.8,
+        "timestamp": 1559116800,
+        "volatility": 0
+    },
+    {
+        "actual": 111.8,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 110.0,
+        "name": "Italian Consumer Confidence (May)",
+        "previous": 110.6,
+        "timestamp": 1559116800,
+        "volatility": 0
+    },
+    {
+        "actual": -14.3,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "name": "ZEW Expectations (May)",
+        "previous": -7.7,
+        "timestamp": 1559116800,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB Financial Stability Review",
+        "timestamp": 1559116800,
+        "volatility": 1
+    },
+    {
+        "actual": 7.8,
+        "country": "Vietnam",
+        "currency": "VND",
+        "name": "Vietnamese Foreign Direct Investment (USD)",
+        "previous": 5.7,
+        "timestamp": 1559118600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.56,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German 5-Year Bobl Auction",
+        "previous": -0.46,
+        "timestamp": 1559122800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.048,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian 6-Month BOT Auction",
+        "previous": -0.028,
+        "timestamp": 1559123100,
+        "volatility": 0
+    },
+    {
+        "actual": 4.0,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Retail Sales (YoY) (Apr)",
+        "previous": 5.1,
+        "timestamp": 1559124000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.1,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Retail Sales (MoM) (Apr)",
+        "previous": -0.6,
+        "timestamp": 1559124000,
+        "volatility": 0
+    },
+    {
+        "actual": 4.33,
+        "country": "United States",
+        "currency": "USD",
+        "name": "MBA 30-Year Mortgage Rate",
+        "previous": 4.33,
+        "timestamp": 1559127600,
+        "volatility": 0
+    },
+    {
+        "actual": -3.3,
+        "country": "United States",
+        "currency": "USD",
+        "name": "MBA Mortgage Applications (WoW)",
+        "previous": 2.4,
+        "timestamp": 1559127600,
+        "volatility": 0
+    },
+    {
+        "actual": 259.4,
+        "country": "United States",
+        "currency": "USD",
+        "name": "MBA Purchase Index",
+        "previous": 263.0,
+        "timestamp": 1559127600,
+        "volatility": 0
+    },
+    {
+        "actual": 411.5,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Mortgage Market Index",
+        "previous": 425.6,
+        "timestamp": 1559127600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Mortgage Refinance Index",
+        "previous": 1.0,
+        "timestamp": 1559127600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.3,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (MoM)",
+        "previous": 1.2,
+        "timestamp": 1559134500,
+        "volatility": 0
+    },
+    {
+        "actual": 5.7,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (YoY)",
+        "previous": 5.2,
+        "timestamp": 1559134500,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Belgium",
+        "currency": "EUR",
+        "forecast": 0.2,
+        "name": "Belgian GDP (QoQ) (Q1)",
+        "previous": 0.2,
+        "timestamp": 1559134800,
+        "volatility": 0
+    },
+    {
+        "actual": 5.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 6.0,
+        "name": "Richmond Manufacturing Index (May)",
+        "previous": 3.0,
+        "timestamp": 1559138400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Richmond Manufacturing Shipments (May)",
+        "previous": -2.0,
+        "timestamp": 1559138400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Richmond Services Index (May)",
+        "previous": 26.0,
+        "timestamp": 1559138400,
+        "volatility": 0
+    },
+    {
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "BoC Rate Statement",
+        "timestamp": 1559138400,
+        "volatility": 1
+    },
+    {
+        "actual": 1.75,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 1.75,
+        "name": "BoC Interest Rate Decision",
+        "previous": 1.75,
+        "timestamp": 1559138400,
+        "volatility": 2
+    },
+    {
+        "actual": 2.7,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Dallas Fed Services Revenues (May)",
+        "previous": 13.9,
+        "timestamp": 1559140200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.3,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Texas Services Sector Outlook (May)",
+        "previous": 5.7,
+        "timestamp": 1559140200,
+        "volatility": 0
+    },
+    {
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Bank lending (MoM) (Apr)",
+        "previous": 0.7,
+        "timestamp": 1559140200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.614,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Foreign Exchange Flows",
+        "previous": 1.796,
+        "timestamp": 1559143800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.144,
+        "country": "United States",
+        "currency": "USD",
+        "name": "7-Year Note Auction",
+        "previous": 2.426,
+        "timestamp": 1559149200,
+        "volatility": 0
+    },
+    {
+        "actual": -7.9,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 1.3,
+        "name": "Building Consents (MoM) (Apr)",
+        "previous": -7.4,
+        "timestamp": 1559169900,
+        "volatility": 1
+    },
+    {
+        "actual": -189.0,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Foreign Bonds Buying",
+        "previous": 1.0,
+        "timestamp": 1559173800,
+        "volatility": 0
+    },
+    {
+        "actual": -128.2,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Foreign Investments in Japanese Stocks",
+        "previous": -57.3,
+        "timestamp": 1559173800,
+        "volatility": 0
+    }
+]

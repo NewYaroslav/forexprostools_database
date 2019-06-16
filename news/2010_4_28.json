@@ -1,0 +1,103 @@
+[
+    {
+        "actual": 0.9,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.9,
+        "name": "CPI (QoQ)",
+        "previous": 0.5,
+        "timestamp": 1272418200,
+        "volatility": 2
+    },
+    {
+        "actual": 0.8,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.7,
+        "name": "Trimmed Mean CPI (QoQ)",
+        "previous": 0.6,
+        "timestamp": 1272418200,
+        "volatility": 1
+    },
+    {
+        "actual": 49.5,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "ANZ Business Confidence",
+        "previous": 42.5,
+        "timestamp": 1272423600,
+        "volatility": 1
+    },
+    {
+        "actual": -2.9,
+        "country": "United States",
+        "currency": "USD",
+        "name": "MBA Mortgage Applications (WoW)",
+        "previous": 13.6,
+        "timestamp": 1272452400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "German CPI (MoM)",
+        "previous": 0.5,
+        "timestamp": 1272459000,
+        "volatility": 1
+    },
+    {
+        "actual": 1.9,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Crude Oil Inventories",
+        "previous": 1.9,
+        "timestamp": 1272465000,
+        "volatility": 2
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Statement",
+        "timestamp": 1272478500,
+        "volatility": 2
+    },
+    {
+        "actual": 0.25,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.25,
+        "name": "Fed Interest Rate Decision",
+        "previous": 0.25,
+        "timestamp": 1272478500,
+        "volatility": 2
+    },
+    {
+        "actual": 2.5,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 2.5,
+        "name": "RBNZ Interest Rate Decision",
+        "previous": 2.5,
+        "timestamp": 1272488400,
+        "volatility": 2
+    },
+    {
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "RBNZ Rate Statement",
+        "timestamp": 1272488400,
+        "volatility": 2
+    },
+    {
+        "actual": 567.0,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 372.0,
+        "name": "Trade Balance (MoM)",
+        "previous": 335.0,
+        "timestamp": 1272494700,
+        "volatility": 1
+    }
+]

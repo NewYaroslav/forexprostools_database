@@ -1,0 +1,81 @@
+[
+    {
+        "actual": 1.1,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "MI Leading Index (MoM)",
+        "previous": 1.1,
+        "timestamp": 1256083200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.9,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "New Motor Vehicle Sales (MoM)",
+        "previous": 0.1,
+        "timestamp": 1256085000,
+        "volatility": 0
+    },
+    {
+        "actual": -2.3,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "Credit Card Spending (YoY)",
+        "previous": 0.1,
+        "timestamp": 1256090400,
+        "volatility": 0
+    },
+    {
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BoE MPC Meeting Minutes",
+        "timestamp": 1256113800,
+        "volatility": 2
+    },
+    {
+        "actual": -51.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": -46.0,
+        "name": "CBI Industrial Trends Orders",
+        "previous": -48.0,
+        "timestamp": 1256119200,
+        "volatility": 1
+    },
+    {
+        "actual": -13.7,
+        "country": "United States",
+        "currency": "USD",
+        "name": "MBA Mortgage Applications (WoW)",
+        "previous": -1.8,
+        "timestamp": 1256122800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.3,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Crude Oil Inventories",
+        "previous": 0.4,
+        "timestamp": 1256135400,
+        "volatility": 2
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "Beige Book",
+        "timestamp": 1256148000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.06,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 0.4,
+        "name": "Adjusted Trade Balance",
+        "previous": 1.7,
+        "timestamp": 1256169000,
+        "volatility": 1
+    }
+]

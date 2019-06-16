@@ -1,0 +1,328 @@
+[
+    {
+        "actual": 0.4,
+        "country": "Finland",
+        "currency": "EUR",
+        "forecast": -0.9,
+        "name": "Finnish Consumer Confidence (Oct)",
+        "previous": -0.7,
+        "timestamp": 1414393200,
+        "volatility": 0
+    },
+    {
+        "actual": -7.0,
+        "country": "Finland",
+        "currency": "EUR",
+        "name": "Finnish Industrial Confidence (Oct)",
+        "previous": -11.0,
+        "timestamp": 1414393200,
+        "volatility": 0
+    },
+    {
+        "actual": 5.7,
+        "country": "Sweden",
+        "currency": "SEK",
+        "name": "Household Lending Growth (YoY) (Sep)",
+        "previous": 5.6,
+        "timestamp": 1414398600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "forecast": 0.0,
+        "name": "Dutch Business Confidence (Oct)",
+        "previous": -0.2,
+        "timestamp": 1414398600,
+        "volatility": 0
+    },
+    {
+        "actual": 4.5,
+        "country": "Hong Kong",
+        "currency": "HKD",
+        "forecast": 5.4,
+        "name": "Exports (MoM) (Sep)",
+        "previous": 6.4,
+        "timestamp": 1414398600,
+        "volatility": 0
+    },
+    {
+        "actual": 6.3,
+        "country": "Hong Kong",
+        "currency": "HKD",
+        "forecast": 1.4,
+        "name": "Imports (MoM) (Sep)",
+        "previous": 3.4,
+        "timestamp": 1414398600,
+        "volatility": 0
+    },
+    {
+        "actual": -50.4,
+        "country": "Hong Kong",
+        "currency": "HKD",
+        "forecast": -30.0,
+        "name": "Trade Balance",
+        "previous": -31.5,
+        "timestamp": 1414398600,
+        "volatility": 0
+    },
+    {
+        "actual": 98.3,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 98.9,
+        "name": "German Business Expectations (Oct)",
+        "previous": 99.3,
+        "timestamp": 1414400400,
+        "volatility": 1
+    },
+    {
+        "actual": 108.4,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 110.0,
+        "name": "German Current Assessment (Oct)",
+        "previous": 110.5,
+        "timestamp": 1414400400,
+        "volatility": 1
+    },
+    {
+        "actual": 96.7,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German Ifo Business Climate Index (Oct)",
+        "previous": 98.1,
+        "timestamp": 1414400400,
+        "volatility": 2
+    },
+    {
+        "actual": 2.5,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 2.2,
+        "name": "M3 Money Supply (YoY) (Sep)",
+        "previous": 2.1,
+        "timestamp": 1414400400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.1,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 2.0,
+        "name": "Money-M3 3-Month-Moving Average (Sep)",
+        "previous": 1.8,
+        "timestamp": 1414400400,
+        "volatility": 0
+    },
+    {
+        "actual": -1.2,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -1.3,
+        "name": "Private Sector Loans (YoY) (Sep)",
+        "previous": -1.5,
+        "timestamp": 1414400400,
+        "volatility": 0
+    },
+    {
+        "actual": 5.7,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania Retail Sales (YoY) (Sep)",
+        "previous": 3.6,
+        "timestamp": 1414400400,
+        "volatility": 0
+    },
+    {
+        "actual": -6.4,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania Retail Sales (MoM) (Sep)",
+        "previous": -1.1,
+        "timestamp": 1414400400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.074,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German 12-Month Bubill Auction",
+        "previous": -0.078,
+        "timestamp": 1414406100,
+        "volatility": 0
+    },
+    {
+        "actual": 31.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 25.0,
+        "name": "CBI Distributive Trades Survey (Oct)",
+        "previous": 31.0,
+        "timestamp": 1414407600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.4,
+        "country": "Israel",
+        "currency": "ILS",
+        "name": "Industrial Output (MoM) (Aug)",
+        "previous": -0.6,
+        "timestamp": 1414407600,
+        "volatility": 0
+    },
+    {
+        "actual": 74.9,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 74.6,
+        "name": "Capacity Utilization (Oct)",
+        "previous": 74.4,
+        "timestamp": 1414413000,
+        "volatility": 1
+    },
+    {
+        "actual": 106.9,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 107.2,
+        "name": "Manufacturing Confidence (Oct)",
+        "previous": 107.6,
+        "timestamp": 1414413000,
+        "volatility": 0
+    },
+    {
+        "actual": 57.3,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 58.0,
+        "name": "Services PMI (Oct)",
+        "previous": 58.9,
+        "timestamp": 1414417500,
+        "volatility": 1
+    },
+    {
+        "actual": 0.3,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.5,
+        "name": "Pending Home Sales (MoM) (Sep)",
+        "previous": -1.0,
+        "timestamp": 1414418400,
+        "volatility": 2
+    },
+    {
+        "actual": 105.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Pending Home Sales Index (Sep)",
+        "previous": 104.7,
+        "timestamp": 1414418400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.59,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": -0.317,
+        "name": "Trade Balance (Sep)",
+        "previous": -1.123,
+        "timestamp": 1414418400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.96,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "Trade Balance (USD) (Sep)",
+        "previous": -0.596,
+        "timestamp": 1414418400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.013,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 12-Month BTF Auction",
+        "previous": -0.026,
+        "timestamp": 1414418400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.022,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 3-Month BTF Auction",
+        "previous": -0.049,
+        "timestamp": 1414418400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.024,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 6-Month BTF Auction",
+        "previous": -0.031,
+        "timestamp": 1414418400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.25,
+        "country": "Israel",
+        "currency": "ILS",
+        "forecast": 0.25,
+        "name": "Interest Rate Decision (Nov)",
+        "previous": 0.25,
+        "timestamp": 1414418400,
+        "volatility": 1
+    },
+    {
+        "actual": 10.5,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 11.0,
+        "name": "Dallas Fed Mfg Business Index (Oct)",
+        "previous": 10.8,
+        "timestamp": 1414420200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.02,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Month Bill Auction",
+        "previous": 0.02,
+        "timestamp": 1414423800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.055,
+        "country": "United States",
+        "currency": "USD",
+        "name": "6-Month Bill Auction",
+        "previous": 0.05,
+        "timestamp": 1414423800,
+        "volatility": 0
+    },
+    {
+        "actual": 105.0,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 108.0,
+        "name": "Consumer Confidence (Oct)",
+        "previous": 107.0,
+        "timestamp": 1414443600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.3,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 0.6,
+        "name": "Retail Sales (YoY) (Sep)",
+        "previous": 1.2,
+        "timestamp": 1414453800,
+        "volatility": 1
+    }
+]

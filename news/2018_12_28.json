@@ -1,0 +1,562 @@
+[
+    {
+        "actual": 7.5,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch Business Confidence (Dec)",
+        "previous": 7.2,
+        "timestamp": 1545975000,
+        "volatility": 0
+    },
+    {
+        "actual": 51.7,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "Markit Manufacturing PMI (Dec)",
+        "previous": 52.6,
+        "timestamp": 1545976800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.9,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 0.1,
+        "name": "Core Retail Sales (MoM) (Nov)",
+        "previous": -0.2,
+        "timestamp": 1545980400,
+        "volatility": 0
+    },
+    {
+        "actual": 33.0,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Currency Swaps (USD)",
+        "previous": 32.1,
+        "timestamp": 1545982200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.63,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Current Account (USD) (Nov)",
+        "previous": 1.89,
+        "timestamp": 1545982200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Exports (YoY) (Nov)",
+        "previous": 8.4,
+        "timestamp": 1545982200,
+        "volatility": 0
+    },
+    {
+        "actual": 203.6,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Foreign Reserves (USD)",
+        "previous": 203.6,
+        "timestamp": 1545982200,
+        "volatility": 0
+    },
+    {
+        "actual": 16.2,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Imports (YoY) (Nov)",
+        "previous": 13.3,
+        "timestamp": 1545982200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.5,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Private Consumption (MoM) (Nov)",
+        "previous": 1.0,
+        "timestamp": 1545982200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Private Investment (MoM) (Nov)",
+        "previous": 1.5,
+        "timestamp": 1545982200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.66,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Trade Balance (Nov)",
+        "previous": 1.26,
+        "timestamp": 1545982200,
+        "volatility": 0
+    },
+    {
+        "actual": 96.3,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 98.7,
+        "name": "KOF Leading Indicators (Dec)",
+        "previous": 98.9,
+        "timestamp": 1545984000,
+        "volatility": 1
+    },
+    {
+        "actual": 1.2,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 1.5,
+        "name": "Spanish CPI (YoY)",
+        "previous": 1.7,
+        "timestamp": 1545984000,
+        "volatility": 1
+    },
+    {
+        "actual": -0.4,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish CPI (MoM)",
+        "previous": -0.1,
+        "timestamp": 1545984000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.6,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 0.6,
+        "name": "Spanish GDP (QoQ) (Q3)",
+        "previous": 0.6,
+        "timestamp": 1545984000,
+        "volatility": 1
+    },
+    {
+        "actual": 2.4,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 2.5,
+        "name": "Spanish GDP (YoY) (Q3)",
+        "previous": 2.5,
+        "timestamp": 1545984000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.2,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 1.6,
+        "name": "Spanish HICP (YoY) (Dec)",
+        "previous": 1.7,
+        "timestamp": 1545984000,
+        "volatility": 1
+    },
+    {
+        "actual": -0.5,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish HICP (MoM)",
+        "previous": -0.2,
+        "timestamp": 1545984000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.5,
+        "country": "Austria",
+        "currency": "EUR",
+        "name": "Austrian PPI (YoY) (Nov)",
+        "previous": 3.4,
+        "timestamp": 1545984000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.3,
+        "country": "Austria",
+        "currency": "EUR",
+        "name": "Austrian PPI (MoM) (Nov)",
+        "previous": 0.4,
+        "timestamp": 1545984000,
+        "volatility": 0
+    },
+    {
+        "actual": 4.9,
+        "country": "Sweden",
+        "currency": "SEK",
+        "name": "Trade Balance (Nov)",
+        "previous": -8.4,
+        "timestamp": 1545985800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish Current account (Oct)",
+        "previous": 0.9,
+        "timestamp": 1545987600,
+        "volatility": 0
+    },
+    {
+        "actual": -350.0,
+        "country": "Norway",
+        "currency": "NOK",
+        "name": "Central Bank Currency Purchase (Jan)",
+        "previous": -350.0,
+        "timestamp": 1545987600,
+        "volatility": 0
+    },
+    {
+        "actual": 18.97,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Foreign Arrivals (YoY) (Oct)",
+        "previous": 25.48,
+        "timestamp": 1545987600,
+        "volatility": 0
+    },
+    {
+        "actual": -4.0,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania Retail Sales (MoM) (Nov)",
+        "previous": 4.3,
+        "timestamp": 1545987600,
+        "volatility": 0
+    },
+    {
+        "actual": 7.1,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania Retail Sales (YoY) (Nov)",
+        "previous": 8.5,
+        "timestamp": 1545987600,
+        "volatility": 0
+    },
+    {
+        "actual": 39.4,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 38.9,
+        "name": "Gross Mortgage Approvals",
+        "previous": 39.7,
+        "timestamp": 1545989400,
+        "volatility": 1
+    },
+    {
+        "actual": -1.08,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": -1.11,
+        "name": "IGP-M Inflation Index (MoM) (Dec)",
+        "previous": -0.49,
+        "timestamp": 1545991200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.9,
+        "country": "Greece",
+        "currency": "EUR",
+        "name": "Greek PPI (YoY) (Nov)",
+        "previous": 7.7,
+        "timestamp": 1545991200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.7,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian 10-Year BTP Auction",
+        "previous": 3.24,
+        "timestamp": 1545993900,
+        "volatility": 1
+    },
+    {
+        "actual": 1.79,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian 5-Year BTP Auction",
+        "previous": 2.35,
+        "timestamp": 1545993900,
+        "volatility": 0
+    },
+    {
+        "actual": 11.6,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 11.5,
+        "name": "Unemployment Rate",
+        "previous": 11.7,
+        "timestamp": 1545994800,
+        "volatility": 1
+    },
+    {
+        "actual": 4.0,
+        "country": "Latvia",
+        "currency": "EUR",
+        "name": "Latvian Retail Sales (YoY) (Nov)",
+        "previous": 2.4,
+        "timestamp": 1545994800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.3,
+        "country": "Latvia",
+        "currency": "EUR",
+        "name": "Latvian Retail Sales (MoM) (Nov)",
+        "previous": -0.7,
+        "timestamp": 1545994800,
+        "volatility": 0
+    },
+    {
+        "actual": 393.29,
+        "country": "India",
+        "currency": "INR",
+        "name": "FX Reserves, USD",
+        "previous": 393.12,
+        "timestamp": 1545996600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.49,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": -2.25,
+        "name": "Trade Balance (Nov)",
+        "previous": -4.29,
+        "timestamp": 1545998400,
+        "volatility": 0
+    },
+    {
+        "actual": 53.3,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Debt-to-GDP ratio (Nov)",
+        "previous": 53.6,
+        "timestamp": 1546000200,
+        "volatility": 0
+    },
+    {
+        "actual": -50.631,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Budget Balance (Nov)",
+        "previous": -6.107,
+        "timestamp": 1546000200,
+        "volatility": 0
+    },
+    {
+        "actual": -15.602,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Budget Surplus (Nov)",
+        "previous": 7.798,
+        "timestamp": 1546000200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.7,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 1.9,
+        "name": "German CPI (YoY) (Dec)",
+        "previous": 2.3,
+        "timestamp": 1546002000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.3,
+        "name": "German CPI (MoM) (Dec)",
+        "previous": 0.1,
+        "timestamp": 1546002000,
+        "volatility": 1
+    },
+    {
+        "actual": 1.7,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 1.9,
+        "name": "German HICP (YoY) (Dec)",
+        "previous": 2.2,
+        "timestamp": 1546002000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.4,
+        "name": "German HICP (MoM) (Dec)",
+        "previous": 0.1,
+        "timestamp": 1546002000,
+        "volatility": 0
+    },
+    {
+        "actual": -2.382,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "Trade Balance (Nov)",
+        "previous": -2.936,
+        "timestamp": 1546005600,
+        "volatility": 0
+    },
+    {
+        "actual": -2.763,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "Trade Balance (USD) (Nov)",
+        "previous": -1.527,
+        "timestamp": 1546005600,
+        "volatility": 0
+    },
+    {
+        "actual": 65.4,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 62.0,
+        "name": "Chicago PMI (Dec)",
+        "previous": 66.4,
+        "timestamp": 1546008300,
+        "volatility": 1
+    },
+    {
+        "actual": -0.7,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.7,
+        "name": "Pending Home Sales (MoM) (Nov)",
+        "previous": -2.6,
+        "timestamp": 1546009200,
+        "volatility": 2
+    },
+    {
+        "actual": 101.4,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Pending Home Sales Index (Nov)",
+        "previous": 102.1,
+        "timestamp": 1546009200,
+        "volatility": 0
+    },
+    {
+        "actual": -48.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -52.0,
+        "name": "Natural Gas Storage",
+        "previous": -141.0,
+        "timestamp": 1546011000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.046,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -2.869,
+        "name": "Crude Oil Inventories",
+        "previous": -0.497,
+        "timestamp": 1546012800,
+        "volatility": 2
+    },
+    {
+        "actual": -0.411,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Crude Oil Imports",
+        "previous": -0.021,
+        "timestamp": 1546012800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.799,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Cushing Crude Oil Inventories",
+        "previous": 1.091,
+        "timestamp": 1546012800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.051,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Distillate Fuel Production",
+        "previous": -0.152,
+        "timestamp": 1546012800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.002,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.529,
+        "name": "EIA Weekly Distillates Stocks",
+        "previous": -4.237,
+        "timestamp": 1546012800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.19,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Gasoline Production",
+        "previous": -0.123,
+        "timestamp": 1546012800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.169,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Heating Oil Stockpiles",
+        "previous": -0.136,
+        "timestamp": 1546012800,
+        "volatility": 0
+    },
+    {
+        "actual": 3.003,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.028,
+        "name": "Gasoline Inventories",
+        "previous": 1.766,
+        "timestamp": 1546012800,
+        "volatility": 0
+    },
+    {
+        "actual": 885.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "U.S. Baker Hughes Oil Rig Count",
+        "previous": 883.0,
+        "timestamp": 1546020000,
+        "volatility": 1
+    },
+    {
+        "actual": 1.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "U.S. Baker Hughes Total Rig Count",
+        "previous": 1.0,
+        "timestamp": 1546020000,
+        "volatility": 1
+    },
+    {
+        "actual": -40.91,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "Fiscal Balance (Nov)",
+        "previous": 35.85,
+        "timestamp": 1546029480,
+        "volatility": 0
+    }
+]

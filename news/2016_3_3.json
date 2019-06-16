@@ -1,0 +1,654 @@
+[
+    {
+        "actual": 0.4,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "ANZ Commodity Price Index (MoM)",
+        "previous": -2.3,
+        "timestamp": 1456963200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Exports (MoM) (Jan)",
+        "previous": -5.0,
+        "timestamp": 1456965000,
+        "volatility": 0
+    },
+    {
+        "actual": -1.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Imports (MoM) (Jan)",
+        "previous": -1.0,
+        "timestamp": 1456965000,
+        "volatility": 0
+    },
+    {
+        "actual": -2.937,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": -3.1,
+        "name": "Trade Balance (Jan)",
+        "previous": -3.524,
+        "timestamp": 1456965000,
+        "volatility": 1
+    },
+    {
+        "actual": 51.2,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 52.6,
+        "name": "Caixin Services PMI (Feb)",
+        "previous": 52.4,
+        "timestamp": 1456969500,
+        "volatility": 1
+    },
+    {
+        "actual": 46.4,
+        "country": "Hong Kong",
+        "currency": "HKD",
+        "name": "Manufacturing PMI (Feb)",
+        "previous": 46.1,
+        "timestamp": 1456972200,
+        "volatility": 0
+    },
+    {
+        "actual": 53.1,
+        "country": "United Arab Emirates",
+        "currency": "AED",
+        "name": "Markit Composite PMI (Feb)",
+        "previous": 52.7,
+        "timestamp": 1456975800,
+        "volatility": 0
+    },
+    {
+        "actual": 74.7,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Consumer Confidence (Feb)",
+        "previous": 75.5,
+        "timestamp": 1456977600,
+        "volatility": 0
+    },
+    {
+        "actual": 51.4,
+        "country": "India",
+        "currency": "INR",
+        "name": "Nikkei Services PMI (Feb)",
+        "previous": 54.3,
+        "timestamp": 1456981200,
+        "volatility": 0
+    },
+    {
+        "actual": 54.4,
+        "country": "Saudi Arabia",
+        "currency": "SAR",
+        "name": "Markit Composite PMI (Feb)",
+        "previous": 53.9,
+        "timestamp": 1456983000,
+        "volatility": 0
+    },
+    {
+        "actual": 62.1,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Services PMI (Feb)",
+        "previous": 64.0,
+        "timestamp": 1456984800,
+        "volatility": 0
+    },
+    {
+        "actual": 50.9,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "Markit Services PMI (Feb)",
+        "previous": 47.1,
+        "timestamp": 1456984800,
+        "volatility": 1
+    },
+    {
+        "actual": 10.3,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 10.5,
+        "name": "French Unemployment Rate (Q4)",
+        "previous": 10.4,
+        "timestamp": 1456986600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.5,
+        "name": "Nationwide HPI (MoM) (Feb)",
+        "previous": 0.3,
+        "timestamp": 1456988400,
+        "volatility": 1
+    },
+    {
+        "actual": 4.8,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 5.0,
+        "name": "Nationwide HPI (YoY) (Feb)",
+        "previous": 4.4,
+        "timestamp": 1456988400,
+        "volatility": 1
+    },
+    {
+        "actual": 49.1,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "name": "South Africa Standard Bank PMI (Feb)",
+        "previous": 49.6,
+        "timestamp": 1456989300,
+        "volatility": 0
+    },
+    {
+        "actual": 55.8,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 58.1,
+        "name": "Services PMI (MoM) (Feb)",
+        "previous": 59.3,
+        "timestamp": 1456990200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.02,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 0.3,
+        "name": "CPI (MoM) (Feb)",
+        "previous": 1.82,
+        "timestamp": 1456992000,
+        "volatility": 1
+    },
+    {
+        "actual": 8.78,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 9.35,
+        "name": "CPI (YoY) (Feb)",
+        "previous": 9.58,
+        "timestamp": 1456992000,
+        "volatility": 1
+    },
+    {
+        "actual": 4.47,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 5.73,
+        "name": "PPI (YoY) (Feb)",
+        "previous": 5.94,
+        "timestamp": 1456992000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 0.75,
+        "name": "PPI (MoM) (Feb)",
+        "previous": 0.55,
+        "timestamp": 1456992000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.1,
+        "country": "Hungary",
+        "currency": "HUF",
+        "forecast": 4.0,
+        "name": "Retail Sales (YoY) (Jan)",
+        "previous": 4.5,
+        "timestamp": 1456992000,
+        "volatility": 0
+    },
+    {
+        "actual": 604.0,
+        "country": "Hungary",
+        "currency": "HUF",
+        "name": "Trade Balance (EUR) (MoM) (Dec)",
+        "previous": 643.2,
+        "timestamp": 1456992000,
+        "volatility": 0
+    },
+    {
+        "actual": 54.1,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 54.0,
+        "name": "Spanish Services PMI (Feb)",
+        "previous": 54.6,
+        "timestamp": 1456992900,
+        "volatility": 1
+    },
+    {
+        "actual": -1.4,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.1,
+        "name": "Halifax House Price Index (MoM) (Feb)",
+        "previous": 1.7,
+        "timestamp": 1456993800,
+        "volatility": 1
+    },
+    {
+        "actual": 9.7,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 10.4,
+        "name": "Halifax House Price Index (YoY) (Feb)",
+        "previous": 9.7,
+        "timestamp": 1456993800,
+        "volatility": 1
+    },
+    {
+        "actual": -6.5,
+        "country": "Hong Kong",
+        "currency": "HKD",
+        "forecast": -8.5,
+        "name": "Retail Sales (YoY) (Jan)",
+        "previous": -8.5,
+        "timestamp": 1456993800,
+        "volatility": 0
+    },
+    {
+        "actual": 53.8,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 53.1,
+        "name": "Italian Services PMI (Feb)",
+        "previous": 53.6,
+        "timestamp": 1456994700,
+        "volatility": 1
+    },
+    {
+        "actual": 49.3,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 49.8,
+        "name": "French Markit Composite PMI (Feb)",
+        "previous": 49.8,
+        "timestamp": 1456995000,
+        "volatility": 0
+    },
+    {
+        "actual": 49.2,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 49.8,
+        "name": "French Services PMI (Feb)",
+        "previous": 49.8,
+        "timestamp": 1456995000,
+        "volatility": 1
+    },
+    {
+        "actual": 54.1,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 53.8,
+        "name": "German Composite PMI (Feb)",
+        "previous": 53.8,
+        "timestamp": 1456995300,
+        "volatility": 0
+    },
+    {
+        "actual": 55.3,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 55.1,
+        "name": "German Services PMI (Feb)",
+        "previous": 55.1,
+        "timestamp": 1456995300,
+        "volatility": 1
+    },
+    {
+        "actual": 53.0,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 52.7,
+        "name": "Markit Composite PMI (Feb)",
+        "previous": 52.7,
+        "timestamp": 1456995600,
+        "volatility": 1
+    },
+    {
+        "actual": 53.3,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 53.0,
+        "name": "Services PMI (Feb)",
+        "previous": 53.0,
+        "timestamp": 1456995600,
+        "volatility": 1
+    },
+    {
+        "actual": 110.0,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "name": "Consumer Confidence (Feb)",
+        "previous": 112.6,
+        "timestamp": 1456995900,
+        "volatility": 0
+    },
+    {
+        "actual": 52.7,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 55.1,
+        "name": "Services PMI (Feb)",
+        "previous": 55.6,
+        "timestamp": 1456997400,
+        "volatility": 2
+    },
+    {
+        "actual": 0.694,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 5-Year Bonos Auction",
+        "previous": 0.606,
+        "timestamp": 1456998600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.63,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 10-Year OAT Auction",
+        "previous": 0.67,
+        "timestamp": 1456999200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.13,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 7-Year OAT Auction",
+        "previous": 0.28,
+        "timestamp": 1456999200,
+        "volatility": 0
+    },
+    {
+        "actual": 4.4,
+        "country": "Norway",
+        "currency": "NOK",
+        "name": "House Price Index (YoY) (Feb)",
+        "previous": 5.2,
+        "timestamp": 1456999200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 1.3,
+        "name": "Retail Sales (YoY) (Jan)",
+        "previous": 2.1,
+        "timestamp": 1456999200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "Retail Sales (MoM) (Jan)",
+        "previous": 0.6,
+        "timestamp": 1456999200,
+        "volatility": 1
+    },
+    {
+        "actual": -5.9,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": -6.0,
+        "name": "GDP (YoY) (Q4)",
+        "previous": -4.5,
+        "timestamp": 1457006400,
+        "volatility": 1
+    },
+    {
+        "actual": -1.4,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": -1.5,
+        "name": "GDP (QoQ) (Q4)",
+        "previous": -1.7,
+        "timestamp": 1457006400,
+        "volatility": 1
+    },
+    {
+        "actual": 22.0,
+        "country": "Ukraine",
+        "currency": "UAH",
+        "forecast": 22.0,
+        "name": "Interest Rate Decision",
+        "previous": 22.0,
+        "timestamp": 1457006400,
+        "volatility": 1
+    },
+    {
+        "actual": 21.8,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Challenger Job Cuts (YoY)",
+        "previous": 41.6,
+        "timestamp": 1457008200,
+        "volatility": 0
+    },
+    {
+        "actual": 61.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Challenger Job Cuts (Feb)",
+        "previous": 75.1,
+        "timestamp": 1457008200,
+        "volatility": 0
+    },
+    {
+        "actual": 39.0,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 44.6,
+        "name": "Markit Composite PMI (Feb)",
+        "previous": 45.1,
+        "timestamp": 1457010000,
+        "volatility": 0
+    },
+    {
+        "actual": 36.9,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 43.8,
+        "name": "Markit Services PMI (Feb)",
+        "previous": 44.4,
+        "timestamp": 1457010000,
+        "volatility": 0
+    },
+    {
+        "actual": 379.8,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "Central Bank reserves (USD)",
+        "previous": 379.4,
+        "timestamp": 1457010000,
+        "volatility": 1
+    },
+    {
+        "actual": 2.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.0,
+        "name": "Continuing Jobless Claims",
+        "previous": 2.0,
+        "timestamp": 1457011800,
+        "volatility": 0
+    },
+    {
+        "actual": 278.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 271.0,
+        "name": "Initial Jobless Claims",
+        "previous": 272.0,
+        "timestamp": 1457011800,
+        "volatility": 1
+    },
+    {
+        "actual": 270.25,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Jobless Claims 4-Week Avg.",
+        "previous": 272.0,
+        "timestamp": 1457011800,
+        "volatility": 0
+    },
+    {
+        "actual": -2.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -3.2,
+        "name": "Nonfarm Productivity (QoQ) (Q4)",
+        "previous": -3.0,
+        "timestamp": 1457011800,
+        "volatility": 1
+    },
+    {
+        "actual": 3.3,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 4.7,
+        "name": "Unit Labor Costs (QoQ) (Q4)",
+        "previous": 4.5,
+        "timestamp": 1457011800,
+        "volatility": 1
+    },
+    {
+        "actual": 50.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Markit Composite PMI (Feb)",
+        "previous": 50.1,
+        "timestamp": 1457016300,
+        "volatility": 1
+    },
+    {
+        "actual": 49.7,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 49.8,
+        "name": "Services PMI (Feb)",
+        "previous": 49.8,
+        "timestamp": 1457016300,
+        "volatility": 1
+    },
+    {
+        "actual": 43.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Bloomberg Consumer Confidence",
+        "previous": 44.2,
+        "timestamp": 1457016600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.6,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.0,
+        "name": "Factory Orders (MoM) (Jan)",
+        "previous": -2.9,
+        "timestamp": 1457017200,
+        "volatility": 1
+    },
+    {
+        "actual": -0.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Factory orders ex transportation (MoM) (Jan)",
+        "previous": -0.9,
+        "timestamp": 1457017200,
+        "volatility": 0
+    },
+    {
+        "actual": 57.8,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 54.0,
+        "name": "ISM Non-Manufacturing Business Activity (Feb)",
+        "previous": 53.9,
+        "timestamp": 1457017200,
+        "volatility": 0
+    },
+    {
+        "actual": 49.7,
+        "country": "United States",
+        "currency": "USD",
+        "name": "ISM Non-Manufacturing Employment (Feb)",
+        "previous": 52.1,
+        "timestamp": 1457017200,
+        "volatility": 1
+    },
+    {
+        "actual": 55.5,
+        "country": "United States",
+        "currency": "USD",
+        "name": "ISM Non-Manufacturing New Orders (Feb)",
+        "previous": 56.5,
+        "timestamp": 1457017200,
+        "volatility": 0
+    },
+    {
+        "actual": 53.4,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 53.2,
+        "name": "ISM Non-Manufacturing PMI (Feb)",
+        "previous": 53.5,
+        "timestamp": 1457017200,
+        "volatility": 2
+    },
+    {
+        "actual": 45.5,
+        "country": "United States",
+        "currency": "USD",
+        "name": "ISM Non-Manufacturing Prices (Feb)",
+        "previous": 46.4,
+        "timestamp": 1457017200,
+        "volatility": 0
+    },
+    {
+        "actual": -48.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -41.0,
+        "name": "Natural Gas Storage",
+        "previous": -117.0,
+        "timestamp": 1457019000,
+        "volatility": 0
+    },
+    {
+        "actual": 134.8,
+        "country": "Argentina",
+        "currency": "ARS",
+        "forecast": 144.13,
+        "name": "Tax Revenue (Feb)",
+        "previous": 162.65,
+        "timestamp": 1457035200,
+        "volatility": 0
+    },
+    {
+        "actual": 365.76,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "FX Reserves - USD (Feb)",
+        "previous": 367.29,
+        "timestamp": 1457038800,
+        "volatility": 0
+    }
+]

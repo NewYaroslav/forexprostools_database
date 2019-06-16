@@ -1,0 +1,960 @@
+[
+    {
+        "actual": -3.2,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "Exports (YoY) (Oct)",
+        "previous": -3.2,
+        "timestamp": 1479168300,
+        "volatility": 0
+    },
+    {
+        "actual": -4.8,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "Imports (YoY) (Oct)",
+        "previous": -5.4,
+        "timestamp": 1479168300,
+        "volatility": 0
+    },
+    {
+        "actual": 6.97,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "Trade Balance (Oct)",
+        "previous": 7.2,
+        "timestamp": 1479168300,
+        "volatility": 0
+    },
+    {
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "RBA Meeting Minutes",
+        "timestamp": 1479169800,
+        "volatility": 2
+    },
+    {
+        "actual": 4.6,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": 4.29,
+        "name": "Export Growth (YoY) (Oct)",
+        "previous": -0.59,
+        "timestamp": 1479182400,
+        "volatility": 0
+    },
+    {
+        "actual": 3.27,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": 4.9,
+        "name": "Import Growth (YoY) (Oct)",
+        "previous": -2.26,
+        "timestamp": 1479182400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.21,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": 1.03,
+        "name": "Trade Balance (Oct)",
+        "previous": 1.22,
+        "timestamp": 1479182400,
+        "volatility": 1
+    },
+    {
+        "actual": -0.7,
+        "country": "Singapore",
+        "currency": "SGD",
+        "name": "Retail Sales (MoM) (Sep)",
+        "previous": -0.8,
+        "timestamp": 1479186000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "Singapore",
+        "currency": "SGD",
+        "name": "Retail Sales (YoY) (Sep)",
+        "previous": -0.5,
+        "timestamp": 1479186000,
+        "volatility": 0
+    },
+    {
+        "actual": 4.34,
+        "country": "India",
+        "currency": "INR",
+        "name": "WPI Food (YoY) (Oct)",
+        "previous": 5.75,
+        "timestamp": 1479191400,
+        "volatility": 0
+    },
+    {
+        "actual": 6.18,
+        "country": "India",
+        "currency": "INR",
+        "name": "WPI Fuel (YoY) (Oct)",
+        "previous": 5.58,
+        "timestamp": 1479191400,
+        "volatility": 0
+    },
+    {
+        "actual": 3.39,
+        "country": "India",
+        "currency": "INR",
+        "forecast": 3.75,
+        "name": "WPI Inflation (YoY) (Oct)",
+        "previous": 3.57,
+        "timestamp": 1479191400,
+        "volatility": 1
+    },
+    {
+        "actual": 2.67,
+        "country": "India",
+        "currency": "INR",
+        "name": "WPI Manufacturing Inflation (YoY) (Oct)",
+        "previous": 2.48,
+        "timestamp": 1479191400,
+        "volatility": 0
+    },
+    {
+        "actual": 5.42,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch Trade Balance (Sep)",
+        "previous": 3.77,
+        "timestamp": 1479191400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.3,
+        "name": "German GDP (QoQ) (Q3)",
+        "previous": 0.4,
+        "timestamp": 1479193200,
+        "volatility": 2
+    },
+    {
+        "actual": 1.5,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 1.8,
+        "name": "German GDP (YoY) (Q3)",
+        "previous": 3.1,
+        "timestamp": 1479193200,
+        "volatility": 1
+    },
+    {
+        "actual": -0.5,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 0.4,
+        "name": "GDP (QoQ) (Q3)",
+        "previous": 0.0,
+        "timestamp": 1479193200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.2,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 0.3,
+        "name": "GDP Mainland (QoQ) (Q3)",
+        "previous": 0.4,
+        "timestamp": 1479193200,
+        "volatility": 0
+    },
+    {
+        "actual": 10.4,
+        "country": "Norway",
+        "currency": "NOK",
+        "name": "Trade Balance (Oct)",
+        "previous": 3.2,
+        "timestamp": 1479193200,
+        "volatility": 0
+    },
+    {
+        "actual": 11.3,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Quarterly 3-month Jobless Average (Aug)",
+        "previous": 10.7,
+        "timestamp": 1479193200,
+        "volatility": 1
+    },
+    {
+        "actual": -0.2,
+        "country": "Finland",
+        "currency": "EUR",
+        "name": "Finnish Current Account (Sep)",
+        "previous": -0.2,
+        "timestamp": 1479193200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.5,
+        "country": "Finland",
+        "currency": "EUR",
+        "name": "Finnish GDP (YoY) (Sep)",
+        "previous": 1.5,
+        "timestamp": 1479193200,
+        "volatility": 0
+    },
+    {
+        "actual": 4.6,
+        "country": "Romania",
+        "currency": "RON",
+        "forecast": 4.5,
+        "name": "GDP (YoY)",
+        "previous": 6.0,
+        "timestamp": 1479193200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 0.0,
+        "name": "French CPI (MoM) (Oct)",
+        "previous": 0.0,
+        "timestamp": 1479195900,
+        "volatility": 1
+    },
+    {
+        "actual": 0.0,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "French HICP (MoM) (Oct)",
+        "previous": -0.2,
+        "timestamp": 1479195900,
+        "volatility": 1
+    },
+    {
+        "actual": 0.5,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 0.5,
+        "name": "French HICP (YoY) (Oct)",
+        "previous": 0.5,
+        "timestamp": 1479195900,
+        "volatility": 0
+    },
+    {
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "RBA Governor Lowe Speaks",
+        "timestamp": 1479196800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.7,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 0.7,
+        "name": "Spanish CPI (YoY) (Oct)",
+        "previous": 0.7,
+        "timestamp": 1479196800,
+        "volatility": 1
+    },
+    {
+        "actual": 1.1,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 1.1,
+        "name": "Spanish CPI (MoM) (Oct)",
+        "previous": 1.1,
+        "timestamp": 1479196800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.8,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 0.8,
+        "name": "Spanish HICP (MoM) (Oct)",
+        "previous": 0.8,
+        "timestamp": 1479196800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 0.5,
+        "name": "Spanish HICP (YoY) (Oct)",
+        "previous": 0.5,
+        "timestamp": 1479196800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.3,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": 0.4,
+        "name": "GDP (QoQ) (Q3)",
+        "previous": 0.9,
+        "timestamp": 1479196800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.9,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": 2.0,
+        "name": "GDP (YoY) (Q3)",
+        "previous": 2.6,
+        "timestamp": 1479196800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Budget balance (Oct)",
+        "previous": -16.9,
+        "timestamp": 1479196800,
+        "volatility": 1
+    },
+    {
+        "actual": 3.0,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "forecast": 3.3,
+        "name": "Slovak GDP (YoY) (Q3)",
+        "previous": 3.7,
+        "timestamp": 1479196800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "Hungary",
+        "currency": "HUF",
+        "forecast": 2.5,
+        "name": "GDP (YoY) (Q3)",
+        "previous": 2.8,
+        "timestamp": 1479196800,
+        "volatility": 1
+    },
+    {
+        "actual": -0.3,
+        "country": "Sweden",
+        "currency": "SEK",
+        "name": "Capacity Utilization (QoQ) (Q3)",
+        "previous": -0.2,
+        "timestamp": 1479198600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 0.3,
+        "name": "CPI (MoM) (Oct)",
+        "previous": 0.2,
+        "timestamp": 1479198600,
+        "volatility": 1
+    },
+    {
+        "actual": 1.2,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 1.2,
+        "name": "CPI (YoY) (Oct)",
+        "previous": 0.9,
+        "timestamp": 1479198600,
+        "volatility": 1
+    },
+    {
+        "actual": 1.4,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 1.4,
+        "name": "CPIF (CPI at constant interest rates) (YoY) (Oct)",
+        "previous": 1.2,
+        "timestamp": 1479198600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 0.4,
+        "name": "CPIF (CPI at constant interest rates) (MoM) (Oct)",
+        "previous": 0.2,
+        "timestamp": 1479198600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "forecast": 0.4,
+        "name": "Dutch GDP (QoQ) (Q3)",
+        "previous": 0.7,
+        "timestamp": 1479198600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.4,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "forecast": 1.9,
+        "name": "Dutch GDP (YoY) (Q3)",
+        "previous": 2.3,
+        "timestamp": 1479198600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.9,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.8,
+        "name": "Italian GDP (YoY) (Q3)",
+        "previous": 0.7,
+        "timestamp": 1479200400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.2,
+        "name": "Italian GDP (QoQ) (Q3)",
+        "previous": 0.0,
+        "timestamp": 1479200400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 1.0,
+        "name": "GDP (QoQ) (Q3)",
+        "previous": 0.8,
+        "timestamp": 1479200400,
+        "volatility": 1
+    },
+    {
+        "actual": 1.2,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 1.4,
+        "name": "Core CPI (YoY)",
+        "previous": 1.5,
+        "timestamp": 1479202200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.2,
+        "name": "Core PPI Output (MoM) (Oct)",
+        "previous": 0.1,
+        "timestamp": 1479202200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.9,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 1.7,
+        "name": "Core PPI Output (YoY) (Oct)",
+        "previous": 1.4,
+        "timestamp": 1479202200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.2,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "Core RPI (YoY) (Oct)",
+        "previous": 2.2,
+        "timestamp": 1479202200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "Core RPI (MoM) (Oct)",
+        "previous": 0.2,
+        "timestamp": 1479202200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.9,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 1.1,
+        "name": "CPI (YoY) (Oct)",
+        "previous": 1.0,
+        "timestamp": 1479202200,
+        "volatility": 2
+    },
+    {
+        "actual": 0.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.3,
+        "name": "CPI (MoM) (Oct)",
+        "previous": 0.2,
+        "timestamp": 1479202200,
+        "volatility": 1
+    },
+    {
+        "actual": 7.7,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 8.1,
+        "name": "House Price Index (YoY)",
+        "previous": 7.7,
+        "timestamp": 1479202200,
+        "volatility": 0
+    },
+    {
+        "actual": 12.2,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 9.1,
+        "name": "PPI Input (YoY) (Oct)",
+        "previous": 7.3,
+        "timestamp": 1479202200,
+        "volatility": 0
+    },
+    {
+        "actual": 4.6,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 2.1,
+        "name": "PPI Input (MoM) (Oct)",
+        "previous": 0.1,
+        "timestamp": 1479202200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.6,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.3,
+        "name": "PPI Output (MoM) (Oct)",
+        "previous": 0.3,
+        "timestamp": 1479202200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 1.7,
+        "name": "PPI Output (YoY) (Oct)",
+        "previous": 1.3,
+        "timestamp": 1479202200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.1,
+        "name": "RPI (MoM) (Oct)",
+        "previous": 0.2,
+        "timestamp": 1479202200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 2.2,
+        "name": "RPI (YoY) (Oct)",
+        "previous": 2.0,
+        "timestamp": 1479202200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.8,
+        "country": "Portugal",
+        "currency": "EUR",
+        "forecast": 0.2,
+        "name": "Portuguese GDP (QoQ) (Q3)",
+        "previous": 0.3,
+        "timestamp": 1479202200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.6,
+        "country": "Portugal",
+        "currency": "EUR",
+        "forecast": 1.0,
+        "name": "Portuguese GDP (YoY) (Q3)",
+        "previous": 0.9,
+        "timestamp": 1479202200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.212,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 12-Month Letras Auction",
+        "previous": -0.248,
+        "timestamp": 1479203100,
+        "volatility": 0
+    },
+    {
+        "actual": -0.282,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 6-Month Letras Auction",
+        "previous": -0.326,
+        "timestamp": 1479203100,
+        "volatility": 0
+    },
+    {
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "Inflation Report Hearings",
+        "timestamp": 1479204000,
+        "volatility": 2
+    },
+    {
+        "actual": 58.8,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 61.5,
+        "name": "German ZEW Current Conditions (Nov)",
+        "previous": 59.5,
+        "timestamp": 1479204000,
+        "volatility": 1
+    },
+    {
+        "actual": 13.8,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 8.1,
+        "name": "German ZEW Economic Sentiment (Nov)",
+        "previous": 6.2,
+        "timestamp": 1479204000,
+        "volatility": 2
+    },
+    {
+        "actual": -1.9,
+        "country": "Greece",
+        "currency": "EUR",
+        "name": "Greek Credit Expansion (YoY) (Sep)",
+        "previous": -1.7,
+        "timestamp": 1479204000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.3,
+        "name": "GDP (QoQ) (Q3)",
+        "previous": 0.3,
+        "timestamp": 1479204000,
+        "volatility": 1
+    },
+    {
+        "actual": 1.6,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 1.6,
+        "name": "GDP (YoY) (Q3)",
+        "previous": 1.6,
+        "timestamp": 1479204000,
+        "volatility": 1
+    },
+    {
+        "actual": 26.5,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 22.5,
+        "name": "Trade Balance (Sep)",
+        "previous": 18.4,
+        "timestamp": 1479204000,
+        "volatility": 1
+    },
+    {
+        "actual": 15.8,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 14.3,
+        "name": "ZEW Economic Sentiment",
+        "previous": 12.3,
+        "timestamp": 1479204000,
+        "volatility": 1
+    },
+    {
+        "actual": 4.2,
+        "country": "India",
+        "currency": "INR",
+        "forecast": 4.2,
+        "name": "CPI (YoY) (Oct)",
+        "previous": 4.31,
+        "timestamp": 1479211200,
+        "volatility": 1
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Rosengren Speaks",
+        "timestamp": 1479213000,
+        "volatility": 1
+    },
+    {
+        "actual": 23.51,
+        "country": "India",
+        "currency": "INR",
+        "name": "Exports (USD)",
+        "previous": 22.88,
+        "timestamp": 1479213000,
+        "volatility": 0
+    },
+    {
+        "actual": 33.67,
+        "country": "India",
+        "currency": "INR",
+        "name": "Imports (USD)",
+        "previous": 31.22,
+        "timestamp": 1479213000,
+        "volatility": 0
+    },
+    {
+        "actual": -10.16,
+        "country": "India",
+        "currency": "INR",
+        "forecast": -8.95,
+        "name": "Trade Balance",
+        "previous": -8.34,
+        "timestamp": 1479213000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": -0.3,
+        "name": "Core CPI (YoY) (Oct)",
+        "previous": -0.4,
+        "timestamp": 1479214800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.8,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.5,
+        "name": "Core Retail Sales (MoM) (Oct)",
+        "previous": 0.7,
+        "timestamp": 1479216600,
+        "volatility": 2
+    },
+    {
+        "actual": 0.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.2,
+        "name": "Export Price Index (MoM) (Oct)",
+        "previous": 0.3,
+        "timestamp": 1479216600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.5,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.4,
+        "name": "Import Price Index (MoM) (Oct)",
+        "previous": 0.2,
+        "timestamp": 1479216600,
+        "volatility": 1
+    },
+    {
+        "actual": 1.5,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -2.5,
+        "name": "NY Empire State Manufacturing Index (Nov)",
+        "previous": -6.8,
+        "timestamp": 1479216600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.8,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.3,
+        "name": "Retail Control (MoM) (Oct)",
+        "previous": 0.3,
+        "timestamp": 1479216600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.8,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.6,
+        "name": "Retail Sales (MoM) (Oct)",
+        "previous": 1.0,
+        "timestamp": 1479216600,
+        "volatility": 2
+    },
+    {
+        "actual": 0.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Retail Sales Ex Gas/Autos (MoM) (Oct)",
+        "previous": 0.5,
+        "timestamp": 1479216600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.9,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (YoY)",
+        "previous": 0.7,
+        "timestamp": 1479218100,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (MoM)",
+        "previous": -0.2,
+        "timestamp": 1479218100,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Tarullo Speaks",
+        "timestamp": 1479218700,
+        "volatility": 1
+    },
+    {
+        "actual": 4.5,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "GlobalDairyTrade Price Index",
+        "previous": 11.4,
+        "timestamp": 1479220500,
+        "volatility": 1
+    },
+    {
+        "actual": 0.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.2,
+        "name": "Business Inventories (MoM) (Sep)",
+        "previous": 0.2,
+        "timestamp": 1479222000,
+        "volatility": 1
+    },
+    {
+        "actual": 4.13,
+        "country": "Peru",
+        "currency": "PEN",
+        "forecast": 4.0,
+        "name": "GDP (YoY) (Sep)",
+        "previous": 5.52,
+        "timestamp": 1479222000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.7,
+        "country": "Botswana",
+        "currency": "BWP",
+        "name": "CPI (YoY) (Oct)",
+        "previous": 2.8,
+        "timestamp": 1479222600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Botswana",
+        "currency": "BWP",
+        "name": "CPI (MoM) (Oct)",
+        "previous": 0.3,
+        "timestamp": 1479222600,
+        "volatility": 0
+    },
+    {
+        "actual": 6.2,
+        "country": "Peru",
+        "currency": "PEN",
+        "forecast": 6.4,
+        "name": "Unemployment Rate",
+        "previous": 6.5,
+        "timestamp": 1479225600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.305,
+        "country": "United States",
+        "currency": "USD",
+        "name": "4-Week Bill Auction",
+        "previous": 0.27,
+        "timestamp": 1479227400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Israel",
+        "currency": "ILS",
+        "forecast": 0.1,
+        "name": "CPI (MoM) (Oct)",
+        "previous": -0.1,
+        "timestamp": 1479227400,
+        "volatility": 1
+    },
+    {
+        "actual": -0.3,
+        "country": "Israel",
+        "currency": "ILS",
+        "name": "CPI (YoY) (Oct)",
+        "previous": -0.4,
+        "timestamp": 1479227400,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Kaplan Speaks",
+        "timestamp": 1479234600,
+        "volatility": 1
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Stanley Fischer Speaks",
+        "timestamp": 1479234600,
+        "volatility": 1
+    },
+    {
+        "actual": 3.65,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -2.0,
+        "name": "API Weekly Crude Oil Stock",
+        "previous": 4.4,
+        "timestamp": 1479245700,
+        "volatility": 1
+    },
+    {
+        "actual": 0.1,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "MI Leading Index (MoM)",
+        "previous": 0.1,
+        "timestamp": 1479252600,
+        "volatility": 0
+    }
+]

@@ -1,0 +1,559 @@
+[
+    {
+        "actual": 8.5,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": 9.9,
+        "name": "Non-Oil Exports (YoY) (Jul)",
+        "previous": 8.8,
+        "timestamp": 1502929800,
+        "volatility": 0
+    },
+    {
+        "actual": -2.5,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": -0.4,
+        "name": "Non-Oil Exports (MoM) (Jul)",
+        "previous": -2.2,
+        "timestamp": 1502929800,
+        "volatility": 0
+    },
+    {
+        "actual": 5.5,
+        "country": "Singapore",
+        "currency": "SGD",
+        "name": "Trade Balance",
+        "previous": 6.4,
+        "timestamp": 1502929800,
+        "volatility": 0
+    },
+    {
+        "actual": 27.9,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 20.0,
+        "name": "Employment Change (Jul)",
+        "previous": 20.0,
+        "timestamp": 1502933400,
+        "volatility": 2
+    },
+    {
+        "actual": -20.3,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Full Employment Change (Jul)",
+        "previous": 69.3,
+        "timestamp": 1502933400,
+        "volatility": 1
+    },
+    {
+        "actual": 65.1,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 65.0,
+        "name": "Participation Rate (Jul)",
+        "previous": 65.0,
+        "timestamp": 1502933400,
+        "volatility": 0
+    },
+    {
+        "actual": 5.6,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 5.6,
+        "name": "Unemployment Rate (Jul)",
+        "previous": 5.7,
+        "timestamp": 1502933400,
+        "volatility": 1
+    },
+    {
+        "actual": 6.5,
+        "country": "Philippines",
+        "currency": "PHP",
+        "forecast": 6.2,
+        "name": "GDP (YoY) (Q2)",
+        "previous": 6.4,
+        "timestamp": 1502935200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.7,
+        "country": "Philippines",
+        "currency": "PHP",
+        "forecast": 1.6,
+        "name": "GDP (QoQ) (Q2)",
+        "previous": 1.3,
+        "timestamp": 1502935200,
+        "volatility": 0
+    },
+    {
+        "actual": 4.8,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch Unemployment Rate (Jul)",
+        "previous": 4.9,
+        "timestamp": 1502944200,
+        "volatility": 0
+    },
+    {
+        "actual": 9.5,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French Unemployment Rate (Q2)",
+        "previous": 9.6,
+        "timestamp": 1502947800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.6,
+        "country": "Austria",
+        "currency": "EUR",
+        "name": "Austrian HICP (MoM) (Jul)",
+        "previous": -0.1,
+        "timestamp": 1502953200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "Austria",
+        "currency": "EUR",
+        "name": "Austrian HICP (YoY) (Jul)",
+        "previous": 2.0,
+        "timestamp": 1502953200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.5,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "forecast": 1.3,
+        "name": "Slovak EU Normalized CPI (YoY) (Jul)",
+        "previous": 1.0,
+        "timestamp": 1502953200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "forecast": -0.1,
+        "name": "Slovak EU Normalized CPI (MoM) (Jul)",
+        "previous": 0.0,
+        "timestamp": 1502953200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.2,
+        "name": "Core Retail Sales (MoM) (Jul)",
+        "previous": 0.6,
+        "timestamp": 1502958600,
+        "volatility": 1
+    },
+    {
+        "actual": 1.5,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 1.3,
+        "name": "Core Retail Sales (YoY) (Jul)",
+        "previous": 2.8,
+        "timestamp": 1502958600,
+        "volatility": 1
+    },
+    {
+        "actual": 1.3,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 1.4,
+        "name": "Retail Sales (YoY) (Jul)",
+        "previous": 2.8,
+        "timestamp": 1502958600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.3,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.2,
+        "name": "Retail Sales (MoM) (Jul)",
+        "previous": 0.3,
+        "timestamp": 1502958600,
+        "volatility": 2
+    },
+    {
+        "actual": 3.1,
+        "country": "Hong Kong",
+        "currency": "HKD",
+        "name": "Unemployment Rate (Jul)",
+        "previous": 3.1,
+        "timestamp": 1502958600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.6,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "Core CPI (MoM) (Jul)",
+        "previous": 0.2,
+        "timestamp": 1502960400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.2,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 1.2,
+        "name": "Core CPI (YoY) (Jul)",
+        "previous": 1.2,
+        "timestamp": 1502960400,
+        "volatility": 1
+    },
+    {
+        "actual": 1.3,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 1.3,
+        "name": "CPI (YoY) (Jul)",
+        "previous": 1.3,
+        "timestamp": 1502960400,
+        "volatility": 2
+    },
+    {
+        "actual": -0.5,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -0.5,
+        "name": "CPI (MoM) (Jul)",
+        "previous": 0.0,
+        "timestamp": 1502960400,
+        "volatility": 1
+    },
+    {
+        "actual": -0.5,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "CPI ex Tobacco (MoM) (Jul)",
+        "previous": 0.0,
+        "timestamp": 1502960400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.3,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "CPI ex Tobacco (YoY) (Jul)",
+        "previous": 1.2,
+        "timestamp": 1502960400,
+        "volatility": 0
+    },
+    {
+        "actual": 26.6,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 22.9,
+        "name": "Trade Balance (Jun)",
+        "previous": 21.4,
+        "timestamp": 1502960400,
+        "volatility": 1
+    },
+    {
+        "actual": 1.9,
+        "country": "Israel",
+        "currency": "ILS",
+        "name": "Industrial Output (MoM) (Jun)",
+        "previous": -3.8,
+        "timestamp": 1502964000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 0.2,
+        "name": "IBC-Br Economic Activity (Jun)",
+        "previous": -0.51,
+        "timestamp": 1502969400,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB Publishes Account of Monetary Policy Meeting",
+        "timestamp": 1502969400,
+        "volatility": 2
+    },
+    {
+        "actual": 4.9,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 5.3,
+        "name": "Corp. Sector Wages (YoY) (Jul)",
+        "previous": 6.0,
+        "timestamp": 1502971200,
+        "volatility": 0
+    },
+    {
+        "actual": 4.5,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 4.3,
+        "name": "Employment Growth (YoY) (Jul)",
+        "previous": 4.3,
+        "timestamp": 1502971200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.0,
+        "name": "Continuing Jobless Claims",
+        "previous": 1.0,
+        "timestamp": 1502973000,
+        "volatility": 0
+    },
+    {
+        "actual": 232.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 240.0,
+        "name": "Initial Jobless Claims",
+        "previous": 244.0,
+        "timestamp": 1502973000,
+        "volatility": 1
+    },
+    {
+        "actual": 240.5,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Jobless Claims 4-Week Avg.",
+        "previous": 241.0,
+        "timestamp": 1502973000,
+        "volatility": 0
+    },
+    {
+        "actual": 18.9,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 18.5,
+        "name": "Philadelphia Fed Manufacturing Index (Aug)",
+        "previous": 19.5,
+        "timestamp": 1502973000,
+        "volatility": 2
+    },
+    {
+        "actual": 42.3,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Philly Fed Business Conditions (Aug)",
+        "previous": 36.9,
+        "timestamp": 1502973000,
+        "volatility": 0
+    },
+    {
+        "actual": 39.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Philly Fed CAPEX Index (Aug)",
+        "previous": 42.0,
+        "timestamp": 1502973000,
+        "volatility": 0
+    },
+    {
+        "actual": 10.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Philly Fed Employment (Aug)",
+        "previous": 10.9,
+        "timestamp": 1502973000,
+        "volatility": 1
+    },
+    {
+        "actual": 20.4,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Philly Fed New Orders (Aug)",
+        "previous": 2.1,
+        "timestamp": 1502973000,
+        "volatility": 0
+    },
+    {
+        "actual": 21.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Philly Fed Prices Paid (Aug)",
+        "previous": 19.1,
+        "timestamp": 1502973000,
+        "volatility": 0
+    },
+    {
+        "actual": -1.8,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": -1.0,
+        "name": "Manufacturing Sales (MoM) (Jun)",
+        "previous": 1.3,
+        "timestamp": 1502973000,
+        "volatility": 1
+    },
+    {
+        "actual": 76.7,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 76.7,
+        "name": "Capacity Utilization Rate (Jul)",
+        "previous": 76.7,
+        "timestamp": 1502973900,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.3,
+        "name": "Industrial Production (MoM) (Jul)",
+        "previous": 0.4,
+        "timestamp": 1502973900,
+        "volatility": 1
+    },
+    {
+        "actual": -0.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.2,
+        "name": "Manufacturing Production (MoM) (Jul)",
+        "previous": 0.2,
+        "timestamp": 1502973900,
+        "volatility": 0
+    },
+    {
+        "actual": 419.9,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "Central Bank reserves (USD)",
+        "previous": 420.1,
+        "timestamp": 1502974800,
+        "volatility": 1
+    },
+    {
+        "actual": -0.5,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "PPI (MoM)",
+        "previous": -0.3,
+        "timestamp": 1502974800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.8,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "PPI (YoY)",
+        "previous": 2.9,
+        "timestamp": 1502974800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "Retail Sales (YoY)",
+        "previous": 1.2,
+        "timestamp": 1502974800,
+        "volatility": 1
+    },
+    {
+        "actual": 5.1,
+        "country": "Russia",
+        "currency": "RUB",
+        "forecast": 5.1,
+        "name": "Unemployment Rate (Jul)",
+        "previous": 5.1,
+        "timestamp": 1502974800,
+        "volatility": 1
+    },
+    {
+        "actual": 52.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Bloomberg Consumer Confidence",
+        "previous": 51.4,
+        "timestamp": 1502978100,
+        "volatility": 0
+    },
+    {
+        "actual": 53.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 47.0,
+        "name": "Natural Gas Storage",
+        "previous": 28.0,
+        "timestamp": 1502980200,
+        "volatility": 0
+    },
+    {
+        "actual": 18.75,
+        "country": "Egypt",
+        "currency": "EGP",
+        "forecast": 18.75,
+        "name": "Interest Rate Decision",
+        "previous": 18.75,
+        "timestamp": 1502985600,
+        "volatility": 0
+    },
+    {
+        "actual": 19.75,
+        "country": "Egypt",
+        "currency": "EGP",
+        "forecast": 19.75,
+        "name": "Overnight Lending Rate",
+        "previous": 19.75,
+        "timestamp": 1502985600,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Kaplan Speaks",
+        "timestamp": 1502989200,
+        "volatility": 1
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Kashkari Speaks",
+        "timestamp": 1502991900,
+        "volatility": 1
+    },
+    {
+        "actual": 0.7,
+        "country": "Bahrain",
+        "currency": "BHD",
+        "name": "M2 Money Supply (Apr)",
+        "previous": 1.6,
+        "timestamp": 1503000180,
+        "volatility": 0
+    },
+    {
+        "actual": -0.5,
+        "country": "Bahrain",
+        "currency": "BHD",
+        "name": "Private Sector Credit (MoM) (Apr)",
+        "previous": 0.6,
+        "timestamp": 1503000180,
+        "volatility": 0
+    },
+    {
+        "actual": 2.5,
+        "country": "Chile",
+        "currency": "CLP",
+        "forecast": 2.5,
+        "name": "Interest Rate Decision (Aug)",
+        "previous": 2.5,
+        "timestamp": 1503003600,
+        "volatility": 0
+    }
+]

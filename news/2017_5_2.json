@@ -1,0 +1,633 @@
+[
+    {
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "BoJ Governor Kuroda Speaks",
+        "timestamp": 1493684400,
+        "volatility": 1
+    },
+    {
+        "actual": 49.4,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "Nikkei Manufacturing PMI (Apr)",
+        "previous": 48.4,
+        "timestamp": 1493685000,
+        "volatility": 0
+    },
+    {
+        "actual": 54.4,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "name": "Manufacturing PMI (Apr)",
+        "previous": 56.2,
+        "timestamp": 1493685000,
+        "volatility": 0
+    },
+    {
+        "actual": 51.2,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "name": "Nikkei Manufacturing PMI (Apr)",
+        "previous": 50.5,
+        "timestamp": 1493685000,
+        "volatility": 0
+    },
+    {
+        "actual": 50.3,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 51.2,
+        "name": "Caixin Manufacturing PMI (Apr)",
+        "previous": 51.2,
+        "timestamp": 1493689500,
+        "volatility": 2
+    },
+    {
+        "actual": 3.28,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": 3.35,
+        "name": "Core Inflation (YoY) (Apr)",
+        "previous": 3.3,
+        "timestamp": 1493697600,
+        "volatility": 1
+    },
+    {
+        "actual": 12.78,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "name": "Foreign Tourism (Mar)",
+        "previous": 9.19,
+        "timestamp": 1493697600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.09,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": 0.01,
+        "name": "Inflation (MoM) (Apr)",
+        "previous": -0.02,
+        "timestamp": 1493697600,
+        "volatility": 1
+    },
+    {
+        "actual": 4.17,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": 4.08,
+        "name": "Inflation (YoY) (Apr)",
+        "previous": 3.61,
+        "timestamp": 1493697600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.5,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 1.5,
+        "name": "RBA Interest Rate Decision (May)",
+        "previous": 1.5,
+        "timestamp": 1493699400,
+        "volatility": 2
+    },
+    {
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "RBA Rate Statement",
+        "timestamp": 1493699400,
+        "volatility": 2
+    },
+    {
+        "actual": 52.5,
+        "country": "India",
+        "currency": "INR",
+        "name": "Nikkei Markit Manufacturing PMI (Apr)",
+        "previous": 52.5,
+        "timestamp": 1493701200,
+        "volatility": 0
+    },
+    {
+        "actual": 55.0,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Manufacturing PMI (Apr)",
+        "previous": 53.6,
+        "timestamp": 1493701200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 0.2,
+        "name": "BoJ Core CPI (YoY)",
+        "previous": 0.1,
+        "timestamp": 1493701200,
+        "volatility": 0
+    },
+    {
+        "actual": 14.8,
+        "country": "Estonia",
+        "currency": "EUR",
+        "name": "Estonian Industrial Production (YoY) (Mar)",
+        "previous": 9.0,
+        "timestamp": 1493701200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.4,
+        "country": "Estonia",
+        "currency": "EUR",
+        "name": "Estonian Industrial Production (MoM) (Mar)",
+        "previous": 2.3,
+        "timestamp": 1493701200,
+        "volatility": 0
+    },
+    {
+        "actual": 5.3,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 5.0,
+        "name": "Credit Indicator (YoY) (Mar)",
+        "previous": 5.1,
+        "timestamp": 1493704800,
+        "volatility": 0
+    },
+    {
+        "actual": 3.9,
+        "country": "Romania",
+        "currency": "RON",
+        "name": "PPI (YoY) (Mar)",
+        "previous": 3.9,
+        "timestamp": 1493704800,
+        "volatility": 0
+    },
+    {
+        "actual": 62.5,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 62.5,
+        "name": "Manufacturing PMI (Apr)",
+        "previous": 65.2,
+        "timestamp": 1493706600,
+        "volatility": 0
+    },
+    {
+        "actual": 54.1,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 53.9,
+        "name": "Manufacturing PMI (Apr)",
+        "previous": 53.5,
+        "timestamp": 1493708400,
+        "volatility": 0
+    },
+    {
+        "actual": 54.7,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 54.3,
+        "name": "Manufacturing PMI (Apr)",
+        "previous": 54.8,
+        "timestamp": 1493708400,
+        "volatility": 0
+    },
+    {
+        "actual": 51.7,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Manufacturing PMI (Apr)",
+        "previous": 52.3,
+        "timestamp": 1493708400,
+        "volatility": 0
+    },
+    {
+        "actual": 55.9,
+        "country": "Hungary",
+        "currency": "HUF",
+        "name": "Manufacturing PMI (Apr)",
+        "previous": 55.9,
+        "timestamp": 1493708400,
+        "volatility": 0
+    },
+    {
+        "actual": 54.5,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 54.4,
+        "name": "Spanish Manufacturing PMI (Apr)",
+        "previous": 53.9,
+        "timestamp": 1493709300,
+        "volatility": 1
+    },
+    {
+        "actual": 7.3,
+        "country": "Sweden",
+        "currency": "SEK",
+        "name": "Household Lending Growth (YoY) (Mar)",
+        "previous": 7.2,
+        "timestamp": 1493710200,
+        "volatility": 0
+    },
+    {
+        "actual": 57.4,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 58.3,
+        "name": "SVME PMI (Apr)",
+        "previous": 58.6,
+        "timestamp": 1493710200,
+        "volatility": 1
+    },
+    {
+        "actual": 57.5,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": 57.2,
+        "name": "Markit PMI (Apr)",
+        "previous": 57.5,
+        "timestamp": 1493710200,
+        "volatility": 0
+    },
+    {
+        "actual": 56.2,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 56.0,
+        "name": "Italian Manufacturing PMI (Apr)",
+        "previous": 55.7,
+        "timestamp": 1493711100,
+        "volatility": 1
+    },
+    {
+        "actual": 55.1,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 55.1,
+        "name": "French Manufacturing PMI (Apr)",
+        "previous": 55.1,
+        "timestamp": 1493711400,
+        "volatility": 1
+    },
+    {
+        "actual": 58.2,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 58.2,
+        "name": "German Manufacturing PMI (Apr)",
+        "previous": 58.2,
+        "timestamp": 1493711700,
+        "volatility": 2
+    },
+    {
+        "actual": 11.7,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 11.5,
+        "name": "Italian Monthly Unemployment Rate (Mar)",
+        "previous": 11.5,
+        "timestamp": 1493712000,
+        "volatility": 0
+    },
+    {
+        "actual": 48.2,
+        "country": "Greece",
+        "currency": "EUR",
+        "name": "Greek Manufacturing PMI (Apr)",
+        "previous": 46.7,
+        "timestamp": 1493712000,
+        "volatility": 0
+    },
+    {
+        "actual": 337.9,
+        "country": "Austria",
+        "currency": "EUR",
+        "name": "Austrian Unemployment Change (Apr)",
+        "previous": 354.1,
+        "timestamp": 1493712000,
+        "volatility": 0
+    },
+    {
+        "actual": 8.6,
+        "country": "Austria",
+        "currency": "EUR",
+        "name": "Austrian Unemployment Rate (Apr)",
+        "previous": 8.9,
+        "timestamp": 1493712000,
+        "volatility": 0
+    },
+    {
+        "actual": 56.7,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 56.8,
+        "name": "Manufacturing PMI (Apr)",
+        "previous": 56.8,
+        "timestamp": 1493712000,
+        "volatility": 1
+    },
+    {
+        "actual": 57.3,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 54.0,
+        "name": "Manufacturing PMI (Apr)",
+        "previous": 54.2,
+        "timestamp": 1493713800,
+        "volatility": 2
+    },
+    {
+        "actual": 9.5,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 9.4,
+        "name": "Unemployment Rate (Mar)",
+        "previous": 9.5,
+        "timestamp": 1493715600,
+        "volatility": 1
+    },
+    {
+        "actual": 44.7,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "name": "Manufacturing PMI",
+        "previous": 52.2,
+        "timestamp": 1493715600,
+        "volatility": 0
+    },
+    {
+        "actual": 6.27,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "name": "Budget Balance (Apr)",
+        "previous": 4.68,
+        "timestamp": 1493726400,
+        "volatility": 0
+    },
+    {
+        "actual": -13.4,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "name": "Total Vehicle Sales (YoY) (Apr)",
+        "previous": 2.1,
+        "timestamp": 1493727300,
+        "volatility": 0
+    },
+    {
+        "actual": 34.96,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "name": "Total Vehicle Sales (Apr)",
+        "previous": 48.53,
+        "timestamp": 1493727300,
+        "volatility": 0
+    },
+    {
+        "actual": 1.3,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (MoM)",
+        "previous": 1.2,
+        "timestamp": 1493729700,
+        "volatility": 0
+    },
+    {
+        "actual": 2.3,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (YoY)",
+        "previous": 1.7,
+        "timestamp": 1493729700,
+        "volatility": 0
+    },
+    {
+        "actual": -0.541,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 12-Month BTF Auction",
+        "previous": -0.535,
+        "timestamp": 1493730000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.549,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 3-Month BTF Auction",
+        "previous": -0.56,
+        "timestamp": 1493730000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.532,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 6-Month BTF Auction",
+        "previous": -0.557,
+        "timestamp": 1493730000,
+        "volatility": 0
+    },
+    {
+        "actual": 50.1,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 49.8,
+        "name": "Markit Manufacturing PMI (Apr)",
+        "previous": 49.6,
+        "timestamp": 1493730000,
+        "volatility": 0
+    },
+    {
+        "actual": 51.1,
+        "country": "Singapore",
+        "currency": "SGD",
+        "name": "Manufacturing PMI (Apr)",
+        "previous": 51.2,
+        "timestamp": 1493730000,
+        "volatility": 0
+    },
+    {
+        "actual": 738.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "ISM - NY Business Conditions (Apr)",
+        "previous": 735.1,
+        "timestamp": 1493732700,
+        "volatility": 0
+    },
+    {
+        "actual": 50.7,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 51.8,
+        "name": "Manufacturing PMI (Apr)",
+        "previous": 51.5,
+        "timestamp": 1493735400,
+        "volatility": 0
+    },
+    {
+        "actual": 3.6,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "GlobalDairyTrade Price Index",
+        "previous": 3.1,
+        "timestamp": 1493735400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.725,
+        "country": "United States",
+        "currency": "USD",
+        "name": "4-Week Bill Auction",
+        "previous": 0.735,
+        "timestamp": 1493739000,
+        "volatility": 0
+    },
+    {
+        "actual": 6.97,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 7.03,
+        "name": "Trade Balance (Apr)",
+        "previous": 7.15,
+        "timestamp": 1493748000,
+        "volatility": 0
+    },
+    {
+        "actual": 6.42,
+        "country": "United States",
+        "currency": "USD",
+        "name": "All Car Sales",
+        "previous": 6.32,
+        "timestamp": 1493753400,
+        "volatility": 0
+    },
+    {
+        "actual": 10.46,
+        "country": "United States",
+        "currency": "USD",
+        "name": "All Truck Sales (Apr)",
+        "previous": 10.3,
+        "timestamp": 1493753400,
+        "volatility": 0
+    },
+    {
+        "actual": 4.7,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Domestic Car Sales",
+        "previous": 4.59,
+        "timestamp": 1493753400,
+        "volatility": 0
+    },
+    {
+        "actual": 8.58,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 8.6,
+        "name": "Domestic Truck Sales (Apr)",
+        "previous": 8.65,
+        "timestamp": 1493753400,
+        "volatility": 0
+    },
+    {
+        "actual": 16.88,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 17.1,
+        "name": "Total Vehicle Sales",
+        "previous": 16.62,
+        "timestamp": 1493753400,
+        "volatility": 0
+    },
+    {
+        "actual": 187.95,
+        "country": "Argentina",
+        "currency": "ARS",
+        "forecast": 190.0,
+        "name": "Tax Revenue",
+        "previous": 212.3,
+        "timestamp": 1493753400,
+        "volatility": 0
+    },
+    {
+        "actual": -4.158,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -2.3,
+        "name": "API Weekly Crude Oil Stock",
+        "previous": 0.897,
+        "timestamp": 1493757300,
+        "volatility": 1
+    },
+    {
+        "actual": 1.2,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 0.8,
+        "name": "Employment Change (QoQ) (Q1)",
+        "previous": 0.8,
+        "timestamp": 1493765100,
+        "volatility": 2
+    },
+    {
+        "actual": 0.4,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 0.5,
+        "name": "Labor Cost Index (QoQ) (Q1)",
+        "previous": 0.4,
+        "timestamp": 1493765100,
+        "volatility": 0
+    },
+    {
+        "actual": 1.5,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 1.7,
+        "name": "Labor Cost Index (YoY) (Q1)",
+        "previous": 1.6,
+        "timestamp": 1493765100,
+        "volatility": 0
+    },
+    {
+        "actual": 70.6,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 70.5,
+        "name": "Participation Rate (Q1)",
+        "previous": 70.5,
+        "timestamp": 1493765100,
+        "volatility": 0
+    },
+    {
+        "actual": 4.9,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 5.2,
+        "name": "Unemployment Rate (Q1)",
+        "previous": 5.2,
+        "timestamp": 1493765100,
+        "volatility": 1
+    },
+    {
+        "actual": -0.5,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BRC Shop Price Index (YoY)",
+        "previous": -0.8,
+        "timestamp": 1493766060,
+        "volatility": 0
+    },
+    {
+        "actual": 53.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "AIG Services Index (Apr)",
+        "previous": 51.7,
+        "timestamp": 1493767800,
+        "volatility": 0
+    }
+]

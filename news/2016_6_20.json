@@ -1,0 +1,328 @@
+[
+    {
+        "actual": 5.0,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch Consumer Confidence (Jun)",
+        "previous": 1.0,
+        "timestamp": 1466397000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch Consumer Spending (Apr)",
+        "previous": 1.1,
+        "timestamp": 1466397000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "Estonia",
+        "currency": "EUR",
+        "name": "Estonian PPI (MoM) (May)",
+        "previous": -0.3,
+        "timestamp": 1466398800,
+        "volatility": 0
+    },
+    {
+        "actual": -1.8,
+        "country": "Estonia",
+        "currency": "EUR",
+        "name": "Estonian PPI (YoY) (May)",
+        "previous": -1.7,
+        "timestamp": 1466398800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.3,
+        "name": "German PPI (MoM) (May)",
+        "previous": 0.1,
+        "timestamp": 1466402400,
+        "volatility": 1
+    },
+    {
+        "actual": -2.7,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": -2.8,
+        "name": "German PPI (YoY) (May)",
+        "previous": -3.1,
+        "timestamp": 1466402400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.64,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": -0.5,
+        "name": "Spanish Trade Balance",
+        "previous": -0.79,
+        "timestamp": 1466406000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania Current Account (Q1)",
+        "previous": 4.4,
+        "timestamp": 1466406000,
+        "volatility": 0
+    },
+    {
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "BoJ Governor Kuroda Speaks",
+        "timestamp": 1466409000,
+        "volatility": 1
+    },
+    {
+        "actual": -5.8,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": -5.9,
+        "name": "Export Orders (YoY) (May)",
+        "previous": -11.1,
+        "timestamp": 1466409600,
+        "volatility": 0
+    },
+    {
+        "actual": 9.5,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "forecast": 9.5,
+        "name": "Slovak Unemployment Rate (May)",
+        "previous": 9.6,
+        "timestamp": 1466411400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.7,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "U.K. Construction Output (YoY) (Apr)",
+        "previous": -1.2,
+        "timestamp": 1466413200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.53,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch 3-Month T-bill Auction",
+        "previous": -0.525,
+        "timestamp": 1466415900,
+        "volatility": 0
+    },
+    {
+        "actual": -0.53,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch 6-Month T-bill Auction",
+        "previous": -0.526,
+        "timestamp": 1466415900,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.5,
+        "name": "Wholesale Sales (MoM) (Apr)",
+        "previous": -0.8,
+        "timestamp": 1466425800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.5,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "Aggregate Demand (QoQ) (Q1)",
+        "previous": 0.1,
+        "timestamp": 1466427600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.5,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 2.8,
+        "name": "Aggregate Demand (YoY) (Q1)",
+        "previous": 2.4,
+        "timestamp": 1466427600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "Private Spending (QoQ) (Q1)",
+        "previous": 0.9,
+        "timestamp": 1466427600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.3,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "Private Spending (YoY) (Q1)",
+        "previous": 3.5,
+        "timestamp": 1466427600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.496,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 12-Month BTF Auction",
+        "previous": -0.494,
+        "timestamp": 1466427600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.506,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 3-Month BTF Auction",
+        "previous": -0.497,
+        "timestamp": 1466427600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.512,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 6-Month BTF Auction",
+        "previous": -0.5,
+        "timestamp": 1466427600,
+        "volatility": 0
+    },
+    {
+        "actual": -6.1,
+        "country": "Russia",
+        "currency": "RUB",
+        "forecast": -4.9,
+        "name": "Retail Sales (YoY)",
+        "previous": -4.8,
+        "timestamp": 1466427600,
+        "volatility": 1
+    },
+    {
+        "actual": 5.6,
+        "country": "Russia",
+        "currency": "RUB",
+        "forecast": 5.8,
+        "name": "Unemployment Rate (May)",
+        "previous": 5.9,
+        "timestamp": 1466427600,
+        "volatility": 1
+    },
+    {
+        "actual": -0.1,
+        "country": "Oman",
+        "currency": "OMR",
+        "name": "CPI (MoM) (May)",
+        "previous": 0.8,
+        "timestamp": 1466432100,
+        "volatility": 0
+    },
+    {
+        "actual": 1.1,
+        "country": "Oman",
+        "currency": "OMR",
+        "name": "CPI (YoY) (May)",
+        "previous": 1.1,
+        "timestamp": 1466432100,
+        "volatility": 0
+    },
+    {
+        "actual": 700.5,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Central Government Debt Stock (May)",
+        "previous": 682.7,
+        "timestamp": 1466433000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.27,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Month Bill Auction",
+        "previous": 0.27,
+        "timestamp": 1466436600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "United States",
+        "currency": "USD",
+        "name": "6-Month Bill Auction",
+        "previous": 0.4,
+        "timestamp": 1466436600,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Kashkari Speaks",
+        "timestamp": 1466440200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.745,
+        "country": "United States",
+        "currency": "USD",
+        "name": "2-Year Note Auction",
+        "previous": 0.92,
+        "timestamp": 1466442000,
+        "volatility": 0
+    },
+    {
+        "actual": -17.0,
+        "country": "Colombia",
+        "currency": "COP",
+        "name": "Imports (YoY) (Apr)",
+        "previous": -22.6,
+        "timestamp": 1466460000,
+        "volatility": 0
+    },
+    {
+        "actual": -1.118,
+        "country": "Colombia",
+        "currency": "COP",
+        "forecast": -1.035,
+        "name": "Trade Balance (USD) (Apr)",
+        "previous": -1.117,
+        "timestamp": 1466460000,
+        "volatility": 0
+    },
+    {
+        "actual": 3.0,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Reuters Tankan Index (Jun)",
+        "previous": 2.0,
+        "timestamp": 1466463600,
+        "volatility": 0
+    },
+    {
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "RBA Assist Gov Debelle Speaks",
+        "timestamp": 1466465100,
+        "volatility": 1
+    },
+    {
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Monetary Policy Meeting Minutes",
+        "timestamp": 1466466600,
+        "volatility": 1
+    }
+]

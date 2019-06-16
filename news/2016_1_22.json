@@ -1,0 +1,601 @@
+[
+    {
+        "actual": -0.5,
+        "country": "Singapore",
+        "currency": "SGD",
+        "name": "URA Property Index (QoQ) (Q4)",
+        "previous": -0.5,
+        "timestamp": 1453422600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.88,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": 3.86,
+        "name": "Unemployment Rate (Dec)",
+        "previous": 3.84,
+        "timestamp": 1453422600,
+        "volatility": 0
+    },
+    {
+        "actual": 52.4,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 52.8,
+        "name": "Manufacturing PMI (Jan)",
+        "previous": 52.6,
+        "timestamp": 1453428000,
+        "volatility": 0
+    },
+    {
+        "actual": 3.2,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "forecast": 3.1,
+        "name": "Unemployment Rate",
+        "previous": 3.1,
+        "timestamp": 1453435200,
+        "volatility": 0
+    },
+    {
+        "actual": 10.1,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Currency Swaps (USD)",
+        "previous": 10.9,
+        "timestamp": 1453447800,
+        "volatility": 0
+    },
+    {
+        "actual": 158.0,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Foreign Reserves (USD)",
+        "previous": 157.5,
+        "timestamp": 1453447800,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB President Draghi Speaks",
+        "timestamp": 1453448700,
+        "volatility": 2
+    },
+    {
+        "actual": 50.0,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 51.3,
+        "name": "French Manufacturing PMI (Jan)",
+        "previous": 51.4,
+        "timestamp": 1453449600,
+        "volatility": 1
+    },
+    {
+        "actual": 50.5,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French Markit Composite PMI (Jan)",
+        "previous": 50.1,
+        "timestamp": 1453449600,
+        "volatility": 0
+    },
+    {
+        "actual": 50.6,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 50.2,
+        "name": "French Services PMI (Jan)",
+        "previous": 49.8,
+        "timestamp": 1453449600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.0,
+        "country": "Denmark",
+        "currency": "DKK",
+        "name": "Retail Sales (YoY) (Dec)",
+        "previous": 1.0,
+        "timestamp": 1453449600,
+        "volatility": 0
+    },
+    {
+        "actual": -6.17,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": -6.8,
+        "name": "Industrial Production (YoY) (Dec)",
+        "previous": -4.94,
+        "timestamp": 1453449600,
+        "volatility": 0
+    },
+    {
+        "actual": 54.5,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German Composite PMI (Jan)",
+        "previous": 55.5,
+        "timestamp": 1453451400,
+        "volatility": 0
+    },
+    {
+        "actual": 52.1,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 53.0,
+        "name": "German Manufacturing PMI (Jan)",
+        "previous": 53.2,
+        "timestamp": 1453451400,
+        "volatility": 2
+    },
+    {
+        "actual": 55.4,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 55.6,
+        "name": "German Services PMI (Jan)",
+        "previous": 56.0,
+        "timestamp": 1453451400,
+        "volatility": 1
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB's Nowotny Speaks",
+        "timestamp": 1453453200,
+        "volatility": 1
+    },
+    {
+        "actual": 52.3,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 53.0,
+        "name": "Manufacturing PMI (Jan)",
+        "previous": 53.2,
+        "timestamp": 1453453200,
+        "volatility": 1
+    },
+    {
+        "actual": 53.5,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 54.2,
+        "name": "Markit Composite PMI (Jan)",
+        "previous": 54.3,
+        "timestamp": 1453453200,
+        "volatility": 1
+    },
+    {
+        "actual": 53.6,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 54.2,
+        "name": "Services PMI (Jan)",
+        "previous": 54.2,
+        "timestamp": 1453453200,
+        "volatility": 1
+    },
+    {
+        "actual": -3.3,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania Industrial Production (MoM) (Dec)",
+        "previous": -2.6,
+        "timestamp": 1453453200,
+        "volatility": 0
+    },
+    {
+        "actual": 4.8,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania Industrial Production (YoY) (Dec)",
+        "previous": 4.6,
+        "timestamp": 1453453200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 3.5,
+        "name": "Core Retail Sales (YoY) (Dec)",
+        "previous": 3.4,
+        "timestamp": 1453455000,
+        "volatility": 1
+    },
+    {
+        "actual": -0.9,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": -0.3,
+        "name": "Core Retail Sales (MoM) (Dec)",
+        "previous": 1.3,
+        "timestamp": 1453455000,
+        "volatility": 1
+    },
+    {
+        "actual": 6.87,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 10.35,
+        "name": "Public Sector Net Borrowing (Dec)",
+        "previous": 12.94,
+        "timestamp": 1453455000,
+        "volatility": 0
+    },
+    {
+        "actual": 8.131,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "Public Sector Net Cash Requirement (Dec)",
+        "previous": 7.107,
+        "timestamp": 1453455000,
+        "volatility": 0
+    },
+    {
+        "actual": -1.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": -0.3,
+        "name": "Retail Sales (MoM) (Dec)",
+        "previous": 1.3,
+        "timestamp": 1453455000,
+        "volatility": 2
+    },
+    {
+        "actual": 2.6,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 4.3,
+        "name": "Retail Sales (YoY) (Dec)",
+        "previous": 4.5,
+        "timestamp": 1453455000,
+        "volatility": 1
+    },
+    {
+        "actual": 95.1,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "name": "FX Reserves USD",
+        "previous": 95.3,
+        "timestamp": 1453456800,
+        "volatility": 0
+    },
+    {
+        "actual": 10.74,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 10.74,
+        "name": "Mid-Month CPI (YoY) (Jan)",
+        "previous": 10.71,
+        "timestamp": 1453460400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.92,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 0.92,
+        "name": "Mid-Month CPI (MoM) (Jan)",
+        "previous": 1.18,
+        "timestamp": 1453460400,
+        "volatility": 0
+    },
+    {
+        "actual": -1.6,
+        "country": "Latvia",
+        "currency": "EUR",
+        "name": "Latvian PPI (YoY) (Dec)",
+        "previous": -1.7,
+        "timestamp": 1453460400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "Latvia",
+        "currency": "EUR",
+        "name": "Latvian PPI (MoM) (Dec)",
+        "previous": 0.3,
+        "timestamp": 1453460400,
+        "volatility": 0
+    },
+    {
+        "actual": 11.3,
+        "country": "India",
+        "currency": "INR",
+        "name": "Bank Loan Growth",
+        "previous": 11.1,
+        "timestamp": 1453462200,
+        "volatility": 0
+    },
+    {
+        "actual": 10.9,
+        "country": "India",
+        "currency": "INR",
+        "name": "Deposit Growth",
+        "previous": 10.9,
+        "timestamp": 1453462200,
+        "volatility": 0
+    },
+    {
+        "actual": 347.21,
+        "country": "India",
+        "currency": "INR",
+        "name": "FX Reserves, USD",
+        "previous": 348.93,
+        "timestamp": 1453462200,
+        "volatility": 0
+    },
+    {
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BoE MPC Member Cunliffe Speaks",
+        "timestamp": 1453464000,
+        "volatility": 1
+    },
+    {
+        "actual": -2.6,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "Budget Balance % of GDP (Dec)",
+        "previous": -1.3,
+        "timestamp": 1453466400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.22,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Chicago Fed National Activity (Dec)",
+        "previous": -0.36,
+        "timestamp": 1453469400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.9,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 2.1,
+        "name": "Core CPI (YoY) (Dec)",
+        "previous": 2.0,
+        "timestamp": 1453469400,
+        "volatility": 1
+    },
+    {
+        "actual": -0.4,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": -0.3,
+        "name": "Core CPI (MoM) (Dec)",
+        "previous": -0.3,
+        "timestamp": 1453469400,
+        "volatility": 2
+    },
+    {
+        "actual": 1.1,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.4,
+        "name": "Core Retail Sales (MoM) (Nov)",
+        "previous": 0.0,
+        "timestamp": 1453469400,
+        "volatility": 2
+    },
+    {
+        "actual": 1.6,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 1.7,
+        "name": "CPI (YoY) (Dec)",
+        "previous": 1.4,
+        "timestamp": 1453469400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.5,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": -0.4,
+        "name": "CPI (MoM) (Dec)",
+        "previous": -0.1,
+        "timestamp": 1453469400,
+        "volatility": 1
+    },
+    {
+        "actual": 1.7,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.2,
+        "name": "Retail Sales (MoM) (Nov)",
+        "previous": 0.1,
+        "timestamp": 1453469400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.08,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 0.17,
+        "name": "1st Half-Month Core CPI (Jan)",
+        "previous": 0.27,
+        "timestamp": 1453471200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.03,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 0.1,
+        "name": "1st Half-Month CPI (Jan)",
+        "previous": 0.26,
+        "timestamp": 1453471200,
+        "volatility": 0
+    },
+    {
+        "actual": 52.7,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 51.1,
+        "name": "Manufacturing PMI (Jan)",
+        "previous": 51.2,
+        "timestamp": 1453473900,
+        "volatility": 1
+    },
+    {
+        "actual": 14.7,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 8.9,
+        "name": "Existing Home Sales (MoM) (Dec)",
+        "previous": -10.5,
+        "timestamp": 1453474800,
+        "volatility": 1
+    },
+    {
+        "actual": 5.46,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 5.2,
+        "name": "Existing Home Sales (Dec)",
+        "previous": 4.76,
+        "timestamp": 1453474800,
+        "volatility": 2
+    },
+    {
+        "actual": 510.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "U.S. Baker Hughes Oil Rig Count",
+        "previous": 515.0,
+        "timestamp": 1453485600,
+        "volatility": 1
+    },
+    {
+        "actual": -38.6,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "CFTC GBP speculative net positions",
+        "previous": -30.5,
+        "timestamp": 1453494600,
+        "volatility": 1
+    },
+    {
+        "actual": -43.4,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Copper speculative net positions",
+        "previous": -42.0,
+        "timestamp": 1453494600,
+        "volatility": 0
+    },
+    {
+        "actual": 179.4,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Crude Oil speculative net positions",
+        "previous": 163.5,
+        "timestamp": 1453494600,
+        "volatility": 1
+    },
+    {
+        "actual": 43.7,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Gold speculative net positions",
+        "previous": 44.7,
+        "timestamp": 1453494600,
+        "volatility": 1
+    },
+    {
+        "actual": -188.5,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC S&P 500 speculative net positions",
+        "previous": -162.3,
+        "timestamp": 1453494600,
+        "volatility": 1
+    },
+    {
+        "actual": 29.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Silver speculative net positions",
+        "previous": 22.5,
+        "timestamp": 1453494600,
+        "volatility": 0
+    },
+    {
+        "actual": -66.4,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "CFTC CAD speculative net positions",
+        "previous": -59.2,
+        "timestamp": 1453494600,
+        "volatility": 0
+    },
+    {
+        "actual": -76.0,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "CFTC MXN speculative net positions",
+        "previous": -74.0,
+        "timestamp": 1453494600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.9,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "name": "CFTC CHF speculative net positions",
+        "previous": 3.3,
+        "timestamp": 1453494600,
+        "volatility": 0
+    },
+    {
+        "actual": -36.3,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "CFTC AUD speculative net positions",
+        "previous": -23.0,
+        "timestamp": 1453494600,
+        "volatility": 1
+    },
+    {
+        "actual": 37.7,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "CFTC JPY speculative net positions",
+        "previous": 25.3,
+        "timestamp": 1453494600,
+        "volatility": 1
+    },
+    {
+        "actual": -3.0,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "CFTC NZD speculative net positions",
+        "previous": 1.5,
+        "timestamp": 1453494600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "CFTC RUB speculative positions",
+        "previous": -0.7,
+        "timestamp": 1453494600,
+        "volatility": 1
+    },
+    {
+        "actual": -137.0,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "CFTC EUR speculative net positions",
+        "previous": -146.5,
+        "timestamp": 1453494600,
+        "volatility": 1
+    }
+]

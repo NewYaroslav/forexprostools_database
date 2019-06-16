@@ -1,0 +1,528 @@
+[
+    {
+        "actual": -1.8,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": 4.7,
+        "name": "Non-Oil Exports (MoM) (Mar)",
+        "previous": -2.7,
+        "timestamp": 1523925000,
+        "volatility": 0
+    },
+    {
+        "actual": -2.7,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": 0.2,
+        "name": "Non-Oil Exports (YoY) (Mar)",
+        "previous": -6.0,
+        "timestamp": 1523925000,
+        "volatility": 0
+    },
+    {
+        "actual": 5.49,
+        "country": "Singapore",
+        "currency": "SGD",
+        "name": "Trade Balance",
+        "previous": 5.95,
+        "timestamp": 1523925000,
+        "volatility": 0
+    },
+    {
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "RBA Meeting Minutes",
+        "timestamp": 1523928600,
+        "volatility": 2
+    },
+    {
+        "actual": 7.5,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 7.7,
+        "name": "Fixed Asset Investment (YoY) (Mar)",
+        "previous": 7.9,
+        "timestamp": 1523930400,
+        "volatility": 1
+    },
+    {
+        "actual": 1.4,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 1.5,
+        "name": "GDP (QoQ) (Q1)",
+        "previous": 1.6,
+        "timestamp": 1523930400,
+        "volatility": 1
+    },
+    {
+        "actual": 6.8,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 6.8,
+        "name": "GDP (YoY) (Q1)",
+        "previous": 6.8,
+        "timestamp": 1523930400,
+        "volatility": 2
+    },
+    {
+        "actual": 6.0,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 6.4,
+        "name": "Industrial Production (YoY) (Mar)",
+        "previous": 7.2,
+        "timestamp": 1523930400,
+        "volatility": 2
+    },
+    {
+        "actual": 10.1,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 9.7,
+        "name": "Retail Sales (YoY) (Mar)",
+        "previous": 9.7,
+        "timestamp": 1523930400,
+        "volatility": 0
+    },
+    {
+        "actual": 5.1,
+        "country": "China",
+        "currency": "CNY",
+        "name": "Chinese Unemployment Rate",
+        "previous": 5.0,
+        "timestamp": 1523930400,
+        "volatility": 1
+    },
+    {
+        "country": "China",
+        "currency": "CNY",
+        "name": "NBS Press Conference",
+        "timestamp": 1523930400,
+        "volatility": 1
+    },
+    {
+        "actual": 56.5,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "RBNZ Offshore Holdings (Mar)",
+        "previous": 57.0,
+        "timestamp": 1523934000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.3,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": -0.3,
+        "name": "Capacity Utilization (MoM) (Feb)",
+        "previous": -3.8,
+        "timestamp": 1523939400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 4.0,
+        "name": "Industrial Production (MoM) (Feb)",
+        "previous": 4.1,
+        "timestamp": 1523939400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.8,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.9,
+        "name": "Italian CPI (YoY) (Mar)",
+        "previous": 0.9,
+        "timestamp": 1523952000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.4,
+        "name": "Italian CPI (MoM) (Mar)",
+        "previous": 0.4,
+        "timestamp": 1523952000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.9,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 1.1,
+        "name": "Italian HICP (YoY) (Mar)",
+        "previous": 1.1,
+        "timestamp": 1523952000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.3,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 2.5,
+        "name": "Italian HICP (MoM) (Mar)",
+        "previous": 2.5,
+        "timestamp": 1523952000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.8,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 2.8,
+        "name": "Average Earnings ex Bonus (Feb)",
+        "previous": 2.6,
+        "timestamp": 1523953800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.8,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 3.0,
+        "name": "Average Earnings Index +Bonus (Feb)",
+        "previous": 2.8,
+        "timestamp": 1523953800,
+        "volatility": 2
+    },
+    {
+        "actual": 11.6,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 13.3,
+        "name": "Claimant Count Change (Mar)",
+        "previous": 15.1,
+        "timestamp": 1523953800,
+        "volatility": 2
+    },
+    {
+        "actual": 55.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 55.0,
+        "name": "Employment Change 3M/3M (MoM)",
+        "previous": 168.0,
+        "timestamp": 1523953800,
+        "volatility": 1
+    },
+    {
+        "actual": 4.2,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 4.3,
+        "name": "Unemployment Rate (Feb)",
+        "previous": 4.3,
+        "timestamp": 1523953800,
+        "volatility": 1
+    },
+    {
+        "actual": 3.104,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 2.23,
+        "name": "Italian Trade Balance (Feb)",
+        "previous": -0.092,
+        "timestamp": 1523955600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.13,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian Trade Balance EU (Feb)",
+        "previous": 0.43,
+        "timestamp": 1523955600,
+        "volatility": 0
+    },
+    {
+        "actual": 87.9,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 88.0,
+        "name": "German ZEW Current Conditions (Apr)",
+        "previous": 90.7,
+        "timestamp": 1523955600,
+        "volatility": 1
+    },
+    {
+        "actual": -8.2,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": -0.8,
+        "name": "German ZEW Economic Sentiment (Apr)",
+        "previous": 5.1,
+        "timestamp": 1523955600,
+        "volatility": 2
+    },
+    {
+        "actual": 1.9,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 7.3,
+        "name": "ZEW Economic Sentiment",
+        "previous": 13.4,
+        "timestamp": 1523955600,
+        "volatility": 1
+    },
+    {
+        "actual": 16.0,
+        "country": "China",
+        "currency": "CNY",
+        "name": "PBoC Reserve Requirement Ratio",
+        "previous": 17.5,
+        "timestamp": 1523959200,
+        "volatility": 1
+    },
+    {
+        "actual": 1.354,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.33,
+        "name": "Building Permits (Mar)",
+        "previous": 1.321,
+        "timestamp": 1523968200,
+        "volatility": 2
+    },
+    {
+        "actual": 2.5,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.7,
+        "name": "Building Permits (MoM) (Mar)",
+        "previous": -4.1,
+        "timestamp": 1523968200,
+        "volatility": 1
+    },
+    {
+        "actual": 1.319,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.27,
+        "name": "Housing Starts (Mar)",
+        "previous": 1.295,
+        "timestamp": 1523968200,
+        "volatility": 1
+    },
+    {
+        "actual": 1.9,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.9,
+        "name": "Housing Starts (MoM) (Mar)",
+        "previous": -3.3,
+        "timestamp": 1523968200,
+        "volatility": 1
+    },
+    {
+        "actual": 3.96,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 7.24,
+        "name": "Foreign Securities Purchases (Feb)",
+        "previous": 5.63,
+        "timestamp": 1523968200,
+        "volatility": 1
+    },
+    {
+        "actual": 6.35,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "Foreign Securities Purchases by Canadians (Feb)",
+        "previous": 13.18,
+        "timestamp": 1523968200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.9,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 1.0,
+        "name": "Manufacturing Sales (MoM) (Feb)",
+        "previous": -1.3,
+        "timestamp": 1523968200,
+        "volatility": 1
+    },
+    {
+        "actual": 3.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (YoY)",
+        "previous": 2.9,
+        "timestamp": 1523969700,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (MoM)",
+        "previous": 0.3,
+        "timestamp": 1523969700,
+        "volatility": 0
+    },
+    {
+        "actual": 78.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 77.9,
+        "name": "Capacity Utilization Rate (Mar)",
+        "previous": 77.7,
+        "timestamp": 1523970900,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Williams Speaks",
+        "timestamp": 1523970900,
+        "volatility": 1
+    },
+    {
+        "actual": 4.3,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Industrial Production (YoY)",
+        "previous": 4.4,
+        "timestamp": 1523970900,
+        "volatility": 1
+    },
+    {
+        "actual": 0.5,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.3,
+        "name": "Industrial Production (MoM) (Mar)",
+        "previous": 1.0,
+        "timestamp": 1523970900,
+        "volatility": 1
+    },
+    {
+        "actual": 0.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.1,
+        "name": "Manufacturing Production (MoM) (Mar)",
+        "previous": 1.5,
+        "timestamp": 1523970900,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Quarles Speaks",
+        "timestamp": 1523973600,
+        "volatility": 1
+    },
+    {
+        "actual": 4.8,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "PPI (YoY) (Feb)",
+        "previous": 5.7,
+        "timestamp": 1523973600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.9,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "PPI (MoM) (Feb)",
+        "previous": 1.0,
+        "timestamp": 1523973600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.7,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "GlobalDairyTrade Price Index",
+        "previous": -0.6,
+        "timestamp": 1523975100,
+        "volatility": 1
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Harker Speaks",
+        "timestamp": 1523977200,
+        "volatility": 1
+    },
+    {
+        "actual": 1.63,
+        "country": "United States",
+        "currency": "USD",
+        "name": "4-Week Bill Auction",
+        "previous": 1.62,
+        "timestamp": 1523979000,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "Chicago Fed President Evans Speaks",
+        "timestamp": 1523985000,
+        "volatility": 0
+    },
+    {
+        "actual": -1.047,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.625,
+        "name": "API Weekly Crude Oil Stock",
+        "previous": 1.758,
+        "timestamp": 1523997000,
+        "volatility": 1
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Bostic Speaks",
+        "timestamp": 1524001200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.12,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 0.1,
+        "name": "Adjusted Trade Balance",
+        "previous": -0.21,
+        "timestamp": 1524009000,
+        "volatility": 1
+    },
+    {
+        "actual": 2.1,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 4.7,
+        "name": "Exports (YoY) (Mar)",
+        "previous": 1.8,
+        "timestamp": 1524009000,
+        "volatility": 1
+    },
+    {
+        "actual": -0.6,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 5.4,
+        "name": "Imports (YoY) (Mar)",
+        "previous": 16.6,
+        "timestamp": 1524009000,
+        "volatility": 0
+    },
+    {
+        "actual": 797.0,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 498.0,
+        "name": "Trade Balance (Mar)",
+        "previous": 3.0,
+        "timestamp": 1524009000,
+        "volatility": 1
+    }
+]

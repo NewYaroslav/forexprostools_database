@@ -1,0 +1,425 @@
+[
+    {
+        "actual": 6.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "NAB Business Confidence",
+        "previous": 6.0,
+        "timestamp": 1390869000,
+        "volatility": 1
+    },
+    {
+        "actual": 4.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "NAB Business Survey",
+        "previous": -3.0,
+        "timestamp": 1390869000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.92,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": 1.83,
+        "name": "GDP (YoY)",
+        "previous": 1.58,
+        "timestamp": 1390869000,
+        "volatility": 0
+    },
+    {
+        "actual": -6.2,
+        "country": "Thailand",
+        "currency": "THB",
+        "forecast": -5.4,
+        "name": "Industrial Production (YoY)",
+        "previous": -10.6,
+        "timestamp": 1390879800,
+        "volatility": 0
+    },
+    {
+        "actual": 8.0,
+        "country": "India",
+        "currency": "INR",
+        "forecast": 7.75,
+        "name": "Interest Rate Decision",
+        "previous": 7.75,
+        "timestamp": 1390887000,
+        "volatility": 2
+    },
+    {
+        "actual": 0.0,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.2,
+        "name": "German Import Price Index (MoM)",
+        "previous": 0.1,
+        "timestamp": 1390892400,
+        "volatility": 0
+    },
+    {
+        "actual": 86.0,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 85.0,
+        "name": "French Consumer Confidence",
+        "previous": 85.0,
+        "timestamp": 1390895100,
+        "volatility": 0
+    },
+    {
+        "actual": 72.4,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Consumer Confidence",
+        "previous": 75.0,
+        "timestamp": 1390896000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.2,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": -0.1,
+        "name": "PPI (MoM)",
+        "previous": 0.4,
+        "timestamp": 1390897800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.8,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 0.5,
+        "name": "Retail Sales (MoM)",
+        "previous": 1.0,
+        "timestamp": 1390897800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.4,
+        "country": "Sweden",
+        "currency": "SEK",
+        "name": "Trade Balance",
+        "previous": 4.9,
+        "timestamp": 1390897800,
+        "volatility": 0
+    },
+    {
+        "actual": 98.0,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 97.0,
+        "name": "Italian Consumer Confidence",
+        "previous": 96.4,
+        "timestamp": 1390899600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.7,
+        "name": "GDP (QoQ)",
+        "previous": 0.8,
+        "timestamp": 1390901400,
+        "volatility": 2
+    },
+    {
+        "actual": 2.8,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 2.8,
+        "name": "GDP (YoY)",
+        "previous": 1.9,
+        "timestamp": 1390901400,
+        "volatility": 2
+    },
+    {
+        "actual": 0.8,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.7,
+        "name": "Index of Services",
+        "previous": 0.8,
+        "timestamp": 1390901400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.343,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 3-Month Letras Auction",
+        "previous": 0.631,
+        "timestamp": 1390902300,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian Wage Inflation (MoM)",
+        "previous": 0.0,
+        "timestamp": 1390903200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.031,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian 2-Year CTZ Auction",
+        "previous": 1.392,
+        "timestamp": 1390903800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.6,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Retail Sales (MoM)",
+        "previous": 0.2,
+        "timestamp": 1390906800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Chain Store Sales (YoY)",
+        "previous": 0.9,
+        "timestamp": 1390913100,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Chain Store Sales (WoW)",
+        "previous": -1.9,
+        "timestamp": 1390913100,
+        "volatility": 0
+    },
+    {
+        "actual": -1.6,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.5,
+        "name": "Core Durable Goods Orders (MoM)",
+        "previous": 0.1,
+        "timestamp": 1390915800,
+        "volatility": 2
+    },
+    {
+        "actual": -4.3,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.8,
+        "name": "Durable Goods Orders (MoM)",
+        "previous": 2.6,
+        "timestamp": 1390915800,
+        "volatility": 1
+    },
+    {
+        "actual": -1.3,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.5,
+        "name": "Goods Orders Non Defense Ex Air (MoM)",
+        "previous": 2.6,
+        "timestamp": 1390915800,
+        "volatility": 0
+    },
+    {
+        "actual": 3.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (YoY)",
+        "previous": 3.1,
+        "timestamp": 1390917300,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (MoM)",
+        "previous": -0.2,
+        "timestamp": 1390917300,
+        "volatility": 0
+    },
+    {
+        "actual": 13.7,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 13.7,
+        "name": "S&P/CS HPI Composite - 20 n.s.a. (YoY)",
+        "previous": 13.6,
+        "timestamp": 1390917600,
+        "volatility": 1
+    },
+    {
+        "actual": -0.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.2,
+        "name": "S&P/CS HPI Composite - 20 n.s.a. (MoM)",
+        "previous": 0.2,
+        "timestamp": 1390917600,
+        "volatility": 0
+    },
+    {
+        "actual": 80.7,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 78.1,
+        "name": "CB Consumer Confidence",
+        "previous": 77.5,
+        "timestamp": 1390921200,
+        "volatility": 2
+    },
+    {
+        "actual": 12.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 13.0,
+        "name": "Richmond Manufacturing Index",
+        "previous": 13.0,
+        "timestamp": 1390921200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.05,
+        "country": "United States",
+        "currency": "USD",
+        "name": "4-Week Bill Auction",
+        "previous": 0.0,
+        "timestamp": 1390926600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.38,
+        "country": "United States",
+        "currency": "USD",
+        "name": "2-Year Note Auction",
+        "previous": 0.345,
+        "timestamp": 1390932000,
+        "volatility": 0
+    },
+    {
+        "actual": 4.75,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.1,
+        "name": "API Weekly Crude Oil Stock",
+        "previous": 4.86,
+        "timestamp": 1390944600,
+        "volatility": 1
+    },
+    {
+        "actual": -1.79,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -2.3,
+        "name": "API Weekly Distillates Stocks",
+        "previous": -2.29,
+        "timestamp": 1390944600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.363,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.6,
+        "name": "API Weekly Gasoline Stock",
+        "previous": 1.11,
+        "timestamp": 1390944600,
+        "volatility": 0
+    },
+    {
+        "actual": 10.0,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 6.5,
+        "name": "One-Week Repo Rate",
+        "previous": 4.5,
+        "timestamp": 1390946400,
+        "volatility": 2
+    },
+    {
+        "actual": 8.0,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 5.0,
+        "name": "Overnight Borrowing Rate",
+        "previous": 3.5,
+        "timestamp": 1390946400,
+        "volatility": 2
+    },
+    {
+        "actual": 12.0,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 10.0,
+        "name": "Overnight Lending Rate",
+        "previous": 7.75,
+        "timestamp": 1390946400,
+        "volatility": 1
+    },
+    {
+        "actual": 8.07,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "Current Account",
+        "previous": 4.18,
+        "timestamp": 1390950000,
+        "volatility": 0
+    },
+    {
+        "actual": 3.4,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 0.6,
+        "name": "Industrial Production (MoM)",
+        "previous": 0.1,
+        "timestamp": 1390950000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.6,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 1.7,
+        "name": "Industrial Production (YoY)",
+        "previous": -0.8,
+        "timestamp": 1390950000,
+        "volatility": 0
+    },
+    {
+        "actual": -1.3,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 0.8,
+        "name": "Retail Sales (MoM)",
+        "previous": 0.9,
+        "timestamp": 1390950000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.7,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "Service Sector Output (MoM)",
+        "previous": 0.3,
+        "timestamp": 1390950000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "MI Leading Index (MoM)",
+        "previous": -0.1,
+        "timestamp": 1390951800,
+        "volatility": 0
+    }
+]

@@ -1,0 +1,537 @@
+[
+    {
+        "actual": 4.1,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "MI Inflation Expectations",
+        "previous": 4.3,
+        "timestamp": 1487203200,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Dudley Speaks",
+        "timestamp": 1487204100,
+        "volatility": 1
+    },
+    {
+        "actual": 13.5,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 10.0,
+        "name": "Employment Change (Jan)",
+        "previous": 16.3,
+        "timestamp": 1487205000,
+        "volatility": 2
+    },
+    {
+        "actual": -44.8,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Full Employment Change (Jan)",
+        "previous": 11.3,
+        "timestamp": 1487205000,
+        "volatility": 1
+    },
+    {
+        "actual": 64.6,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 64.7,
+        "name": "Participation Rate (Jan)",
+        "previous": 64.7,
+        "timestamp": 1487205000,
+        "volatility": 0
+    },
+    {
+        "actual": 5.7,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 5.8,
+        "name": "Unemployment Rate (Jan)",
+        "previous": 5.8,
+        "timestamp": 1487205000,
+        "volatility": 1
+    },
+    {
+        "actual": -9.2,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 1.4,
+        "name": "FDI",
+        "previous": 5.7,
+        "timestamp": 1487210400,
+        "volatility": 0
+    },
+    {
+        "actual": 60.0,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "RBNZ Offshore Holdings (Jan)",
+        "previous": 60.3,
+        "timestamp": 1487210400,
+        "volatility": 0
+    },
+    {
+        "actual": 12.2,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "name": "Current Acount (Q4)",
+        "previous": 6.0,
+        "timestamp": 1487217600,
+        "volatility": 0
+    },
+    {
+        "actual": 4.5,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "forecast": 4.5,
+        "name": "GDP (YoY) (Q4)",
+        "previous": 4.3,
+        "timestamp": 1487217600,
+        "volatility": 1
+    },
+    {
+        "actual": -22.3,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "name": "Overall Net Capital Flow (Q4)",
+        "previous": -10.6,
+        "timestamp": 1487217600,
+        "volatility": 0
+    },
+    {
+        "actual": 27.71,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": 21.73,
+        "name": "Export Growth (YoY) (Jan)",
+        "previous": 15.57,
+        "timestamp": 1487217600,
+        "volatility": 0
+    },
+    {
+        "actual": 11.05,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "name": "Foreign Tourism (Dec)",
+        "previous": 18.32,
+        "timestamp": 1487217600,
+        "volatility": 0
+    },
+    {
+        "actual": 14.54,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": 13.88,
+        "name": "Import Growth (YoY) (Jan)",
+        "previous": 5.82,
+        "timestamp": 1487217600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.39,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": 0.85,
+        "name": "Trade Balance (Jan)",
+        "previous": 0.99,
+        "timestamp": 1487217600,
+        "volatility": 1
+    },
+    {
+        "actual": 5.3,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch Unemployment Rate (Jan)",
+        "previous": 5.4,
+        "timestamp": 1487226600,
+        "volatility": 0
+    },
+    {
+        "actual": 10.0,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 9.7,
+        "name": "French Unemployment Rate (Q4)",
+        "previous": 10.1,
+        "timestamp": 1487226600,
+        "volatility": 0
+    },
+    {
+        "actual": 7.3,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 7.3,
+        "name": "Unemployment Rate (Jan)",
+        "previous": 6.5,
+        "timestamp": 1487233800,
+        "volatility": 0
+    },
+    {
+        "actual": 5.8,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 4.0,
+        "name": "Italian Trade Balance (Dec)",
+        "previous": 4.19,
+        "timestamp": 1487235600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.12,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian Trade Balance EU (Dec)",
+        "previous": 0.22,
+        "timestamp": 1487235600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.733,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 10-Year Obligacion Auction",
+        "previous": 1.45,
+        "timestamp": 1487238600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.532,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 5-Year Bonos Auction",
+        "previous": 0.399,
+        "timestamp": 1487238600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.34,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 3-Year BTAN Auction",
+        "previous": -0.43,
+        "timestamp": 1487239200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.09,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 5-Year BTAN Auction",
+        "previous": -0.04,
+        "timestamp": 1487239200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.26,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": -0.2,
+        "name": "IBC-Br Economic Activity (Dec)",
+        "previous": 0.2,
+        "timestamp": 1487241000,
+        "volatility": 0
+    },
+    {
+        "actual": 4.75,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": 4.75,
+        "name": "Interest Rate Decision",
+        "previous": 4.75,
+        "timestamp": 1487241000,
+        "volatility": 1
+    },
+    {
+        "actual": 4.0,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": 4.0,
+        "name": "Deposit Facility Rate (Feb)",
+        "previous": 4.0,
+        "timestamp": 1487241000,
+        "volatility": 0
+    },
+    {
+        "actual": 5.5,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": 5.5,
+        "name": "Lending Facility Rate (Feb)",
+        "previous": 5.5,
+        "timestamp": 1487241000,
+        "volatility": 0
+    },
+    {
+        "actual": 6.2,
+        "country": "Israel",
+        "currency": "ILS",
+        "name": "GDP Annualized (QoQ) (Q4)",
+        "previous": 4.2,
+        "timestamp": 1487242800,
+        "volatility": 1
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB Publishes Account of Monetary Policy Meeting",
+        "timestamp": 1487248200,
+        "volatility": 2
+    },
+    {
+        "actual": 4.3,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 4.0,
+        "name": "Corp. Sector Wages (YoY) (Jan)",
+        "previous": 2.7,
+        "timestamp": 1487250000,
+        "volatility": 0
+    },
+    {
+        "actual": 4.5,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 2.8,
+        "name": "Employment Growth (YoY) (Jan)",
+        "previous": 3.1,
+        "timestamp": 1487250000,
+        "volatility": 0
+    },
+    {
+        "actual": 393.6,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "Central Bank reserves (USD)",
+        "previous": 394.1,
+        "timestamp": 1487250000,
+        "volatility": 1
+    },
+    {
+        "actual": 4.6,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.2,
+        "name": "Building Permits (MoM) (Jan)",
+        "previous": 1.3,
+        "timestamp": 1487251800,
+        "volatility": 1
+    },
+    {
+        "actual": 1.285,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.23,
+        "name": "Building Permits (Jan)",
+        "previous": 1.228,
+        "timestamp": 1487251800,
+        "volatility": 2
+    },
+    {
+        "actual": 2.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.0,
+        "name": "Continuing Jobless Claims",
+        "previous": 2.0,
+        "timestamp": 1487251800,
+        "volatility": 0
+    },
+    {
+        "actual": -2.6,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.1,
+        "name": "Housing Starts (MoM) (Jan)",
+        "previous": 11.3,
+        "timestamp": 1487251800,
+        "volatility": 1
+    },
+    {
+        "actual": 1.246,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.222,
+        "name": "Housing Starts (Jan)",
+        "previous": 1.279,
+        "timestamp": 1487251800,
+        "volatility": 1
+    },
+    {
+        "actual": 239.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 245.0,
+        "name": "Initial Jobless Claims",
+        "previous": 234.0,
+        "timestamp": 1487251800,
+        "volatility": 1
+    },
+    {
+        "actual": 245.25,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Jobless Claims 4-Week Avg.",
+        "previous": 244.75,
+        "timestamp": 1487251800,
+        "volatility": 0
+    },
+    {
+        "actual": 43.3,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 18.0,
+        "name": "Philadelphia Fed Manufacturing Index (Feb)",
+        "previous": 23.6,
+        "timestamp": 1487251800,
+        "volatility": 2
+    },
+    {
+        "actual": 53.5,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Philly Fed Business Conditions (Feb)",
+        "previous": 56.6,
+        "timestamp": 1487251800,
+        "volatility": 0
+    },
+    {
+        "actual": 22.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Philly Fed CAPEX Index (Feb)",
+        "previous": 21.9,
+        "timestamp": 1487251800,
+        "volatility": 0
+    },
+    {
+        "actual": 11.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Philly Fed Employment (Feb)",
+        "previous": 12.8,
+        "timestamp": 1487251800,
+        "volatility": 1
+    },
+    {
+        "actual": 38.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Philly Fed New Orders (Feb)",
+        "previous": 26.0,
+        "timestamp": 1487251800,
+        "volatility": 0
+    },
+    {
+        "actual": 29.9,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Philly Fed Prices Paid (Feb)",
+        "previous": 32.5,
+        "timestamp": 1487251800,
+        "volatility": 0
+    },
+    {
+        "actual": 48.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Bloomberg Consumer Confidence",
+        "previous": 47.2,
+        "timestamp": 1487256300,
+        "volatility": 0
+    },
+    {
+        "actual": -114.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -124.0,
+        "name": "Natural Gas Storage",
+        "previous": -152.0,
+        "timestamp": 1487259000,
+        "volatility": 0
+    },
+    {
+        "actual": 14.75,
+        "country": "Egypt",
+        "currency": "EGP",
+        "forecast": 14.75,
+        "name": "Interest Rate Decision",
+        "previous": 14.75,
+        "timestamp": 1487260800,
+        "volatility": 0
+    },
+    {
+        "actual": 15.75,
+        "country": "Egypt",
+        "currency": "EGP",
+        "forecast": 15.75,
+        "name": "Overnight Lending Rate",
+        "previous": 15.75,
+        "timestamp": 1487260800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.923,
+        "country": "United States",
+        "currency": "USD",
+        "name": "30-Year TIPS Auction",
+        "previous": 0.666,
+        "timestamp": 1487268000,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "U.S. President Trump Speaks",
+        "timestamp": 1487271600,
+        "volatility": 2
+    },
+    {
+        "actual": 51.6,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "Business NZ PMI (Jan)",
+        "previous": 54.2,
+        "timestamp": 1487280600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.6,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "Core Retail Sales (QoQ)",
+        "previous": 0.2,
+        "timestamp": 1487281500,
+        "volatility": 1
+    },
+    {
+        "actual": 0.8,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 1.0,
+        "name": "Retail Sales (QoQ) (Q4)",
+        "previous": 0.8,
+        "timestamp": 1487281500,
+        "volatility": 1
+    },
+    {
+        "actual": 4.2,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "Retail Sales Quarterly Vs. Year Ago (Q4)",
+        "previous": 5.1,
+        "timestamp": 1487281500,
+        "volatility": 0
+    },
+    {
+        "actual": 20.0,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Reuters Tankan Index (Feb)",
+        "previous": 18.0,
+        "timestamp": 1487286000,
+        "volatility": 0
+    }
+]

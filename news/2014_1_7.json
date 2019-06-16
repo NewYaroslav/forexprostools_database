@@ -1,0 +1,353 @@
+[
+    {
+        "actual": 0.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Exports (MoM)",
+        "previous": 0.0,
+        "timestamp": 1389054600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Imports (MoM)",
+        "previous": 1.0,
+        "timestamp": 1389054600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.118,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": -0.3,
+        "name": "Trade Balance",
+        "previous": -0.358,
+        "timestamp": 1389054600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.7,
+        "country": "Philippines",
+        "currency": "PHP",
+        "forecast": 0.5,
+        "name": "CPI (MoM)",
+        "previous": 0.4,
+        "timestamp": 1389056400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.719,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "10-Year JGB Auction",
+        "previous": 0.648,
+        "timestamp": 1389066300,
+        "volatility": 1
+    },
+    {
+        "actual": 1.5,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.6,
+        "name": "German Retail Sales (MoM)",
+        "previous": -0.8,
+        "timestamp": 1389078000,
+        "volatility": 1
+    },
+    {
+        "actual": 1.6,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German Retail Sales (YoY)",
+        "previous": -0.1,
+        "timestamp": 1389078000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.13,
+        "country": "Finland",
+        "currency": "EUR",
+        "name": "Finnish Trade Balance",
+        "previous": -0.04,
+        "timestamp": 1389078000,
+        "volatility": 0
+    },
+    {
+        "actual": 85.0,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 84.0,
+        "name": "French Consumer Confidence",
+        "previous": 84.0,
+        "timestamp": 1389080700,
+        "volatility": 0
+    },
+    {
+        "actual": 1.41,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": 3.61,
+        "name": "Trade Balance",
+        "previous": 3.51,
+        "timestamp": 1389081600,
+        "volatility": 0
+    },
+    {
+        "actual": -15.0,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": -1.0,
+        "name": "German Unemployment Change",
+        "previous": 9.0,
+        "timestamp": 1389084900,
+        "volatility": 2
+    },
+    {
+        "actual": 6.9,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 6.9,
+        "name": "German Unemployment Rate",
+        "previous": 6.9,
+        "timestamp": 1389084900,
+        "volatility": 1
+    },
+    {
+        "actual": 0.7,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.8,
+        "name": "Core CPI (YoY)",
+        "previous": 0.9,
+        "timestamp": 1389088800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.8,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.9,
+        "name": "CPI (YoY)",
+        "previous": 0.9,
+        "timestamp": 1389088800,
+        "volatility": 2
+    },
+    {
+        "actual": -0.1,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -0.1,
+        "name": "PPI (MoM)",
+        "previous": -0.5,
+        "timestamp": 1389088800,
+        "volatility": 0
+    },
+    {
+        "actual": -1.2,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -1.3,
+        "name": "PPI (YoY)",
+        "previous": -1.3,
+        "timestamp": 1389088800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.15,
+        "country": "Chile",
+        "currency": "CLP",
+        "forecast": 0.8,
+        "name": "Trade Balance",
+        "previous": 0.2,
+        "timestamp": 1389094200,
+        "volatility": 0
+    },
+    {
+        "actual": 16.8,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Auto Sales (MoM)",
+        "previous": -8.3,
+        "timestamp": 1389097800,
+        "volatility": 0
+    },
+    {
+        "actual": -5.4,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Chain Store Sales (WoW)",
+        "previous": 1.0,
+        "timestamp": 1389098700,
+        "volatility": 0
+    },
+    {
+        "actual": 1.7,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Chain Store Sales (YoY)",
+        "previous": 3.0,
+        "timestamp": 1389098700,
+        "volatility": 0
+    },
+    {
+        "actual": 77.1,
+        "country": "Poland",
+        "currency": "PLN",
+        "name": "FX Reserves (EUR)",
+        "previous": 78.6,
+        "timestamp": 1389099600,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Rosengren Speaks",
+        "timestamp": 1389101400,
+        "volatility": 1
+    },
+    {
+        "actual": -34.25,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -40.0,
+        "name": "Trade Balance",
+        "previous": -39.33,
+        "timestamp": 1389101400,
+        "volatility": 1
+    },
+    {
+        "actual": 39.78,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 41.0,
+        "name": "Exports",
+        "previous": 39.79,
+        "timestamp": 1389101400,
+        "volatility": 0
+    },
+    {
+        "actual": 40.72,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 41.0,
+        "name": "Imports",
+        "previous": 40.7,
+        "timestamp": 1389101400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.94,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": -0.15,
+        "name": "Trade Balance",
+        "previous": -0.91,
+        "timestamp": 1389101400,
+        "volatility": 1
+    },
+    {
+        "actual": -0.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (MoM)",
+        "previous": -0.7,
+        "timestamp": 1389102900,
+        "volatility": 0
+    },
+    {
+        "actual": 4.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (YoY)",
+        "previous": 4.5,
+        "timestamp": 1389102900,
+        "volatility": 0
+    },
+    {
+        "actual": 46.3,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 55.0,
+        "name": "Ivey PMI",
+        "previous": 53.7,
+        "timestamp": 1389106800,
+        "volatility": 2
+    },
+    {
+        "actual": 0.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "4-Week Bill Auction",
+        "previous": 0.005,
+        "timestamp": 1389112200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.125,
+        "country": "United States",
+        "currency": "USD",
+        "name": "52-Week Bill Auction",
+        "previous": 0.135,
+        "timestamp": 1389112200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.799,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Year Note Auction",
+        "previous": 0.631,
+        "timestamp": 1389117600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.8,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "GlobalDairyTrade Price Index",
+        "previous": 0.2,
+        "timestamp": 1389124800,
+        "volatility": 1
+    },
+    {
+        "actual": -7.31,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -3.3,
+        "name": "API Weekly Crude Oil Stock",
+        "previous": -5.67,
+        "timestamp": 1389130200,
+        "volatility": 1
+    },
+    {
+        "actual": 5.17,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.9,
+        "name": "API Weekly Distillates Stocks",
+        "previous": -0.7,
+        "timestamp": 1389130200,
+        "volatility": 0
+    },
+    {
+        "actual": 5.58,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.0,
+        "name": "API Weekly Gasoline Stock",
+        "previous": -2.5,
+        "timestamp": 1389130200,
+        "volatility": 0
+    },
+    {
+        "actual": 50.8,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "AIG Construction Index",
+        "previous": 55.2,
+        "timestamp": 1389133200,
+        "volatility": 0
+    }
+]

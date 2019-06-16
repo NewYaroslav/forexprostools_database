@@ -1,0 +1,556 @@
+[
+    {
+        "actual": -22.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": -30.0,
+        "name": "GfK Consumer Confidence",
+        "previous": -30.0,
+        "timestamp": 1354233660,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.3,
+        "name": "Private Sector Credit (MoM)",
+        "previous": 0.3,
+        "timestamp": 1354235400,
+        "volatility": 1
+    },
+    {
+        "actual": -0.8,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 0.3,
+        "name": "Retail Sales (MoM)",
+        "previous": 1.5,
+        "timestamp": 1354239000,
+        "volatility": 0
+    },
+    {
+        "actual": 479.42,
+        "country": "Singapore",
+        "currency": "SGD",
+        "name": "Bank Lending",
+        "previous": 472.3,
+        "timestamp": 1354240800,
+        "volatility": 0
+    },
+    {
+        "actual": 25.2,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 10.1,
+        "name": "Housing Starts (YoY)",
+        "previous": 15.5,
+        "timestamp": 1354251600,
+        "volatility": 0
+    },
+    {
+        "actual": 5.3,
+        "country": "India",
+        "currency": "INR",
+        "forecast": 5.4,
+        "name": "GDP Quarterly (YoY)",
+        "previous": 5.5,
+        "timestamp": 1354253400,
+        "volatility": 1
+    },
+    {
+        "actual": -5.4,
+        "country": "Estonia",
+        "currency": "EUR",
+        "name": "Estonian Industrial Production (MoM)",
+        "previous": 2.1,
+        "timestamp": 1354255200,
+        "volatility": 0
+    },
+    {
+        "actual": 3.0,
+        "country": "Estonia",
+        "currency": "EUR",
+        "name": "Estonian Retail Sales (MoM)",
+        "previous": -7.0,
+        "timestamp": 1354255200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.8,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 1.2,
+        "name": "German Retail Sales (YoY)",
+        "previous": -3.4,
+        "timestamp": 1354258800,
+        "volatility": 0
+    },
+    {
+        "actual": -2.8,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": -0.2,
+        "name": "German Retail Sales (MoM)",
+        "previous": 0.5,
+        "timestamp": 1354258800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.4,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Private Consumption (MoM)",
+        "previous": -0.8,
+        "timestamp": 1354260600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.9,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Private Investment (MoM)",
+        "previous": -0.5,
+        "timestamp": 1354260600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Thailand",
+        "currency": "THB",
+        "forecast": 2.6,
+        "name": "Trade Balance",
+        "previous": 3.0,
+        "timestamp": 1354260600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": -0.1,
+        "name": "French Consumer Spending (MoM)",
+        "previous": 0.1,
+        "timestamp": 1354261500,
+        "volatility": 1
+    },
+    {
+        "actual": 0.5,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 0.4,
+        "name": "French PPI (MoM)",
+        "previous": 0.4,
+        "timestamp": 1354261500,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Denmark",
+        "currency": "DKK",
+        "forecast": 0.3,
+        "name": "GDP (QoQ)",
+        "previous": -0.7,
+        "timestamp": 1354262400,
+        "volatility": 0
+    },
+    {
+        "actual": -5.51,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": -7.0,
+        "name": "Trade Balance",
+        "previous": -6.83,
+        "timestamp": 1354262400,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB President Draghi Speaks",
+        "timestamp": 1354262400,
+        "volatility": 2
+    },
+    {
+        "actual": 11.1,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 10.9,
+        "name": "Italian Monthly Unemployment Rate",
+        "previous": 10.8,
+        "timestamp": 1354266000,
+        "volatility": 0
+    },
+    {
+        "actual": 10.6,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 10.6,
+        "name": "Italian Quarterly Unemployment Rate",
+        "previous": 10.5,
+        "timestamp": 1354266000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.4,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 1.8,
+        "name": "GDP (YoY)",
+        "previous": 2.3,
+        "timestamp": 1354266000,
+        "volatility": 1
+    },
+    {
+        "actual": -0.1,
+        "country": "Austria",
+        "currency": "EUR",
+        "name": "Austrian PPI (MoM)",
+        "previous": 0.3,
+        "timestamp": 1354266000,
+        "volatility": 0
+    },
+    {
+        "actual": -1.1,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 0.4,
+        "name": "Core Retail Sales (MoM)",
+        "previous": 0.6,
+        "timestamp": 1354266000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.7,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 1.9,
+        "name": "Spanish Government Budget Balance",
+        "previous": 4.0,
+        "timestamp": 1354267800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": -0.1,
+        "name": "Italian CPI (MoM)",
+        "previous": 0.0,
+        "timestamp": 1354269600,
+        "volatility": 1
+    },
+    {
+        "actual": 2.5,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 2.6,
+        "name": "Italian CPI (YoY)",
+        "previous": 2.6,
+        "timestamp": 1354269600,
+        "volatility": 0
+    },
+    {
+        "actual": -16.0,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": -21.0,
+        "name": "Spanish Business Confidence",
+        "previous": -18.0,
+        "timestamp": 1354269600,
+        "volatility": 0
+    },
+    {
+        "actual": -12.1,
+        "country": "Greece",
+        "currency": "EUR",
+        "name": "Greek Retail Sales (YoY)",
+        "previous": -9.3,
+        "timestamp": 1354269600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.2,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 2.4,
+        "name": "CPI (YoY)",
+        "previous": 2.5,
+        "timestamp": 1354269600,
+        "volatility": 2
+    },
+    {
+        "actual": 11.7,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 11.7,
+        "name": "Unemployment Rate",
+        "previous": 11.6,
+        "timestamp": 1354269600,
+        "volatility": 1
+    },
+    {
+        "actual": 2.3,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 2.7,
+        "name": "Italian PPI (YoY)",
+        "previous": 2.6,
+        "timestamp": 1354273200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.3,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": -0.1,
+        "name": "Italian PPI (MoM)",
+        "previous": -0.1,
+        "timestamp": 1354273200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.9,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 1.9,
+        "name": "GDP (YoY)",
+        "previous": 0.5,
+        "timestamp": 1354273200,
+        "volatility": 1
+    },
+    {
+        "actual": 16.9,
+        "country": "India",
+        "currency": "INR",
+        "name": "Bank Loan Growth",
+        "previous": 16.2,
+        "timestamp": 1354275000,
+        "volatility": 0
+    },
+    {
+        "actual": 294.98,
+        "country": "India",
+        "currency": "INR",
+        "name": "FX Reserves, USD",
+        "previous": 293.53,
+        "timestamp": 1354275000,
+        "volatility": 0
+    },
+    {
+        "actual": -21.2,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": -15.35,
+        "name": "Trade Balance",
+        "previous": -13.8,
+        "timestamp": 1354276800,
+        "volatility": 0
+    },
+    {
+        "actual": 35.2,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 35.2,
+        "name": "Debt-to-GDP ratio",
+        "previous": 35.3,
+        "timestamp": 1354278600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.2,
+        "name": "Core PCE Price Index (MoM)",
+        "previous": 0.1,
+        "timestamp": 1354282200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.2,
+        "name": "Personal Income (MoM)",
+        "previous": 0.4,
+        "timestamp": 1354282200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.2,
+        "name": "Personal Spending (MoM)",
+        "previous": 0.8,
+        "timestamp": 1354282200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.0,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.0,
+        "name": "GDP (MoM)",
+        "previous": -0.1,
+        "timestamp": 1354282200,
+        "volatility": 2
+    },
+    {
+        "actual": 6.6,
+        "country": "Chile",
+        "currency": "CLP",
+        "forecast": 6.4,
+        "name": "Unemployment Rate",
+        "previous": 6.5,
+        "timestamp": 1354284000,
+        "volatility": 0
+    },
+    {
+        "actual": 50.4,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 50.5,
+        "name": "Chicago PMI",
+        "previous": 49.9,
+        "timestamp": 1354286700,
+        "volatility": 1
+    },
+    {
+        "actual": 4.5,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 4.5,
+        "name": "Interest Rate Decision",
+        "previous": 4.5,
+        "timestamp": 1354287600,
+        "volatility": 1
+    },
+    {
+        "actual": -2.69,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "Budget Balance",
+        "previous": -3.17,
+        "timestamp": 1354291200,
+        "volatility": 0
+    },
+    {
+        "actual": 1386.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "U.S. Baker Hughes Oil Rig Count",
+        "previous": 1388.0,
+        "timestamp": 1354294800,
+        "volatility": 1
+    },
+    {
+        "actual": 10.3,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "CFTC GBP speculative net positions",
+        "previous": 0.7,
+        "timestamp": 1354307400,
+        "volatility": 1
+    },
+    {
+        "actual": 180.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Crude Oil speculative net positions",
+        "previous": 177.9,
+        "timestamp": 1354307400,
+        "volatility": 1
+    },
+    {
+        "actual": 193.7,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Gold speculative net positions",
+        "previous": 180.8,
+        "timestamp": 1354307400,
+        "volatility": 1
+    },
+    {
+        "actual": 38.7,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Silver speculative net positions",
+        "previous": 38.0,
+        "timestamp": 1354307400,
+        "volatility": 0
+    },
+    {
+        "actual": 62.4,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "CFTC CAD speculative net positions",
+        "previous": 61.4,
+        "timestamp": 1354307400,
+        "volatility": 0
+    },
+    {
+        "actual": 93.9,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "CFTC MXN speculative net positions",
+        "previous": 86.8,
+        "timestamp": 1354307400,
+        "volatility": 0
+    },
+    {
+        "actual": -3.4,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "name": "CFTC CHF speculative net positions",
+        "previous": -12.5,
+        "timestamp": 1354307400,
+        "volatility": 0
+    },
+    {
+        "actual": 76.8,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "CFTC AUD speculative net positions",
+        "previous": 64.7,
+        "timestamp": 1354307400,
+        "volatility": 1
+    },
+    {
+        "actual": -79.5,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "CFTC JPY speculative net positions",
+        "previous": -51.4,
+        "timestamp": 1354307400,
+        "volatility": 1
+    },
+    {
+        "actual": 18.7,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "CFTC NZD speculative net positions",
+        "previous": 17.9,
+        "timestamp": 1354307400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.8,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "CFTC RUB speculative positions",
+        "previous": 2.8,
+        "timestamp": 1354307400,
+        "volatility": 1
+    },
+    {
+        "actual": -66.7,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "CFTC EUR speculative net positions",
+        "previous": -91.4,
+        "timestamp": 1354307400,
+        "volatility": 1
+    }
+]

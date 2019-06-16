@@ -1,0 +1,491 @@
+[
+    {
+        "actual": 9.1,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "HIA New Home Sales (MoM) (Aug)",
+        "previous": -3.7,
+        "timestamp": 1506988800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "ANZ Job Advertisements (MoM)",
+        "previous": 1.7,
+        "timestamp": 1506990600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 1.1,
+        "name": "Building Approvals (MoM) (Aug)",
+        "previous": -1.2,
+        "timestamp": 1506990600,
+        "volatility": 1
+    },
+    {
+        "actual": -0.6,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Private House Approvals (Aug)",
+        "previous": 1.0,
+        "timestamp": 1506990600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.5,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 1.5,
+        "name": "RBA Interest Rate Decision (Oct)",
+        "previous": 1.5,
+        "timestamp": 1507001400,
+        "volatility": 2
+    },
+    {
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "RBA Rate Statement",
+        "timestamp": 1507001400,
+        "volatility": 2
+    },
+    {
+        "actual": 0.077,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "10-Year JGB Auction",
+        "previous": 0.011,
+        "timestamp": 1507002300,
+        "volatility": 1
+    },
+    {
+        "actual": 55.5,
+        "country": "Saudi Arabia",
+        "currency": "SAR",
+        "name": "Markit Composite PMI (Sep)",
+        "previous": 55.8,
+        "timestamp": 1507004100,
+        "volatility": 0
+    },
+    {
+        "actual": 55.1,
+        "country": "United Arab Emirates",
+        "currency": "AED",
+        "name": "Markit Composite PMI (Sep)",
+        "previous": 57.3,
+        "timestamp": 1507004100,
+        "volatility": 0
+    },
+    {
+        "actual": 51.2,
+        "country": "India",
+        "currency": "INR",
+        "forecast": 51.9,
+        "name": "Nikkei Markit Manufacturing PMI (Sep)",
+        "previous": 51.2,
+        "timestamp": 1507006800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.6,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "BoJ Core CPI (YoY)",
+        "previous": 0.4,
+        "timestamp": 1507006800,
+        "volatility": 0
+    },
+    {
+        "actual": 43.9,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 43.5,
+        "name": "Household Confidence (Sep)",
+        "previous": 43.3,
+        "timestamp": 1507006800,
+        "volatility": 0
+    },
+    {
+        "actual": 18.3,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Commodity Prices (YoY)",
+        "previous": 20.8,
+        "timestamp": 1507008600,
+        "volatility": 0
+    },
+    {
+        "actual": 4.1,
+        "country": "Romania",
+        "currency": "RON",
+        "name": "PPI (YoY) (Aug)",
+        "previous": 3.0,
+        "timestamp": 1507010400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian Public Deficit (Q2)",
+        "previous": 4.3,
+        "timestamp": 1507014000,
+        "volatility": 0
+    },
+    {
+        "actual": 27.9,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 21.3,
+        "name": "Spanish Unemployment Change",
+        "previous": 46.4,
+        "timestamp": 1507014000,
+        "volatility": 1
+    },
+    {
+        "actual": 4.7,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": 4.7,
+        "name": "GDP (YoY) (Q2)",
+        "previous": 4.7,
+        "timestamp": 1507014000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.5,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": 2.5,
+        "name": "GDP (QoQ) (Q2)",
+        "previous": 2.5,
+        "timestamp": 1507014000,
+        "volatility": 0
+    },
+    {
+        "actual": 52.5,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 56.0,
+        "name": "Manufacturing PMI (Sep)",
+        "previous": 54.9,
+        "timestamp": 1507014000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.65,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 0.76,
+        "name": "CPI (MoM) (Sep)",
+        "previous": 0.52,
+        "timestamp": 1507014000,
+        "volatility": 1
+    },
+    {
+        "actual": 11.2,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "CPI (YoY) (Sep)",
+        "previous": 10.68,
+        "timestamp": 1507014000,
+        "volatility": 1
+    },
+    {
+        "actual": 16.28,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "PPI (YoY) (Sep)",
+        "previous": 16.34,
+        "timestamp": 1507014000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.24,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "PPI (MoM) (Sep)",
+        "previous": 0.85,
+        "timestamp": 1507014000,
+        "volatility": 0
+    },
+    {
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BoE FPC Meeting Minutes",
+        "timestamp": 1507019400,
+        "volatility": 0
+    },
+    {
+        "actual": 48.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 51.0,
+        "name": "Construction PMI (Sep)",
+        "previous": 51.1,
+        "timestamp": 1507019400,
+        "volatility": 2
+    },
+    {
+        "actual": 2.7,
+        "country": "Hong Kong",
+        "currency": "HKD",
+        "name": "Retail Sales (YoY) (Aug)",
+        "previous": 4.0,
+        "timestamp": 1507019400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "PPI (MoM) (Aug)",
+        "previous": 0.0,
+        "timestamp": 1507021200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.5,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 2.3,
+        "name": "PPI (YoY) (Aug)",
+        "previous": 2.0,
+        "timestamp": 1507021200,
+        "volatility": 0
+    },
+    {
+        "actual": 44.9,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "name": "Manufacturing PMI",
+        "previous": 44.0,
+        "timestamp": 1507021200,
+        "volatility": 0
+    },
+    {
+        "actual": 3.0,
+        "country": "Israel",
+        "currency": "ILS",
+        "name": "Budget Balance (Sep)",
+        "previous": 1.0,
+        "timestamp": 1507024800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.75,
+        "country": "Romania",
+        "currency": "RON",
+        "forecast": 1.75,
+        "name": "Interest Rate Decision",
+        "previous": 1.75,
+        "timestamp": 1507026600,
+        "volatility": 0
+    },
+    {
+        "actual": 4.9,
+        "country": "India",
+        "currency": "INR",
+        "name": "Infrastructure Output (YoY) (Aug)",
+        "previous": 2.4,
+        "timestamp": 1507030200,
+        "volatility": 0
+    },
+    {
+        "actual": 111.051,
+        "country": "Israel",
+        "currency": "ILS",
+        "name": "FX Reserve - USD (Sep)",
+        "previous": 111.02,
+        "timestamp": 1507030200,
+        "volatility": 0
+    },
+    {
+        "actual": 6.0,
+        "country": "Chile",
+        "currency": "CLP",
+        "forecast": 5.0,
+        "name": "Retail Sales (YoY)",
+        "previous": 4.2,
+        "timestamp": 1507032000,
+        "volatility": 0
+    },
+    {
+        "actual": 4.0,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 4.8,
+        "name": "Industrial Production (YoY) (Aug)",
+        "previous": 2.9,
+        "timestamp": 1507032000,
+        "volatility": 1
+    },
+    {
+        "actual": -0.8,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 0.5,
+        "name": "Industrial Production (MoM) (Aug)",
+        "previous": 0.7,
+        "timestamp": 1507032000,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Powell Speaks",
+        "timestamp": 1507033800,
+        "volatility": 2
+    },
+    {
+        "actual": 4.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (YoY)",
+        "previous": 4.0,
+        "timestamp": 1507035300,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (MoM)",
+        "previous": 0.1,
+        "timestamp": 1507035300,
+        "volatility": 0
+    },
+    {
+        "actual": 9.5,
+        "country": "Uganda",
+        "currency": "UGX",
+        "name": "Interest Rate Decision",
+        "previous": 10.0,
+        "timestamp": 1507035600,
+        "volatility": 0
+    },
+    {
+        "actual": 748.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "ISM - NY Business Conditions (Sep)",
+        "previous": 748.8,
+        "timestamp": 1507038300,
+        "volatility": 0
+    },
+    {
+        "actual": 5.3,
+        "country": "Uganda",
+        "currency": "UGX",
+        "name": "CPI (YoY) (Sep)",
+        "previous": 5.2,
+        "timestamp": 1507039200,
+        "volatility": 0
+    },
+    {
+        "actual": -2.4,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "GlobalDairyTrade Price Index",
+        "previous": 0.9,
+        "timestamp": 1507041000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.98,
+        "country": "United States",
+        "currency": "USD",
+        "name": "4-Week Bill Auction",
+        "previous": 0.97,
+        "timestamp": 1507044600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.344,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Exchequer Returns (Sep)",
+        "previous": 1.818,
+        "timestamp": 1507044600,
+        "volatility": 0
+    },
+    {
+        "actual": 11.76,
+        "country": "United States",
+        "currency": "USD",
+        "name": "All Truck Sales (Sep)",
+        "previous": 10.11,
+        "timestamp": 1507059000,
+        "volatility": 0
+    },
+    {
+        "actual": 9.69,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 8.23,
+        "name": "Domestic Truck Sales (Sep)",
+        "previous": 8.32,
+        "timestamp": 1507059000,
+        "volatility": 0
+    },
+    {
+        "actual": 6.81,
+        "country": "United States",
+        "currency": "USD",
+        "name": "All Car Sales",
+        "previous": 6.03,
+        "timestamp": 1507060800,
+        "volatility": 0
+    },
+    {
+        "actual": 4.95,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Domestic Car Sales",
+        "previous": 4.36,
+        "timestamp": 1507060800,
+        "volatility": 0
+    },
+    {
+        "actual": 18.57,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 16.6,
+        "name": "Total Vehicle Sales",
+        "previous": 16.14,
+        "timestamp": 1507060800,
+        "volatility": 0
+    },
+    {
+        "actual": -4.079,
+        "country": "United States",
+        "currency": "USD",
+        "name": "API Weekly Crude Oil Stock",
+        "previous": -0.761,
+        "timestamp": 1507062900,
+        "volatility": 1
+    },
+    {
+        "actual": 52.1,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "AIG Services Index (Sep)",
+        "previous": 53.0,
+        "timestamp": 1507069800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BRC Shop Price Index (YoY)",
+        "previous": -0.3,
+        "timestamp": 1507071660,
+        "volatility": 0
+    }
+]

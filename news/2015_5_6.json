@@ -1,0 +1,582 @@
+[
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Kocherlakota Speaks",
+        "timestamp": 1430870400,
+        "volatility": 1
+    },
+    {
+        "actual": 4.4,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "HIA New Home Sales (MoM) (Mar)",
+        "previous": 1.1,
+        "timestamp": 1430874000,
+        "volatility": 1
+    },
+    {
+        "actual": 4.64,
+        "country": "Colombia",
+        "currency": "COP",
+        "forecast": 4.44,
+        "name": "CPI (YoY) (Apr)",
+        "previous": 4.56,
+        "timestamp": 1430874000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.54,
+        "country": "Colombia",
+        "currency": "COP",
+        "forecast": 0.35,
+        "name": "CPI (MoM) (Apr)",
+        "previous": 0.59,
+        "timestamp": 1430874000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.4,
+        "name": "Retail Sales (MoM) (Mar)",
+        "previous": 0.7,
+        "timestamp": 1430875800,
+        "volatility": 2
+    },
+    {
+        "actual": 0.7,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.9,
+        "name": "Retail Sales (QoQ) (Q1)",
+        "previous": 1.2,
+        "timestamp": 1430875800,
+        "volatility": 0
+    },
+    {
+        "actual": 52.9,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 53.1,
+        "name": "Caixin Services PMI (Apr)",
+        "previous": 52.3,
+        "timestamp": 1430876700,
+        "volatility": 1
+    },
+    {
+        "actual": 48.6,
+        "country": "Hong Kong",
+        "currency": "HKD",
+        "name": "Manufacturing PMI (Apr)",
+        "previous": 49.6,
+        "timestamp": 1430879400,
+        "volatility": 0
+    },
+    {
+        "actual": 52.4,
+        "country": "India",
+        "currency": "INR",
+        "name": "Nikkei Services PMI (Apr)",
+        "previous": 53.0,
+        "timestamp": 1430888400,
+        "volatility": 0
+    },
+    {
+        "actual": 60.6,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Services PMI (Apr)",
+        "previous": 60.9,
+        "timestamp": 1430888400,
+        "volatility": 0
+    },
+    {
+        "actual": 53.9,
+        "country": "Sweden",
+        "currency": "SEK",
+        "name": "Services PMI (MoM) (Apr)",
+        "previous": 57.2,
+        "timestamp": 1430893800,
+        "volatility": 0
+    },
+    {
+        "actual": 7.0,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French Industrial Investments (Q3)",
+        "previous": 3.0,
+        "timestamp": 1430894700,
+        "volatility": 0
+    },
+    {
+        "actual": 5.9,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": 6.7,
+        "name": "Retail Sales (YoY) (Mar)",
+        "previous": 6.3,
+        "timestamp": 1430895600,
+        "volatility": 0
+    },
+    {
+        "actual": 5.1,
+        "country": "Hungary",
+        "currency": "HUF",
+        "forecast": 6.2,
+        "name": "Retail Sales (YoY) (Mar)",
+        "previous": 6.4,
+        "timestamp": 1430895600,
+        "volatility": 0
+    },
+    {
+        "actual": 60.3,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 57.4,
+        "name": "Spanish Services PMI (Apr)",
+        "previous": 57.3,
+        "timestamp": 1430896500,
+        "volatility": 1
+    },
+    {
+        "actual": 51.5,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "name": "South Africa Standard Bank PMI (Apr)",
+        "previous": 51.6,
+        "timestamp": 1430896500,
+        "volatility": 0
+    },
+    {
+        "actual": 53.1,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 52.0,
+        "name": "Italian Services PMI (Apr)",
+        "previous": 51.6,
+        "timestamp": 1430898300,
+        "volatility": 1
+    },
+    {
+        "actual": 50.6,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 50.4,
+        "name": "French Markit Composite PMI (Apr)",
+        "previous": 50.2,
+        "timestamp": 1430898600,
+        "volatility": 0
+    },
+    {
+        "actual": 51.4,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 50.8,
+        "name": "French Services PMI (Apr)",
+        "previous": 50.8,
+        "timestamp": 1430898600,
+        "volatility": 1
+    },
+    {
+        "actual": 54.1,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 54.2,
+        "name": "German Composite PMI (Apr)",
+        "previous": 54.2,
+        "timestamp": 1430898900,
+        "volatility": 0
+    },
+    {
+        "actual": 54.0,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 54.4,
+        "name": "German Services PMI (Apr)",
+        "previous": 54.4,
+        "timestamp": 1430898900,
+        "volatility": 1
+    },
+    {
+        "actual": 53.9,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 53.5,
+        "name": "Markit Composite PMI (Apr)",
+        "previous": 53.5,
+        "timestamp": 1430899200,
+        "volatility": 1
+    },
+    {
+        "actual": 54.1,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 53.7,
+        "name": "Services PMI (Apr)",
+        "previous": 53.7,
+        "timestamp": 1430899200,
+        "volatility": 1
+    },
+    {
+        "actual": 59.5,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 58.5,
+        "name": "Services PMI (Apr)",
+        "previous": 58.9,
+        "timestamp": 1430901000,
+        "volatility": 2
+    },
+    {
+        "actual": 107.4,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "name": "Consumer Confidence (Apr)",
+        "previous": 116.9,
+        "timestamp": 1430902800,
+        "volatility": 0
+    },
+    {
+        "actual": 25.4,
+        "country": "Greece",
+        "currency": "EUR",
+        "forecast": 25.6,
+        "name": "Greek Unemployment Rate (Feb)",
+        "previous": 25.6,
+        "timestamp": 1430902800,
+        "volatility": 0
+    },
+    {
+        "actual": 7.9,
+        "country": "Norway",
+        "currency": "NOK",
+        "name": "House Price Index (YoY) (Apr)",
+        "previous": 7.9,
+        "timestamp": 1430902800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.8,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -0.7,
+        "name": "Retail Sales (MoM) (Mar)",
+        "previous": 0.1,
+        "timestamp": 1430902800,
+        "volatility": 1
+    },
+    {
+        "actual": 1.6,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 2.4,
+        "name": "Retail Sales (YoY) (Mar)",
+        "previous": 2.8,
+        "timestamp": 1430902800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.75,
+        "country": "Romania",
+        "currency": "RON",
+        "forecast": 2.0,
+        "name": "Interest Rate Decision",
+        "previous": 2.0,
+        "timestamp": 1430902800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.21,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German 2-Year Schatz Auction",
+        "previous": -0.28,
+        "timestamp": 1430904900,
+        "volatility": 0
+    },
+    {
+        "actual": 13.7,
+        "country": "Portugal",
+        "currency": "EUR",
+        "forecast": 13.6,
+        "name": "Portuguese Unemployment Rate (Q1)",
+        "previous": 13.5,
+        "timestamp": 1430906400,
+        "volatility": 0
+    },
+    {
+        "actual": 8.5,
+        "country": "Kenya",
+        "currency": "KES",
+        "forecast": 8.5,
+        "name": "Interest Rate Decision (May)",
+        "previous": 8.5,
+        "timestamp": 1430906400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.5,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 1.5,
+        "name": "Interest Rate Decision (May)",
+        "previous": 1.5,
+        "timestamp": 1430908800,
+        "volatility": 1
+    },
+    {
+        "actual": 3.93,
+        "country": "United States",
+        "currency": "USD",
+        "name": "MBA 30-Year Mortgage Rate",
+        "previous": 3.85,
+        "timestamp": 1430910000,
+        "volatility": 0
+    },
+    {
+        "actual": -4.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "MBA Mortgage Applications (WoW)",
+        "previous": -2.3,
+        "timestamp": 1430910000,
+        "volatility": 0
+    },
+    {
+        "actual": 207.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "MBA Purchase Index",
+        "previous": 205.4,
+        "timestamp": 1430910000,
+        "volatility": 0
+    },
+    {
+        "actual": 427.3,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Mortgage Market Index",
+        "previous": 447.9,
+        "timestamp": 1430910000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Mortgage Refinance Index",
+        "previous": 1.0,
+        "timestamp": 1430910000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.8,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": -0.7,
+        "name": "Industrial Production (MoM) (Mar)",
+        "previous": -1.3,
+        "timestamp": 1430913600,
+        "volatility": 0
+    },
+    {
+        "actual": -3.5,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": -3.0,
+        "name": "Industrial Production (YoY) (Mar)",
+        "previous": -9.4,
+        "timestamp": 1430913600,
+        "volatility": 1
+    },
+    {
+        "actual": 16.4,
+        "country": "Russia",
+        "currency": "RUB",
+        "forecast": 16.8,
+        "name": "CPI (YoY) (Apr)",
+        "previous": 16.9,
+        "timestamp": 1430913600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.5,
+        "country": "Russia",
+        "currency": "RUB",
+        "forecast": 0.8,
+        "name": "CPI (MoM) (Apr)",
+        "previous": 1.2,
+        "timestamp": 1430913600,
+        "volatility": 1
+    },
+    {
+        "actual": 169.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 200.0,
+        "name": "ADP Nonfarm Employment Change (Apr)",
+        "previous": 175.0,
+        "timestamp": 1430914500,
+        "volatility": 2
+    },
+    {
+        "actual": -1.9,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -1.8,
+        "name": "Nonfarm Productivity (QoQ) (Q1)",
+        "previous": -2.1,
+        "timestamp": 1430915400,
+        "volatility": 1
+    },
+    {
+        "actual": 5.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 4.3,
+        "name": "Unit Labor Costs (QoQ) (Q1)",
+        "previous": 4.2,
+        "timestamp": 1430915400,
+        "volatility": 1
+    },
+    {
+        "actual": 44.2,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 47.2,
+        "name": "Markit Composite PMI (Apr)",
+        "previous": 47.0,
+        "timestamp": 1430917200,
+        "volatility": 0
+    },
+    {
+        "actual": 44.6,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 47.5,
+        "name": "Markit Services PMI (Apr)",
+        "previous": 47.9,
+        "timestamp": 1430917200,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "Fed Chair Yellen Speaks",
+        "timestamp": 1430918100,
+        "volatility": 2
+    },
+    {
+        "actual": 5.54,
+        "country": "United States",
+        "currency": "USD",
+        "name": "MBA Delinquency Rates (QoQ)",
+        "previous": 5.68,
+        "timestamp": 1430920800,
+        "volatility": 0
+    },
+    {
+        "actual": 55.7,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "Ivey PMI n.s.a (Apr)",
+        "previous": 56.0,
+        "timestamp": 1430920800,
+        "volatility": 0
+    },
+    {
+        "actual": 58.2,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 49.2,
+        "name": "Ivey PMI (Apr)",
+        "previous": 47.9,
+        "timestamp": 1430920800,
+        "volatility": 2
+    },
+    {
+        "actual": -3.882,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.5,
+        "name": "Crude Oil Inventories",
+        "previous": 1.91,
+        "timestamp": 1430922600,
+        "volatility": 2
+    },
+    {
+        "actual": 1.503,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.117,
+        "name": "EIA Weekly Distillates Stocks",
+        "previous": -0.066,
+        "timestamp": 1430922600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.401,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.867,
+        "name": "Gasoline Inventories",
+        "previous": 1.713,
+        "timestamp": 1430922600,
+        "volatility": 0
+    },
+    {
+        "actual": 14.0,
+        "country": "Ukraine",
+        "currency": "UAH",
+        "name": "CPI (MoM) (Apr)",
+        "previous": 10.8,
+        "timestamp": 1430923200,
+        "volatility": 1
+    },
+    {
+        "actual": 13.11,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Foreign Exchange Flows",
+        "previous": 5.5,
+        "timestamp": 1430926200,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Lockhart Speaks",
+        "timestamp": 1430933400,
+        "volatility": 1
+    },
+    {
+        "actual": 369.9,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "FX Reserves - USD (Apr)",
+        "previous": 362.75,
+        "timestamp": 1430946000,
+        "volatility": 0
+    },
+    {
+        "actual": 47.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "AIG Construction Index (Apr)",
+        "previous": 50.0,
+        "timestamp": 1430955000,
+        "volatility": 0
+    },
+    {
+        "actual": 35.2,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 34.3,
+        "name": "Monetary Base (YoY)",
+        "previous": 35.2,
+        "timestamp": 1430956200,
+        "volatility": 0
+    }
+]

@@ -1,0 +1,311 @@
+[
+    {
+        "actual": 0.6,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Housing Credit (Nov)",
+        "previous": 0.6,
+        "timestamp": 1419985800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.5,
+        "name": "Private Sector Credit (MoM) (Nov)",
+        "previous": 0.6,
+        "timestamp": 1419985800,
+        "volatility": 1
+    },
+    {
+        "actual": 49.6,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 49.5,
+        "name": "Caixin Manufacturing PMI (Dec)",
+        "previous": 49.5,
+        "timestamp": 1419990300,
+        "volatility": 2
+    },
+    {
+        "actual": 608.2,
+        "country": "Singapore",
+        "currency": "SGD",
+        "name": "Bank Lending (Nov)",
+        "previous": 604.4,
+        "timestamp": 1419991200,
+        "volatility": 0
+    },
+    {
+        "actual": 8.31,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": 8.01,
+        "name": "M3 Money Supply (YoY) (Nov)",
+        "previous": 8.01,
+        "timestamp": 1420005600,
+        "volatility": 0
+    },
+    {
+        "actual": 9.13,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": 9.03,
+        "name": "Private Sector Credit (Nov)",
+        "previous": 9.06,
+        "timestamp": 1420005600,
+        "volatility": 0
+    },
+    {
+        "actual": -8.32,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": -7.69,
+        "name": "Trade Balance (Nov)",
+        "previous": -6.25,
+        "timestamp": 1420012800,
+        "volatility": 0
+    },
+    {
+        "actual": 8.6,
+        "country": "Hong Kong",
+        "currency": "HKD",
+        "name": "M3 Money Supply (Nov)",
+        "previous": 10.3,
+        "timestamp": 1420014600,
+        "volatility": 0
+    },
+    {
+        "actual": 7.1,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "name": "Money Supply (YoY) (Nov)",
+        "previous": 5.4,
+        "timestamp": 1420016400,
+        "volatility": 0
+    },
+    {
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "name": "Foreign Debt (EUR) (Q3)",
+        "previous": 82.4,
+        "timestamp": 1420016400,
+        "volatility": 0
+    },
+    {
+        "actual": 3.9,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "name": "M2 Money Supply (YoY) (Nov)",
+        "previous": 4.0,
+        "timestamp": 1420016400,
+        "volatility": 0
+    },
+    {
+        "country": "Norway",
+        "currency": "NOK",
+        "name": "Central Bank Currency Purchase (Jan)",
+        "previous": -300.0,
+        "timestamp": 1420016400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.8,
+        "country": "Uganda",
+        "currency": "UGX",
+        "name": "CPI (YoY) (Dec)",
+        "previous": 2.1,
+        "timestamp": 1420016400,
+        "volatility": 0
+    },
+    {
+        "actual": 3.7,
+        "country": "Greece",
+        "currency": "EUR",
+        "name": "Greek Retail Sales (YoY) (Oct)",
+        "previous": 2.2,
+        "timestamp": 1420020000,
+        "volatility": 0
+    },
+    {
+        "actual": 5.0,
+        "country": "India",
+        "currency": "INR",
+        "name": "Federal Fiscal Deficit (Nov)",
+        "previous": 4.0,
+        "timestamp": 1420021800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Israel",
+        "currency": "ILS",
+        "name": "GDP Annualized (QoQ) (Q3)",
+        "previous": -0.4,
+        "timestamp": 1420023600,
+        "volatility": 1
+    },
+    {
+        "actual": 455.9,
+        "country": "India",
+        "currency": "INR",
+        "name": "Foreign Debt (USD) (Q3)",
+        "previous": 450.1,
+        "timestamp": 1420025400,
+        "volatility": 0
+    },
+    {
+        "actual": 34.5,
+        "country": "Nigeria",
+        "currency": "NGN",
+        "name": "Foreign Reserves (USD) (Dec)",
+        "previous": 36.9,
+        "timestamp": 1420027200,
+        "volatility": 0
+    },
+    {
+        "actual": 388.5,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "Central Bank reserves (USD)",
+        "previous": 398.9,
+        "timestamp": 1420027200,
+        "volatility": 1
+    },
+    {
+        "actual": 2.6,
+        "country": "Russia",
+        "currency": "RUB",
+        "forecast": 2.5,
+        "name": "CPI (MoM)",
+        "previous": 1.3,
+        "timestamp": 1420027200,
+        "volatility": 1
+    },
+    {
+        "actual": 11.4,
+        "country": "Russia",
+        "currency": "RUB",
+        "forecast": 11.2,
+        "name": "CPI (YoY)",
+        "previous": 9.1,
+        "timestamp": 1420027200,
+        "volatility": 1
+    },
+    {
+        "actual": 2.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.0,
+        "name": "Continuing Jobless Claims",
+        "previous": 2.0,
+        "timestamp": 1420032600,
+        "volatility": 0
+    },
+    {
+        "actual": 298.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 288.0,
+        "name": "Initial Jobless Claims",
+        "previous": 281.0,
+        "timestamp": 1420032600,
+        "volatility": 1
+    },
+    {
+        "actual": 290.75,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Jobless Claims 4-Week Avg.",
+        "previous": 290.5,
+        "timestamp": 1420032600,
+        "volatility": 0
+    },
+    {
+        "country": "Egypt",
+        "currency": "EGP",
+        "name": "M2 Money Supply (YoY) (Nov)",
+        "previous": 15.71,
+        "timestamp": 1420034760,
+        "volatility": 0
+    },
+    {
+        "actual": -10.8,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Foreign Exchange Flows",
+        "previous": -7.06,
+        "timestamp": 1420036200,
+        "volatility": 0
+    },
+    {
+        "actual": 58.3,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 60.2,
+        "name": "Chicago PMI (Dec)",
+        "previous": 60.8,
+        "timestamp": 1420037100,
+        "volatility": 1
+    },
+    {
+        "actual": 0.8,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.6,
+        "name": "Pending Home Sales (MoM) (Nov)",
+        "previous": -1.1,
+        "timestamp": 1420038000,
+        "volatility": 2
+    },
+    {
+        "actual": 104.8,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Pending Home Sales Index (Nov)",
+        "previous": 104.1,
+        "timestamp": 1420038000,
+        "volatility": 0
+    },
+    {
+        "actual": -1.754,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.07,
+        "name": "Crude Oil Inventories",
+        "previous": 7.267,
+        "timestamp": 1420039800,
+        "volatility": 2
+    },
+    {
+        "actual": 1.874,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.53,
+        "name": "EIA Weekly Distillates Stocks",
+        "previous": 2.303,
+        "timestamp": 1420039800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.951,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.13,
+        "name": "Gasoline Inventories",
+        "previous": 4.083,
+        "timestamp": 1420039800,
+        "volatility": 0
+    },
+    {
+        "actual": -26.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -38.0,
+        "name": "Natural Gas Storage",
+        "previous": -49.0,
+        "timestamp": 1420045200,
+        "volatility": 0
+    }
+]

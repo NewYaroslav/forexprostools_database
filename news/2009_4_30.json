@@ -1,0 +1,239 @@
+[
+    {
+        "actual": -24.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "NAB Quarterly Business Confidence",
+        "previous": -42.0,
+        "timestamp": 1241055000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.1,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.3,
+        "name": "Private Sector Credit (MoM)",
+        "previous": 0.0,
+        "timestamp": 1241055000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.1,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 0.1,
+        "name": "BoJ Interest Rate Decision",
+        "previous": 0.1,
+        "timestamp": 1241060400,
+        "volatility": 1
+    },
+    {
+        "actual": -20.7,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": -22.5,
+        "name": "Housing Starts (YoY)",
+        "previous": -24.9,
+        "timestamp": 1241067600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.4,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": -1.2,
+        "name": "Nationwide HPI (MoM)",
+        "previous": 0.9,
+        "timestamp": 1241071200,
+        "volatility": 1
+    },
+    {
+        "actual": 58.0,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 65.0,
+        "name": "German Unemployment Change",
+        "previous": 71.0,
+        "timestamp": 1241078100,
+        "volatility": 2
+    },
+    {
+        "actual": 8.3,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German Unemployment Rate",
+        "previous": 8.1,
+        "timestamp": 1241078100,
+        "volatility": 1
+    },
+    {
+        "actual": 0.3,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "Italian CPI (MoM)",
+        "previous": 0.1,
+        "timestamp": 1241082000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.6,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.7,
+        "name": "CPI (YoY)",
+        "previous": 0.6,
+        "timestamp": 1241082000,
+        "volatility": 2
+    },
+    {
+        "actual": 8.9,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 8.7,
+        "name": "Unemployment Rate",
+        "previous": 8.7,
+        "timestamp": 1241082000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.2,
+        "name": "Core PCE Price Index (MoM)",
+        "previous": 0.2,
+        "timestamp": 1241094600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.3,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.5,
+        "name": "Employment Cost Index (QoQ)",
+        "previous": 0.6,
+        "timestamp": 1241094600,
+        "volatility": 1
+    },
+    {
+        "actual": 631.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 640.0,
+        "name": "Initial Jobless Claims",
+        "previous": 645.0,
+        "timestamp": 1241094600,
+        "volatility": 1
+    },
+    {
+        "actual": -0.3,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.2,
+        "name": "Personal Income (MoM)",
+        "previous": -0.2,
+        "timestamp": 1241094600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.1,
+        "name": "Personal Spending (MoM)",
+        "previous": 0.4,
+        "timestamp": 1241094600,
+        "volatility": 1
+    },
+    {
+        "actual": -0.1,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": -0.1,
+        "name": "GDP (MoM)",
+        "previous": -0.7,
+        "timestamp": 1241094600,
+        "volatility": 2
+    },
+    {
+        "actual": 0.3,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.3,
+        "name": "IPPI (MoM)",
+        "previous": 0.5,
+        "timestamp": 1241094600,
+        "volatility": 0
+    },
+    {
+        "actual": 12.1,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 2.5,
+        "name": "RMPI (MoM)",
+        "previous": 1.6,
+        "timestamp": 1241094600,
+        "volatility": 1
+    },
+    {
+        "actual": 40.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 34.3,
+        "name": "Chicago PMI",
+        "previous": 31.4,
+        "timestamp": 1241099100,
+        "volatility": 1
+    },
+    {
+        "actual": 30.1,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "AIG Manufacturing Index",
+        "previous": 33.2,
+        "timestamp": 1241134200,
+        "volatility": 1
+    },
+    {
+        "actual": -0.4,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": -2.6,
+        "name": "Household Spending (YoY)",
+        "previous": -3.5,
+        "timestamp": 1241134200,
+        "volatility": 1
+    },
+    {
+        "actual": -0.1,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": -0.2,
+        "name": "National Core CPI (YoY)",
+        "previous": 0.0,
+        "timestamp": 1241134200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.0,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 0.2,
+        "name": "Tokyo Core CPI (YoY)",
+        "previous": 0.4,
+        "timestamp": 1241134200,
+        "volatility": 1
+    },
+    {
+        "actual": 4.8,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 4.5,
+        "name": "Unemployment Rate",
+        "previous": 4.4,
+        "timestamp": 1241134200,
+        "volatility": 0
+    }
+]

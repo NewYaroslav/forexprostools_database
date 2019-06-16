@@ -1,0 +1,447 @@
+[
+    {
+        "actual": 13.0,
+        "country": "Egypt",
+        "currency": "EGP",
+        "name": "Core CPI (YoY) (Sep)",
+        "previous": 13.25,
+        "timestamp": 1476075600,
+        "volatility": 0
+    },
+    {
+        "actual": 14.1,
+        "country": "Egypt",
+        "currency": "EGP",
+        "name": "CPI (YoY) (Sep)",
+        "previous": 15.5,
+        "timestamp": 1476075600,
+        "volatility": 0
+    },
+    {
+        "actual": -79.7,
+        "country": "Estonia",
+        "currency": "EUR",
+        "name": "Estonian Trade Balance (Aug)",
+        "previous": -164.8,
+        "timestamp": 1476075600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.2,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 3.2,
+        "name": "Unemployment Rate n.s.a. (Sep)",
+        "previous": 3.2,
+        "timestamp": 1476078300,
+        "volatility": 1
+    },
+    {
+        "actual": 3.3,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 3.4,
+        "name": "Unemployment Rate s.a. (Sep)",
+        "previous": 3.3,
+        "timestamp": 1476078300,
+        "volatility": 1
+    },
+    {
+        "actual": 5.4,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 2.2,
+        "name": "German Exports (MoM) (Aug)",
+        "previous": -2.6,
+        "timestamp": 1476079200,
+        "volatility": 0
+    },
+    {
+        "actual": 3.0,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.7,
+        "name": "German Imports (MoM) (Aug)",
+        "previous": -0.7,
+        "timestamp": 1476079200,
+        "volatility": 0
+    },
+    {
+        "actual": 22.2,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 20.0,
+        "name": "German Trade Balance (Aug)",
+        "previous": 19.4,
+        "timestamp": 1476079200,
+        "volatility": 1
+    },
+    {
+        "actual": 2.9,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 3.3,
+        "name": "Core CPI YTD (Sep)",
+        "previous": 3.3,
+        "timestamp": 1476079200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 0.7,
+        "name": "Core Inflation (MoM) (Sep)",
+        "previous": -0.5,
+        "timestamp": 1476079200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 0.7,
+        "name": "CPI (MoM) (Sep)",
+        "previous": -0.5,
+        "timestamp": 1476079200,
+        "volatility": 0
+    },
+    {
+        "actual": 3.6,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 4.0,
+        "name": "CPI (YoY) (Sep)",
+        "previous": 4.0,
+        "timestamp": 1476079200,
+        "volatility": 0
+    },
+    {
+        "actual": -6.1,
+        "country": "Norway",
+        "currency": "NOK",
+        "name": "PPI (YoY) (Sep)",
+        "previous": -4.7,
+        "timestamp": 1476079200,
+        "volatility": 0
+    },
+    {
+        "actual": -2.8,
+        "country": "Finland",
+        "currency": "EUR",
+        "name": "Finnish Industry Output (YoY) (Aug)",
+        "previous": 5.1,
+        "timestamp": 1476079200,
+        "volatility": 0
+    },
+    {
+        "actual": -1.02,
+        "country": "Romania",
+        "currency": "RON",
+        "name": "Trade Balance (EUR) (Aug)",
+        "previous": -0.643,
+        "timestamp": 1476079200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "Denmark",
+        "currency": "DKK",
+        "forecast": 0.3,
+        "name": "CPI (YoY) (Sep)",
+        "previous": 0.2,
+        "timestamp": 1476082800,
+        "volatility": 1
+    },
+    {
+        "actual": 5.2,
+        "country": "Denmark",
+        "currency": "DKK",
+        "name": "Trade Balance (Aug)",
+        "previous": 8.2,
+        "timestamp": 1476082800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": 0.6,
+        "name": "CPI (YoY) (Sep)",
+        "previous": 0.6,
+        "timestamp": 1476082800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": -0.1,
+        "name": "CPI (MoM) (Sep)",
+        "previous": -0.2,
+        "timestamp": 1476082800,
+        "volatility": 0
+    },
+    {
+        "actual": 5.2,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": 5.2,
+        "name": "Unemployment Rate (Sep)",
+        "previous": 5.3,
+        "timestamp": 1476082800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.2,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Industrial Production (YoY) (Aug)",
+        "previous": -4.9,
+        "timestamp": 1476082800,
+        "volatility": 0
+    },
+    {
+        "actual": 216.1,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "forecast": 250.0,
+        "name": "Slovak Trade Balance (Aug)",
+        "previous": 66.8,
+        "timestamp": 1476082800,
+        "volatility": 0
+    },
+    {
+        "actual": 4.1,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": -0.4,
+        "name": "Italian Industrial Production (YoY) (Aug)",
+        "previous": -0.3,
+        "timestamp": 1476086400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.7,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": -0.1,
+        "name": "Italian Industrial Production (MoM) (Aug)",
+        "previous": 0.7,
+        "timestamp": 1476086400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.8,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania CPI (YoY) (Sep)",
+        "previous": 0.8,
+        "timestamp": 1476086400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.6,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania CPI (MoM) (Sep)",
+        "previous": -0.5,
+        "timestamp": 1476086400,
+        "volatility": 0
+    },
+    {
+        "actual": 8.5,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 6.3,
+        "name": "Sentix Investor Confidence (Oct)",
+        "previous": 5.6,
+        "timestamp": 1476088200,
+        "volatility": 0
+    },
+    {
+        "actual": -1.0,
+        "country": "Greece",
+        "currency": "EUR",
+        "forecast": -0.7,
+        "name": "Greek CPI (YoY) (Sep)",
+        "previous": -0.9,
+        "timestamp": 1476090000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Greece",
+        "currency": "EUR",
+        "forecast": 0.4,
+        "name": "Greek HICP (YoY) (Sep)",
+        "previous": 0.4,
+        "timestamp": 1476090000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.3,
+        "country": "Greece",
+        "currency": "EUR",
+        "name": "Greek Industrial Production (YoY) (Aug)",
+        "previous": 4.7,
+        "timestamp": 1476090000,
+        "volatility": 0
+    },
+    {
+        "actual": 271.6,
+        "country": "Hungary",
+        "currency": "HUF",
+        "name": "Budget Balance (Sep)",
+        "previous": 190.8,
+        "timestamp": 1476090000,
+        "volatility": 0
+    },
+    {
+        "actual": -2.62,
+        "country": "Portugal",
+        "currency": "EUR",
+        "name": "Portuguese Trade Balance (Aug)",
+        "previous": -2.41,
+        "timestamp": 1476093600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Latvia",
+        "currency": "EUR",
+        "name": "Latvian CPI (MoM) (Sep)",
+        "previous": -0.7,
+        "timestamp": 1476093600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.6,
+        "country": "Latvia",
+        "currency": "EUR",
+        "name": "Latvian CPI (YoY) (Sep)",
+        "previous": 0.0,
+        "timestamp": 1476093600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.3,
+        "country": "India",
+        "currency": "INR",
+        "name": "Cumulative Industrial Production (Aug)",
+        "previous": -0.2,
+        "timestamp": 1476100800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.7,
+        "country": "India",
+        "currency": "INR",
+        "forecast": -0.2,
+        "name": "Industrial Production (YoY) (Aug)",
+        "previous": -2.4,
+        "timestamp": 1476100800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.3,
+        "country": "India",
+        "currency": "INR",
+        "name": "Manufacturing Output (MoM) (Aug)",
+        "previous": -3.4,
+        "timestamp": 1476100800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.624,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 12-Month BTF Auction",
+        "previous": -0.633,
+        "timestamp": 1476104400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.696,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 3-Month BTF Auction",
+        "previous": -0.685,
+        "timestamp": 1476104400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.673,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 6-Month BTF Auction",
+        "previous": -0.67,
+        "timestamp": 1476104400,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "Eurogroup Meetings",
+        "timestamp": 1476104400,
+        "volatility": 1
+    },
+    {
+        "actual": 128.51,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CB Employment Trends Index (Sep)",
+        "previous": 127.96,
+        "timestamp": 1476108000,
+        "volatility": 0
+    },
+    {
+        "actual": 6.1,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "Electronic Card Retail Sales (YoY) (Sep)",
+        "previous": 3.2,
+        "timestamp": 1476135900,
+        "volatility": 0
+    },
+    {
+        "actual": 1.9,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 0.8,
+        "name": "Electronic Card Retail Sales (MoM) (Sep)",
+        "previous": -1.2,
+        "timestamp": 1476135900,
+        "volatility": 1
+    },
+    {
+        "actual": 0.4,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": -0.5,
+        "name": "BRC Retail Sales Monitor (YoY) (Sep)",
+        "previous": -0.9,
+        "timestamp": 1476140460,
+        "volatility": 1
+    },
+    {
+        "actual": 1.98,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 1.58,
+        "name": "Adjusted Current Account",
+        "previous": 1.45,
+        "timestamp": 1476143400,
+        "volatility": 1
+    },
+    {
+        "actual": 2.001,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 1.539,
+        "name": "Current Account n.s.a. (Aug)",
+        "previous": 1.938,
+        "timestamp": 1476143400,
+        "volatility": 1
+    }
+]

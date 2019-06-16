@@ -1,0 +1,506 @@
+[
+    {
+        "actual": -1.4,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": -1.7,
+        "name": "Home Loans (MoM) (Apr)",
+        "previous": -2.3,
+        "timestamp": 1528767000,
+        "volatility": 1
+    },
+    {
+        "actual": -0.9,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Invest Housing Finance (MoM) (Apr)",
+        "previous": -9.0,
+        "timestamp": 1528767000,
+        "volatility": 0
+    },
+    {
+        "actual": 6.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 9.0,
+        "name": "NAB Business Confidence (May)",
+        "previous": 11.0,
+        "timestamp": 1528767000,
+        "volatility": 1
+    },
+    {
+        "actual": 15.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "NAB Business Survey (May)",
+        "previous": 21.0,
+        "timestamp": 1528767000,
+        "volatility": 0
+    },
+    {
+        "actual": 6.1,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "M2 Money supply (Apr)",
+        "previous": 7.0,
+        "timestamp": 1528772400,
+        "volatility": 0
+    },
+    {
+        "actual": 3.3,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "name": "Unemployment Rate",
+        "previous": 3.3,
+        "timestamp": 1528776000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 0.6,
+        "name": "Tertiary Industry Activity Index (MoM)",
+        "previous": -0.3,
+        "timestamp": 1528777800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.4,
+        "country": "Singapore",
+        "currency": "SGD",
+        "name": "Retail Sales (YoY) (Apr)",
+        "previous": -1.1,
+        "timestamp": 1528779600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "Singapore",
+        "currency": "SGD",
+        "name": "Retail Sales (MoM) (Apr)",
+        "previous": 2.7,
+        "timestamp": 1528779600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 0.3,
+        "name": "French Non-Farm Payrolls (QoQ)",
+        "previous": 0.4,
+        "timestamp": 1528781400,
+        "volatility": 1
+    },
+    {
+        "actual": 5.4,
+        "country": "Romania",
+        "currency": "RON",
+        "forecast": 5.2,
+        "name": "CPI (YoY) (May)",
+        "previous": 5.2,
+        "timestamp": 1528783200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "Romania",
+        "currency": "RON",
+        "name": "Industrial Production (MoM) (Apr)",
+        "previous": 0.5,
+        "timestamp": 1528783200,
+        "volatility": 0
+    },
+    {
+        "actual": 11.1,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 11.1,
+        "name": "Italian Quarterly Unemployment Rate",
+        "previous": 11.1,
+        "timestamp": 1528790400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.47,
+        "country": "Norway",
+        "currency": "NOK",
+        "name": "Norges Bank regional network Survey",
+        "previous": 1.42,
+        "timestamp": 1528790400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.8,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 2.9,
+        "name": "Average Earnings ex Bonus (Apr)",
+        "previous": 2.9,
+        "timestamp": 1528792200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.5,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 2.5,
+        "name": "Average Earnings Index +Bonus (Apr)",
+        "previous": 2.6,
+        "timestamp": 1528792200,
+        "volatility": 2
+    },
+    {
+        "actual": -7.7,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 11.3,
+        "name": "Claimant Count Change (May)",
+        "previous": 28.2,
+        "timestamp": 1528792200,
+        "volatility": 2
+    },
+    {
+        "actual": 146.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 124.0,
+        "name": "Employment Change 3M/3M (MoM)",
+        "previous": 197.0,
+        "timestamp": 1528792200,
+        "volatility": 1
+    },
+    {
+        "actual": 4.2,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 4.2,
+        "name": "Unemployment Rate (Apr)",
+        "previous": 4.2,
+        "timestamp": 1528792200,
+        "volatility": 1
+    },
+    {
+        "actual": -0.348,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 12-Month Letras Auction",
+        "previous": -0.414,
+        "timestamp": 1528792800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.468,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 6-Month Letras Auction",
+        "previous": -0.488,
+        "timestamp": 1528792800,
+        "volatility": 0
+    },
+    {
+        "actual": 80.6,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 85.0,
+        "name": "German ZEW Current Conditions (Jun)",
+        "previous": 87.4,
+        "timestamp": 1528794000,
+        "volatility": 1
+    },
+    {
+        "actual": -16.1,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": -14.6,
+        "name": "German ZEW Economic Sentiment (Jun)",
+        "previous": -8.2,
+        "timestamp": 1528794000,
+        "volatility": 2
+    },
+    {
+        "actual": 8.3,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 8.5,
+        "name": "M2 Money Stock (YoY) (May)",
+        "previous": 8.3,
+        "timestamp": 1528794000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 1.0,
+        "name": "New Loans (May)",
+        "previous": 1.0,
+        "timestamp": 1528794000,
+        "volatility": 1
+    },
+    {
+        "actual": 12.6,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 12.7,
+        "name": "Outstanding Loan Growth (YoY) (May)",
+        "previous": 12.7,
+        "timestamp": 1528794000,
+        "volatility": 0
+    },
+    {
+        "actual": -12.6,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "ZEW Economic Sentiment",
+        "previous": 2.4,
+        "timestamp": 1528794000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.55,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian 12-Month BOT Auction",
+        "previous": -0.361,
+        "timestamp": 1528796700,
+        "volatility": 0
+    },
+    {
+        "actual": 107.8,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 105.2,
+        "name": "NFIB Small Business Optimism (May)",
+        "previous": 104.8,
+        "timestamp": 1528797600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "Portugal",
+        "currency": "EUR",
+        "forecast": 1.0,
+        "name": "Portuguese CPI (YoY) (May)",
+        "previous": 1.0,
+        "timestamp": 1528797600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Portugal",
+        "currency": "EUR",
+        "forecast": 0.4,
+        "name": "Portuguese CPI (MoM) (May)",
+        "previous": 0.4,
+        "timestamp": 1528797600,
+        "volatility": 0
+    },
+    {
+        "actual": 9.0,
+        "country": "Uganda",
+        "currency": "UGX",
+        "name": "Interest Rate Decision",
+        "previous": 9.0,
+        "timestamp": 1528797600,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "OPEC Monthly Report",
+        "timestamp": 1528802100,
+        "volatility": 1
+    },
+    {
+        "actual": 4.3,
+        "country": "India",
+        "currency": "INR",
+        "name": "Cumulative Industrial Production (Apr)",
+        "previous": 4.3,
+        "timestamp": 1528803000,
+        "volatility": 0
+    },
+    {
+        "actual": 4.87,
+        "country": "India",
+        "currency": "INR",
+        "forecast": 4.83,
+        "name": "CPI (YoY) (May)",
+        "previous": 4.58,
+        "timestamp": 1528804800,
+        "volatility": 1
+    },
+    {
+        "actual": 4.9,
+        "country": "India",
+        "currency": "INR",
+        "forecast": 5.2,
+        "name": "Industrial Production (YoY) (Apr)",
+        "previous": 4.6,
+        "timestamp": 1528804800,
+        "volatility": 0
+    },
+    {
+        "actual": 5.2,
+        "country": "India",
+        "currency": "INR",
+        "name": "Manufacturing Output (MoM) (Apr)",
+        "previous": 4.7,
+        "timestamp": 1528804800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.1,
+        "name": "Core CPI (MoM) (May)",
+        "previous": 0.1,
+        "timestamp": 1528806600,
+        "volatility": 2
+    },
+    {
+        "actual": 2.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.2,
+        "name": "Core CPI (YoY) (May)",
+        "previous": 2.1,
+        "timestamp": 1528806600,
+        "volatility": 1
+    },
+    {
+        "actual": 256.89,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 256.89,
+        "name": "Core CPI Index (May)",
+        "previous": 256.45,
+        "timestamp": 1528806600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.8,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.7,
+        "name": "CPI (YoY) (May)",
+        "previous": 2.5,
+        "timestamp": 1528806600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.2,
+        "name": "CPI (MoM) (May)",
+        "previous": 0.2,
+        "timestamp": 1528806600,
+        "volatility": 1
+    },
+    {
+        "actual": 251.59,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 251.56,
+        "name": "CPI Index, n.s.a. (May)",
+        "previous": 250.55,
+        "timestamp": 1528806600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.1,
+        "name": "Real Earnings (MoM) (May)",
+        "previous": -0.1,
+        "timestamp": 1528806600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (MoM)",
+        "previous": 0.1,
+        "timestamp": 1528808100,
+        "volatility": 0
+    },
+    {
+        "actual": 4.3,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (YoY)",
+        "previous": 4.0,
+        "timestamp": 1528808100,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Cleveland CPI (MoM) (May)",
+        "previous": 0.2,
+        "timestamp": 1528815600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.79,
+        "country": "United States",
+        "currency": "USD",
+        "name": "4-Week Bill Auction",
+        "previous": 1.78,
+        "timestamp": 1528817400,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "WASDE Report",
+        "timestamp": 1528819200,
+        "volatility": 1
+    },
+    {
+        "actual": 3.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "30-Year Bond Auction",
+        "previous": 3.13,
+        "timestamp": 1528822800,
+        "volatility": 0
+    },
+    {
+        "actual": -147.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -119.0,
+        "name": "Federal Budget Balance (May)",
+        "previous": 214.0,
+        "timestamp": 1528826400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.833,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -2.7,
+        "name": "API Weekly Crude Oil Stock",
+        "previous": -2.028,
+        "timestamp": 1528835400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.0,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "FPI (MoM) (May)",
+        "previous": 0.1,
+        "timestamp": 1528843500,
+        "volatility": 0
+    }
+]

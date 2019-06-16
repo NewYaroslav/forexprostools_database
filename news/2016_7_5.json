@@ -1,0 +1,574 @@
+[
+    {
+        "actual": -0.08,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "name": "CPI (MoM) (Jun)",
+        "previous": 0.08,
+        "timestamp": 1467678600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.9,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": 0.94,
+        "name": "CPI (YoY) (Jun)",
+        "previous": 1.24,
+        "timestamp": 1467678600,
+        "volatility": 0
+    },
+    {
+        "actual": -2.67,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "name": "Wholesale Prices (MoM) (Jun)",
+        "previous": -2.8,
+        "timestamp": 1467678600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.7,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "ANZ Commodity Price Index (MoM)",
+        "previous": 1.1,
+        "timestamp": 1467680400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.9,
+        "country": "Philippines",
+        "currency": "PHP",
+        "name": "Core CPI (YoY) (Jun)",
+        "previous": 1.6,
+        "timestamp": 1467680400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Philippines",
+        "currency": "PHP",
+        "forecast": 0.3,
+        "name": "CPI (MoM) (Jun)",
+        "previous": 0.3,
+        "timestamp": 1467680400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.9,
+        "country": "Philippines",
+        "currency": "PHP",
+        "forecast": 1.9,
+        "name": "CPI (YoY) (Jun)",
+        "previous": 1.6,
+        "timestamp": 1467680400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Exports (MoM) (May)",
+        "previous": 1.0,
+        "timestamp": 1467682200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Imports (MoM) (May)",
+        "previous": -1.0,
+        "timestamp": 1467682200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.3,
+        "name": "Retail Sales (MoM) (May)",
+        "previous": 0.1,
+        "timestamp": 1467682200,
+        "volatility": 2
+    },
+    {
+        "actual": -2.218,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": -1.5,
+        "name": "Trade Balance (May)",
+        "previous": -1.785,
+        "timestamp": 1467682200,
+        "volatility": 1
+    },
+    {
+        "actual": 52.7,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 52.3,
+        "name": "Caixin Services PMI (Jun)",
+        "previous": 51.2,
+        "timestamp": 1467683100,
+        "volatility": 1
+    },
+    {
+        "actual": -0.243,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "10-Year JGB Auction",
+        "previous": -0.094,
+        "timestamp": 1467690300,
+        "volatility": 1
+    },
+    {
+        "actual": 1.75,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 1.75,
+        "name": "RBA Interest Rate Decision (Jul)",
+        "previous": 1.75,
+        "timestamp": 1467693000,
+        "volatility": 2
+    },
+    {
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "RBA Rate Statement",
+        "timestamp": 1467693000,
+        "volatility": 2
+    },
+    {
+        "actual": 50.3,
+        "country": "India",
+        "currency": "INR",
+        "name": "Nikkei Services PMI (Jun)",
+        "previous": 51.0,
+        "timestamp": 1467694800,
+        "volatility": 0
+    },
+    {
+        "actual": 61.2,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Services PMI (Jun)",
+        "previous": 61.7,
+        "timestamp": 1467694800,
+        "volatility": 0
+    },
+    {
+        "actual": 53.8,
+        "country": "Russia",
+        "currency": "RUB",
+        "forecast": 52.2,
+        "name": "Markit Services PMI (Jun)",
+        "previous": 51.8,
+        "timestamp": 1467698400,
+        "volatility": 1
+    },
+    {
+        "actual": 53.4,
+        "country": "Sweden",
+        "currency": "SEK",
+        "name": "Services PMI (MoM) (Jun)",
+        "previous": 54.4,
+        "timestamp": 1467700200,
+        "volatility": 0
+    },
+    {
+        "actual": 7.3,
+        "country": "Norway",
+        "currency": "NOK",
+        "name": "House Price Index (YoY) (Jun)",
+        "previous": 7.3,
+        "timestamp": 1467702000,
+        "volatility": 0
+    },
+    {
+        "actual": 5.7,
+        "country": "Hungary",
+        "currency": "HUF",
+        "forecast": 5.7,
+        "name": "Retail Sales (YoY) (May)",
+        "previous": 6.7,
+        "timestamp": 1467702000,
+        "volatility": 0
+    },
+    {
+        "actual": 56.0,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 55.3,
+        "name": "Spanish Services PMI (Jun)",
+        "previous": 55.4,
+        "timestamp": 1467702900,
+        "volatility": 1
+    },
+    {
+        "actual": 49.6,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "name": "South Africa Standard Bank PMI (Jun)",
+        "previous": 50.2,
+        "timestamp": 1467702900,
+        "volatility": 0
+    },
+    {
+        "actual": 97.2,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "name": "FX Reserves USD",
+        "previous": 97.4,
+        "timestamp": 1467703200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.8,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 0.3,
+        "name": "Industrial Production (MoM) (May)",
+        "previous": -0.2,
+        "timestamp": 1467703800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.7,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 2.8,
+        "name": "Industrial Production (YoY) (May)",
+        "previous": 3.2,
+        "timestamp": 1467703800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.5,
+        "country": "Sweden",
+        "currency": "SEK",
+        "name": "Industrial New Orders (YoY) (May)",
+        "previous": 0.1,
+        "timestamp": 1467703800,
+        "volatility": 0
+    },
+    {
+        "actual": 51.9,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 50.2,
+        "name": "Italian Services PMI (Jun)",
+        "previous": 49.8,
+        "timestamp": 1467704700,
+        "volatility": 1
+    },
+    {
+        "actual": 49.6,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 49.4,
+        "name": "French Markit Composite PMI (Jun)",
+        "previous": 49.4,
+        "timestamp": 1467705000,
+        "volatility": 0
+    },
+    {
+        "actual": 49.9,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 49.9,
+        "name": "French Services PMI (Jun)",
+        "previous": 49.9,
+        "timestamp": 1467705000,
+        "volatility": 1
+    },
+    {
+        "actual": 54.4,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 54.1,
+        "name": "German Composite PMI (Jun)",
+        "previous": 54.1,
+        "timestamp": 1467705300,
+        "volatility": 0
+    },
+    {
+        "actual": 53.7,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 53.2,
+        "name": "German Services PMI (Jun)",
+        "previous": 53.2,
+        "timestamp": 1467705300,
+        "volatility": 1
+    },
+    {
+        "actual": 53.1,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 52.8,
+        "name": "Markit Composite PMI (Jun)",
+        "previous": 52.8,
+        "timestamp": 1467705600,
+        "volatility": 1
+    },
+    {
+        "actual": 52.8,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 52.4,
+        "name": "Services PMI (Jun)",
+        "previous": 52.4,
+        "timestamp": 1467705600,
+        "volatility": 1
+    },
+    {
+        "actual": 433.55,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "name": "FX Reserves USD (Jun)",
+        "previous": 433.43,
+        "timestamp": 1467706200,
+        "volatility": 0
+    },
+    {
+        "actual": 52.3,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 52.7,
+        "name": "Services PMI (Jun)",
+        "previous": 53.5,
+        "timestamp": 1467707400,
+        "volatility": 2
+    },
+    {
+        "actual": 0.65,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 0.48,
+        "name": "IPC-Fipe Inflation Index (MoM) (Jun)",
+        "previous": 0.57,
+        "timestamp": 1467709200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.4,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.4,
+        "name": "Retail Sales (MoM) (May)",
+        "previous": 0.2,
+        "timestamp": 1467709200,
+        "volatility": 1
+    },
+    {
+        "actual": 1.6,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 1.6,
+        "name": "Retail Sales (YoY) (May)",
+        "previous": 1.4,
+        "timestamp": 1467709200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.149,
+        "country": "Austria",
+        "currency": "EUR",
+        "name": "Austria 10-Year Bond Auction",
+        "previous": 0.448,
+        "timestamp": 1467710400,
+        "volatility": 0
+    },
+    {
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BoE Financial Stability Report",
+        "timestamp": 1467711000,
+        "volatility": 1
+    },
+    {
+        "actual": -0.621,
+        "country": "Belgium",
+        "currency": "EUR",
+        "name": "Belgium 3-Month T-bill Auction",
+        "previous": -0.515,
+        "timestamp": 1467711600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.612,
+        "country": "Belgium",
+        "currency": "EUR",
+        "name": "Belgium 6-Month T-bill Auction",
+        "previous": -0.485,
+        "timestamp": 1467711600,
+        "volatility": 0
+    },
+    {
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BoE Gov Carney Speaks",
+        "timestamp": 1467712800,
+        "volatility": 2
+    },
+    {
+        "actual": 1.8,
+        "country": "Chile",
+        "currency": "CLP",
+        "forecast": 1.4,
+        "name": "Economic Activity (YoY) (May)",
+        "previous": 0.7,
+        "timestamp": 1467721800,
+        "volatility": 0
+    },
+    {
+        "actual": -1.6,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "Gross Fixed Investments (MoM) (Apr)",
+        "previous": 0.3,
+        "timestamp": 1467723600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.6,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 1.3,
+        "name": "Gross Fixed Investments (YoY) (Apr)",
+        "previous": -3.0,
+        "timestamp": 1467723600,
+        "volatility": 0
+    },
+    {
+        "actual": 42.3,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 39.0,
+        "name": "Markit Composite PMI (Jun)",
+        "previous": 38.3,
+        "timestamp": 1467723600,
+        "volatility": 0
+    },
+    {
+        "actual": 41.4,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 37.5,
+        "name": "Markit Services PMI (Jun)",
+        "previous": 37.3,
+        "timestamp": 1467723600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Russia",
+        "currency": "RUB",
+        "forecast": 0.3,
+        "name": "CPI (MoM)",
+        "previous": 0.4,
+        "timestamp": 1467723600,
+        "volatility": 1
+    },
+    {
+        "actual": 7.5,
+        "country": "Russia",
+        "currency": "RUB",
+        "forecast": 7.4,
+        "name": "CPI (YoY)",
+        "previous": 7.3,
+        "timestamp": 1467723600,
+        "volatility": 1
+    },
+    {
+        "actual": 715.8,
+        "country": "United States",
+        "currency": "USD",
+        "name": "ISM - NY Business Conditions (Jun)",
+        "previous": 718.1,
+        "timestamp": 1467726300,
+        "volatility": 0
+    },
+    {
+        "actual": -1.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.9,
+        "name": "Factory Orders (MoM) (May)",
+        "previous": 1.8,
+        "timestamp": 1467727200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Factory orders ex transportation (MoM) (May)",
+        "previous": 0.3,
+        "timestamp": 1467727200,
+        "volatility": 0
+    },
+    {
+        "actual": 45.5,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 49.3,
+        "name": "IBD/TIPP Economic Optimism",
+        "previous": 48.2,
+        "timestamp": 1467727200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.4,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "GlobalDairyTrade Price Index",
+        "previous": 0.0,
+        "timestamp": 1467729000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.27,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Month Bill Auction",
+        "previous": 0.26,
+        "timestamp": 1467732600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.34,
+        "country": "United States",
+        "currency": "USD",
+        "name": "6-Month Bill Auction",
+        "previous": 0.34,
+        "timestamp": 1467732600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.275,
+        "country": "United States",
+        "currency": "USD",
+        "name": "4-Week Bill Auction",
+        "previous": 0.26,
+        "timestamp": 1467738000,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Dudley Speaks",
+        "timestamp": 1467743400,
+        "volatility": 1
+    },
+    {
+        "actual": -2.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BRC Shop Price Index (YoY)",
+        "previous": -1.8,
+        "timestamp": 1467759660,
+        "volatility": 0
+    }
+]

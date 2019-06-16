@@ -1,0 +1,611 @@
+[
+    {
+        "actual": 0.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "ANZ Job Advertisements (MoM)",
+        "previous": -0.4,
+        "timestamp": 1546907400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Exports (MoM) (Nov)",
+        "previous": 1.0,
+        "timestamp": 1546907400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Imports (MoM) (Nov)",
+        "previous": 3.0,
+        "timestamp": 1546907400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.93,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 2.23,
+        "name": "Trade Balance (Nov)",
+        "previous": 2.316,
+        "timestamp": 1546907400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.02,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "10-Year JGB Auction",
+        "previous": 0.07,
+        "timestamp": 1546918500,
+        "volatility": 1
+    },
+    {
+        "actual": 42.7,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 42.8,
+        "name": "Household Confidence (Dec)",
+        "previous": 42.9,
+        "timestamp": 1546923600,
+        "volatility": 0
+    },
+    {
+        "actual": 120.7,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "name": "FX Reserves (USD) (Dec)",
+        "previous": 117.2,
+        "timestamp": 1546923600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch CPI (YoY) (Dec)",
+        "previous": 2.0,
+        "timestamp": 1546925400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.3,
+        "country": "Estonia",
+        "currency": "EUR",
+        "name": "Estonian CPI (MoM) (Dec)",
+        "previous": -0.5,
+        "timestamp": 1546927200,
+        "volatility": 0
+    },
+    {
+        "actual": 3.4,
+        "country": "Estonia",
+        "currency": "EUR",
+        "name": "Estonian CPI (YoY) (Dec)",
+        "previous": 3.4,
+        "timestamp": 1546927200,
+        "volatility": 0
+    },
+    {
+        "actual": 51.64,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "name": "Foreign Reserves (USD) (Dec)",
+        "previous": 50.67,
+        "timestamp": 1546927200,
+        "volatility": 0
+    },
+    {
+        "actual": 43.09,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "name": "Net FX Reserves (USD) (Dec)",
+        "previous": 42.577,
+        "timestamp": 1546927200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.7,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "name": "Unemployment Rate n.s.a. (Dec)",
+        "previous": 2.5,
+        "timestamp": 1546929900,
+        "volatility": 1
+    },
+    {
+        "actual": 2.4,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 2.4,
+        "name": "Unemployment Rate s.a. (Dec)",
+        "previous": 2.4,
+        "timestamp": 1546929900,
+        "volatility": 1
+    },
+    {
+        "actual": -1.9,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.3,
+        "name": "German Industrial Production (MoM) (Nov)",
+        "previous": -0.8,
+        "timestamp": 1546930800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.0,
+        "country": "Norway",
+        "currency": "NOK",
+        "name": "Manufacturing Production (MoM) (Nov)",
+        "previous": 1.5,
+        "timestamp": 1546930800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.06,
+        "country": "Finland",
+        "currency": "EUR",
+        "name": "Finnish Trade Balance (Nov)",
+        "previous": -0.18,
+        "timestamp": 1546930800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.5,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": -0.7,
+        "name": "Retail Sales (YoY) (Nov)",
+        "previous": 1.0,
+        "timestamp": 1546932600,
+        "volatility": 1
+    },
+    {
+        "actual": -2.8,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French Current Account (Nov)",
+        "previous": -0.7,
+        "timestamp": 1546933500,
+        "volatility": 0
+    },
+    {
+        "actual": 41.2,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French Exports (Nov)",
+        "previous": 43.2,
+        "timestamp": 1546933500,
+        "volatility": 0
+    },
+    {
+        "actual": 46.3,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French Imports (Nov)",
+        "previous": 47.3,
+        "timestamp": 1546933500,
+        "volatility": 0
+    },
+    {
+        "actual": -5.1,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": -4.9,
+        "name": "French Trade Balance (Nov)",
+        "previous": -4.1,
+        "timestamp": 1546933500,
+        "volatility": 0
+    },
+    {
+        "actual": -0.05,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": 0.3,
+        "name": "CPI (YoY) (Dec)",
+        "previous": 0.3,
+        "timestamp": 1546934400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.29,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "name": "CPI (MoM) (Dec)",
+        "previous": -0.39,
+        "timestamp": 1546934400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.83,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "name": "Wholesale Prices (MoM) (Dec)",
+        "previous": 3.25,
+        "timestamp": 1546934400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "name": "Construction Output (YoY) (Nov)",
+        "previous": 10.4,
+        "timestamp": 1546934400,
+        "volatility": 0
+    },
+    {
+        "actual": 4.8,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": 4.8,
+        "name": "Industrial Production (YoY) (Nov)",
+        "previous": 6.7,
+        "timestamp": 1546934400,
+        "volatility": 0
+    },
+    {
+        "actual": 4.0,
+        "country": "Hungary",
+        "currency": "HUF",
+        "forecast": 5.3,
+        "name": "Industrial Output (YoY) (Nov)",
+        "previous": 5.9,
+        "timestamp": 1546934400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.2,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.5,
+        "name": "Halifax House Price Index (MoM) (Dec)",
+        "previous": -1.4,
+        "timestamp": 1546936200,
+        "volatility": 1
+    },
+    {
+        "actual": 1.3,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.4,
+        "name": "Halifax House Price Index (YoY) (Dec)",
+        "previous": 0.3,
+        "timestamp": 1546936200,
+        "volatility": 1
+    },
+    {
+        "actual": 124.54,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "name": "FX Reserves (EUR) (Dec)",
+        "previous": 124.45,
+        "timestamp": 1546938000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.45,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "IGP-DI Inflation Index (MoM) (Dec)",
+        "previous": -1.14,
+        "timestamp": 1546941600,
+        "volatility": 0
+    },
+    {
+        "actual": 107.3,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 108.2,
+        "name": "Business and Consumer Survey (Dec)",
+        "previous": 109.5,
+        "timestamp": 1546941600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.82,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.99,
+        "name": "Business Climate (Dec)",
+        "previous": 1.04,
+        "timestamp": 1546941600,
+        "volatility": 0
+    },
+    {
+        "actual": -6.2,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -6.2,
+        "name": "Consumer Confidence (Dec)",
+        "previous": -6.2,
+        "timestamp": 1546941600,
+        "volatility": 0
+    },
+    {
+        "actual": 18.6,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "Consumer Inflation Expectation (Dec)",
+        "previous": 21.1,
+        "timestamp": 1546941600,
+        "volatility": 0
+    },
+    {
+        "actual": 12.3,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "Selling Price Expectations (Dec)",
+        "previous": 11.2,
+        "timestamp": 1546941600,
+        "volatility": 0
+    },
+    {
+        "actual": 12.0,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 12.3,
+        "name": "Services Sentiment (Dec)",
+        "previous": 13.4,
+        "timestamp": 1546941600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.1,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 2.9,
+        "name": "Industrial Sentiment (Dec)",
+        "previous": 3.4,
+        "timestamp": 1546941600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.27,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "10-Year Treasury Gilt Auction",
+        "previous": 1.49,
+        "timestamp": 1546944300,
+        "volatility": 0
+    },
+    {
+        "actual": 2.5,
+        "country": "Romania",
+        "currency": "RON",
+        "forecast": 2.5,
+        "name": "Interest Rate Decision",
+        "previous": 2.5,
+        "timestamp": 1546944300,
+        "volatility": 0
+    },
+    {
+        "actual": 104.4,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 103.6,
+        "name": "NFIB Small Business Optimism (Dec)",
+        "previous": 104.8,
+        "timestamp": 1546945200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Chile",
+        "currency": "CLP",
+        "name": "Core CPI (MoM)",
+        "previous": 0.0,
+        "timestamp": 1546945200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Chile",
+        "currency": "CLP",
+        "name": "CPI (MoM)",
+        "previous": 0.0,
+        "timestamp": 1546945200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.9,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 2.3,
+        "name": "Industrial Production (YoY) (Nov)",
+        "previous": 0.8,
+        "timestamp": 1546945200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.1,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Industrial Production (MoM) (Nov)",
+        "previous": -0.1,
+        "timestamp": 1546945200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Retail Sales (MoM) (Nov)",
+        "previous": 1.5,
+        "timestamp": 1546945200,
+        "volatility": 0
+    },
+    {
+        "actual": 3.6,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Retail Sales (YoY) (Nov)",
+        "previous": 5.8,
+        "timestamp": 1546945200,
+        "volatility": 0
+    },
+    {
+        "actual": 39.98,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "name": "Total Vehicle Sales (Dec)",
+        "previous": 47.48,
+        "timestamp": 1546948800,
+        "volatility": 0
+    },
+    {
+        "actual": -1.9,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "name": "Total Vehicle Sales (YoY) (Dec)",
+        "previous": -4.6,
+        "timestamp": 1546948800,
+        "volatility": 0
+    },
+    {
+        "actual": 48.33,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 50.47,
+        "name": "Exports (Nov)",
+        "previous": 49.77,
+        "timestamp": 1546954200,
+        "volatility": 0
+    },
+    {
+        "actual": 50.39,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 51.1,
+        "name": "Imports (Nov)",
+        "previous": 50.62,
+        "timestamp": 1546954200,
+        "volatility": 0
+    },
+    {
+        "actual": -2.06,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": -1.95,
+        "name": "Trade Balance (Nov)",
+        "previous": -0.85,
+        "timestamp": 1546954200,
+        "volatility": 1
+    },
+    {
+        "actual": 27.4,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Auto Production (MoM) (Dec)",
+        "previous": -6.9,
+        "timestamp": 1546954200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.6,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Auto Sales (MoM) (Dec)",
+        "previous": -9.3,
+        "timestamp": 1546954200,
+        "volatility": 0
+    },
+    {
+        "actual": 8.9,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (YoY)",
+        "previous": 9.3,
+        "timestamp": 1546955700,
+        "volatility": 0
+    },
+    {
+        "actual": 0.8,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (MoM)",
+        "previous": 0.6,
+        "timestamp": 1546955700,
+        "volatility": 0
+    },
+    {
+        "actual": -23.7,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Treasury Cash Balance (Dec)",
+        "previous": 4.35,
+        "timestamp": 1546957800,
+        "volatility": 0
+    },
+    {
+        "actual": 6.888,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 7.063,
+        "name": "JOLTs Job Openings (Nov)",
+        "previous": 7.131,
+        "timestamp": 1546959600,
+        "volatility": 2
+    },
+    {
+        "actual": 2.559,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Year Note Auction",
+        "previous": 2.748,
+        "timestamp": 1546970400,
+        "volatility": 0
+    },
+    {
+        "actual": 20.8,
+        "country": "Ukraine",
+        "currency": "UAH",
+        "name": "Foreign Reserves (USD)",
+        "previous": 17.71,
+        "timestamp": 1546970400,
+        "volatility": 0
+    },
+    {
+        "actual": 22.15,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 17.5,
+        "name": "Consumer Credit (Nov)",
+        "previous": 24.98,
+        "timestamp": 1546977600,
+        "volatility": 0
+    },
+    {
+        "actual": -6.27,
+        "country": "United States",
+        "currency": "USD",
+        "name": "API Weekly Crude Oil Stock",
+        "previous": -4.5,
+        "timestamp": 1546983000,
+        "volatility": 1
+    },
+    {
+        "actual": 52.1,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "AIG Services Index (Dec)",
+        "previous": 55.1,
+        "timestamp": 1546983000,
+        "volatility": 0
+    },
+    {
+        "actual": 3.8,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "Unemployment Rate (Dec)",
+        "previous": 3.8,
+        "timestamp": 1546988400,
+        "volatility": 0
+    }
+]

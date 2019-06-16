@@ -1,0 +1,101 @@
+[
+    {
+        "actual": -0.3,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": -0.4,
+        "name": "CPI (QoQ)",
+        "previous": 1.2,
+        "timestamp": 1233102600,
+        "volatility": 2
+    },
+    {
+        "actual": 0.6,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.8,
+        "name": "Trimmed Mean CPI (QoQ)",
+        "previous": 1.2,
+        "timestamp": 1233102600,
+        "volatility": 1
+    },
+    {
+        "actual": 2.2,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 2.0,
+        "name": "GfK German Consumer Climate",
+        "previous": 2.1,
+        "timestamp": 1233126000,
+        "volatility": 1
+    },
+    {
+        "actual": -0.5,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": -0.3,
+        "name": "German CPI (MoM)",
+        "previous": 0.3,
+        "timestamp": 1233129600,
+        "volatility": 1
+    },
+    {
+        "actual": 6.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Crude Oil Inventories",
+        "previous": 6.1,
+        "timestamp": 1233156600,
+        "volatility": 2
+    },
+    {
+        "actual": 0.25,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.25,
+        "name": "Fed Interest Rate Decision",
+        "previous": 0.25,
+        "timestamp": 1233170100,
+        "volatility": 2
+    },
+    {
+        "actual": 3.5,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 4.0,
+        "name": "RBNZ Interest Rate Decision",
+        "previous": 5.0,
+        "timestamp": 1233172800,
+        "volatility": 2
+    },
+    {
+        "actual": -347.0,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": -100.0,
+        "name": "Trade Balance (MoM)",
+        "previous": -520.0,
+        "timestamp": 1233179100,
+        "volatility": 1
+    },
+    {
+        "actual": -6.3,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": -5.2,
+        "name": "Large Retailers' Sales (MoM)",
+        "previous": -3.2,
+        "timestamp": 1233186600,
+        "volatility": 0
+    },
+    {
+        "actual": -2.7,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": -1.6,
+        "name": "Retail Sales (YoY)",
+        "previous": -0.9,
+        "timestamp": 1233186600,
+        "volatility": 1
+    }
+]

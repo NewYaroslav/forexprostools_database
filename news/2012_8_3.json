@@ -1,0 +1,396 @@
+[
+    {
+        "actual": 55.6,
+        "country": "China",
+        "currency": "CNY",
+        "name": "Non-Manufacturing PMI",
+        "previous": 56.7,
+        "timestamp": 1343955600,
+        "volatility": 1
+    },
+    {
+        "actual": 53.1,
+        "country": "China",
+        "currency": "CNY",
+        "name": "Caixin Services PMI",
+        "previous": 52.3,
+        "timestamp": 1343961000,
+        "volatility": 1
+    },
+    {
+        "actual": 68.2,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Consumer Confidence",
+        "previous": 68.5,
+        "timestamp": 1343966400,
+        "volatility": 0
+    },
+    {
+        "actual": 54.2,
+        "country": "India",
+        "currency": "INR",
+        "name": "Nikkei Services PMI",
+        "previous": 54.3,
+        "timestamp": 1343970000,
+        "volatility": 0
+    },
+    {
+        "actual": 147.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Monster Employment Index",
+        "previous": 153.0,
+        "timestamp": 1343970300,
+        "volatility": 0
+    },
+    {
+        "actual": -1.0,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": -1.8,
+        "name": "Retail Sales (YoY)",
+        "previous": -2.1,
+        "timestamp": 1343977200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.23,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": -0.1,
+        "name": "CPI (MoM)",
+        "previous": -0.9,
+        "timestamp": 1343977200,
+        "volatility": 1
+    },
+    {
+        "actual": -0.31,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": -0.05,
+        "name": "PPI (MoM)",
+        "previous": -1.49,
+        "timestamp": 1343977200,
+        "volatility": 0
+    },
+    {
+        "actual": 43.7,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 43.0,
+        "name": "Spanish Services PMI",
+        "previous": 43.4,
+        "timestamp": 1343977980,
+        "volatility": 1
+    },
+    {
+        "actual": 43.0,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 43.5,
+        "name": "Italian Services PMI",
+        "previous": 43.1,
+        "timestamp": 1343979900,
+        "volatility": 1
+    },
+    {
+        "actual": 47.9,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French Markit Composite PMI",
+        "previous": 48.0,
+        "timestamp": 1343980080,
+        "volatility": 0
+    },
+    {
+        "actual": 50.0,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 50.2,
+        "name": "French Services PMI",
+        "previous": 50.2,
+        "timestamp": 1343980200,
+        "volatility": 1
+    },
+    {
+        "actual": 50.3,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 49.7,
+        "name": "German Services PMI",
+        "previous": 49.7,
+        "timestamp": 1343980500,
+        "volatility": 1
+    },
+    {
+        "actual": 47.9,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 47.6,
+        "name": "Services PMI",
+        "previous": 47.6,
+        "timestamp": 1343980800,
+        "volatility": 1
+    },
+    {
+        "actual": 51.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 51.5,
+        "name": "Services PMI",
+        "previous": 51.3,
+        "timestamp": 1343982600,
+        "volatility": 2
+    },
+    {
+        "actual": 0.1,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -0.1,
+        "name": "Retail Sales (MoM)",
+        "previous": 0.8,
+        "timestamp": 1343984400,
+        "volatility": 1
+    },
+    {
+        "actual": 6.0,
+        "country": "Austria",
+        "currency": "EUR",
+        "name": "Austrian Unemployment Rate",
+        "previous": 5.9,
+        "timestamp": 1343988000,
+        "volatility": 0
+    },
+    {
+        "actual": 288.65,
+        "country": "India",
+        "currency": "INR",
+        "name": "FX Reserves, USD",
+        "previous": 287.34,
+        "timestamp": 1343993400,
+        "volatility": 0
+    },
+    {
+        "actual": -14.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Bankruptcy Filings (YoY)",
+        "previous": -11.8,
+        "timestamp": 1343995200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.2,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "CPI (MoM)",
+        "previous": 0.9,
+        "timestamp": 1343995200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.2,
+        "name": "Average Hourly Earnings (MoM)",
+        "previous": 0.3,
+        "timestamp": 1343997000,
+        "volatility": 1
+    },
+    {
+        "actual": 34.5,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 34.5,
+        "name": "Average Weekly Hours",
+        "previous": 34.5,
+        "timestamp": 1343997000,
+        "volatility": 0
+    },
+    {
+        "actual": 163.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 100.0,
+        "name": "Nonfarm Payrolls",
+        "previous": 64.0,
+        "timestamp": 1343997000,
+        "volatility": 2
+    },
+    {
+        "actual": 172.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 110.0,
+        "name": "Private Nonfarm Payrolls",
+        "previous": 73.0,
+        "timestamp": 1343997000,
+        "volatility": 1
+    },
+    {
+        "actual": 14.8,
+        "country": "United States",
+        "currency": "USD",
+        "name": "U6 Unemployment Rate (Jul)",
+        "previous": 14.8,
+        "timestamp": 1343997000,
+        "volatility": 0
+    },
+    {
+        "actual": 8.3,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 8.2,
+        "name": "Unemployment Rate",
+        "previous": 8.2,
+        "timestamp": 1343997000,
+        "volatility": 2
+    },
+    {
+        "actual": 98.9,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "Consumer Confidence n.s.a.",
+        "previous": 95.5,
+        "timestamp": 1343998800,
+        "volatility": 0
+    },
+    {
+        "actual": 52.6,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 52.0,
+        "name": "ISM Non-Manufacturing PMI",
+        "previous": 52.1,
+        "timestamp": 1344002400,
+        "volatility": 2
+    },
+    {
+        "actual": 1429.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "U.S. Baker Hughes Oil Rig Count",
+        "previous": 1416.0,
+        "timestamp": 1344013200,
+        "volatility": 1
+    },
+    {
+        "actual": -1.8,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "CFTC GBP speculative net positions",
+        "previous": -2.9,
+        "timestamp": 1344022200,
+        "volatility": 1
+    },
+    {
+        "actual": 126.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Gold speculative net positions",
+        "previous": 113.0,
+        "timestamp": 1344022200,
+        "volatility": 1
+    },
+    {
+        "actual": 13.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Silver speculative net positions",
+        "previous": 8.2,
+        "timestamp": 1344022200,
+        "volatility": 0
+    },
+    {
+        "actual": 12.4,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "CFTC CAD speculative net positions",
+        "previous": -2.4,
+        "timestamp": 1344022200,
+        "volatility": 0
+    },
+    {
+        "actual": 47.6,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "CFTC MXN speculative net positions",
+        "previous": 49.7,
+        "timestamp": 1344022200,
+        "volatility": 0
+    },
+    {
+        "actual": -18.8,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "name": "CFTC CHF speculative net positions",
+        "previous": -25.9,
+        "timestamp": 1344022200,
+        "volatility": 0
+    },
+    {
+        "actual": 37.2,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "CFTC AUD speculative net positions",
+        "previous": 26.4,
+        "timestamp": 1344022200,
+        "volatility": 1
+    },
+    {
+        "actual": 32.3,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "CFTC JPY speculative net positions",
+        "previous": 25.1,
+        "timestamp": 1344022200,
+        "volatility": 1
+    },
+    {
+        "actual": 10.3,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "CFTC NZD speculative net positions",
+        "previous": 7.8,
+        "timestamp": 1344022200,
+        "volatility": 0
+    },
+    {
+        "actual": -139.0,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "CFTC EUR speculative net positions",
+        "previous": -155.1,
+        "timestamp": 1344022200,
+        "volatility": 1
+    },
+    {
+        "actual": -0.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Global Semiconductor Sales (MoM)",
+        "previous": 1.4,
+        "timestamp": 1344024000,
+        "volatility": 0
+    },
+    {
+        "actual": 174.4,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Crude Oil speculative net positions",
+        "previous": 190.7,
+        "timestamp": 1344025800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.5,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "CFTC RUB speculative positions",
+        "previous": 0.5,
+        "timestamp": 1344025800,
+        "volatility": 1
+    }
+]

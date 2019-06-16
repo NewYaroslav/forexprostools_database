@@ -1,0 +1,52 @@
+[
+    {
+        "actual": 0.1,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 0.3,
+        "name": "PPI (MoM)",
+        "previous": -0.5,
+        "timestamp": 1284362100,
+        "volatility": 1
+    },
+    {
+        "actual": 5.4,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 6.4,
+        "name": "Industrial Production (YoY)",
+        "previous": 8.4,
+        "timestamp": 1284390000,
+        "volatility": 0
+    },
+    {
+        "actual": -90.5,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -109.0,
+        "name": "Federal Budget Balance",
+        "previous": -165.0,
+        "timestamp": 1284400800,
+        "volatility": 1
+    },
+    {
+        "actual": 61.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 59.0,
+        "name": "Nationwide Consumer Confidence",
+        "previous": 56.0,
+        "timestamp": 1284418860,
+        "volatility": 1
+    },
+    {
+        "actual": -32.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": -11.0,
+        "name": "RICS House Price Balance",
+        "previous": -8.0,
+        "timestamp": 1284418860,
+        "volatility": 1
+    }
+]

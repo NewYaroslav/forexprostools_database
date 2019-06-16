@@ -1,0 +1,458 @@
+[
+    {
+        "actual": 19.1,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": -1.7,
+        "name": "Building Approvals (MoM) (Feb)",
+        "previous": 2.3,
+        "timestamp": 1554165000,
+        "volatility": 1
+    },
+    {
+        "actual": -3.6,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Private House Approvals (Feb)",
+        "previous": 2.1,
+        "timestamp": 1554165000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.5,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 1.5,
+        "name": "RBA Interest Rate Decision (Apr)",
+        "previous": 1.5,
+        "timestamp": 1554175800,
+        "volatility": 2
+    },
+    {
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "RBA Rate Statement",
+        "timestamp": 1554175800,
+        "volatility": 2
+    },
+    {
+        "actual": -0.006,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "10-Year JGB Auction",
+        "previous": -0.002,
+        "timestamp": 1554176700,
+        "volatility": 1
+    },
+    {
+        "actual": 52.6,
+        "country": "India",
+        "currency": "INR",
+        "forecast": 53.9,
+        "name": "Nikkei Markit Manufacturing PMI (Mar)",
+        "previous": 54.3,
+        "timestamp": 1554181200,
+        "volatility": 0
+    },
+    {
+        "actual": 4.8,
+        "country": "Romania",
+        "currency": "RON",
+        "name": "PPI (YoY) (Feb)",
+        "previous": 3.9,
+        "timestamp": 1554184800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 0.4,
+        "name": "CPI (MoM) (Mar)",
+        "previous": 0.4,
+        "timestamp": 1554186600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.7,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 0.6,
+        "name": "CPI (YoY) (Mar)",
+        "previous": 0.6,
+        "timestamp": 1554186600,
+        "volatility": 0
+    },
+    {
+        "actual": -34.0,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": -33.3,
+        "name": "Spanish Unemployment Change",
+        "previous": 3.3,
+        "timestamp": 1554188400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.8,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "name": "GDP (QoQ) (Q4)",
+        "previous": 0.9,
+        "timestamp": 1554188400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.6,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "name": "GDP (YoY) (Q4)",
+        "previous": 2.8,
+        "timestamp": 1554188400,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB's Praet Speaks",
+        "timestamp": 1554188400,
+        "volatility": 1
+    },
+    {
+        "actual": 49.7,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 49.8,
+        "name": "Construction PMI (Mar)",
+        "previous": 49.5,
+        "timestamp": 1554193800,
+        "volatility": 2
+    },
+    {
+        "actual": -0.334,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 12-Month Letras Auction",
+        "previous": -0.312,
+        "timestamp": 1554194400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.384,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 6-Month Letras Auction",
+        "previous": -0.375,
+        "timestamp": 1554194400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.2,
+        "name": "PPI (MoM) (Feb)",
+        "previous": 0.3,
+        "timestamp": 1554195600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.0,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 3.1,
+        "name": "PPI (YoY) (Feb)",
+        "previous": 2.9,
+        "timestamp": 1554195600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.748,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "5-Year Treasury Gilt Auction",
+        "previous": 0.966,
+        "timestamp": 1554198300,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "Bahrain",
+        "currency": "BHD",
+        "name": "GDP (QoQ) (Q1)",
+        "previous": 1.0,
+        "timestamp": 1554200820,
+        "volatility": 0
+    },
+    {
+        "actual": 4.6,
+        "country": "Bahrain",
+        "currency": "BHD",
+        "name": "GDP (YoY) (Q1)",
+        "previous": 4.6,
+        "timestamp": 1554200820,
+        "volatility": 0
+    },
+    {
+        "actual": -3.0,
+        "country": "Egypt",
+        "currency": "EGP",
+        "name": "Current Account (USD) (Q4)",
+        "previous": -1.0,
+        "timestamp": 1554202800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.5,
+        "country": "Romania",
+        "currency": "RON",
+        "forecast": 2.5,
+        "name": "Interest Rate Decision",
+        "previous": 2.5,
+        "timestamp": 1554202800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "Chile",
+        "currency": "CLP",
+        "name": "Retail Sales (YoY)",
+        "previous": 0.0,
+        "timestamp": 1554206400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": -2.3,
+        "name": "Industrial Production (YoY) (Feb)",
+        "previous": -2.4,
+        "timestamp": 1554206400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.7,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 0.0,
+        "name": "Industrial Production (MoM) (Feb)",
+        "previous": -0.7,
+        "timestamp": 1554206400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.3,
+        "name": "Cap Goods Ship Non Defense Ex Air (MoM)",
+        "previous": 1.0,
+        "timestamp": 1554208200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.3,
+        "name": "Core Durable Goods Orders (MoM) (Feb)",
+        "previous": -0.1,
+        "timestamp": 1554208200,
+        "volatility": 2
+    },
+    {
+        "actual": -1.6,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -1.1,
+        "name": "Durable Goods Orders (MoM) (Feb)",
+        "previous": 0.1,
+        "timestamp": 1554208200,
+        "volatility": 1
+    },
+    {
+        "actual": -1.9,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.1,
+        "name": "Durables Excluding Defense (MoM) (Feb)",
+        "previous": 0.4,
+        "timestamp": 1554208200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.1,
+        "name": "Goods Orders Non Defense Ex Air (MoM) (Feb)",
+        "previous": 0.9,
+        "timestamp": 1554208200,
+        "volatility": 0
+    },
+    {
+        "actual": 4.4,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (YoY)",
+        "previous": 5.3,
+        "timestamp": 1554209700,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (MoM)",
+        "previous": 0.1,
+        "timestamp": 1554209700,
+        "volatility": 0
+    },
+    {
+        "country": "India",
+        "currency": "INR",
+        "name": "Foreign Debt (USD) (Q4)",
+        "previous": 510.4,
+        "timestamp": 1554210000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.7,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "GDP Quarterly (YoY) (Q4)",
+        "previous": 2.2,
+        "timestamp": 1554210000,
+        "volatility": 1
+    },
+    {
+        "actual": 4.5,
+        "country": "Bahrain",
+        "currency": "BHD",
+        "name": "M2 Money Supply (Feb)",
+        "previous": 2.4,
+        "timestamp": 1554210000,
+        "volatility": 0
+    },
+    {
+        "actual": 7.7,
+        "country": "Bahrain",
+        "currency": "BHD",
+        "name": "Private Sector Credit (MoM) (Feb)",
+        "previous": 9.9,
+        "timestamp": 1554210000,
+        "volatility": 0
+    },
+    {
+        "actual": 869.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "ISM - NY Business Conditions (Mar)",
+        "previous": 860.7,
+        "timestamp": 1554212700,
+        "volatility": 0
+    },
+    {
+        "actual": 57.4,
+        "country": "Nigeria",
+        "currency": "NGN",
+        "name": "Nigeria Manufacturing PMI",
+        "previous": 57.1,
+        "timestamp": 1554212700,
+        "volatility": 0
+    },
+    {
+        "actual": 58.5,
+        "country": "Nigeria",
+        "currency": "NGN",
+        "name": "Nigeria Non-Manufacturing PMI",
+        "previous": 58.4,
+        "timestamp": 1554212700,
+        "volatility": 0
+    },
+    {
+        "actual": 0.8,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "GlobalDairyTrade Price Index",
+        "previous": 1.9,
+        "timestamp": 1554215400,
+        "volatility": 1
+    },
+    {
+        "actual": -0.966,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Exchequer Returns (Mar)",
+        "previous": 0.139,
+        "timestamp": 1554219000,
+        "volatility": 0
+    },
+    {
+        "actual": 17.45,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 16.7,
+        "name": "Total Vehicle Sales",
+        "previous": 16.6,
+        "timestamp": 1554233400,
+        "volatility": 0
+    },
+    {
+        "actual": 327.87,
+        "country": "Argentina",
+        "currency": "ARS",
+        "name": "Tax Revenue",
+        "previous": 330.89,
+        "timestamp": 1554235200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.963,
+        "country": "United States",
+        "currency": "USD",
+        "name": "API Weekly Crude Oil Stock",
+        "previous": 1.93,
+        "timestamp": 1554237000,
+        "volatility": 1
+    },
+    {
+        "actual": 405.25,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 405.06,
+        "name": "FX Reserves - USD (Mar)",
+        "previous": 404.67,
+        "timestamp": 1554238800,
+        "volatility": 0
+    },
+    {
+        "actual": 44.8,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "AIG Services Index (Mar)",
+        "previous": 44.5,
+        "timestamp": 1554240600,
+        "volatility": 0
+    },
+    {
+        "actual": 49.5,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 49.8,
+        "name": "Services PMI",
+        "previous": 49.8,
+        "timestamp": 1554242400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.9,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BRC Shop Price Index (YoY)",
+        "previous": 0.7,
+        "timestamp": 1554246000,
+        "volatility": 0
+    }
+]

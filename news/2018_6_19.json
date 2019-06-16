@@ -1,0 +1,365 @@
+[
+    {
+        "actual": -0.7,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": -0.9,
+        "name": "House Price Index (QoQ) (Q1)",
+        "previous": 1.0,
+        "timestamp": 1529371800,
+        "volatility": 1
+    },
+    {
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "RBA Meeting Minutes",
+        "timestamp": 1529371800,
+        "volatility": 2
+    },
+    {
+        "actual": 0.71,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "30-Year JGB Auction",
+        "previous": 0.75,
+        "timestamp": 1529379300,
+        "volatility": 0
+    },
+    {
+        "country": "Switzerland",
+        "currency": "CHF",
+        "name": "SECO Economic Forecasts",
+        "timestamp": 1529387100,
+        "volatility": 0
+    },
+    {
+        "actual": 6.5,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 6.5,
+        "name": "Unemployment Rate (May)",
+        "previous": 6.8,
+        "timestamp": 1529393400,
+        "volatility": 0
+    },
+    {
+        "actual": 5.4,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 3.5,
+        "name": "Industrial Output (YoY) (May)",
+        "previous": 9.3,
+        "timestamp": 1529395200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.8,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 2.7,
+        "name": "PPI (YoY) (May)",
+        "previous": 1.0,
+        "timestamp": 1529395200,
+        "volatility": 0
+    },
+    {
+        "actual": 28.4,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 30.3,
+        "name": "Current Account (Apr)",
+        "previous": 32.8,
+        "timestamp": 1529395200,
+        "volatility": 0
+    },
+    {
+        "actual": 26.2,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "Current Account n.s.a. (Apr)",
+        "previous": 41.3,
+        "timestamp": 1529395200,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB President Draghi Speaks",
+        "timestamp": 1529395200,
+        "volatility": 2
+    },
+    {
+        "actual": 2.8,
+        "country": "Hong Kong",
+        "currency": "HKD",
+        "name": "Unemployment Rate (May)",
+        "previous": 2.8,
+        "timestamp": 1529397000,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB's Praet Speaks",
+        "timestamp": 1529397000,
+        "volatility": 1
+    },
+    {
+        "actual": 5.4,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "forecast": 5.3,
+        "name": "Slovak Unemployment Rate (May)",
+        "previous": 5.4,
+        "timestamp": 1529397000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.51,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 3-Month Letras Auction",
+        "previous": -0.502,
+        "timestamp": 1529397600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.63,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German 2-Year Schatz Auction",
+        "previous": -0.58,
+        "timestamp": 1529401200,
+        "volatility": 0
+    },
+    {
+        "actual": 5.0,
+        "country": "Botswana",
+        "currency": "BWP",
+        "forecast": 5.0,
+        "name": "Interest Rate Decision (Jun)",
+        "previous": 5.0,
+        "timestamp": 1529401800,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Bullard Speaks",
+        "timestamp": 1529406000,
+        "volatility": 1
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB's Praet Speaks",
+        "timestamp": 1529406000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.9,
+        "country": "Hungary",
+        "currency": "HUF",
+        "forecast": 0.9,
+        "name": "Interest Rate Decision (Jun)",
+        "previous": 0.9,
+        "timestamp": 1529409600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.301,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.35,
+        "name": "Building Permits (May)",
+        "previous": 1.364,
+        "timestamp": 1529411400,
+        "volatility": 2
+    },
+    {
+        "actual": -4.6,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -1.4,
+        "name": "Building Permits (MoM) (May)",
+        "previous": -1.8,
+        "timestamp": 1529411400,
+        "volatility": 1
+    },
+    {
+        "actual": 1.35,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.31,
+        "name": "Housing Starts (May)",
+        "previous": 1.286,
+        "timestamp": 1529411400,
+        "volatility": 1
+    },
+    {
+        "actual": 5.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.4,
+        "name": "Housing Starts (MoM) (May)",
+        "previous": -3.1,
+        "timestamp": 1529411400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (MoM)",
+        "previous": -0.2,
+        "timestamp": 1529412900,
+        "volatility": 0
+    },
+    {
+        "actual": 4.7,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (YoY)",
+        "previous": 4.3,
+        "timestamp": 1529412900,
+        "volatility": 0
+    },
+    {
+        "actual": 12.0,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "PPI (YoY) (May)",
+        "previous": 7.5,
+        "timestamp": 1529413200,
+        "volatility": 0
+    },
+    {
+        "actual": 3.9,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "PPI (MoM) (May)",
+        "previous": 1.2,
+        "timestamp": 1529413200,
+        "volatility": 0
+    },
+    {
+        "actual": -1.2,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "GlobalDairyTrade Price Index",
+        "previous": -1.3,
+        "timestamp": 1529418000,
+        "volatility": 1
+    },
+    {
+        "actual": 1.815,
+        "country": "United States",
+        "currency": "USD",
+        "name": "4-Week Bill Auction",
+        "previous": 1.79,
+        "timestamp": 1529422200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.275,
+        "country": "United States",
+        "currency": "USD",
+        "name": "52-Week Bill Auction",
+        "previous": 2.275,
+        "timestamp": 1529422200,
+        "volatility": 0
+    },
+    {
+        "actual": 3.1,
+        "country": "Ukraine",
+        "currency": "UAH",
+        "forecast": 3.1,
+        "name": "GDP (YoY)",
+        "previous": 3.1,
+        "timestamp": 1529424000,
+        "volatility": 0
+    },
+    {
+        "actual": 3.6,
+        "country": "Argentina",
+        "currency": "ARS",
+        "forecast": 3.5,
+        "name": "GDP (YoY) (Q1)",
+        "previous": 3.9,
+        "timestamp": 1529434800,
+        "volatility": 1
+    },
+    {
+        "actual": -7.0,
+        "country": "Argentina",
+        "currency": "ARS",
+        "name": "Budget Balance (May)",
+        "previous": -10.0,
+        "timestamp": 1529438400,
+        "volatility": 0
+    },
+    {
+        "actual": -3.016,
+        "country": "United States",
+        "currency": "USD",
+        "name": "API Weekly Crude Oil Stock",
+        "previous": 0.833,
+        "timestamp": 1529440200,
+        "volatility": 1
+    },
+    {
+        "actual": 108.6,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "Westpac Consumer Sentiment (Q2)",
+        "previous": 111.2,
+        "timestamp": 1529445600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.18,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 0.05,
+        "name": "Current Account (QoQ) (Q1)",
+        "previous": -2.77,
+        "timestamp": 1529448300,
+        "volatility": 1
+    },
+    {
+        "actual": -7.91,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": -8.07,
+        "name": "Current Account (YoY) (Q1)",
+        "previous": -7.72,
+        "timestamp": 1529448300,
+        "volatility": 1
+    },
+    {
+        "actual": -2.8,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": -2.8,
+        "name": "Current Account % of GDP (Q1)",
+        "previous": -2.7,
+        "timestamp": 1529448300,
+        "volatility": 0
+    },
+    {
+        "actual": 26.0,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Reuters Tankan Index (Jun)",
+        "previous": 22.0,
+        "timestamp": 1529449200,
+        "volatility": 0
+    },
+    {
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Monetary Policy Meeting Minutes",
+        "timestamp": 1529452200,
+        "volatility": 1
+    }
+]

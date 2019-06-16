@@ -1,0 +1,455 @@
+[
+    {
+        "actual": 2.1,
+        "country": "Philippines",
+        "currency": "PHP",
+        "name": "Core CPI (YoY) (Dec)",
+        "previous": 1.8,
+        "timestamp": 1451955600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.5,
+        "country": "Philippines",
+        "currency": "PHP",
+        "forecast": 1.4,
+        "name": "CPI (YoY) (Dec)",
+        "previous": 1.1,
+        "timestamp": 1451955600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Philippines",
+        "currency": "PHP",
+        "forecast": 0.2,
+        "name": "CPI (MoM) (Dec)",
+        "previous": 0.5,
+        "timestamp": 1451955600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.254,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "10-Year JGB Auction",
+        "previous": 0.32,
+        "timestamp": 1451965500,
+        "volatility": 1
+    },
+    {
+        "actual": -55.8,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": -52.6,
+        "name": "Spanish Unemployment Change",
+        "previous": -27.1,
+        "timestamp": 1451980800,
+        "volatility": 1
+    },
+    {
+        "actual": 46.8,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 47.0,
+        "name": "Manufacturing PMI (Dec)",
+        "previous": 47.5,
+        "timestamp": 1451980800,
+        "volatility": 0
+    },
+    {
+        "actual": 6.2,
+        "country": "Hungary",
+        "currency": "HUF",
+        "forecast": 6.2,
+        "name": "Quarterly Unemployment Rate (Nov)",
+        "previous": 6.4,
+        "timestamp": 1451980800,
+        "volatility": 1
+    },
+    {
+        "actual": 426.03,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "name": "FX Reserves USD (Dec)",
+        "previous": 424.61,
+        "timestamp": 1451981400,
+        "volatility": 0
+    },
+    {
+        "actual": -14.0,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": -6.0,
+        "name": "German Unemployment Change (Dec)",
+        "previous": -14.0,
+        "timestamp": 1451984100,
+        "volatility": 2
+    },
+    {
+        "actual": 6.3,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 6.3,
+        "name": "German Unemployment Rate (Dec)",
+        "previous": 6.3,
+        "timestamp": 1451984100,
+        "volatility": 1
+    },
+    {
+        "actual": 2.8,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German Unemployment (Dec)",
+        "previous": 2.8,
+        "timestamp": 1451984100,
+        "volatility": 0
+    },
+    {
+        "actual": 2.7,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 2.7,
+        "name": "German Unemployment n.s.a. (Dec)",
+        "previous": 2.633,
+        "timestamp": 1451984100,
+        "volatility": 0
+    },
+    {
+        "actual": 57.8,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 56.0,
+        "name": "Construction PMI (Dec)",
+        "previous": 55.3,
+        "timestamp": 1451986200,
+        "volatility": 2
+    },
+    {
+        "actual": 0.0,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "Italian CPI (MoM) (Dec)",
+        "previous": -0.4,
+        "timestamp": 1451988000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.1,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.2,
+        "name": "Italian CPI (YoY) (Dec)",
+        "previous": 0.1,
+        "timestamp": 1451988000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.2,
+        "name": "Italian HICP (MoM) (Dec)",
+        "previous": -0.4,
+        "timestamp": 1451988000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.4,
+        "name": "Italian HICP (YoY) (Dec)",
+        "previous": 0.2,
+        "timestamp": 1451988000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.9,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 1.0,
+        "name": "Core CPI (YoY)",
+        "previous": 0.9,
+        "timestamp": 1451988000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.2,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.3,
+        "name": "CPI (YoY) (Dec)",
+        "previous": 0.2,
+        "timestamp": 1451988000,
+        "volatility": 2
+    },
+    {
+        "actual": 2.97,
+        "country": "Greece",
+        "currency": "EUR",
+        "name": "Greece 6-month T-bill Auction",
+        "previous": 2.97,
+        "timestamp": 1451988900,
+        "volatility": 0
+    },
+    {
+        "actual": 1.88,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "10-Year Treasury Gilt Auction",
+        "previous": 1.94,
+        "timestamp": 1451990100,
+        "volatility": 0
+    },
+    {
+        "actual": -0.449,
+        "country": "Belgium",
+        "currency": "EUR",
+        "name": "Belgium 3-Month T-bill Auction",
+        "previous": -0.423,
+        "timestamp": 1451990400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.345,
+        "country": "Belgium",
+        "currency": "EUR",
+        "name": "Belgium 6-Month T-bill Auction",
+        "previous": -0.396,
+        "timestamp": 1451990400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "Portugal",
+        "currency": "EUR",
+        "name": "Portuguese Business Confidence (Dec)",
+        "previous": 0.9,
+        "timestamp": 1451991600,
+        "volatility": 0
+    },
+    {
+        "actual": -14.1,
+        "country": "Portugal",
+        "currency": "EUR",
+        "name": "Portuguese Consumer Confidence (Dec)",
+        "previous": -13.7,
+        "timestamp": 1451991600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.8,
+        "country": "Chile",
+        "currency": "CLP",
+        "forecast": 2.5,
+        "name": "Economic Activity (YoY) (Nov)",
+        "previous": 2.6,
+        "timestamp": 1451993400,
+        "volatility": 0
+    },
+    {
+        "actual": -62.8,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "name": "Budget Balance (Dec)",
+        "previous": -29.5,
+        "timestamp": 1451997000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.1,
+        "name": "IPPI (MoM) (Nov)",
+        "previous": -0.5,
+        "timestamp": 1452000600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "IPPI (YoY) (Nov)",
+        "previous": -0.4,
+        "timestamp": 1452000600,
+        "volatility": 0
+    },
+    {
+        "actual": -4.0,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": -3.0,
+        "name": "RMPI (MoM) (Nov)",
+        "previous": 0.0,
+        "timestamp": 1452000600,
+        "volatility": 1
+    },
+    {
+        "actual": -16.3,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "RMPI (YoY) (Nov)",
+        "previous": -17.9,
+        "timestamp": 1452000600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.06,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Exchequer Returns (Dec)",
+        "previous": 0.343,
+        "timestamp": 1452000600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.9,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (YoY)",
+        "previous": 2.5,
+        "timestamp": 1452002100,
+        "volatility": 0
+    },
+    {
+        "actual": -0.3,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (MoM)",
+        "previous": -0.5,
+        "timestamp": 1452002100,
+        "volatility": 0
+    },
+    {
+        "actual": -1.6,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "GlobalDairyTrade Price Index",
+        "previous": 1.9,
+        "timestamp": 1452003000,
+        "volatility": 1
+    },
+    {
+        "actual": 716.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "ISM - NY Business Conditions (Dec)",
+        "previous": 710.6,
+        "timestamp": 1452005100,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "4-Week Bill Auction",
+        "previous": 0.17,
+        "timestamp": 1452011400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.67,
+        "country": "United States",
+        "currency": "USD",
+        "name": "52-Week Bill Auction",
+        "previous": 0.74,
+        "timestamp": 1452011400,
+        "volatility": 0
+    },
+    {
+        "actual": 9.94,
+        "country": "United States",
+        "currency": "USD",
+        "name": "All Truck Sales (Dec)",
+        "previous": 10.38,
+        "timestamp": 1452018600,
+        "volatility": 0
+    },
+    {
+        "actual": 8.34,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 8.55,
+        "name": "Domestic Truck Sales (Dec)",
+        "previous": 8.72,
+        "timestamp": 1452018600,
+        "volatility": 0
+    },
+    {
+        "actual": 7.4,
+        "country": "United States",
+        "currency": "USD",
+        "name": "All Car Sales",
+        "previous": 7.81,
+        "timestamp": 1452027600,
+        "volatility": 0
+    },
+    {
+        "actual": 5.51,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Domestic Car Sales",
+        "previous": 5.71,
+        "timestamp": 1452027600,
+        "volatility": 0
+    },
+    {
+        "actual": 17.34,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 18.1,
+        "name": "Total Vehicle Sales",
+        "previous": 18.19,
+        "timestamp": 1452027600,
+        "volatility": 0
+    },
+    {
+        "actual": 367.96,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "FX Reserves - USD (Dec)",
+        "previous": 368.46,
+        "timestamp": 1452027600,
+        "volatility": 0
+    },
+    {
+        "actual": -5.6,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.75,
+        "name": "API Weekly Crude Oil Stock",
+        "previous": 2.9,
+        "timestamp": 1452029700,
+        "volatility": 1
+    },
+    {
+        "actual": 5.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "API Weekly Distillates Stocks",
+        "previous": 1.7,
+        "timestamp": 1452029700,
+        "volatility": 0
+    },
+    {
+        "actual": 7.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "API Weekly Gasoline Stock",
+        "previous": -3.2,
+        "timestamp": 1452029700,
+        "volatility": 0
+    },
+    {
+        "actual": 46.3,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "AIG Services Index (Dec)",
+        "previous": 48.2,
+        "timestamp": 1452033000,
+        "volatility": 0
+    }
+]

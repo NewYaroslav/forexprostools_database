@@ -1,0 +1,134 @@
+[
+    {
+        "actual": 1.5,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 1.2,
+        "name": "CPI (QoQ)",
+        "previous": 1.3,
+        "timestamp": 1216776600,
+        "volatility": 2
+    },
+    {
+        "actual": 1.2,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 1.1,
+        "name": "Trimmed Mean CPI (QoQ)",
+        "previous": 1.2,
+        "timestamp": 1216776600,
+        "volatility": 1
+    },
+    {
+        "actual": -0.4,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": -0.6,
+        "name": "French Consumer Spending (MoM)",
+        "previous": 2.0,
+        "timestamp": 1216795500,
+        "volatility": 1
+    },
+    {
+        "actual": 0.2,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": -0.1,
+        "name": "Italian Retail Sales (MoM)",
+        "previous": 0.0,
+        "timestamp": 1216800000,
+        "volatility": 0
+    },
+    {
+        "actual": 21.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "Gross Mortgage Approvals",
+        "previous": 28.0,
+        "timestamp": 1216801800,
+        "volatility": 1
+    },
+    {
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BoE MPC Meeting Minutes",
+        "timestamp": 1216801800,
+        "volatility": 2
+    },
+    {
+        "actual": -3.5,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -1.3,
+        "name": "Industrial New Orders (MoM)",
+        "previous": 2.5,
+        "timestamp": 1216803600,
+        "volatility": 1
+    },
+    {
+        "actual": -8.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": -5.0,
+        "name": "CBI Industrial Trends Orders",
+        "previous": 1.0,
+        "timestamp": 1216807200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.1,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.2,
+        "name": "Core CPI (MoM)",
+        "previous": 0.3,
+        "timestamp": 1216810800,
+        "volatility": 2
+    },
+    {
+        "actual": 0.7,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.5,
+        "name": "CPI (MoM)",
+        "previous": 1.0,
+        "timestamp": 1216810800,
+        "volatility": 1
+    },
+    {
+        "actual": -1.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Crude Oil Inventories",
+        "previous": 3.0,
+        "timestamp": 1216823700,
+        "volatility": 2
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "Beige Book",
+        "timestamp": 1216836000,
+        "volatility": 1
+    },
+    {
+        "actual": 8.0,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 8.25,
+        "name": "RBNZ Interest Rate Decision",
+        "previous": 8.25,
+        "timestamp": 1216846800,
+        "volatility": 2
+    },
+    {
+        "actual": 0.14,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 0.28,
+        "name": "Adjusted Trade Balance",
+        "previous": 0.64,
+        "timestamp": 1216857000,
+        "volatility": 1
+    }
+]

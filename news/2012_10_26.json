@@ -1,0 +1,292 @@
+[
+    {
+        "actual": 17.2,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "ANZ Business Confidence",
+        "previous": 17.0,
+        "timestamp": 1351209600,
+        "volatility": 1
+    },
+    {
+        "actual": -13.7,
+        "country": "Thailand",
+        "currency": "THB",
+        "forecast": -9.8,
+        "name": "Industrial Production (YoY)",
+        "previous": -11.2,
+        "timestamp": 1351225800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.7,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.4,
+        "name": "German Import Price Index (MoM)",
+        "previous": 1.3,
+        "timestamp": 1351231200,
+        "volatility": 0
+    },
+    {
+        "actual": 6.3,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 5.9,
+        "name": "GfK German Consumer Climate",
+        "previous": 6.1,
+        "timestamp": 1351231200,
+        "volatility": 1
+    },
+    {
+        "actual": 84.0,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 84.0,
+        "name": "French Consumer Confidence",
+        "previous": 85.0,
+        "timestamp": 1351233900,
+        "volatility": 0
+    },
+    {
+        "actual": 25.02,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 25.1,
+        "name": "Spanish Unemployment Rate",
+        "previous": 24.63,
+        "timestamp": 1351234800,
+        "volatility": 0
+    },
+    {
+        "actual": 7.5,
+        "country": "Sweden",
+        "currency": "SEK",
+        "name": "Trade Balance",
+        "previous": 5.0,
+        "timestamp": 1351236600,
+        "volatility": 0
+    },
+    {
+        "actual": 87.6,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 88.7,
+        "name": "Italian Business Confidence",
+        "previous": 88.3,
+        "timestamp": 1351238400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.9,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Retail Sales (MoM)",
+        "previous": 0.4,
+        "timestamp": 1351245600,
+        "volatility": 0
+    },
+    {
+        "actual": 295.24,
+        "country": "India",
+        "currency": "INR",
+        "name": "FX Reserves, USD",
+        "previous": 294.88,
+        "timestamp": 1351251000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.9,
+        "name": "GDP (QoQ)",
+        "previous": 1.3,
+        "timestamp": 1351254600,
+        "volatility": 2
+    },
+    {
+        "actual": 2.8,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.0,
+        "name": "GDP Price Index (QoQ)",
+        "previous": 1.6,
+        "timestamp": 1351254600,
+        "volatility": 1
+    },
+    {
+        "actual": 1.1,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Bank lending (MoM)",
+        "previous": 1.2,
+        "timestamp": 1351254600,
+        "volatility": 0
+    },
+    {
+        "actual": 82.6,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 83.0,
+        "name": "Michigan Consumer Sentiment",
+        "previous": 83.1,
+        "timestamp": 1351259700,
+        "volatility": 1
+    },
+    {
+        "actual": 3.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Michigan Inflation Expectations",
+        "previous": 3.1,
+        "timestamp": 1351259700,
+        "volatility": 0
+    },
+    {
+        "actual": 4.5,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 4.5,
+        "name": "Interest Rate Decision",
+        "previous": 4.5,
+        "timestamp": 1351260000,
+        "volatility": 1
+    },
+    {
+        "actual": -3.17,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "Budget Balance",
+        "previous": -1.05,
+        "timestamp": 1351263600,
+        "volatility": 0
+    },
+    {
+        "actual": 1408.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "U.S. Baker Hughes Oil Rig Count",
+        "previous": 1410.0,
+        "timestamp": 1351270800,
+        "volatility": 1
+    },
+    {
+        "actual": 4.75,
+        "country": "Colombia",
+        "currency": "COP",
+        "forecast": 4.75,
+        "name": "Interest Rate Decision",
+        "previous": 4.75,
+        "timestamp": 1351278000,
+        "volatility": 0
+    },
+    {
+        "actual": 18.4,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "CFTC GBP speculative net positions",
+        "previous": 19.6,
+        "timestamp": 1351279800,
+        "volatility": 1
+    },
+    {
+        "actual": 182.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Gold speculative net positions",
+        "previous": 194.0,
+        "timestamp": 1351279800,
+        "volatility": 1
+    },
+    {
+        "actual": 38.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Silver speculative net positions",
+        "previous": 40.1,
+        "timestamp": 1351279800,
+        "volatility": 0
+    },
+    {
+        "actual": 89.1,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "CFTC CAD speculative net positions",
+        "previous": 93.8,
+        "timestamp": 1351279800,
+        "volatility": 0
+    },
+    {
+        "actual": 132.4,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "CFTC MXN speculative net positions",
+        "previous": 135.5,
+        "timestamp": 1351279800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.4,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "name": "CFTC CHF speculative net positions",
+        "previous": -1.2,
+        "timestamp": 1351279800,
+        "volatility": 0
+    },
+    {
+        "actual": 45.7,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "CFTC AUD speculative net positions",
+        "previous": 38.4,
+        "timestamp": 1351279800,
+        "volatility": 1
+    },
+    {
+        "actual": -18.2,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "CFTC JPY speculative net positions",
+        "previous": 10.1,
+        "timestamp": 1351279800,
+        "volatility": 1
+    },
+    {
+        "actual": 16.3,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "CFTC NZD speculative net positions",
+        "previous": 16.3,
+        "timestamp": 1351279800,
+        "volatility": 0
+    },
+    {
+        "actual": -55.2,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "CFTC EUR speculative net positions",
+        "previous": -53.5,
+        "timestamp": 1351279800,
+        "volatility": 1
+    },
+    {
+        "actual": 186.4,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Crude Oil speculative net positions",
+        "previous": 206.5,
+        "timestamp": 1351283400,
+        "volatility": 1
+    },
+    {
+        "actual": -0.2,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "CFTC RUB speculative positions",
+        "previous": 0.3,
+        "timestamp": 1351283400,
+        "volatility": 1
+    }
+]

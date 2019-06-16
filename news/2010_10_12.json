@@ -1,0 +1,220 @@
+[
+    {
+        "actual": 10.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "NAB Business Confidence",
+        "previous": 11.0,
+        "timestamp": 1286843400,
+        "volatility": 1
+    },
+    {
+        "actual": 41.2,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 43.9,
+        "name": "Household Confidence",
+        "previous": 42.4,
+        "timestamp": 1286859600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": -0.1,
+        "name": "German CPI (MoM)",
+        "previous": -0.1,
+        "timestamp": 1286863200,
+        "volatility": 1
+    },
+    {
+        "actual": 1.0,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.4,
+        "name": "German WPI (MoM)",
+        "previous": 1.6,
+        "timestamp": 1286863200,
+        "volatility": 0
+    },
+    {
+        "actual": 3.8,
+        "country": "Hungary",
+        "currency": "HUF",
+        "forecast": 3.6,
+        "name": "CPI (YoY)",
+        "previous": 3.7,
+        "timestamp": 1286870400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.7,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 2.6,
+        "name": "Core CPI (YoY)",
+        "previous": 2.8,
+        "timestamp": 1286872200,
+        "volatility": 0
+    },
+    {
+        "actual": 3.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 3.1,
+        "name": "CPI (YoY)",
+        "previous": 3.1,
+        "timestamp": 1286872200,
+        "volatility": 2
+    },
+    {
+        "actual": 8.3,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 9.4,
+        "name": "House Price Index (YoY)",
+        "previous": 8.4,
+        "timestamp": 1286872200,
+        "volatility": 0
+    },
+    {
+        "actual": 4.6,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 4.4,
+        "name": "RPI (YoY)",
+        "previous": 4.7,
+        "timestamp": 1286872200,
+        "volatility": 0
+    },
+    {
+        "actual": -8.2,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": -8.0,
+        "name": "Trade Balance",
+        "previous": -8.7,
+        "timestamp": 1286872200,
+        "volatility": 1
+    },
+    {
+        "actual": 1.4,
+        "country": "Sweden",
+        "currency": "SEK",
+        "name": "CPI (YoY)",
+        "previous": 0.9,
+        "timestamp": 1286872200,
+        "volatility": 1
+    },
+    {
+        "actual": 5.6,
+        "country": "India",
+        "currency": "INR",
+        "forecast": 12.5,
+        "name": "Industrial Production (YoY)",
+        "previous": 15.1,
+        "timestamp": 1286872200,
+        "volatility": 0
+    },
+    {
+        "actual": 46.4,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 46.7,
+        "name": "IBD/TIPP Economic Optimism",
+        "previous": 45.3,
+        "timestamp": 1286892000,
+        "volatility": 0
+    },
+    {
+        "actual": 8.1,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 4.6,
+        "name": "Industrial Production (YoY)",
+        "previous": 5.4,
+        "timestamp": 1286895600,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB President Trichet Speaks",
+        "timestamp": 1286900400,
+        "volatility": 2
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Meeting Minutes",
+        "timestamp": 1286906400,
+        "volatility": 2
+    },
+    {
+        "actual": 27.5,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Bloomberg Consumer Confidence",
+        "previous": 26.5,
+        "timestamp": 1286917200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "FPI (MoM)",
+        "previous": -0.1,
+        "timestamp": 1286919900,
+        "volatility": 0
+    },
+    {
+        "actual": 53.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 64.0,
+        "name": "Nationwide Consumer Confidence",
+        "previous": 62.0,
+        "timestamp": 1286924460,
+        "volatility": 1
+    },
+    {
+        "actual": 3.3,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Westpac Consumer Sentiment",
+        "previous": -5.0,
+        "timestamp": 1286926200,
+        "volatility": 1
+    },
+    {
+        "actual": -1.8,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Bank Lending (YoY)",
+        "previous": -1.9,
+        "timestamp": 1286927400,
+        "volatility": 0
+    },
+    {
+        "actual": 10.1,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": -3.7,
+        "name": "Core Machinery Orders (MoM)",
+        "previous": 8.8,
+        "timestamp": 1286927400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.8,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 2.8,
+        "name": "M2 Money Stock (YoY)",
+        "previous": 2.8,
+        "timestamp": 1286927400,
+        "volatility": 0
+    }
+]

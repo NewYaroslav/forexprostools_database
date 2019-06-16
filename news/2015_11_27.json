@@ -1,0 +1,679 @@
+[
+    {
+        "actual": 1.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 2.0,
+        "name": "GfK Consumer Confidence (Nov)",
+        "previous": 2.0,
+        "timestamp": 1448582700,
+        "volatility": 0
+    },
+    {
+        "actual": -4.17,
+        "country": "Thailand",
+        "currency": "THB",
+        "forecast": -3.75,
+        "name": "Industrial Production (YoY) (Oct)",
+        "previous": -3.6,
+        "timestamp": 1448595000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.2,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "BoJ Core CPI (YoY)",
+        "previous": 1.2,
+        "timestamp": 1448600400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.5,
+        "name": "Nationwide HPI (MoM) (Nov)",
+        "previous": 0.5,
+        "timestamp": 1448607600,
+        "volatility": 1
+    },
+    {
+        "actual": 3.7,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 4.2,
+        "name": "Nationwide HPI (YoY) (Nov)",
+        "previous": 3.9,
+        "timestamp": 1448607600,
+        "volatility": 1
+    },
+    {
+        "actual": -0.3,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": -0.2,
+        "name": "German Import Price Index (MoM) (Oct)",
+        "previous": -0.7,
+        "timestamp": 1448607600,
+        "volatility": 0
+    },
+    {
+        "actual": -4.1,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": -3.9,
+        "name": "German Import Price Index (YoY) (Oct)",
+        "previous": -4.0,
+        "timestamp": 1448607600,
+        "volatility": 0
+    },
+    {
+        "actual": 4.7,
+        "country": "Finland",
+        "currency": "EUR",
+        "name": "Finnish Consumer Confidence (Nov)",
+        "previous": 1.3,
+        "timestamp": 1448607600,
+        "volatility": 0
+    },
+    {
+        "actual": -10.0,
+        "country": "Finland",
+        "currency": "EUR",
+        "name": "Finnish Industrial Confidence (Nov)",
+        "previous": -7.0,
+        "timestamp": 1448607600,
+        "volatility": 0
+    },
+    {
+        "actual": 11.5,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Currency Swaps (USD)",
+        "previous": 10.8,
+        "timestamp": 1448609400,
+        "volatility": 0
+    },
+    {
+        "actual": 156.5,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Foreign Reserves (USD)",
+        "previous": 157.3,
+        "timestamp": 1448609400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.7,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": -0.1,
+        "name": "French Consumer Spending (MoM) (Oct)",
+        "previous": 0.1,
+        "timestamp": 1448610300,
+        "volatility": 1
+    },
+    {
+        "actual": 0.2,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French PPI (MoM) (Oct)",
+        "previous": 0.1,
+        "timestamp": 1448610300,
+        "volatility": 0
+    },
+    {
+        "actual": -0.3,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": -0.5,
+        "name": "Spanish CPI (YoY)",
+        "previous": -0.7,
+        "timestamp": 1448611200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.3,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 0.2,
+        "name": "Spanish CPI (MoM) (Nov)",
+        "previous": 0.6,
+        "timestamp": 1448611200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.4,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": -0.6,
+        "name": "Spanish HICP (YoY) (Nov)",
+        "previous": -0.9,
+        "timestamp": 1448611200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.2,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 0.0,
+        "name": "Spanish HICP (MoM)",
+        "previous": 0.3,
+        "timestamp": 1448611200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.63,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": -1.0,
+        "name": "GDP (YoY) (Q3)",
+        "previous": -1.01,
+        "timestamp": 1448611200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Austria",
+        "currency": "EUR",
+        "forecast": 0.3,
+        "name": "Austrian GDP (QoQ) (Q3)",
+        "previous": 0.3,
+        "timestamp": 1448611200,
+        "volatility": 0
+    },
+    {
+        "actual": 4.5,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "name": "GDP (YoY) (Q3)",
+        "previous": 4.3,
+        "timestamp": 1448611200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "name": "GDP (QoQ) (Q3)",
+        "previous": 0.5,
+        "timestamp": 1448611200,
+        "volatility": 0
+    },
+    {
+        "actual": 6.4,
+        "country": "Hungary",
+        "currency": "HUF",
+        "forecast": 6.2,
+        "name": "Quarterly Unemployment Rate (Oct)",
+        "previous": 6.4,
+        "timestamp": 1448611200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.3,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 0.2,
+        "name": "Retail Sales (MoM) (Oct)",
+        "previous": 1.2,
+        "timestamp": 1448613000,
+        "volatility": 0
+    },
+    {
+        "actual": 5.0,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 3.2,
+        "name": "Retail Sales (YoY) (Oct)",
+        "previous": 5.7,
+        "timestamp": 1448613000,
+        "volatility": 0
+    },
+    {
+        "actual": 104.6,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 105.9,
+        "name": "Italian Business Confidence (Nov)",
+        "previous": 105.7,
+        "timestamp": 1448614800,
+        "volatility": 0
+    },
+    {
+        "actual": 118.4,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 116.5,
+        "name": "Italian Consumer Confidence (Nov)",
+        "previous": 117.0,
+        "timestamp": 1448614800,
+        "volatility": 0
+    },
+    {
+        "actual": 51.4,
+        "country": "Austria",
+        "currency": "EUR",
+        "name": "Austrian Manufacturing PMI (Nov)",
+        "previous": 53.0,
+        "timestamp": 1448614800,
+        "volatility": 0
+    },
+    {
+        "actual": 99.38,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 100.5,
+        "name": "Unemployment Change (Nov)",
+        "previous": 98.97,
+        "timestamp": 1448614800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.9,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 2.9,
+        "name": "Unemployment Rate n.s.a. (Nov)",
+        "previous": 2.9,
+        "timestamp": 1448614800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.9,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 0.5,
+        "name": "Core Retail Sales (MoM) (Oct)",
+        "previous": -0.8,
+        "timestamp": 1448614800,
+        "volatility": 0
+    },
+    {
+        "actual": -4.0,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Foreign Arrivals (YoY) (Oct)",
+        "previous": -2.31,
+        "timestamp": 1448614800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.7,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania GDP (YoY) (Q3)",
+        "previous": 1.8,
+        "timestamp": 1448614800,
+        "volatility": 0
+    },
+    {
+        "actual": 5.5,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania Retail Sales (YoY) (Oct)",
+        "previous": 5.9,
+        "timestamp": 1448614800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.9,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania Retail Sales (MoM) (Oct)",
+        "previous": -7.3,
+        "timestamp": 1448614800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.2,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 1.5,
+        "name": "Business Investment (QoQ) (Q3)",
+        "previous": 1.6,
+        "timestamp": 1448616600,
+        "volatility": 1
+    },
+    {
+        "actual": 6.6,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "Business Investment (YoY) (Q3)",
+        "previous": 3.1,
+        "timestamp": 1448616600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.5,
+        "name": "GDP (QoQ) (Q3)",
+        "previous": 0.5,
+        "timestamp": 1448616600,
+        "volatility": 2
+    },
+    {
+        "actual": 2.3,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 2.3,
+        "name": "GDP (YoY) (Q3)",
+        "previous": 2.3,
+        "timestamp": 1448616600,
+        "volatility": 2
+    },
+    {
+        "actual": 0.7,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.8,
+        "name": "Index of Services",
+        "previous": 0.9,
+        "timestamp": 1448616600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.9,
+        "country": "Portugal",
+        "currency": "EUR",
+        "name": "Portuguese Business Confidence (Nov)",
+        "previous": 1.2,
+        "timestamp": 1448616600,
+        "volatility": 0
+    },
+    {
+        "actual": -13.7,
+        "country": "Portugal",
+        "currency": "EUR",
+        "name": "Portuguese Consumer Confidence (Nov)",
+        "previous": -17.4,
+        "timestamp": 1448616720,
+        "volatility": 0
+    },
+    {
+        "actual": 1.52,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 1.5,
+        "name": "IGP-M Inflation Index (MoM) (Nov)",
+        "previous": 1.89,
+        "timestamp": 1448618400,
+        "volatility": 0
+    },
+    {
+        "actual": -1.1,
+        "country": "Greece",
+        "currency": "EUR",
+        "forecast": -0.1,
+        "name": "Greek GDP (YoY) (Q3)",
+        "previous": -0.4,
+        "timestamp": 1448618400,
+        "volatility": 0
+    },
+    {
+        "actual": -9.6,
+        "country": "Greece",
+        "currency": "EUR",
+        "name": "Greek PPI (YoY) (Oct)",
+        "previous": -10.4,
+        "timestamp": 1448618400,
+        "volatility": 0
+    },
+    {
+        "actual": 106.1,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 105.9,
+        "name": "Business and Consumer Survey (Nov)",
+        "previous": 106.1,
+        "timestamp": 1448618400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.4,
+        "name": "Business Climate (Nov)",
+        "previous": 0.4,
+        "timestamp": 1448618400,
+        "volatility": 0
+    },
+    {
+        "actual": -6.0,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -8.0,
+        "name": "Consumer Confidence (Nov)",
+        "previous": -8.0,
+        "timestamp": 1448618400,
+        "volatility": 0
+    },
+    {
+        "actual": 3.7,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "Consumer Inflation Expectation (Nov)",
+        "previous": 0.5,
+        "timestamp": 1448618400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.7,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "Selling Price Expectations (Nov)",
+        "previous": -2.3,
+        "timestamp": 1448618400,
+        "volatility": 0
+    },
+    {
+        "actual": 13.0,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 12.0,
+        "name": "Services Sentiment (Nov)",
+        "previous": 12.0,
+        "timestamp": 1448618400,
+        "volatility": 0
+    },
+    {
+        "actual": -3.0,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -2.0,
+        "name": "Industrial Sentiment (Nov)",
+        "previous": -2.0,
+        "timestamp": 1448618400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.36,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian 10-Year BTP Auction",
+        "previous": 1.48,
+        "timestamp": 1448619900,
+        "volatility": 1
+    },
+    {
+        "actual": 0.51,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian 5-Year BTP Auction",
+        "previous": 0.53,
+        "timestamp": 1448619900,
+        "volatility": 0
+    },
+    {
+        "actual": 1.52,
+        "country": "Belgium",
+        "currency": "EUR",
+        "name": "Belgium CPI (YoY) (Nov)",
+        "previous": 1.28,
+        "timestamp": 1448620200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.11,
+        "country": "Belgium",
+        "currency": "EUR",
+        "name": "Belgium CPI (MoM) (Nov)",
+        "previous": 0.35,
+        "timestamp": 1448620200,
+        "volatility": 0
+    },
+    {
+        "actual": 6.9,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Retail Sales (YoY) (Oct)",
+        "previous": 8.6,
+        "timestamp": 1448622000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.8,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Retail Sales (MoM) (Oct)",
+        "previous": 0.3,
+        "timestamp": 1448622000,
+        "volatility": 0
+    },
+    {
+        "actual": 9.7,
+        "country": "India",
+        "currency": "INR",
+        "name": "Bank Loan Growth",
+        "previous": 9.0,
+        "timestamp": 1448623800,
+        "volatility": 0
+    },
+    {
+        "actual": 11.0,
+        "country": "India",
+        "currency": "INR",
+        "name": "Deposit Growth",
+        "previous": 11.1,
+        "timestamp": 1448623800,
+        "volatility": 0
+    },
+    {
+        "actual": 352.37,
+        "country": "India",
+        "currency": "INR",
+        "name": "FX Reserves, USD",
+        "previous": 352.52,
+        "timestamp": 1448623800,
+        "volatility": 0
+    },
+    {
+        "actual": 9.3,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 9.2,
+        "name": "GfK German Consumer Climate (Dec)",
+        "previous": 9.4,
+        "timestamp": 1448625600,
+        "volatility": 1
+    },
+    {
+        "actual": -0.1,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Bank lending (MoM) (Oct)",
+        "previous": 0.8,
+        "timestamp": 1448627400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.5,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": -0.1,
+        "name": "IPPI (MoM) (Oct)",
+        "previous": -0.4,
+        "timestamp": 1448631000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.4,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "IPPI (YoY) (Oct)",
+        "previous": -0.4,
+        "timestamp": 1448631000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "RMPI (MoM) (Oct)",
+        "previous": 2.4,
+        "timestamp": 1448631000,
+        "volatility": 1
+    },
+    {
+        "actual": -17.5,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "RMPI (YoY) (Oct)",
+        "previous": -21.3,
+        "timestamp": 1448631000,
+        "volatility": 0
+    },
+    {
+        "actual": -1.444,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": -1.785,
+        "name": "Trade Balance (Oct)",
+        "previous": -1.42,
+        "timestamp": 1448632800,
+        "volatility": 0
+    },
+    {
+        "actual": -1.15,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "Trade Balance (USD) (Oct)",
+        "previous": -1.205,
+        "timestamp": 1448632800,
+        "volatility": 0
+    },
+    {
+        "actual": 4.37,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 4.17,
+        "name": "Unemployment Rate (Oct)",
+        "previous": 4.23,
+        "timestamp": 1448632800,
+        "volatility": 0
+    },
+    {
+        "actual": 4.55,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 4.3,
+        "name": "Unemployment Rate n.s.a. (Oct)",
+        "previous": 4.5,
+        "timestamp": 1448632800,
+        "volatility": 0
+    },
+    {
+        "actual": 5.5,
+        "country": "Colombia",
+        "currency": "COP",
+        "forecast": 5.75,
+        "name": "Interest Rate Decision (Nov)",
+        "previous": 5.25,
+        "timestamp": 1448659800,
+        "volatility": 0
+    }
+]

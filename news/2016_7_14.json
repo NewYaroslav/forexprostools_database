@@ -1,0 +1,507 @@
+[
+    {
+        "actual": 2.2,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": 2.2,
+        "name": "GDP (YoY) (Q2)",
+        "previous": 2.1,
+        "timestamp": 1468454400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.8,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": 0.9,
+        "name": "GDP (QoQ) (Q2)",
+        "previous": 0.2,
+        "timestamp": 1468454400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.25,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 1.25,
+        "name": "Interest Rate Decision (Jul)",
+        "previous": 1.25,
+        "timestamp": 1468458000,
+        "volatility": 0
+    },
+    {
+        "actual": 3.7,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "MI Inflation Expectations",
+        "previous": 3.5,
+        "timestamp": 1468458000,
+        "volatility": 0
+    },
+    {
+        "actual": 7.9,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 10.0,
+        "name": "Employment Change (Jun)",
+        "previous": 19.2,
+        "timestamp": 1468459800,
+        "volatility": 2
+    },
+    {
+        "actual": 38.4,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Full Employment Change (Jun)",
+        "previous": 2.5,
+        "timestamp": 1468459800,
+        "volatility": 1
+    },
+    {
+        "actual": 3.1,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "New Motor Vehicle Sales (MoM) (Jun)",
+        "previous": -1.1,
+        "timestamp": 1468459800,
+        "volatility": 0
+    },
+    {
+        "actual": 64.9,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 64.8,
+        "name": "Participation Rate (Jun)",
+        "previous": 64.8,
+        "timestamp": 1468459800,
+        "volatility": 0
+    },
+    {
+        "actual": 5.8,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 5.8,
+        "name": "Unemployment Rate (Jun)",
+        "previous": 5.7,
+        "timestamp": 1468459800,
+        "volatility": 1
+    },
+    {
+        "actual": 64.4,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "RBNZ Offshore Holdings (Jun)",
+        "previous": 65.2,
+        "timestamp": 1468465200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Finland",
+        "currency": "EUR",
+        "forecast": -0.2,
+        "name": "Finnish CPI (YoY) (Jun)",
+        "previous": 0.3,
+        "timestamp": 1468476000,
+        "volatility": 0
+    },
+    {
+        "actual": 8.18,
+        "country": "India",
+        "currency": "INR",
+        "name": "WPI Food (YoY) (Jun)",
+        "previous": 7.88,
+        "timestamp": 1468477800,
+        "volatility": 0
+    },
+    {
+        "actual": -3.62,
+        "country": "India",
+        "currency": "INR",
+        "name": "WPI Fuel (YoY) (Jun)",
+        "previous": -6.14,
+        "timestamp": 1468477800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.62,
+        "country": "India",
+        "currency": "INR",
+        "forecast": 1.19,
+        "name": "WPI Inflation (YoY) (Jun)",
+        "previous": 0.79,
+        "timestamp": 1468477800,
+        "volatility": 1
+    },
+    {
+        "actual": 1.17,
+        "country": "India",
+        "currency": "INR",
+        "name": "WPI Manufacturing Inflation (YoY) (Jun)",
+        "previous": 0.91,
+        "timestamp": 1468477800,
+        "volatility": 0
+    },
+    {
+        "actual": -2.86,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": -2.81,
+        "name": "Current Account (USD) (May)",
+        "previous": -2.96,
+        "timestamp": 1468479600,
+        "volatility": 0
+    },
+    {
+        "actual": 5.6,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 1.0,
+        "name": "Industrial Production (YoY) (May)",
+        "previous": 0.7,
+        "timestamp": 1468479600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.0,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": -1.0,
+        "name": "PPI (YoY) (Jun)",
+        "previous": -1.2,
+        "timestamp": 1468480500,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 0.2,
+        "name": "PPI (MoM) (Jun)",
+        "previous": 0.4,
+        "timestamp": 1468480500,
+        "volatility": 1
+    },
+    {
+        "actual": 0.82,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": -6.5,
+        "name": "Current Account (May)",
+        "previous": 0.88,
+        "timestamp": 1468483200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.2,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": -0.6,
+        "name": "Gold Production (YoY) (May)",
+        "previous": -1.9,
+        "timestamp": 1468488600,
+        "volatility": 0
+    },
+    {
+        "actual": -4.4,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": -4.6,
+        "name": "Mining Production (May)",
+        "previous": -7.7,
+        "timestamp": 1468488600,
+        "volatility": 0
+    },
+    {
+        "actual": 109.8,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "name": "FX Reserves (USD) (Jun)",
+        "previous": 103.6,
+        "timestamp": 1468489200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "Ireland",
+        "currency": "EUR",
+        "forecast": 0.5,
+        "name": "Irish CPI (MoM) (Jun)",
+        "previous": 0.5,
+        "timestamp": 1468490400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Ireland",
+        "currency": "EUR",
+        "forecast": -0.2,
+        "name": "Irish CPI (YoY) (Jun)",
+        "previous": 0.0,
+        "timestamp": 1468490400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish HICP (MoM) (Jun)",
+        "previous": 0.5,
+        "timestamp": 1468490400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish HICP (YoY) (Jun)",
+        "previous": -0.2,
+        "timestamp": 1468490400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 3.0,
+        "name": "BoE MPC vote cut (Jul)",
+        "previous": 0.0,
+        "timestamp": 1468494000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.0,
+        "name": "BoE MPC vote hike (Jul)",
+        "previous": 0.0,
+        "timestamp": 1468494000,
+        "volatility": 1
+    },
+    {
+        "actual": 8.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 6.0,
+        "name": "BoE MPC vote unchanged (Jul)",
+        "previous": 9.0,
+        "timestamp": 1468494000,
+        "volatility": 1
+    },
+    {
+        "actual": 375.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 375.0,
+        "name": "BoE QE Total (Jul)",
+        "previous": 375.0,
+        "timestamp": 1468494000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.5,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.25,
+        "name": "BoE Interest Rate Decision (Jul)",
+        "previous": 0.5,
+        "timestamp": 1468494000,
+        "volatility": 2
+    },
+    {
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BoE MPC Meeting Minutes",
+        "timestamp": 1468494000,
+        "volatility": 2
+    },
+    {
+        "actual": -0.51,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": -0.02,
+        "name": "IBC-Br Economic Activity (May)",
+        "previous": 0.03,
+        "timestamp": 1468495800,
+        "volatility": 0
+    },
+    {
+        "actual": 7.81,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "End Year CPI Forecast (Jul)",
+        "previous": 7.64,
+        "timestamp": 1468495800,
+        "volatility": 0
+    },
+    {
+        "actual": 495.0,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 442.0,
+        "name": "Current Account (EUR) (May)",
+        "previous": 563.0,
+        "timestamp": 1468497600,
+        "volatility": 0
+    },
+    {
+        "actual": 11.4,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 11.5,
+        "name": "M3 Money Supply (MoM) (Jun)",
+        "previous": 11.5,
+        "timestamp": 1468497600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.0,
+        "name": "Continuing Jobless Claims",
+        "previous": 2.0,
+        "timestamp": 1468499400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.3,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.0,
+        "name": "Core PPI (YoY) (Jun)",
+        "previous": 1.2,
+        "timestamp": 1468499400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.1,
+        "name": "Core PPI (MoM) (Jun)",
+        "previous": 0.3,
+        "timestamp": 1468499400,
+        "volatility": 1
+    },
+    {
+        "actual": 254.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 265.0,
+        "name": "Initial Jobless Claims",
+        "previous": 254.0,
+        "timestamp": 1468499400,
+        "volatility": 1
+    },
+    {
+        "actual": 259.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Jobless Claims 4-Week Avg.",
+        "previous": 264.75,
+        "timestamp": 1468499400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.3,
+        "name": "PPI (MoM) (Jun)",
+        "previous": 0.4,
+        "timestamp": 1468499400,
+        "volatility": 2
+    },
+    {
+        "actual": 0.3,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.1,
+        "name": "PPI (YoY) (Jun)",
+        "previous": -0.1,
+        "timestamp": 1468499400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.2,
+        "name": "New Housing Price Index (MoM) (May)",
+        "previous": 0.3,
+        "timestamp": 1468499400,
+        "volatility": 1
+    },
+    {
+        "actual": 394.7,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "Central Bank reserves (USD)",
+        "previous": 393.7,
+        "timestamp": 1468501200,
+        "volatility": 1
+    },
+    {
+        "actual": 44.7,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Bloomberg Consumer Confidence",
+        "previous": 43.5,
+        "timestamp": 1468503900,
+        "volatility": 0
+    },
+    {
+        "actual": 64.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 59.0,
+        "name": "Natural Gas Storage",
+        "previous": 39.0,
+        "timestamp": 1468506600,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Lockhart Speaks",
+        "timestamp": 1468509300,
+        "volatility": 1
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member George Speaks",
+        "timestamp": 1468516500,
+        "volatility": 1
+    },
+    {
+        "actual": 3.5,
+        "country": "Chile",
+        "currency": "CLP",
+        "forecast": 3.5,
+        "name": "Interest Rate Decision (Jul)",
+        "previous": 3.5,
+        "timestamp": 1468533600,
+        "volatility": 0
+    },
+    {
+        "country": "Egypt",
+        "currency": "EGP",
+        "name": "M2 Money Supply (YoY) (May)",
+        "previous": 18.0,
+        "timestamp": 1468533600,
+        "volatility": 0
+    },
+    {
+        "actual": 4.25,
+        "country": "Peru",
+        "currency": "PEN",
+        "forecast": 4.25,
+        "name": "Interest Rate Decision (Jul)",
+        "previous": 4.25,
+        "timestamp": 1468537200,
+        "volatility": 0
+    }
+]

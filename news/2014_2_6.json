@@ -1,0 +1,437 @@
+[
+    {
+        "actual": 4.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Exports (MoM)",
+        "previous": 0.0,
+        "timestamp": 1391646600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Imports (MoM)",
+        "previous": -1.0,
+        "timestamp": 1391646600,
+        "volatility": 0
+    },
+    {
+        "actual": 8.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "NAB Quarterly Business Confidence",
+        "previous": 5.0,
+        "timestamp": 1391646600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.5,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.4,
+        "name": "Retail Sales (MoM)",
+        "previous": 0.7,
+        "timestamp": 1391646600,
+        "volatility": 2
+    },
+    {
+        "actual": 0.468,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": -0.3,
+        "name": "Trade Balance",
+        "previous": 0.083,
+        "timestamp": 1391646600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.76,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": 0.7,
+        "name": "CPI (YoY)",
+        "previous": 0.34,
+        "timestamp": 1391646600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.13,
+        "country": "Colombia",
+        "currency": "COP",
+        "forecast": 2.2,
+        "name": "CPI (YoY)",
+        "previous": 1.94,
+        "timestamp": 1391648400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.587,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "30-Year JGB Auction",
+        "previous": 1.665,
+        "timestamp": 1391658300,
+        "volatility": 0
+    },
+    {
+        "actual": 71.5,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Consumer Confidence",
+        "previous": 73.4,
+        "timestamp": 1391659200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 1.0,
+        "name": "SECO Consumer Climate",
+        "previous": -5.0,
+        "timestamp": 1391669100,
+        "volatility": 1
+    },
+    {
+        "actual": 0.503,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 2.41,
+        "name": "Trade Balance",
+        "previous": 2.033,
+        "timestamp": 1391670000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 1.0,
+        "name": "Halifax House Price Index (MoM)",
+        "previous": -0.5,
+        "timestamp": 1391673600,
+        "volatility": 1
+    },
+    {
+        "actual": 7.3,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 7.2,
+        "name": "Halifax House Price Index (YoY)",
+        "previous": 7.5,
+        "timestamp": 1391673600,
+        "volatility": 1
+    },
+    {
+        "actual": 3.5,
+        "country": "Philippines",
+        "currency": "PHP",
+        "forecast": 3.5,
+        "name": "Interest Rate Decision",
+        "previous": 3.5,
+        "timestamp": 1391673600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.4,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "name": "Construction Output (YoY)",
+        "previous": -9.3,
+        "timestamp": 1391673600,
+        "volatility": 0
+    },
+    {
+        "actual": 6.8,
+        "country": "Hungary",
+        "currency": "HUF",
+        "forecast": 6.7,
+        "name": "Industrial Output (YoY)",
+        "previous": 3.8,
+        "timestamp": 1391673600,
+        "volatility": 0
+    },
+    {
+        "actual": 50.5,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "Retail PMI",
+        "previous": 47.7,
+        "timestamp": 1391677800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.562,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 3-Year Bonos Auction",
+        "previous": 1.595,
+        "timestamp": 1391680200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.254,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 5-Year Bonos Auction",
+        "previous": 2.382,
+        "timestamp": 1391680200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.25,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 10-Year OAT Auction",
+        "previous": 2.51,
+        "timestamp": 1391680800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.66,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 15-Year OAT Auction",
+        "previous": 2.81,
+        "timestamp": 1391680800,
+        "volatility": 0
+    },
+    {
+        "actual": 4.0,
+        "country": "Israel",
+        "currency": "ILS",
+        "name": "Budget Balance",
+        "previous": -13.0,
+        "timestamp": 1391681700,
+        "volatility": 0
+    },
+    {
+        "actual": -0.5,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.4,
+        "name": "German Factory Orders (MoM)",
+        "previous": 2.4,
+        "timestamp": 1391684400,
+        "volatility": 1
+    },
+    {
+        "actual": 375.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 375.0,
+        "name": "BoE QE Total",
+        "previous": 375.0,
+        "timestamp": 1391688000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.5,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.5,
+        "name": "BoE Interest Rate Decision",
+        "previous": 0.5,
+        "timestamp": 1391688000,
+        "volatility": 2
+    },
+    {
+        "actual": 0.05,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": 0.05,
+        "name": "Interest Rate Decision",
+        "previous": 0.05,
+        "timestamp": 1391688000,
+        "volatility": 0
+    },
+    {
+        "actual": 11.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Challenger Job Cuts (YoY)",
+        "previous": -5.9,
+        "timestamp": 1391689800,
+        "volatility": 0
+    },
+    {
+        "actual": 45.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Challenger Job Cuts",
+        "previous": 30.6,
+        "timestamp": 1391689800,
+        "volatility": 0
+    },
+    {
+        "actual": -11.7,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Auto Sales (MoM)",
+        "previous": 16.8,
+        "timestamp": 1391689800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.25,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.25,
+        "name": "ECB Interest Rate Decision",
+        "previous": 0.25,
+        "timestamp": 1391690700,
+        "volatility": 2
+    },
+    {
+        "actual": 2.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.0,
+        "name": "Continuing Jobless Claims",
+        "previous": 2.0,
+        "timestamp": 1391693400,
+        "volatility": 0
+    },
+    {
+        "actual": 331.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 335.0,
+        "name": "Initial Jobless Claims",
+        "previous": 351.0,
+        "timestamp": 1391693400,
+        "volatility": 1
+    },
+    {
+        "actual": 334.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Jobless Claims 4-Week Avg.",
+        "previous": 333.75,
+        "timestamp": 1391693400,
+        "volatility": 0
+    },
+    {
+        "actual": 3.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.5,
+        "name": "Nonfarm Productivity (QoQ)",
+        "previous": 3.6,
+        "timestamp": 1391693400,
+        "volatility": 1
+    },
+    {
+        "actual": -38.7,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -36.0,
+        "name": "Trade Balance",
+        "previous": -34.56,
+        "timestamp": 1391693400,
+        "volatility": 1
+    },
+    {
+        "actual": -1.6,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.5,
+        "name": "Unit Labor Costs (QoQ)",
+        "previous": -2.0,
+        "timestamp": 1391693400,
+        "volatility": 1
+    },
+    {
+        "actual": 39.72,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 40.0,
+        "name": "Exports",
+        "previous": 39.36,
+        "timestamp": 1391693400,
+        "volatility": 0
+    },
+    {
+        "actual": 41.38,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 41.0,
+        "name": "Imports",
+        "previous": 40.9,
+        "timestamp": 1391693400,
+        "volatility": 0
+    },
+    {
+        "actual": -1.66,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": -1.0,
+        "name": "Trade Balance",
+        "previous": -1.53,
+        "timestamp": 1391693400,
+        "volatility": 1
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB Press Conference",
+        "timestamp": 1391693400,
+        "volatility": 2
+    },
+    {
+        "actual": 33.45,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Bloomberg Consumer Confidence",
+        "previous": 34.1,
+        "timestamp": 1391697900,
+        "volatility": 0
+    },
+    {
+        "actual": 56.8,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 51.0,
+        "name": "Ivey PMI",
+        "previous": 46.3,
+        "timestamp": 1391698800,
+        "volatility": 2
+    },
+    {
+        "actual": -262.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -270.0,
+        "name": "Natural Gas Storage",
+        "previous": -230.0,
+        "timestamp": 1391700600,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Rosengren Speaks",
+        "timestamp": 1391725800,
+        "volatility": 1
+    },
+    {
+        "actual": 48.2,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "AIG Construction Index",
+        "previous": 50.8,
+        "timestamp": 1391725800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Foreign Reserves (USD)",
+        "previous": 1.0,
+        "timestamp": 1391730600,
+        "volatility": 0
+    }
+]

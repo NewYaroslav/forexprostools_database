@@ -1,0 +1,163 @@
+[
+    {
+        "actual": -1.2,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 0.4,
+        "name": "French Consumer Spending (MoM)",
+        "previous": 1.5,
+        "timestamp": 1253688300,
+        "volatility": 1
+    },
+    {
+        "actual": -1.0,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 0.0,
+        "name": "French Consumer Spending (MoM)",
+        "previous": -1.2,
+        "timestamp": 1253688600,
+        "volatility": 1
+    },
+    {
+        "actual": 52.5,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 51.4,
+        "name": "French Manufacturing PMI",
+        "previous": 50.8,
+        "timestamp": 1253689200,
+        "volatility": 1
+    },
+    {
+        "actual": 52.2,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 50.1,
+        "name": "French Services PMI",
+        "previous": 49.3,
+        "timestamp": 1253689200,
+        "volatility": 1
+    },
+    {
+        "actual": 49.6,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 51.0,
+        "name": "German Manufacturing PMI",
+        "previous": 49.2,
+        "timestamp": 1253691000,
+        "volatility": 2
+    },
+    {
+        "actual": 52.2,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 54.0,
+        "name": "German Services PMI",
+        "previous": 53.8,
+        "timestamp": 1253691000,
+        "volatility": 1
+    },
+    {
+        "actual": 49.0,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 49.8,
+        "name": "Manufacturing PMI",
+        "previous": 48.2,
+        "timestamp": 1253692800,
+        "volatility": 1
+    },
+    {
+        "actual": 50.6,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 50.5,
+        "name": "Services PMI",
+        "previous": 49.9,
+        "timestamp": 1253692800,
+        "volatility": 1
+    },
+    {
+        "actual": 38.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 41.1,
+        "name": "Gross Mortgage Approvals",
+        "previous": 38.2,
+        "timestamp": 1253694600,
+        "volatility": 1
+    },
+    {
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BoE MPC Meeting Minutes",
+        "timestamp": 1253694600,
+        "volatility": 2
+    },
+    {
+        "actual": 2.6,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 2.2,
+        "name": "Industrial New Orders (MoM)",
+        "previous": 4.0,
+        "timestamp": 1253696400,
+        "volatility": 1
+    },
+    {
+        "actual": 12.8,
+        "country": "United States",
+        "currency": "USD",
+        "name": "MBA Mortgage Applications (WoW)",
+        "previous": -8.6,
+        "timestamp": 1253703600,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "Treasury Secretary Geithner Speaks",
+        "timestamp": 1253712600,
+        "volatility": 1
+    },
+    {
+        "actual": 2.8,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Crude Oil Inventories",
+        "previous": -4.7,
+        "timestamp": 1253716200,
+        "volatility": 2
+    },
+    {
+        "actual": 0.25,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.25,
+        "name": "Fed Interest Rate Decision",
+        "previous": 0.25,
+        "timestamp": 1253729700,
+        "volatility": 2
+    },
+    {
+        "actual": 120.3,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "Westpac Consumer Sentiment",
+        "previous": 106.0,
+        "timestamp": 1253743200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.24,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 0.19,
+        "name": "Adjusted Trade Balance",
+        "previous": 0.22,
+        "timestamp": 1253749800,
+        "volatility": 1
+    }
+]

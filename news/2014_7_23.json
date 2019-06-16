@@ -1,0 +1,435 @@
+[
+    {
+        "actual": 0.5,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.6,
+        "name": "CPI (QoQ) (Q2)",
+        "previous": 0.6,
+        "timestamp": 1406079000,
+        "volatility": 2
+    },
+    {
+        "actual": 3.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 3.1,
+        "name": "CPI (YoY) (Q2)",
+        "previous": 2.9,
+        "timestamp": 1406079000,
+        "volatility": 1
+    },
+    {
+        "actual": 105.9,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "CPI Index Number (Q2)",
+        "previous": 105.4,
+        "timestamp": 1406079000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.8,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.6,
+        "name": "Trimmed Mean CPI (QoQ) (Q2)",
+        "previous": 0.6,
+        "timestamp": 1406079000,
+        "volatility": 1
+    },
+    {
+        "actual": 2.9,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 2.7,
+        "name": "Trimmed Mean CPI (YoY) (Q2)",
+        "previous": 2.6,
+        "timestamp": 1406079000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.6,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.6,
+        "name": "Weighted mean CPI (QoQ) (Q2)",
+        "previous": 0.6,
+        "timestamp": 1406079000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.7,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 2.7,
+        "name": "Weighted mean CPI (YoY) (Q2)",
+        "previous": 2.7,
+        "timestamp": 1406079000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.8,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": 2.4,
+        "name": "CPI (YoY)",
+        "previous": 2.7,
+        "timestamp": 1406091600,
+        "volatility": 1
+    },
+    {
+        "actual": 97.0,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 98.0,
+        "name": "French Business Survey",
+        "previous": 97.0,
+        "timestamp": 1406097900,
+        "volatility": 0
+    },
+    {
+        "actual": 10.6,
+        "country": "Denmark",
+        "currency": "DKK",
+        "name": "Consumer Confidence",
+        "previous": 9.3,
+        "timestamp": 1406098800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "forecast": -1.4,
+        "name": "Dutch Consumer Spending",
+        "previous": -0.2,
+        "timestamp": 1406100600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.15,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian Trade Balance Non-EU",
+        "previous": 2.45,
+        "timestamp": 1406102400,
+        "volatility": 0
+    },
+    {
+        "actual": 8.63,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": 7.2,
+        "name": "Industrial Production (YoY)",
+        "previous": 5.42,
+        "timestamp": 1406102400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.2,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 4.1,
+        "name": "Retail Sales (YoY)",
+        "previous": 3.8,
+        "timestamp": 1406102400,
+        "volatility": 1
+    },
+    {
+        "actual": 12.0,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 12.1,
+        "name": "Unemployment Rate",
+        "previous": 12.5,
+        "timestamp": 1406102400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.3,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": 0.4,
+        "name": "CPI (MoM)",
+        "previous": 0.2,
+        "timestamp": 1406102400,
+        "volatility": 1
+    },
+    {
+        "actual": 43.3,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 43.4,
+        "name": "Gross Mortgage Approvals",
+        "previous": 41.9,
+        "timestamp": 1406104200,
+        "volatility": 1
+    },
+    {
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BoE MPC Meeting Minutes",
+        "timestamp": 1406104200,
+        "volatility": 2
+    },
+    {
+        "actual": 12.8,
+        "country": "India",
+        "currency": "INR",
+        "name": "M3 Money Supply",
+        "previous": 12.2,
+        "timestamp": 1406107800,
+        "volatility": 0
+    },
+    {
+        "actual": 21.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 16.0,
+        "name": "CBI Distributive Trades Survey",
+        "previous": 4.0,
+        "timestamp": 1406109600,
+        "volatility": 0
+    },
+    {
+        "actual": 4.33,
+        "country": "United States",
+        "currency": "USD",
+        "name": "MBA 30-Year Mortgage Rate",
+        "previous": 4.33,
+        "timestamp": 1406113200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.4,
+        "country": "United States",
+        "currency": "USD",
+        "name": "MBA Mortgage Applications (WoW)",
+        "previous": -3.6,
+        "timestamp": 1406113200,
+        "volatility": 0
+    },
+    {
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BoE Gov Carney Speaks",
+        "timestamp": 1406115900,
+        "volatility": 2
+    },
+    {
+        "actual": 0.1,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.3,
+        "name": "Core Retail Sales (MoM)",
+        "previous": 0.8,
+        "timestamp": 1406118600,
+        "volatility": 2
+    },
+    {
+        "actual": 0.7,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.6,
+        "name": "Retail Sales (MoM)",
+        "previous": 1.3,
+        "timestamp": 1406118600,
+        "volatility": 1
+    },
+    {
+        "actual": -8.4,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -7.5,
+        "name": "Consumer Confidence",
+        "previous": -7.5,
+        "timestamp": 1406124000,
+        "volatility": 0
+    },
+    {
+        "actual": -3.969,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -2.786,
+        "name": "Crude Oil Inventories",
+        "previous": -7.525,
+        "timestamp": 1406125800,
+        "volatility": 2
+    },
+    {
+        "actual": 1.636,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.057,
+        "name": "EIA Weekly Distillates Stocks",
+        "previous": 2.528,
+        "timestamp": 1406125800,
+        "volatility": 0
+    },
+    {
+        "actual": 3.379,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.3,
+        "name": "Gasoline Inventories",
+        "previous": 0.171,
+        "timestamp": 1406125800,
+        "volatility": 0
+    },
+    {
+        "actual": -4.04,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Foreign Exchange Flows",
+        "timestamp": 1406129400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "Argentina",
+        "currency": "ARS",
+        "forecast": 1.0,
+        "name": "Trade Balance",
+        "previous": 1.0,
+        "timestamp": 1406142000,
+        "volatility": 0
+    },
+    {
+        "actual": 3.5,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 3.5,
+        "name": "RBNZ Interest Rate Decision",
+        "previous": 3.25,
+        "timestamp": 1406149200,
+        "volatility": 2
+    },
+    {
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "RBNZ Rate Statement",
+        "timestamp": 1406149200,
+        "volatility": 2
+    },
+    {
+        "actual": 2.0,
+        "country": "Colombia",
+        "currency": "COP",
+        "forecast": 5.0,
+        "name": "Industrial Production (YoY)",
+        "previous": -2.2,
+        "timestamp": 1406149500,
+        "volatility": 0
+    },
+    {
+        "actual": 4.19,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 4.28,
+        "name": "Exports",
+        "previous": 4.6,
+        "timestamp": 1406155500,
+        "volatility": 0
+    },
+    {
+        "actual": 3.95,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 4.1,
+        "name": "Imports",
+        "previous": 4.32,
+        "timestamp": 1406155500,
+        "volatility": 0
+    },
+    {
+        "actual": 247.0,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 150.0,
+        "name": "Trade Balance (MoM)",
+        "previous": 285.0,
+        "timestamp": 1406155500,
+        "volatility": 1
+    },
+    {
+        "actual": 1.0,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 1.0,
+        "name": "Trade Balance (YoY)",
+        "previous": 1.0,
+        "timestamp": 1406155500,
+        "volatility": 1
+    },
+    {
+        "actual": 3.6,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 3.6,
+        "name": "GDP (YoY) (Q2)",
+        "previous": 3.9,
+        "timestamp": 1406156400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.6,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 0.7,
+        "name": "GDP (QoQ) (Q2)",
+        "previous": 0.9,
+        "timestamp": 1406156400,
+        "volatility": 0
+    },
+    {
+        "actual": -1.08,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": -1.11,
+        "name": "Adjusted Trade Balance",
+        "previous": -0.86,
+        "timestamp": 1406159400,
+        "volatility": 1
+    },
+    {
+        "actual": 3.6,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 3.6,
+        "name": "Corporate Services Price Index (CSPI) (YoY)",
+        "previous": 3.6,
+        "timestamp": 1406159400,
+        "volatility": 0
+    },
+    {
+        "actual": -2.0,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 1.0,
+        "name": "Exports (YoY)",
+        "previous": -2.7,
+        "timestamp": 1406159400,
+        "volatility": 1
+    },
+    {
+        "actual": 8.4,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 8.4,
+        "name": "Imports (YoY)",
+        "previous": -3.6,
+        "timestamp": 1406159400,
+        "volatility": 0
+    },
+    {
+        "actual": -822.0,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": -643.0,
+        "name": "Trade Balance",
+        "previous": -909.0,
+        "timestamp": 1406159400,
+        "volatility": 1
+    }
+]

@@ -1,0 +1,617 @@
+[
+    {
+        "actual": -1.8,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": -1.8,
+        "name": "BRC Shop Price Index (YoY)",
+        "previous": -1.9,
+        "timestamp": 1446595260,
+        "volatility": 0
+    },
+    {
+        "actual": 3.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Exports (MoM) (Sep)",
+        "previous": 0.0,
+        "timestamp": 1446597000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Imports (MoM) (Sep)",
+        "previous": 1.0,
+        "timestamp": 1446597000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.4,
+        "name": "Retail Sales (MoM) (Sep)",
+        "previous": 0.4,
+        "timestamp": 1446597000,
+        "volatility": 2
+    },
+    {
+        "actual": 0.6,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.7,
+        "name": "Retail Sales (QoQ) (Q3)",
+        "previous": 0.7,
+        "timestamp": 1446597000,
+        "volatility": 0
+    },
+    {
+        "actual": -2.317,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": -3.0,
+        "name": "Trade Balance (Sep)",
+        "previous": -2.711,
+        "timestamp": 1446597000,
+        "volatility": 1
+    },
+    {
+        "actual": 52.0,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 50.8,
+        "name": "Caixin Services PMI (Oct)",
+        "previous": 50.5,
+        "timestamp": 1446601500,
+        "volatility": 1
+    },
+    {
+        "actual": 46.6,
+        "country": "Hong Kong",
+        "currency": "HKD",
+        "name": "Manufacturing PMI (Oct)",
+        "previous": 45.7,
+        "timestamp": 1446604200,
+        "volatility": 0
+    },
+    {
+        "actual": 53.2,
+        "country": "India",
+        "currency": "INR",
+        "name": "Nikkei Services PMI (Oct)",
+        "previous": 51.3,
+        "timestamp": 1446613200,
+        "volatility": 0
+    },
+    {
+        "actual": 41.5,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 41.1,
+        "name": "Household Confidence (Oct)",
+        "previous": 40.6,
+        "timestamp": 1446613200,
+        "volatility": 0
+    },
+    {
+        "actual": 60.1,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Services PMI (Oct)",
+        "previous": 62.4,
+        "timestamp": 1446616800,
+        "volatility": 0
+    },
+    {
+        "actual": 47.5,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "name": "South Africa Standard Bank PMI (Oct)",
+        "previous": 47.9,
+        "timestamp": 1446621300,
+        "volatility": 0
+    },
+    {
+        "actual": 57.5,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 55.5,
+        "name": "Services PMI (MoM) (Oct)",
+        "previous": 57.0,
+        "timestamp": 1446622200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.5,
+        "country": "Thailand",
+        "currency": "THB",
+        "forecast": 1.5,
+        "name": "Interest Rate Decision",
+        "previous": 1.5,
+        "timestamp": 1446622200,
+        "volatility": 1
+    },
+    {
+        "actual": 55.9,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 55.3,
+        "name": "Spanish Services PMI (Oct)",
+        "previous": 55.1,
+        "timestamp": 1446624900,
+        "volatility": 1
+    },
+    {
+        "actual": 53.4,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 53.6,
+        "name": "Italian Services PMI (Oct)",
+        "previous": 53.3,
+        "timestamp": 1446626700,
+        "volatility": 1
+    },
+    {
+        "actual": 52.6,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 52.3,
+        "name": "French Markit Composite PMI (Oct)",
+        "previous": 52.3,
+        "timestamp": 1446627000,
+        "volatility": 0
+    },
+    {
+        "actual": 52.7,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 52.3,
+        "name": "French Services PMI (Oct)",
+        "previous": 52.3,
+        "timestamp": 1446627000,
+        "volatility": 1
+    },
+    {
+        "actual": 54.2,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 54.5,
+        "name": "German Composite PMI (Oct)",
+        "previous": 54.5,
+        "timestamp": 1446627300,
+        "volatility": 0
+    },
+    {
+        "actual": 54.5,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 55.2,
+        "name": "German Services PMI (Oct)",
+        "previous": 55.2,
+        "timestamp": 1446627300,
+        "volatility": 1
+    },
+    {
+        "actual": 6.5,
+        "country": "Iceland",
+        "currency": "ISK",
+        "forecast": 6.25,
+        "name": "Interest Rate Decision",
+        "previous": 6.5,
+        "timestamp": 1446627300,
+        "volatility": 0
+    },
+    {
+        "actual": 5.6,
+        "country": "Norway",
+        "currency": "NOK",
+        "name": "House Price Index (YoY) (Oct)",
+        "previous": 6.9,
+        "timestamp": 1446627600,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB President Draghi Speaks",
+        "timestamp": 1446627600,
+        "volatility": 2
+    },
+    {
+        "actual": 53.9,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 54.0,
+        "name": "Markit Composite PMI (Oct)",
+        "previous": 54.0,
+        "timestamp": 1446627600,
+        "volatility": 1
+    },
+    {
+        "actual": 54.1,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 54.2,
+        "name": "Services PMI (Oct)",
+        "previous": 54.2,
+        "timestamp": 1446627600,
+        "volatility": 1
+    },
+    {
+        "actual": 54.9,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 54.5,
+        "name": "Services PMI (Oct)",
+        "previous": 53.3,
+        "timestamp": 1446629400,
+        "volatility": 2
+    },
+    {
+        "actual": 88.4,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "name": "Business Confidence (Oct)",
+        "previous": 81.6,
+        "timestamp": 1446629400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.3,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -0.4,
+        "name": "PPI (MoM) (Sep)",
+        "previous": -0.8,
+        "timestamp": 1446631200,
+        "volatility": 0
+    },
+    {
+        "actual": -3.1,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -3.3,
+        "name": "PPI (YoY) (Sep)",
+        "previous": -2.6,
+        "timestamp": 1446631200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.97,
+        "country": "Greece",
+        "currency": "EUR",
+        "name": "Greece 6-month T-bill Auction",
+        "previous": 2.97,
+        "timestamp": 1446632100,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Brainard Speaks",
+        "timestamp": 1446633000,
+        "volatility": 1
+    },
+    {
+        "actual": 12.7,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "name": "M2 Money Supply (YoY) (Sep)",
+        "previous": 13.3,
+        "timestamp": 1446633000,
+        "volatility": 0
+    },
+    {
+        "actual": -10.9,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": -11.4,
+        "name": "Industrial Production (YoY) (Sep)",
+        "previous": -8.8,
+        "timestamp": 1446634800,
+        "volatility": 1
+    },
+    {
+        "actual": -1.3,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": -1.5,
+        "name": "Industrial Production (MoM) (Sep)",
+        "previous": -0.9,
+        "timestamp": 1446634800,
+        "volatility": 0
+    },
+    {
+        "actual": 11.9,
+        "country": "Portugal",
+        "currency": "EUR",
+        "name": "Portuguese Unemployment Rate (Q3)",
+        "previous": 11.9,
+        "timestamp": 1446634800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.5,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 1.5,
+        "name": "Interest Rate Decision (Nov)",
+        "previous": 1.5,
+        "timestamp": 1446634800,
+        "volatility": 1
+    },
+    {
+        "actual": 4.01,
+        "country": "United States",
+        "currency": "USD",
+        "name": "MBA 30-Year Mortgage Rate",
+        "previous": 3.98,
+        "timestamp": 1446638400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.8,
+        "country": "United States",
+        "currency": "USD",
+        "name": "MBA Mortgage Applications (WoW)",
+        "previous": -3.5,
+        "timestamp": 1446638400,
+        "volatility": 0
+    },
+    {
+        "actual": 190.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "MBA Purchase Index",
+        "previous": 191.2,
+        "timestamp": 1446638400,
+        "volatility": 0
+    },
+    {
+        "actual": 414.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Mortgage Market Index",
+        "previous": 417.4,
+        "timestamp": 1446638400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Mortgage Refinance Index",
+        "previous": 1.0,
+        "timestamp": 1446638400,
+        "volatility": 0
+    },
+    {
+        "actual": 101.3,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Consumer Confidence (Oct)",
+        "previous": 100.6,
+        "timestamp": 1446638400,
+        "volatility": 0
+    },
+    {
+        "actual": 182.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 180.0,
+        "name": "ADP Nonfarm Employment Change (Oct)",
+        "previous": 190.0,
+        "timestamp": 1446642900,
+        "volatility": 2
+    },
+    {
+        "actual": -40.81,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -41.1,
+        "name": "Trade Balance (Sep)",
+        "previous": -48.02,
+        "timestamp": 1446643800,
+        "volatility": 1
+    },
+    {
+        "actual": 44.51,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "Exports (Sep)",
+        "previous": 44.19,
+        "timestamp": 1446643800,
+        "volatility": 0
+    },
+    {
+        "actual": 46.24,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "Imports (Sep)",
+        "previous": 46.85,
+        "timestamp": 1446643800,
+        "volatility": 0
+    },
+    {
+        "actual": -1.73,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": -1.9,
+        "name": "Trade Balance (Sep)",
+        "previous": -2.66,
+        "timestamp": 1446643800,
+        "volatility": 1
+    },
+    {
+        "actual": 2.9,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 3.75,
+        "name": "Gross Fixed Investments (YoY) (Aug)",
+        "previous": 4.6,
+        "timestamp": 1446645600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.5,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "Gross Fixed Investments (MoM) (Aug)",
+        "previous": -1.4,
+        "timestamp": 1446645600,
+        "volatility": 0
+    },
+    {
+        "actual": -3.5,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Foreign Exchange Flows",
+        "previous": -1.31,
+        "timestamp": 1446647400,
+        "volatility": 0
+    },
+    {
+        "actual": 55.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Markit Composite PMI (Oct)",
+        "previous": 54.5,
+        "timestamp": 1446648300,
+        "volatility": 1
+    },
+    {
+        "actual": 54.8,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 54.6,
+        "name": "Services PMI (Oct)",
+        "previous": 54.4,
+        "timestamp": 1446648300,
+        "volatility": 1
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "Fed Chair Yellen Testifies",
+        "timestamp": 1446649200,
+        "volatility": 2
+    },
+    {
+        "actual": 63.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 59.5,
+        "name": "ISM Non-Manufacturing Business Activity (Oct)",
+        "previous": 60.2,
+        "timestamp": 1446649200,
+        "volatility": 0
+    },
+    {
+        "actual": 59.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "ISM Non-Manufacturing Employment (Oct)",
+        "previous": 58.3,
+        "timestamp": 1446649200,
+        "volatility": 1
+    },
+    {
+        "actual": 62.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "ISM Non-Manufacturing New Orders (Oct)",
+        "previous": 56.7,
+        "timestamp": 1446649200,
+        "volatility": 0
+    },
+    {
+        "actual": 59.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 56.5,
+        "name": "ISM Non-Manufacturing PMI (Oct)",
+        "previous": 56.9,
+        "timestamp": 1446649200,
+        "volatility": 2
+    },
+    {
+        "actual": 49.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "ISM Non-Manufacturing Prices (Oct)",
+        "previous": 48.4,
+        "timestamp": 1446649200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.847,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.787,
+        "name": "Crude Oil Inventories",
+        "previous": 3.376,
+        "timestamp": 1446651000,
+        "volatility": 2
+    },
+    {
+        "actual": -1.3,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -1.767,
+        "name": "EIA Weekly Distillates Stocks",
+        "previous": -2.951,
+        "timestamp": 1446651000,
+        "volatility": 0
+    },
+    {
+        "actual": -3.3,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.969,
+        "name": "Gasoline Inventories",
+        "previous": -1.137,
+        "timestamp": 1446651000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.824,
+        "country": "United States",
+        "currency": "USD",
+        "name": "2-Year Note Auction",
+        "previous": 0.699,
+        "timestamp": 1446660000,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Dudley Speaks",
+        "timestamp": 1446665400,
+        "volatility": 1
+    },
+    {
+        "actual": -43.4,
+        "country": "Colombia",
+        "currency": "COP",
+        "name": "Exports (YoY) (Sep)",
+        "previous": -41.6,
+        "timestamp": 1446674400,
+        "volatility": 0
+    },
+    {
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "RBA Governor Stevens Speaks",
+        "timestamp": 1446675900,
+        "volatility": 1
+    },
+    {
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Monetary Policy Meeting Minutes",
+        "timestamp": 1446681000,
+        "volatility": 1
+    }
+]

@@ -1,0 +1,285 @@
+[
+    {
+        "actual": 0.2,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.4,
+        "name": "CPI (QoQ)",
+        "previous": 1.4,
+        "timestamp": 1358901000,
+        "volatility": 2
+    },
+    {
+        "actual": 0.6,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.7,
+        "name": "Trimmed Mean CPI (QoQ)",
+        "previous": 0.7,
+        "timestamp": 1358901000,
+        "volatility": 1
+    },
+    {
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "BoJ Monthly Report",
+        "timestamp": 1358917200,
+        "volatility": 1
+    },
+    {
+        "actual": 86.0,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 90.0,
+        "name": "French Business Survey",
+        "previous": 89.0,
+        "timestamp": 1358927100,
+        "volatility": 0
+    },
+    {
+        "actual": -2.7,
+        "country": "Denmark",
+        "currency": "DKK",
+        "forecast": -1.5,
+        "name": "Consumer Confidence",
+        "previous": -4.7,
+        "timestamp": 1358928000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.39,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": 6.35,
+        "name": "Industrial Production (YoY)",
+        "previous": 5.87,
+        "timestamp": 1358928000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": 0.3,
+        "name": "CPI (MoM)",
+        "previous": 0.2,
+        "timestamp": 1358928000,
+        "volatility": 1
+    },
+    {
+        "actual": 1.5,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 1.5,
+        "name": "Average Earnings Index +Bonus",
+        "previous": 1.8,
+        "timestamp": 1358933400,
+        "volatility": 2
+    },
+    {
+        "actual": -12.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.1,
+        "name": "Claimant Count Change",
+        "previous": -8.9,
+        "timestamp": 1358933400,
+        "volatility": 2
+    },
+    {
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BoE MPC Meeting Minutes",
+        "timestamp": 1358933400,
+        "volatility": 2
+    },
+    {
+        "actual": 7.7,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 7.8,
+        "name": "Unemployment Rate",
+        "previous": 7.8,
+        "timestamp": 1358933400,
+        "volatility": 1
+    },
+    {
+        "actual": -6.9,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": -5.0,
+        "name": "ZEW Expectations",
+        "previous": -15.5,
+        "timestamp": 1358935200,
+        "volatility": 0
+    },
+    {
+        "actual": 7.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "MBA Mortgage Applications (WoW)",
+        "previous": 15.2,
+        "timestamp": 1358942400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.4,
+        "country": "Russia",
+        "currency": "RUB",
+        "forecast": 2.0,
+        "name": "Industrial Production (YoY)",
+        "previous": 1.9,
+        "timestamp": 1358942400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.4,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (MoM)",
+        "previous": -0.3,
+        "timestamp": 1358949300,
+        "volatility": 0
+    },
+    {
+        "actual": 0.6,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.6,
+        "name": "House Price Index (MoM)",
+        "previous": 0.6,
+        "timestamp": 1358949600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.5,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 3.6,
+        "name": "Retail Sales (YoY)",
+        "previous": 3.5,
+        "timestamp": 1358949600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.31,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Foreign Exchange Flows",
+        "previous": 0.25,
+        "timestamp": 1358951400,
+        "volatility": 0
+    },
+    {
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "BoC Monetary Policy Report",
+        "timestamp": 1358953200,
+        "volatility": 2
+    },
+    {
+        "actual": 1.0,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 1.0,
+        "name": "BoC Interest Rate Decision",
+        "previous": 1.0,
+        "timestamp": 1358953200,
+        "volatility": 2
+    },
+    {
+        "actual": -23.9,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -26.0,
+        "name": "Consumer Confidence",
+        "previous": -26.3,
+        "timestamp": 1358953200,
+        "volatility": 0
+    },
+    {
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "BoC Gov Carney Speaks",
+        "timestamp": 1358957700,
+        "volatility": 1
+    },
+    {
+        "actual": 0.06,
+        "country": "United States",
+        "currency": "USD",
+        "name": "4-Week Bill Auction",
+        "previous": 0.095,
+        "timestamp": 1358958600,
+        "volatility": 0
+    },
+    {
+        "actual": 529.0,
+        "country": "Argentina",
+        "currency": "ARS",
+        "forecast": 351.0,
+        "name": "Trade Balance",
+        "previous": 634.0,
+        "timestamp": 1358967600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.17,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.1,
+        "name": "API Weekly Crude Oil Stock",
+        "previous": 0.05,
+        "timestamp": 1358976600,
+        "volatility": 1
+    },
+    {
+        "actual": -1.57,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.26,
+        "name": "API Weekly Gasoline Stock",
+        "previous": 4.09,
+        "timestamp": 1358976600,
+        "volatility": 0
+    },
+    {
+        "actual": 50.1,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "Business NZ PMI",
+        "previous": 48.8,
+        "timestamp": 1358976600,
+        "volatility": 1
+    },
+    {
+        "actual": 1.5,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 1.9,
+        "name": "GDP (YoY)",
+        "previous": 1.5,
+        "timestamp": 1358982000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 0.5,
+        "name": "GDP (QoQ)",
+        "previous": 0.1,
+        "timestamp": 1358982000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.8,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": -0.71,
+        "name": "Adjusted Trade Balance",
+        "previous": -0.85,
+        "timestamp": 1358985000,
+        "volatility": 1
+    }
+]

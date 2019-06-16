@@ -1,0 +1,392 @@
+[
+    {
+        "actual": 3.6,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "HIA New Home Sales (MoM)",
+        "previous": -0.8,
+        "timestamp": 1545091200,
+        "volatility": 1
+    },
+    {
+        "actual": -24.1,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "ANZ Business Confidence (Dec)",
+        "previous": -37.1,
+        "timestamp": 1545091200,
+        "volatility": 1
+    },
+    {
+        "actual": 13.6,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "NBNZ Own Activity (Dec)",
+        "previous": 7.6,
+        "timestamp": 1545091200,
+        "volatility": 0
+    },
+    {
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Mid-Year Economic and Fiscal Outlook",
+        "timestamp": 1545093000,
+        "volatility": 2
+    },
+    {
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "RBA Meeting Minutes",
+        "timestamp": 1545093000,
+        "volatility": 2
+    },
+    {
+        "actual": 54.1,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "RBNZ Offshore Holdings (Nov)",
+        "previous": 55.1,
+        "timestamp": 1545098400,
+        "volatility": 0
+    },
+    {
+        "country": "Switzerland",
+        "currency": "CHF",
+        "name": "SECO Economic Forecasts",
+        "timestamp": 1545115500,
+        "volatility": 0
+    },
+    {
+        "actual": -2.6,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Turkish Retail Sales (MoM)",
+        "previous": -4.4,
+        "timestamp": 1545116400,
+        "volatility": 1
+    },
+    {
+        "actual": -7.5,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Turkish Retail Sales (YoY)",
+        "previous": -2.9,
+        "timestamp": 1545116400,
+        "volatility": 1
+    },
+    {
+        "actual": 2.8,
+        "country": "Hong Kong",
+        "currency": "HKD",
+        "name": "Unemployment Rate (Nov)",
+        "previous": 2.8,
+        "timestamp": 1545121800,
+        "volatility": 0
+    },
+    {
+        "actual": 97.3,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 98.3,
+        "name": "German Business Expectations",
+        "previous": 98.7,
+        "timestamp": 1545123600,
+        "volatility": 1
+    },
+    {
+        "actual": 104.7,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 104.9,
+        "name": "German Current Assessment",
+        "previous": 105.5,
+        "timestamp": 1545123600,
+        "volatility": 1
+    },
+    {
+        "actual": 101.0,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 101.8,
+        "name": "German Ifo Business Climate Index",
+        "previous": 102.0,
+        "timestamp": 1545123600,
+        "volatility": 2
+    },
+    {
+        "actual": 7.7,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 7.2,
+        "name": "Corp. Sector Wages (YoY) (Nov)",
+        "previous": 7.6,
+        "timestamp": 1545123600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.0,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 3.0,
+        "name": "Employment Growth (YoY) (Nov)",
+        "previous": 3.2,
+        "timestamp": 1545123600,
+        "volatility": 0
+    },
+    {
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "BCB Copom Meeting Minutes",
+        "timestamp": 1545134400,
+        "volatility": 2
+    },
+    {
+        "actual": 16.8,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "PPI (YoY)",
+        "previous": 16.9,
+        "timestamp": 1545138000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "PPI (MoM)",
+        "previous": 3.3,
+        "timestamp": 1545138000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.9,
+        "country": "Hungary",
+        "currency": "HUF",
+        "forecast": 0.9,
+        "name": "Interest Rate Decision (Dec)",
+        "previous": 0.9,
+        "timestamp": 1545138000,
+        "volatility": 0
+    },
+    {
+        "actual": 5.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.4,
+        "name": "Building Permits (MoM) (Nov)",
+        "previous": -0.4,
+        "timestamp": 1545139800,
+        "volatility": 1
+    },
+    {
+        "actual": 1.328,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.259,
+        "name": "Building Permits (Nov)",
+        "previous": 1.265,
+        "timestamp": 1545139800,
+        "volatility": 2
+    },
+    {
+        "actual": 3.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.2,
+        "name": "Housing Starts (MoM) (Nov)",
+        "previous": -1.6,
+        "timestamp": 1545139800,
+        "volatility": 1
+    },
+    {
+        "actual": 1.256,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.225,
+        "name": "Housing Starts (Nov)",
+        "previous": 1.217,
+        "timestamp": 1545139800,
+        "volatility": 1
+    },
+    {
+        "actual": -0.1,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.3,
+        "name": "Manufacturing Sales (MoM) (Oct)",
+        "previous": 0.2,
+        "timestamp": 1545139800,
+        "volatility": 1
+    },
+    {
+        "actual": -204.0,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "name": "Slovak Current Account (Oct)",
+        "previous": 26.0,
+        "timestamp": 1545139800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.3,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (MoM)",
+        "previous": -0.5,
+        "timestamp": 1545141300,
+        "volatility": 0
+    },
+    {
+        "actual": 7.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (YoY)",
+        "previous": 6.6,
+        "timestamp": 1545141300,
+        "volatility": 0
+    },
+    {
+        "actual": 1.7,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "GlobalDairyTrade Price Index",
+        "previous": 2.2,
+        "timestamp": 1545143400,
+        "volatility": 1
+    },
+    {
+        "actual": 31.5,
+        "country": "Colombia",
+        "currency": "COP",
+        "name": "Imports (YoY) (Oct)",
+        "previous": 8.4,
+        "timestamp": 1545145200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.001,
+        "country": "Colombia",
+        "currency": "COP",
+        "forecast": -0.719,
+        "name": "Trade Balance (USD) (Oct)",
+        "previous": -0.361,
+        "timestamp": 1545145200,
+        "volatility": 0
+    },
+    {
+        "actual": -3.5,
+        "country": "Argentina",
+        "currency": "ARS",
+        "forecast": -3.5,
+        "name": "GDP (YoY) (Q3)",
+        "previous": -4.2,
+        "timestamp": 1545159600,
+        "volatility": 1
+    },
+    {
+        "actual": 9.0,
+        "country": "Argentina",
+        "currency": "ARS",
+        "name": "Unemployment Rate (Q3)",
+        "previous": 9.6,
+        "timestamp": 1545159600,
+        "volatility": 0
+    },
+    {
+        "actual": 109.1,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "Westpac Consumer Sentiment (Q4)",
+        "previous": 103.5,
+        "timestamp": 1545163200,
+        "volatility": 1
+    },
+    {
+        "actual": 3.45,
+        "country": "United States",
+        "currency": "USD",
+        "name": "API Weekly Crude Oil Stock",
+        "previous": -10.18,
+        "timestamp": 1545168600,
+        "volatility": 1
+    },
+    {
+        "actual": -6.15,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": -5.94,
+        "name": "Current Account (QoQ) (Q3)",
+        "previous": -1.62,
+        "timestamp": 1545169500,
+        "volatility": 1
+    },
+    {
+        "actual": -10.54,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": -10.34,
+        "name": "Current Account (YoY) (Q3)",
+        "previous": -9.54,
+        "timestamp": 1545169500,
+        "volatility": 1
+    },
+    {
+        "actual": -3.6,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": -3.6,
+        "name": "Current Account % of GDP (Q3)",
+        "previous": -3.3,
+        "timestamp": 1545169500,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "MI Leading Index (MoM)",
+        "previous": 0.1,
+        "timestamp": 1545175800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.49,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": -0.31,
+        "name": "Adjusted Trade Balance",
+        "previous": -0.29,
+        "timestamp": 1545177000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.1,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 1.8,
+        "name": "Exports (YoY) (Nov)",
+        "previous": 8.2,
+        "timestamp": 1545177000,
+        "volatility": 1
+    },
+    {
+        "actual": 12.5,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 11.5,
+        "name": "Imports (YoY) (Nov)",
+        "previous": 19.9,
+        "timestamp": 1545177000,
+        "volatility": 0
+    },
+    {
+        "actual": -737.0,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": -600.0,
+        "name": "Trade Balance (Nov)",
+        "previous": -450.0,
+        "timestamp": 1545177000,
+        "volatility": 1
+    }
+]

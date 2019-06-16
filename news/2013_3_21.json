@@ -1,0 +1,388 @@
+[
+    {
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "RBA Bulletin",
+        "timestamp": 1363825800,
+        "volatility": 0
+    },
+    {
+        "actual": 51.7,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 51.2,
+        "name": "Caixin Manufacturing PMI",
+        "previous": 50.4,
+        "timestamp": 1363830300,
+        "volatility": 2
+    },
+    {
+        "actual": 4.7,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "Credit Card Spending (YoY)",
+        "previous": 0.5,
+        "timestamp": 1363831200,
+        "volatility": 0
+    },
+    {
+        "actual": -1.4,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": -1.1,
+        "name": "All Industries Activity Index (MoM)",
+        "previous": 1.6,
+        "timestamp": 1363840200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.098,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 1.87,
+        "name": "Trade Balance",
+        "previous": 2.12,
+        "timestamp": 1363850100,
+        "volatility": 0
+    },
+    {
+        "actual": 43.9,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 44.3,
+        "name": "French Manufacturing PMI",
+        "previous": 43.9,
+        "timestamp": 1363852680,
+        "volatility": 1
+    },
+    {
+        "actual": 41.9,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 44.0,
+        "name": "French Services PMI",
+        "previous": 43.7,
+        "timestamp": 1363852680,
+        "volatility": 1
+    },
+    {
+        "actual": -4.0,
+        "country": "Denmark",
+        "currency": "DKK",
+        "name": "Retail Sales (YoY)",
+        "previous": -1.9,
+        "timestamp": 1363852800,
+        "volatility": 0
+    },
+    {
+        "actual": 48.9,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 50.5,
+        "name": "German Manufacturing PMI",
+        "previous": 50.3,
+        "timestamp": 1363854480,
+        "volatility": 2
+    },
+    {
+        "actual": 51.6,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 55.0,
+        "name": "German Services PMI",
+        "previous": 54.7,
+        "timestamp": 1363854480,
+        "volatility": 1
+    },
+    {
+        "actual": 7.7,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch Unemployment Rate",
+        "previous": 7.5,
+        "timestamp": 1363854600,
+        "volatility": 0
+    },
+    {
+        "actual": 4.4,
+        "country": "Hong Kong",
+        "currency": "HKD",
+        "forecast": 4.0,
+        "name": "CPI (YoY)",
+        "previous": 3.0,
+        "timestamp": 1363854600,
+        "volatility": 0
+    },
+    {
+        "actual": 46.6,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 48.2,
+        "name": "Manufacturing PMI",
+        "previous": 47.9,
+        "timestamp": 1363856400,
+        "volatility": 1
+    },
+    {
+        "actual": 46.5,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 48.2,
+        "name": "Services PMI",
+        "previous": 47.9,
+        "timestamp": 1363856400,
+        "volatility": 1
+    },
+    {
+        "actual": 4.4,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 8.3,
+        "name": "Public Sector Net Borrowing",
+        "previous": -10.3,
+        "timestamp": 1363858200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.5,
+        "name": "Retail Sales (MoM)",
+        "previous": -0.7,
+        "timestamp": 1363858200,
+        "volatility": 2
+    },
+    {
+        "actual": 2.6,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.5,
+        "name": "Retail Sales (YoY)",
+        "previous": -0.5,
+        "timestamp": 1363858200,
+        "volatility": 1
+    },
+    {
+        "actual": 4.898,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 10-Year Obligacion Auction",
+        "previous": 4.917,
+        "timestamp": 1363859400,
+        "volatility": 1
+    },
+    {
+        "actual": 2.275,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 2-Year Bonos Auction",
+        "previous": 2.632,
+        "timestamp": 1363859400,
+        "volatility": 0
+    },
+    {
+        "actual": 3.557,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 5-Year Bonos Auction",
+        "previous": 3.572,
+        "timestamp": 1363859400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.32,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 2-Year BTAN Auction",
+        "previous": 0.41,
+        "timestamp": 1363860000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.89,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 5-Year BTAN Auction",
+        "previous": 1.02,
+        "timestamp": 1363860000,
+        "volatility": 0
+    },
+    {
+        "actual": -3.5,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": -1.3,
+        "name": "Spanish Trade Balance",
+        "previous": -1.29,
+        "timestamp": 1363860000,
+        "volatility": 0
+    },
+    {
+        "actual": -15.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": -17.0,
+        "name": "CBI Industrial Trends Orders",
+        "previous": -14.0,
+        "timestamp": 1363863600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.0,
+        "country": "Ireland",
+        "currency": "EUR",
+        "forecast": 0.2,
+        "name": "Irish GDP (YoY)",
+        "previous": 0.8,
+        "timestamp": 1363863600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 3.0,
+        "name": "Continuing Jobless Claims",
+        "previous": 3.0,
+        "timestamp": 1363869000,
+        "volatility": 0
+    },
+    {
+        "actual": 336.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 342.0,
+        "name": "Initial Jobless Claims",
+        "previous": 334.0,
+        "timestamp": 1363869000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.5,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.4,
+        "name": "Core Retail Sales (MoM)",
+        "previous": -1.0,
+        "timestamp": 1363869000,
+        "volatility": 2
+    },
+    {
+        "actual": 1.0,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 1.0,
+        "name": "Retail Sales (MoM)",
+        "previous": -2.3,
+        "timestamp": 1363869000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.6,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.7,
+        "name": "House Price Index (MoM)",
+        "previous": 0.5,
+        "timestamp": 1363870800,
+        "volatility": 0
+    },
+    {
+        "actual": 54.9,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 55.1,
+        "name": "Manufacturing PMI",
+        "previous": 54.3,
+        "timestamp": 1363870800,
+        "volatility": 1
+    },
+    {
+        "actual": 33.05,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Bloomberg Consumer Confidence",
+        "previous": 34.2,
+        "timestamp": 1363873500,
+        "volatility": 0
+    },
+    {
+        "actual": 4.98,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 5.0,
+        "name": "Existing Home Sales",
+        "previous": 4.94,
+        "timestamp": 1363874400,
+        "volatility": 2
+    },
+    {
+        "actual": 2.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -2.0,
+        "name": "Philadelphia Fed Manufacturing Index",
+        "previous": -12.5,
+        "timestamp": 1363874400,
+        "volatility": 2
+    },
+    {
+        "actual": 1.8,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 1.0,
+        "name": "Retail Sales (YoY)",
+        "previous": -1.8,
+        "timestamp": 1363874400,
+        "volatility": 0
+    },
+    {
+        "actual": -62.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -70.0,
+        "name": "Natural Gas Storage",
+        "previous": -145.0,
+        "timestamp": 1363876200,
+        "volatility": 0
+    },
+    {
+        "actual": 3.1,
+        "country": "Colombia",
+        "currency": "COP",
+        "forecast": 3.4,
+        "name": "GDP (YoY)",
+        "previous": 2.7,
+        "timestamp": 1363881600,
+        "volatility": 0
+    },
+    {
+        "actual": 521.0,
+        "country": "Argentina",
+        "currency": "ARS",
+        "forecast": 500.0,
+        "name": "Trade Balance",
+        "previous": 280.0,
+        "timestamp": 1363892400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.4,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "Budget Balance",
+        "previous": -0.57,
+        "timestamp": 1363896000,
+        "volatility": 0
+    },
+    {
+        "actual": 4.1,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "Visitor Arrivals (MoM)",
+        "previous": -2.2,
+        "timestamp": 1363902300,
+        "volatility": 0
+    }
+]

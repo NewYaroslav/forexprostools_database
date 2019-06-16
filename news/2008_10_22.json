@@ -1,0 +1,98 @@
+[
+    {
+        "actual": 1.2,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 1.0,
+        "name": "CPI (QoQ)",
+        "previous": 1.5,
+        "timestamp": 1224635400,
+        "volatility": 2
+    },
+    {
+        "actual": 1.2,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 1.1,
+        "name": "Trimmed Mean CPI (QoQ)",
+        "previous": 1.2,
+        "timestamp": 1224635400,
+        "volatility": 1
+    },
+    {
+        "actual": -0.5,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "Italian Retail Sales (MoM)",
+        "previous": 0.6,
+        "timestamp": 1224662400,
+        "volatility": 0
+    },
+    {
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BoE MPC Meeting Minutes",
+        "timestamp": 1224664200,
+        "volatility": 2
+    },
+    {
+        "actual": -0.3,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.3,
+        "name": "Core Retail Sales (MoM)",
+        "previous": 0.4,
+        "timestamp": 1224678600,
+        "volatility": 2
+    },
+    {
+        "actual": -0.2,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.1,
+        "name": "Leading Indicators (MoM)",
+        "previous": 0.2,
+        "timestamp": 1224678600,
+        "volatility": 1
+    },
+    {
+        "actual": -0.3,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": -0.2,
+        "name": "Retail Sales (MoM)",
+        "previous": 0.1,
+        "timestamp": 1224678600,
+        "volatility": 1
+    },
+    {
+        "actual": 3.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Crude Oil Inventories",
+        "previous": 5.6,
+        "timestamp": 1224686100,
+        "volatility": 2
+    },
+    {
+        "actual": 6.5,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": 6.5,
+        "name": "RBNZ Interest Rate Decision",
+        "previous": 7.5,
+        "timestamp": 1224705600,
+        "volatility": 2
+    },
+    {
+        "actual": -0.03,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 0.14,
+        "name": "Adjusted Trade Balance",
+        "previous": -0.11,
+        "timestamp": 1224719400,
+        "volatility": 1
+    }
+]

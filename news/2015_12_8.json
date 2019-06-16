@@ -1,0 +1,601 @@
+[
+    {
+        "actual": -0.4,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.4,
+        "name": "BRC Retail Sales Monitor (YoY) (Nov)",
+        "previous": -0.2,
+        "timestamp": 1449532860,
+        "volatility": 1
+    },
+    {
+        "actual": 5.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "NAB Business Confidence (Nov)",
+        "previous": 3.0,
+        "timestamp": 1449534600,
+        "volatility": 1
+    },
+    {
+        "actual": 10.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "NAB Business Survey (Nov)",
+        "previous": 10.0,
+        "timestamp": 1449534600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.11,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "name": "CPI (MoM) (Nov)",
+        "previous": 0.25,
+        "timestamp": 1449534600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.53,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": 0.37,
+        "name": "CPI (YoY) (Nov)",
+        "previous": 0.31,
+        "timestamp": 1449534600,
+        "volatility": 0
+    },
+    {
+        "actual": -7.75,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": -8.11,
+        "name": "Wholesale Prices (MoM) (Nov)",
+        "previous": -8.47,
+        "timestamp": 1449534600,
+        "volatility": 0
+    },
+    {
+        "actual": -6.8,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": -5.0,
+        "name": "Exports (YoY) (Nov)",
+        "previous": -6.9,
+        "timestamp": 1449540000,
+        "volatility": 1
+    },
+    {
+        "actual": -8.7,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": -12.6,
+        "name": "Imports (YoY) (Nov)",
+        "previous": -18.8,
+        "timestamp": 1449540000,
+        "volatility": 1
+    },
+    {
+        "actual": 54.1,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 63.3,
+        "name": "Trade Balance (USD) (Nov)",
+        "previous": 61.64,
+        "timestamp": 1449540000,
+        "volatility": 1
+    },
+    {
+        "actual": 1.397,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "30-Year JGB Auction",
+        "previous": 1.39,
+        "timestamp": 1449546300,
+        "volatility": 0
+    },
+    {
+        "actual": 46.1,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 48.6,
+        "name": "Economy Watchers Current Index (Nov)",
+        "previous": 48.2,
+        "timestamp": 1449550800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.21,
+        "country": "Finland",
+        "currency": "EUR",
+        "name": "Finnish Trade Balance (Oct)",
+        "previous": -0.04,
+        "timestamp": 1449558000,
+        "volatility": 0
+    },
+    {
+        "actual": 37.3,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French Exports (Oct)",
+        "previous": 37.3,
+        "timestamp": 1449560700,
+        "volatility": 0
+    },
+    {
+        "actual": -76.2,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French Government Budget Balance (Oct)",
+        "previous": -74.5,
+        "timestamp": 1449560700,
+        "volatility": 0
+    },
+    {
+        "actual": 41.9,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French Imports (Oct)",
+        "previous": 40.9,
+        "timestamp": 1449560700,
+        "volatility": 0
+    },
+    {
+        "actual": -4.6,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": -3.3,
+        "name": "French Trade Balance (Oct)",
+        "previous": -3.6,
+        "timestamp": 1449560700,
+        "volatility": 0
+    },
+    {
+        "actual": 9.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 9.5,
+        "name": "Halifax House Price Index (YoY) (Nov)",
+        "previous": 9.7,
+        "timestamp": 1449561600,
+        "volatility": 1
+    },
+    {
+        "actual": -0.2,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.3,
+        "name": "Halifax House Price Index (MoM) (Nov)",
+        "previous": 1.0,
+        "timestamp": 1449561600,
+        "volatility": 1
+    },
+    {
+        "actual": 5.9,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": 5.9,
+        "name": "Unemployment Rate (Nov)",
+        "previous": 5.9,
+        "timestamp": 1449561600,
+        "volatility": 0
+    },
+    {
+        "actual": 4.6,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 3.9,
+        "name": "Industrial Production (YoY) (Oct)",
+        "previous": 2.8,
+        "timestamp": 1449561600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.4,
+        "country": "Hungary",
+        "currency": "HUF",
+        "name": "Core CPI (YoY) (Nov)",
+        "previous": 1.5,
+        "timestamp": 1449561600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Hungary",
+        "currency": "HUF",
+        "forecast": 0.6,
+        "name": "CPI (YoY) (Nov)",
+        "previous": 0.1,
+        "timestamp": 1449561600,
+        "volatility": 0
+    },
+    {
+        "actual": 10.1,
+        "country": "Hungary",
+        "currency": "HUF",
+        "forecast": 8.0,
+        "name": "Industrial Output (YoY) (Oct)",
+        "previous": 7.8,
+        "timestamp": 1449561600,
+        "volatility": 0
+    },
+    {
+        "actual": -165.0,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": -160.0,
+        "name": "Current Account (Q3)",
+        "previous": -124.0,
+        "timestamp": 1449561600,
+        "volatility": 0
+    },
+    {
+        "actual": -4.1,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": -4.0,
+        "name": "Current Account % of GDP (Q3)",
+        "previous": -3.1,
+        "timestamp": 1449561600,
+        "volatility": 0
+    },
+    {
+        "actual": 8.8,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "name": "Retail Sales (YoY) (Oct)",
+        "previous": 7.2,
+        "timestamp": 1449564300,
+        "volatility": 0
+    },
+    {
+        "actual": 58.75,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "name": "FX Reserves (EUR) (Nov)",
+        "previous": 57.01,
+        "timestamp": 1449565200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania CPI (MoM) (Nov)",
+        "previous": 0.5,
+        "timestamp": 1449565200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.4,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania CPI (YoY) (Nov)",
+        "previous": -0.7,
+        "timestamp": 1449565200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "Iceland",
+        "currency": "ISK",
+        "forecast": 4.0,
+        "name": "GDP (QoQ) (Q3)",
+        "previous": 3.7,
+        "timestamp": 1449565200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.6,
+        "country": "Iceland",
+        "currency": "ISK",
+        "forecast": 3.5,
+        "name": "GDP (YoY) (Q3)",
+        "previous": 6.8,
+        "timestamp": 1449565200,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "EU Finance Ministers Meeting",
+        "timestamp": 1449566100,
+        "volatility": 1
+    },
+    {
+        "actual": 0.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.1,
+        "name": "Industrial Production (MoM) (Oct)",
+        "previous": -0.2,
+        "timestamp": 1449567000,
+        "volatility": 1
+    },
+    {
+        "actual": 1.7,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 1.2,
+        "name": "Industrial Production (YoY) (Oct)",
+        "previous": 1.5,
+        "timestamp": 1449567000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.4,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": -0.1,
+        "name": "Manufacturing Production (MoM) (Oct)",
+        "previous": 0.9,
+        "timestamp": 1449567000,
+        "volatility": 2
+    },
+    {
+        "actual": -0.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.1,
+        "name": "Manufacturing Production (YoY) (Oct)",
+        "previous": -0.4,
+        "timestamp": 1449567000,
+        "volatility": 0
+    },
+    {
+        "actual": -7.5,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "name": "Gold Production (YoY) (Oct)",
+        "previous": -1.8,
+        "timestamp": 1449567000,
+        "volatility": 0
+    },
+    {
+        "actual": -4.6,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": -3.9,
+        "name": "Mining Production (Oct)",
+        "previous": -4.7,
+        "timestamp": 1449567000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.19,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 1.37,
+        "name": "IGP-DI Inflation Index (MoM) (Nov)",
+        "previous": 1.76,
+        "timestamp": 1449568800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.3,
+        "name": "GDP (QoQ) (Q3)",
+        "previous": 0.3,
+        "timestamp": 1449568800,
+        "volatility": 1
+    },
+    {
+        "actual": 1.6,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 1.6,
+        "name": "GDP (YoY) (Q3)",
+        "previous": 1.6,
+        "timestamp": 1449568800,
+        "volatility": 1
+    },
+    {
+        "actual": 2.49,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "30-Year Treasury Gilt Auction",
+        "previous": 2.45,
+        "timestamp": 1449570900,
+        "volatility": 0
+    },
+    {
+        "actual": 94.8,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 96.6,
+        "name": "NFIB Small Business Optimism (Nov)",
+        "previous": 96.1,
+        "timestamp": 1449572400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "Latvia",
+        "currency": "EUR",
+        "name": "Latvian CPI (YoY) (Nov)",
+        "previous": -0.2,
+        "timestamp": 1449572400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "Latvia",
+        "currency": "EUR",
+        "name": "Latvian CPI (MoM) (Nov)",
+        "previous": 0.3,
+        "timestamp": 1449572400,
+        "volatility": 0
+    },
+    {
+        "actual": -1.7,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": -0.3,
+        "name": "Manufacturing Production (MoM) (Oct)",
+        "previous": 2.2,
+        "timestamp": 1449572400,
+        "volatility": 0
+    },
+    {
+        "actual": 103.1,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Consumer Confidence (Nov)",
+        "previous": 101.3,
+        "timestamp": 1449576000,
+        "volatility": 0
+    },
+    {
+        "actual": 211.9,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 198.7,
+        "name": "Housing Starts (Nov)",
+        "previous": 197.7,
+        "timestamp": 1449580500,
+        "volatility": 1
+    },
+    {
+        "actual": 9.1,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 3.2,
+        "name": "Building Permits (MoM) (Oct)",
+        "previous": -6.6,
+        "timestamp": 1449581400,
+        "volatility": 1
+    },
+    {
+        "actual": -0.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (MoM)",
+        "previous": 1.6,
+        "timestamp": 1449582900,
+        "volatility": 0
+    },
+    {
+        "actual": 1.9,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (YoY)",
+        "previous": 3.9,
+        "timestamp": 1449582900,
+        "volatility": 0
+    },
+    {
+        "actual": 0.6,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "NIESR GDP Estimate",
+        "previous": 0.5,
+        "timestamp": 1449586800,
+        "volatility": 1
+    },
+    {
+        "actual": 47.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 45.2,
+        "name": "IBD/TIPP Economic Optimism",
+        "previous": 45.5,
+        "timestamp": 1449586800,
+        "volatility": 0
+    },
+    {
+        "actual": 5.383,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 5.5,
+        "name": "JOLTs Job Openings (Oct)",
+        "previous": 5.534,
+        "timestamp": 1449586800,
+        "volatility": 2
+    },
+    {
+        "actual": 0.235,
+        "country": "United States",
+        "currency": "USD",
+        "name": "4-Week Bill Auction",
+        "previous": 0.19,
+        "timestamp": 1449592200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.74,
+        "country": "United States",
+        "currency": "USD",
+        "name": "52-Week Bill Auction",
+        "previous": 0.5,
+        "timestamp": 1449592200,
+        "volatility": 0
+    },
+    {
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "BoC Gov Poloz Speaks",
+        "timestamp": 1449597000,
+        "volatility": 2
+    },
+    {
+        "actual": 1.255,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Year Note Auction",
+        "previous": 1.271,
+        "timestamp": 1449597600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.9,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -1.2,
+        "name": "API Weekly Crude Oil Stock",
+        "previous": 1.6,
+        "timestamp": 1449610500,
+        "volatility": 1
+    },
+    {
+        "actual": -0.8,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Westpac Consumer Sentiment (Dec)",
+        "previous": 3.9,
+        "timestamp": 1449617400,
+        "volatility": 1
+    },
+    {
+        "actual": 10.7,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": -1.5,
+        "name": "Core Machinery Orders (MoM) (Oct)",
+        "previous": 7.5,
+        "timestamp": 1449618600,
+        "volatility": 0
+    },
+    {
+        "actual": 10.3,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 1.4,
+        "name": "Core Machinery Orders (YoY) (Oct)",
+        "previous": -1.7,
+        "timestamp": 1449618600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.3,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 3.5,
+        "name": "M2 Money Stock (YoY)",
+        "previous": 3.7,
+        "timestamp": 1449618600,
+        "volatility": 0
+    }
+]

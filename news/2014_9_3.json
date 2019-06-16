@@ -1,0 +1,479 @@
+[
+    {
+        "actual": 54.4,
+        "country": "China",
+        "currency": "CNY",
+        "name": "Non-Manufacturing PMI",
+        "previous": 54.2,
+        "timestamp": 1409706000,
+        "volatility": 1
+    },
+    {
+        "actual": 3.1,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 3.0,
+        "name": "GDP (YoY) (Q2)",
+        "previous": 3.5,
+        "timestamp": 1409707800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.5,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.4,
+        "name": "GDP (QoQ) (Q2)",
+        "previous": 1.1,
+        "timestamp": 1409707800,
+        "volatility": 2
+    },
+    {
+        "actual": 54.1,
+        "country": "China",
+        "currency": "CNY",
+        "name": "Caixin Services PMI",
+        "previous": 50.0,
+        "timestamp": 1409708700,
+        "volatility": 1
+    },
+    {
+        "actual": 49.6,
+        "country": "Hong Kong",
+        "currency": "HKD",
+        "name": "Manufacturing PMI",
+        "previous": 50.4,
+        "timestamp": 1409711400,
+        "volatility": 0
+    },
+    {
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "RBA Governor Stevens Speaks",
+        "timestamp": 1409714400,
+        "volatility": 1
+    },
+    {
+        "actual": 50.6,
+        "country": "India",
+        "currency": "INR",
+        "name": "Nikkei Services PMI",
+        "previous": 52.2,
+        "timestamp": 1409720400,
+        "volatility": 0
+    },
+    {
+        "actual": 9.54,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 9.4,
+        "name": "CPI (YoY)",
+        "previous": 9.32,
+        "timestamp": 1409727600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.09,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "CPI (MoM)",
+        "previous": 0.45,
+        "timestamp": 1409727600,
+        "volatility": 1
+    },
+    {
+        "actual": 9.88,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "PPI (YoY)",
+        "previous": 9.46,
+        "timestamp": 1409727600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.42,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "PPI (MoM)",
+        "previous": 0.73,
+        "timestamp": 1409727600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.9,
+        "country": "Hungary",
+        "currency": "HUF",
+        "forecast": 3.9,
+        "name": "GDP (YoY) (Q2)",
+        "previous": 3.9,
+        "timestamp": 1409727600,
+        "volatility": 1
+    },
+    {
+        "actual": 2.3,
+        "country": "Hungary",
+        "currency": "HUF",
+        "forecast": 3.2,
+        "name": "Retail Sales (YoY)",
+        "previous": 4.1,
+        "timestamp": 1409727600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.2,
+        "country": "Romania",
+        "currency": "RON",
+        "forecast": 3.35,
+        "name": "GDP (YoY)",
+        "previous": 3.9,
+        "timestamp": 1409727600,
+        "volatility": 0
+    },
+    {
+        "actual": 58.1,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 55.1,
+        "name": "Spanish Services PMI",
+        "previous": 56.2,
+        "timestamp": 1409728500,
+        "volatility": 1
+    },
+    {
+        "actual": 49.8,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 52.0,
+        "name": "Italian Services PMI",
+        "previous": 52.8,
+        "timestamp": 1409730300,
+        "volatility": 1
+    },
+    {
+        "actual": 50.3,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 51.1,
+        "name": "French Services PMI",
+        "previous": 51.1,
+        "timestamp": 1409730600,
+        "volatility": 1
+    },
+    {
+        "actual": 54.9,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 56.4,
+        "name": "German Services PMI",
+        "previous": 56.4,
+        "timestamp": 1409730900,
+        "volatility": 1
+    },
+    {
+        "actual": 68.8,
+        "country": "Norway",
+        "currency": "NOK",
+        "name": "Current Account (Q2)",
+        "previous": 111.0,
+        "timestamp": 1409731200,
+        "volatility": 0
+    },
+    {
+        "actual": 53.1,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 53.5,
+        "name": "Services PMI",
+        "previous": 53.5,
+        "timestamp": 1409731200,
+        "volatility": 1
+    },
+    {
+        "actual": 60.5,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 58.5,
+        "name": "Services PMI",
+        "previous": 59.1,
+        "timestamp": 1409733000,
+        "volatility": 2
+    },
+    {
+        "actual": 2.3,
+        "country": "Norway",
+        "currency": "NOK",
+        "name": "House Price Index (YoY)",
+        "previous": 2.6,
+        "timestamp": 1409734800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.4,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -0.4,
+        "name": "Retail Sales (MoM)",
+        "previous": 0.3,
+        "timestamp": 1409734800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.8,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.9,
+        "name": "Retail Sales (YoY)",
+        "previous": 1.9,
+        "timestamp": 1409734800,
+        "volatility": 0
+    },
+    {
+        "actual": 13.0,
+        "country": "India",
+        "currency": "INR",
+        "name": "M3 Money Supply",
+        "previous": 13.3,
+        "timestamp": 1409736600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.25,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German 5-Year Bobl Auction",
+        "previous": 0.28,
+        "timestamp": 1409736900,
+        "volatility": 0
+    },
+    {
+        "actual": 4.25,
+        "country": "United States",
+        "currency": "USD",
+        "name": "MBA 30-Year Mortgage Rate",
+        "previous": 4.28,
+        "timestamp": 1409742000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "United States",
+        "currency": "USD",
+        "name": "MBA Mortgage Applications (WoW)",
+        "previous": 2.8,
+        "timestamp": 1409742000,
+        "volatility": 0
+    },
+    {
+        "actual": 4.8,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Chain Store Sales (YoY)",
+        "previous": 4.2,
+        "timestamp": 1409744700,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Chain Store Sales (WoW)",
+        "previous": 0.6,
+        "timestamp": 1409744700,
+        "volatility": 0
+    },
+    {
+        "actual": 2.5,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 2.5,
+        "name": "Interest Rate Decision",
+        "previous": 2.5,
+        "timestamp": 1409746200,
+        "volatility": 1
+    },
+    {
+        "actual": 4.9,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (YoY)",
+        "previous": 4.0,
+        "timestamp": 1409748900,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Redbook (MoM)",
+        "previous": 0.5,
+        "timestamp": 1409748900,
+        "volatility": 0
+    },
+    {
+        "actual": 648.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "ISM - NY Business Conditions",
+        "previous": 644.4,
+        "timestamp": 1409751900,
+        "volatility": 0
+    },
+    {
+        "actual": 10.5,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 11.0,
+        "name": "Factory Orders (MoM)",
+        "previous": 1.5,
+        "timestamp": 1409752800,
+        "volatility": 1
+    },
+    {
+        "actual": -0.8,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Factory orders ex transportation (MoM)",
+        "previous": 1.4,
+        "timestamp": 1409752800,
+        "volatility": 0
+    },
+    {
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "BoC Gov Poloz Speaks",
+        "timestamp": 1409752800,
+        "volatility": 2
+    },
+    {
+        "actual": 1.0,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 1.0,
+        "name": "BoC Interest Rate Decision",
+        "previous": 1.0,
+        "timestamp": 1409752800,
+        "volatility": 2
+    },
+    {
+        "actual": 0.015,
+        "country": "United States",
+        "currency": "USD",
+        "name": "4-Week Bill Auction",
+        "previous": 0.03,
+        "timestamp": 1409758200,
+        "volatility": 0
+    },
+    {
+        "actual": -3.06,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Foreign Exchange Flows",
+        "previous": 1.22,
+        "timestamp": 1409758200,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "Beige Book",
+        "timestamp": 1409767200,
+        "volatility": 1
+    },
+    {
+        "actual": 8.44,
+        "country": "United States",
+        "currency": "USD",
+        "name": "All Car Sales",
+        "previous": 8.0,
+        "timestamp": 1409774400,
+        "volatility": 0
+    },
+    {
+        "actual": 6.19,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Domestic Car Sales",
+        "previous": 5.78,
+        "timestamp": 1409774400,
+        "volatility": 0
+    },
+    {
+        "actual": 17.53,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 16.55,
+        "name": "Total Vehicle Sales",
+        "previous": 16.48,
+        "timestamp": 1409774400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.545,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -1.0,
+        "name": "API Weekly Crude Oil Stock",
+        "previous": -1.3,
+        "timestamp": 1409776200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.385,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -1.2,
+        "name": "API Weekly Distillates Stocks",
+        "previous": 2.4,
+        "timestamp": 1409776200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.362,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -1.45,
+        "name": "API Weekly Gasoline Stock",
+        "previous": -3.2,
+        "timestamp": 1409776200,
+        "volatility": 0
+    },
+    {
+        "actual": 11.0,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 11.0,
+        "name": "Interest Rate Decision",
+        "previous": 11.0,
+        "timestamp": 1409783400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.5,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 0.6,
+        "name": "GDP (QoQ) (Q2)",
+        "previous": 0.6,
+        "timestamp": 1409785200,
+        "volatility": 0
+    },
+    {
+        "actual": 3.5,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 3.6,
+        "name": "GDP (YoY) (Q2)",
+        "previous": 3.6,
+        "timestamp": 1409785200,
+        "volatility": 0
+    },
+    {
+        "actual": 503.7,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Foreign Bonds Buying",
+        "previous": -608.4,
+        "timestamp": 1409788200,
+        "volatility": 0
+    }
+]

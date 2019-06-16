@@ -1,0 +1,534 @@
+[
+    {
+        "actual": 4.5,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "New Motor Vehicle Sales (MoM) (Dec)",
+        "previous": 0.1,
+        "timestamp": 1516062600,
+        "volatility": 0
+    },
+    {
+        "actual": 58.0,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "RBNZ Offshore Holdings (Dec)",
+        "previous": 57.7,
+        "timestamp": 1516068000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.1,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 0.4,
+        "name": "Tertiary Industry Activity Index (MoM)",
+        "previous": 0.2,
+        "timestamp": 1516077000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.6,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.6,
+        "name": "German CPI (MoM) (Dec)",
+        "previous": 0.6,
+        "timestamp": 1516086000,
+        "volatility": 1
+    },
+    {
+        "actual": 1.7,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 1.7,
+        "name": "German CPI (YoY) (Dec)",
+        "previous": 1.7,
+        "timestamp": 1516086000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.8,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.8,
+        "name": "German HICP (MoM) (Dec)",
+        "previous": 0.8,
+        "timestamp": 1516086000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.6,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 1.6,
+        "name": "German HICP (YoY) (Dec)",
+        "previous": 1.6,
+        "timestamp": 1516086000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.3,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German WPI (MoM) (Dec)",
+        "previous": 0.5,
+        "timestamp": 1516086000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.8,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German WPI (YoY) (Dec)",
+        "previous": 3.3,
+        "timestamp": 1516086000,
+        "volatility": 0
+    },
+    {
+        "actual": 3.5,
+        "country": "Finland",
+        "currency": "EUR",
+        "name": "Finnish GDP (YoY) (Nov)",
+        "previous": 3.2,
+        "timestamp": 1516086000,
+        "volatility": 0
+    },
+    {
+        "actual": 7.9,
+        "country": "China",
+        "currency": "CNY",
+        "name": "FDI (Dec)",
+        "previous": 9.8,
+        "timestamp": 1516086900,
+        "volatility": 0
+    },
+    {
+        "actual": -84.7,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French Government Budget Balance (Nov)",
+        "previous": -77.2,
+        "timestamp": 1516088700,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": 0.6,
+        "name": "PPI (YoY) (Dec)",
+        "previous": 0.9,
+        "timestamp": 1516089600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": 0.1,
+        "name": "PPI (MoM) (Dec)",
+        "previous": -0.1,
+        "timestamp": 1516089600,
+        "volatility": 0
+    },
+    {
+        "actual": 15.37,
+        "country": "Nigeria",
+        "currency": "NGN",
+        "forecast": 15.82,
+        "name": "CPI (YoY) (Dec)",
+        "previous": 15.9,
+        "timestamp": 1516089900,
+        "volatility": 0
+    },
+    {
+        "actual": 19.42,
+        "country": "Nigeria",
+        "currency": "NGN",
+        "name": "Food Inflation (YoY) (Dec)",
+        "previous": 20.3,
+        "timestamp": 1516089900,
+        "volatility": 0
+    },
+    {
+        "actual": 0.9,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.9,
+        "name": "Italian CPI (YoY) (Dec)",
+        "previous": 0.9,
+        "timestamp": 1516093200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.4,
+        "name": "Italian CPI (MoM) (Dec)",
+        "previous": 0.4,
+        "timestamp": 1516093200,
+        "volatility": 1
+    },
+    {
+        "actual": 1.0,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 1.0,
+        "name": "Italian HICP (YoY) (Dec)",
+        "previous": 1.0,
+        "timestamp": 1516093200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 0.3,
+        "name": "Italian HICP (MoM) (Dec)",
+        "previous": 0.3,
+        "timestamp": 1516093200,
+        "volatility": 0
+    },
+    {
+        "actual": 4.83,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 5.22,
+        "name": "Italian Trade Balance (Nov)",
+        "previous": 4.988,
+        "timestamp": 1516093200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.24,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian Trade Balance EU (Nov)",
+        "previous": 0.7,
+        "timestamp": 1516093200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.5,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 2.6,
+        "name": "Core CPI (YoY) (Dec)",
+        "previous": 2.7,
+        "timestamp": 1516095000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.2,
+        "name": "Core PPI Output (MoM) (Dec)",
+        "previous": 0.2,
+        "timestamp": 1516095000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.5,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 2.3,
+        "name": "Core PPI Output (YoY) (Dec)",
+        "previous": 2.2,
+        "timestamp": 1516095000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.8,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "Core RPI (MoM) (Dec)",
+        "previous": 0.1,
+        "timestamp": 1516095000,
+        "volatility": 0
+    },
+    {
+        "actual": 4.2,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "Core RPI (YoY) (Dec)",
+        "previous": 4.0,
+        "timestamp": 1516095000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.4,
+        "name": "CPI (MoM) (Dec)",
+        "previous": 0.3,
+        "timestamp": 1516095000,
+        "volatility": 1
+    },
+    {
+        "actual": 3.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 3.0,
+        "name": "CPI (YoY) (Dec)",
+        "previous": 3.1,
+        "timestamp": 1516095000,
+        "volatility": 2
+    },
+    {
+        "actual": 2.7,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 2.8,
+        "name": "CPIH (YoY)",
+        "previous": 2.8,
+        "timestamp": 1516095000,
+        "volatility": 1
+    },
+    {
+        "actual": 5.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "House Price Index (YoY)",
+        "previous": 5.4,
+        "timestamp": 1516095000,
+        "volatility": 0
+    },
+    {
+        "actual": 4.9,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 5.4,
+        "name": "PPI Input (YoY) (Dec)",
+        "previous": 7.3,
+        "timestamp": 1516095000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.4,
+        "name": "PPI Input (MoM) (Dec)",
+        "previous": 1.6,
+        "timestamp": 1516095000,
+        "volatility": 1
+    },
+    {
+        "actual": 3.3,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 2.9,
+        "name": "PPI Output (YoY) (Dec)",
+        "previous": 3.1,
+        "timestamp": 1516095000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.3,
+        "name": "PPI Output (MoM) (Dec)",
+        "previous": 0.4,
+        "timestamp": 1516095000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.8,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.6,
+        "name": "RPI (MoM) (Dec)",
+        "previous": 0.2,
+        "timestamp": 1516095000,
+        "volatility": 0
+    },
+    {
+        "actual": 4.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 3.9,
+        "name": "RPI (YoY) (Dec)",
+        "previous": 3.9,
+        "timestamp": 1516095000,
+        "volatility": 0
+    },
+    {
+        "actual": -8.3,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "name": "Gold Production (YoY) (Nov)",
+        "previous": -0.5,
+        "timestamp": 1516095000,
+        "volatility": 0
+    },
+    {
+        "actual": 6.5,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": 4.9,
+        "name": "Mining Production (Nov)",
+        "previous": 5.2,
+        "timestamp": 1516095000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.402,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 12-Month Letras Auction",
+        "previous": -0.375,
+        "timestamp": 1516095600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.459,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish 6-Month Letras Auction",
+        "previous": -0.407,
+        "timestamp": 1516095600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.5,
+        "country": "Israel",
+        "currency": "ILS",
+        "name": "GDP Annualized (QoQ) (Q3)",
+        "previous": 2.7,
+        "timestamp": 1516100400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.4,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish CPI (YoY) (Dec)",
+        "previous": 0.5,
+        "timestamp": 1516100400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish CPI (MoM) (Dec)",
+        "previous": -0.2,
+        "timestamp": 1516100400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish HICP (YoY) (Dec)",
+        "previous": 0.5,
+        "timestamp": 1516100400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish HICP (MoM) (Dec)",
+        "previous": -0.1,
+        "timestamp": 1516100400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.9,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 0.8,
+        "name": "Core CPI (YoY) (Dec)",
+        "previous": 0.9,
+        "timestamp": 1516107600,
+        "volatility": 0
+    },
+    {
+        "actual": 17.7,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 18.0,
+        "name": "NY Empire State Manufacturing Index (Jan)",
+        "previous": 19.6,
+        "timestamp": 1516109400,
+        "volatility": 1
+    },
+    {
+        "actual": 4.9,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "GlobalDairyTrade Price Index",
+        "previous": 2.2,
+        "timestamp": 1516112400,
+        "volatility": 1
+    },
+    {
+        "actual": 1.43,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Month Bill Auction",
+        "previous": 1.43,
+        "timestamp": 1516120200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "6-Month Bill Auction",
+        "previous": 1.575,
+        "timestamp": 1516120200,
+        "volatility": 0
+    },
+    {
+        "country": "Switzerland",
+        "currency": "CHF",
+        "name": "SNB Chairman Thomas Jordan speaks",
+        "timestamp": 1516122000,
+        "volatility": 1
+    },
+    {
+        "actual": 1.295,
+        "country": "United States",
+        "currency": "USD",
+        "name": "4-Week Bill Auction",
+        "previous": 1.28,
+        "timestamp": 1516125600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.8,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Westpac Consumer Sentiment (Jan)",
+        "previous": 3.6,
+        "timestamp": 1516145400,
+        "volatility": 1
+    },
+    {
+        "actual": 5.7,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": -1.4,
+        "name": "Core Machinery Orders (MoM) (Nov)",
+        "previous": 5.0,
+        "timestamp": 1516146600,
+        "volatility": 0
+    },
+    {
+        "actual": 4.1,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": -0.7,
+        "name": "Core Machinery Orders (YoY) (Nov)",
+        "previous": 2.3,
+        "timestamp": 1516146600,
+        "volatility": 0
+    }
+]

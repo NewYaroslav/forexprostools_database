@@ -1,0 +1,247 @@
+[
+    {
+        "actual": 1.38,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 1.66,
+        "name": "Trade Balance",
+        "previous": 1.42,
+        "timestamp": 1325723400,
+        "volatility": 1
+    },
+    {
+        "actual": -0.9,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "German Retail Sales (MoM)",
+        "previous": -0.2,
+        "timestamp": 1325746800,
+        "volatility": 1
+    },
+    {
+        "actual": 80.0,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 77.0,
+        "name": "French Consumer Confidence",
+        "previous": 80.0,
+        "timestamp": 1325749500,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": 1.0,
+        "name": "CPI (YoY)",
+        "previous": 1.0,
+        "timestamp": 1325750400,
+        "volatility": 0
+    },
+    {
+        "actual": 8.6,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 8.5,
+        "name": "Italian Monthly Unemployment Rate",
+        "previous": 8.5,
+        "timestamp": 1325754000,
+        "volatility": 0
+    },
+    {
+        "actual": 8.1,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 8.1,
+        "name": "Italian Quarterly Unemployment Rate",
+        "previous": 8.0,
+        "timestamp": 1325754000,
+        "volatility": 0
+    },
+    {
+        "actual": 54.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 51.5,
+        "name": "Services PMI",
+        "previous": 52.1,
+        "timestamp": 1325755800,
+        "volatility": 2
+    },
+    {
+        "actual": 1.8,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 2.5,
+        "name": "Industrial New Orders (MoM)",
+        "previous": -7.8,
+        "timestamp": 1325757600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.2,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 0.1,
+        "name": "PPI (MoM)",
+        "previous": 0.1,
+        "timestamp": 1325757600,
+        "volatility": 0
+    },
+    {
+        "actual": -2.1,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": -2.5,
+        "name": "Industrial Production (YoY)",
+        "previous": -2.7,
+        "timestamp": 1325761200,
+        "volatility": 1
+    },
+    {
+        "actual": 4.0,
+        "country": "Chile",
+        "currency": "CLP",
+        "forecast": 4.0,
+        "name": "Economic Activity (YoY)",
+        "previous": 3.4,
+        "timestamp": 1325763000,
+        "volatility": 0
+    },
+    {
+        "actual": 30.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Challenger Job Cuts (YoY)",
+        "previous": -12.8,
+        "timestamp": 1325766600,
+        "volatility": 0
+    },
+    {
+        "actual": 325.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 175.0,
+        "name": "ADP Nonfarm Employment Change",
+        "previous": 204.0,
+        "timestamp": 1325769300,
+        "volatility": 2
+    },
+    {
+        "actual": 3.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 3.0,
+        "name": "Continuing Jobless Claims",
+        "previous": 3.0,
+        "timestamp": 1325770200,
+        "volatility": 0
+    },
+    {
+        "actual": 372.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 375.0,
+        "name": "Initial Jobless Claims",
+        "previous": 387.0,
+        "timestamp": 1325770200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.2,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.2,
+        "name": "IPPI (MoM)",
+        "previous": -0.1,
+        "timestamp": 1325770200,
+        "volatility": 0
+    },
+    {
+        "actual": 3.8,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.5,
+        "name": "RMPI (MoM)",
+        "previous": -1.0,
+        "timestamp": 1325770200,
+        "volatility": 1
+    },
+    {
+        "actual": 27.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Bloomberg Consumer Confidence",
+        "previous": 26.25,
+        "timestamp": 1325774700,
+        "volatility": 0
+    },
+    {
+        "actual": 52.6,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 53.0,
+        "name": "ISM Non-Manufacturing PMI",
+        "previous": 52.0,
+        "timestamp": 1325775600,
+        "volatility": 2
+    },
+    {
+        "actual": 63.5,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 59.1,
+        "name": "Ivey PMI",
+        "previous": 59.9,
+        "timestamp": 1325775600,
+        "volatility": 2
+    },
+    {
+        "country": "Switzerland",
+        "currency": "CHF",
+        "name": "SNB Chairman Hildebrand Speaks",
+        "timestamp": 1325775600,
+        "volatility": 1
+    },
+    {
+        "actual": -76.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -78.0,
+        "name": "Natural Gas Storage",
+        "previous": -81.0,
+        "timestamp": 1325777400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -1.2,
+        "name": "Crude Oil Inventories",
+        "previous": 3.9,
+        "timestamp": 1325779200,
+        "volatility": 2
+    },
+    {
+        "actual": 2.5,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 1.0,
+        "name": "Gasoline Inventories",
+        "previous": -0.7,
+        "timestamp": 1325779200,
+        "volatility": 0
+    },
+    {
+        "actual": 29.0,
+        "country": "Venezuela",
+        "currency": "VEF",
+        "forecast": 29.0,
+        "name": "CPI (YoY)",
+        "previous": 28.9,
+        "timestamp": 1325779200,
+        "volatility": 0
+    }
+]

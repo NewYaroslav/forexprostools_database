@@ -1,0 +1,885 @@
+[
+    {
+        "actual": -1.9,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 1.8,
+        "name": "Exports (YoY) (Nov)",
+        "previous": 2.3,
+        "timestamp": 1417392000,
+        "volatility": 0
+    },
+    {
+        "actual": -4.0,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": -2.2,
+        "name": "Imports (YoY) (Nov)",
+        "previous": -3.0,
+        "timestamp": 1417392000,
+        "volatility": 0
+    },
+    {
+        "actual": 49.0,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "Nikkei Manufacturing PMI (Nov)",
+        "previous": 48.7,
+        "timestamp": 1417392000,
+        "volatility": 0
+    },
+    {
+        "actual": 5.61,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 6.2,
+        "name": "Trade Balance (Nov)",
+        "previous": 7.4,
+        "timestamp": 1417392000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.2,
+        "name": "Business inventories (MoM) (Q3)",
+        "previous": 0.9,
+        "timestamp": 1417393800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": -1.2,
+        "name": "Company Gross Operating Profits (QoQ) (Q3)",
+        "previous": -7.5,
+        "timestamp": 1417393800,
+        "volatility": 1
+    },
+    {
+        "actual": 10.2,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Company Profits Pre-Tax (QoQ) (Q3)",
+        "previous": -17.5,
+        "timestamp": 1417393800,
+        "volatility": 0
+    },
+    {
+        "actual": 50.3,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 50.5,
+        "name": "Manufacturing PMI (Nov)",
+        "previous": 50.8,
+        "timestamp": 1417395600,
+        "volatility": 2
+    },
+    {
+        "actual": 52.0,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 52.1,
+        "name": "Manufacturing PMI (Nov)",
+        "previous": 52.1,
+        "timestamp": 1417397700,
+        "volatility": 0
+    },
+    {
+        "actual": 50.0,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 50.0,
+        "name": "Caixin Manufacturing PMI (Nov)",
+        "previous": 50.0,
+        "timestamp": 1417398300,
+        "volatility": 2
+    },
+    {
+        "actual": 51.4,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "name": "Manufacturing PMI (Nov)",
+        "previous": 52.0,
+        "timestamp": 1417399200,
+        "volatility": 0
+    },
+    {
+        "actual": -2.5,
+        "country": "Philippines",
+        "currency": "PHP",
+        "name": "Budget Balance (Oct)",
+        "previous": -5.2,
+        "timestamp": 1417402800,
+        "volatility": 0
+    },
+    {
+        "actual": 48.0,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "name": "Nikkei Manufacturing PMI (Nov)",
+        "previous": 49.2,
+        "timestamp": 1417402800,
+        "volatility": 0
+    },
+    {
+        "actual": 4.21,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": 4.46,
+        "name": "Core Inflation (YoY) (Nov)",
+        "previous": 4.02,
+        "timestamp": 1417406400,
+        "volatility": 1
+    },
+    {
+        "actual": 6.23,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": 6.12,
+        "name": "Inflation (YoY) (Nov)",
+        "previous": 4.83,
+        "timestamp": 1417406400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.5,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": 1.2,
+        "name": "Inflation (MoM) (Nov)",
+        "previous": 0.47,
+        "timestamp": 1417406400,
+        "volatility": 1
+    },
+    {
+        "actual": -2.21,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": -1.45,
+        "name": "Export Growth (YoY) (Oct)",
+        "previous": 3.87,
+        "timestamp": 1417407300,
+        "volatility": 0
+    },
+    {
+        "actual": -2.21,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": -1.55,
+        "name": "Import Growth (YoY) (Oct)",
+        "previous": 0.23,
+        "timestamp": 1417407300,
+        "volatility": 0
+    },
+    {
+        "actual": 0.02,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": -0.06,
+        "name": "Trade Balance (Oct)",
+        "previous": -0.27,
+        "timestamp": 1417407300,
+        "volatility": 1
+    },
+    {
+        "actual": 1.6,
+        "country": "Thailand",
+        "currency": "THB",
+        "forecast": 1.59,
+        "name": "Core CPI (YoY) (Nov)",
+        "previous": 1.67,
+        "timestamp": 1417408200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.26,
+        "country": "Thailand",
+        "currency": "THB",
+        "forecast": 1.3,
+        "name": "CPI (YoY) (Nov)",
+        "previous": 1.48,
+        "timestamp": 1417408200,
+        "volatility": 1
+    },
+    {
+        "actual": 53.3,
+        "country": "India",
+        "currency": "INR",
+        "forecast": 51.5,
+        "name": "Nikkei Markit Manufacturing PMI (Nov)",
+        "previous": 51.6,
+        "timestamp": 1417410000,
+        "volatility": 0
+    },
+    {
+        "actual": 12.34,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "name": "Foreign Tourism (Oct)",
+        "previous": 2.65,
+        "timestamp": 1417410000,
+        "volatility": 0
+    },
+    {
+        "actual": -18.6,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Commodity Prices (YoY)",
+        "previous": -17.6,
+        "timestamp": 1417411800,
+        "volatility": 0
+    },
+    {
+        "actual": 56.2,
+        "country": "Ireland",
+        "currency": "EUR",
+        "name": "Irish Manufacturing PMI (Nov)",
+        "previous": 56.6,
+        "timestamp": 1417413600,
+        "volatility": 0
+    },
+    {
+        "actual": 6.0,
+        "country": "Estonia",
+        "currency": "EUR",
+        "name": "Estonian Retail Sales (MoM) (Oct)",
+        "previous": -7.0,
+        "timestamp": 1417413600,
+        "volatility": 0
+    },
+    {
+        "actual": 6.0,
+        "country": "Estonia",
+        "currency": "EUR",
+        "name": "Estonian Retail Sales (YoY) (Oct)",
+        "previous": 6.0,
+        "timestamp": 1417413600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.15,
+        "country": "Peru",
+        "currency": "PEN",
+        "forecast": 0.02,
+        "name": "CPI (MoM) (Nov)",
+        "previous": 0.38,
+        "timestamp": 1417413600,
+        "volatility": 0
+    },
+    {
+        "actual": 52.7,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 52.6,
+        "name": "Manufacturing PMI (Nov)",
+        "previous": 52.1,
+        "timestamp": 1417419000,
+        "volatility": 0
+    },
+    {
+        "actual": 53.2,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 51.0,
+        "name": "Manufacturing PMI (Nov)",
+        "previous": 51.2,
+        "timestamp": 1417420800,
+        "volatility": 0
+    },
+    {
+        "actual": 51.3,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 51.2,
+        "name": "Manufacturing PMI (Nov)",
+        "previous": 50.8,
+        "timestamp": 1417420800,
+        "volatility": 0
+    },
+    {
+        "actual": 55.1,
+        "country": "Hungary",
+        "currency": "HUF",
+        "name": "Manufacturing PMI (Nov)",
+        "previous": 55.0,
+        "timestamp": 1417420800,
+        "volatility": 0
+    },
+    {
+        "actual": 54.7,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 53.1,
+        "name": "Spanish Manufacturing PMI (Nov)",
+        "previous": 52.6,
+        "timestamp": 1417421700,
+        "volatility": 1
+    },
+    {
+        "actual": 52.1,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 52.9,
+        "name": "SVME PMI (Nov)",
+        "previous": 55.3,
+        "timestamp": 1417422600,
+        "volatility": 1
+    },
+    {
+        "actual": 1.4,
+        "country": "Hong Kong",
+        "currency": "HKD",
+        "forecast": 0.3,
+        "name": "Retail Sales (YoY) (Oct)",
+        "previous": 4.8,
+        "timestamp": 1417422600,
+        "volatility": 0
+    },
+    {
+        "actual": 55.6,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "name": "Markit PMI (Nov)",
+        "previous": 54.4,
+        "timestamp": 1417422600,
+        "volatility": 0
+    },
+    {
+        "actual": 12.88,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Exports (Nov)",
+        "previous": 12.6,
+        "timestamp": 1417422600,
+        "volatility": 0
+    },
+    {
+        "actual": 49.0,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 49.5,
+        "name": "Italian Manufacturing PMI (Nov)",
+        "previous": 49.0,
+        "timestamp": 1417423500,
+        "volatility": 1
+    },
+    {
+        "actual": 48.4,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 47.6,
+        "name": "French Manufacturing PMI (Nov)",
+        "previous": 47.6,
+        "timestamp": 1417423800,
+        "volatility": 1
+    },
+    {
+        "actual": 49.5,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 50.0,
+        "name": "German Manufacturing PMI (Nov)",
+        "previous": 50.0,
+        "timestamp": 1417424100,
+        "volatility": 2
+    },
+    {
+        "actual": -0.5,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": -0.4,
+        "name": "Italian GDP (YoY) (Q3)",
+        "previous": -0.5,
+        "timestamp": 1417424400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": -0.1,
+        "name": "Italian GDP (QoQ) (Q3)",
+        "previous": -0.1,
+        "timestamp": 1417424400,
+        "volatility": 0
+    },
+    {
+        "actual": 20.0,
+        "country": "China",
+        "currency": "CNY",
+        "name": "PBoC Reserve Requirement Ratio (Nov)",
+        "previous": 20.0,
+        "timestamp": 1417424400,
+        "volatility": 1
+    },
+    {
+        "actual": 11.89,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "name": "Loans (YoY) (Nov)",
+        "previous": 12.62,
+        "timestamp": 1417424400,
+        "volatility": 0
+    },
+    {
+        "actual": 49.1,
+        "country": "Greece",
+        "currency": "EUR",
+        "name": "Greek Manufacturing PMI (Nov)",
+        "previous": 48.8,
+        "timestamp": 1417424400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.5,
+        "country": "Saudi Arabia",
+        "currency": "SAR",
+        "name": "CPI (YoY) (Nov)",
+        "previous": 2.6,
+        "timestamp": 1417424400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Saudi Arabia",
+        "currency": "SAR",
+        "name": "CPI (MoM) (Nov)",
+        "previous": 0.2,
+        "timestamp": 1417424400,
+        "volatility": 0
+    },
+    {
+        "actual": 331.8,
+        "country": "Austria",
+        "currency": "EUR",
+        "name": "Austrian Unemployment Change (Nov)",
+        "previous": 310.3,
+        "timestamp": 1417424400,
+        "volatility": 0
+    },
+    {
+        "actual": 8.7,
+        "country": "Austria",
+        "currency": "EUR",
+        "name": "Austrian Unemployment Rate (Nov)",
+        "previous": 8.1,
+        "timestamp": 1417424400,
+        "volatility": 0
+    },
+    {
+        "actual": 51.7,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "Markit Manufacturing PMI (Nov)",
+        "previous": 50.3,
+        "timestamp": 1417424400,
+        "volatility": 1
+    },
+    {
+        "actual": 44.5,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "Markit Services PMI (Nov)",
+        "previous": 47.4,
+        "timestamp": 1417424400,
+        "volatility": 1
+    },
+    {
+        "actual": 8.5,
+        "country": "Kenya",
+        "currency": "KES",
+        "name": "Interest Rate Decision (Nov)",
+        "previous": 8.5,
+        "timestamp": 1417424400,
+        "volatility": 0
+    },
+    {
+        "actual": 15.65,
+        "country": "Egypt",
+        "currency": "EGP",
+        "name": "M2 Money Supply (YoY) (Nov)",
+        "previous": 15.71,
+        "timestamp": 1417424400,
+        "volatility": 0
+    },
+    {
+        "actual": 5.4,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 5.4,
+        "name": "Credit Indicator (YoY) (Oct)",
+        "previous": 5.4,
+        "timestamp": 1417424400,
+        "volatility": 0
+    },
+    {
+        "actual": 50.1,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 50.4,
+        "name": "Manufacturing PMI (Nov)",
+        "previous": 50.4,
+        "timestamp": 1417424400,
+        "volatility": 1
+    },
+    {
+        "actual": 43.9,
+        "country": "Oman",
+        "currency": "OMR",
+        "name": "Budget Balance (Nov)",
+        "previous": 53.5,
+        "timestamp": 1417424400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "Oman",
+        "currency": "OMR",
+        "name": "CPI (MoM) (Nov)",
+        "previous": 0.1,
+        "timestamp": 1417424400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.78,
+        "country": "Romania",
+        "currency": "RON",
+        "name": "Interest Rate Decision (Nov)",
+        "previous": 3.0,
+        "timestamp": 1417424400,
+        "volatility": 0
+    },
+    {
+        "actual": 53.3,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": 51.8,
+        "name": "Manufacturing PMI",
+        "previous": 50.1,
+        "timestamp": 1417424400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.8,
+        "country": "United Arab Emirates",
+        "currency": "AED",
+        "name": "CPI (YoY) (Nov)",
+        "previous": 3.1,
+        "timestamp": 1417424400,
+        "volatility": 0
+    },
+    {
+        "actual": 58.3,
+        "country": "United Arab Emirates",
+        "currency": "AED",
+        "name": "Markit Composite PMI (Nov)",
+        "previous": 61.2,
+        "timestamp": 1417424400,
+        "volatility": 0
+    },
+    {
+        "actual": 9.5,
+        "country": "United Arab Emirates",
+        "currency": "AED",
+        "name": "Private Sector Loans (YoY) (Nov)",
+        "previous": 9.2,
+        "timestamp": 1417424400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.3,
+        "country": "Bahrain",
+        "currency": "BHD",
+        "name": "CPI (MoM) (Nov)",
+        "previous": 0.0,
+        "timestamp": 1417424400,
+        "volatility": 0
+    },
+    {
+        "actual": 6.8,
+        "country": "Bahrain",
+        "currency": "BHD",
+        "name": "M2 Money Supply (Nov)",
+        "previous": 6.1,
+        "timestamp": 1417424400,
+        "volatility": 0
+    },
+    {
+        "actual": 7.5,
+        "country": "Botswana",
+        "currency": "BWP",
+        "name": "Interest Rate Decision (Nov)",
+        "previous": 7.5,
+        "timestamp": 1417424400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.83,
+        "country": "Mauritius",
+        "currency": "MUR",
+        "name": "CPI (YoY) (Nov)",
+        "previous": 1.87,
+        "timestamp": 1417424400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.087,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 1.0,
+        "name": "BoE Consumer Credit (Oct)",
+        "previous": 0.942,
+        "timestamp": 1417426200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.1,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.2,
+        "name": "M4 Money Supply (MoM) (Oct)",
+        "previous": -0.7,
+        "timestamp": 1417426200,
+        "volatility": 0
+    },
+    {
+        "actual": 53.5,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 53.1,
+        "name": "Manufacturing PMI (Nov)",
+        "previous": 53.2,
+        "timestamp": 1417426200,
+        "volatility": 2
+    },
+    {
+        "actual": 59.43,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 59.0,
+        "name": "Mortgage Approvals (Oct)",
+        "previous": 61.23,
+        "timestamp": 1417426200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.5,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 1.8,
+        "name": "Mortgage Lending (Oct)",
+        "previous": 1.7,
+        "timestamp": 1417426200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.6,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 2.8,
+        "name": "Net Lending to Individuals",
+        "previous": 2.7,
+        "timestamp": 1417426200,
+        "volatility": 0
+    },
+    {
+        "actual": 6.3,
+        "country": "India",
+        "currency": "INR",
+        "name": "Infrastructure Output (YoY) (Oct)",
+        "previous": 1.9,
+        "timestamp": 1417433400,
+        "volatility": 0
+    },
+    {
+        "actual": 48.7,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 48.8,
+        "name": "Markit Manufacturing PMI (Nov)",
+        "previous": 49.1,
+        "timestamp": 1417435200,
+        "volatility": 0
+    },
+    {
+        "actual": -68.85,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "name": "Budget Balance (Nov)",
+        "previous": -45.44,
+        "timestamp": 1417438800,
+        "volatility": 0
+    },
+    {
+        "actual": -0.007,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 12-Month BTF Auction",
+        "previous": -0.009,
+        "timestamp": 1417442400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.017,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 3-Month BTF Auction",
+        "previous": -0.017,
+        "timestamp": 1417442400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.015,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 6-Month BTF Auction",
+        "previous": -0.011,
+        "timestamp": 1417442400,
+        "volatility": 0
+    },
+    {
+        "actual": 55.3,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "RBC Manufacturing PMI (Nov)",
+        "previous": 55.3,
+        "timestamp": 1417444200,
+        "volatility": 0
+    },
+    {
+        "actual": 54.8,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 55.0,
+        "name": "Manufacturing PMI (Nov)",
+        "previous": 54.7,
+        "timestamp": 1417445100,
+        "volatility": 1
+    },
+    {
+        "actual": 54.9,
+        "country": "United States",
+        "currency": "USD",
+        "name": "ISM Manufacturing Employment (Nov)",
+        "previous": 55.5,
+        "timestamp": 1417446000,
+        "volatility": 1
+    },
+    {
+        "actual": 66.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "ISM Manufacturing New Orders Index (Nov)",
+        "previous": 65.8,
+        "timestamp": 1417446000,
+        "volatility": 0
+    },
+    {
+        "actual": 58.7,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 57.9,
+        "name": "ISM Manufacturing PMI (Nov)",
+        "previous": 59.0,
+        "timestamp": 1417446000,
+        "volatility": 2
+    },
+    {
+        "actual": 44.5,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 52.6,
+        "name": "ISM Manufacturing Prices (Nov)",
+        "previous": 53.5,
+        "timestamp": 1417446000,
+        "volatility": 0
+    },
+    {
+        "actual": 54.3,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 53.0,
+        "name": "Manufacturing PMI (Nov)",
+        "previous": 53.3,
+        "timestamp": 1417447800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.025,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Month Bill Auction",
+        "previous": 0.02,
+        "timestamp": 1417451400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.075,
+        "country": "United States",
+        "currency": "USD",
+        "name": "6-Month Bill Auction",
+        "previous": 0.07,
+        "timestamp": 1417451400,
+        "volatility": 0
+    },
+    {
+        "actual": -2.35,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": -2.45,
+        "name": "Trade Balance (Nov)",
+        "previous": -1.18,
+        "timestamp": 1417453200,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "FOMC Member Dudley Speaks",
+        "timestamp": 1417454100,
+        "volatility": 1
+    },
+    {
+        "actual": 101.84,
+        "country": "Argentina",
+        "currency": "ARS",
+        "forecast": 101.6,
+        "name": "Tax Revenue (Nov)",
+        "previous": 104.6,
+        "timestamp": 1417457340,
+        "volatility": 0
+    },
+    {
+        "actual": -0.2,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 0.0,
+        "name": "CPI (MoM) (Nov)",
+        "previous": -0.3,
+        "timestamp": 1417474800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 1.1,
+        "name": "CPI (YoY) (Nov)",
+        "previous": 1.2,
+        "timestamp": 1417474800,
+        "volatility": 1
+    },
+    {
+        "actual": 36.7,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 37.2,
+        "name": "Monetary Base (YoY)",
+        "previous": 36.9,
+        "timestamp": 1417477800,
+        "volatility": 0
+    }
+]

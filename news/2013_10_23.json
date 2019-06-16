@@ -1,0 +1,324 @@
+[
+    {
+        "actual": 2.2,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 1.8,
+        "name": "CPI (YoY)",
+        "previous": 2.4,
+        "timestamp": 1382488200,
+        "volatility": 1
+    },
+    {
+        "actual": 1.2,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.8,
+        "name": "CPI (QoQ)",
+        "previous": 0.4,
+        "timestamp": 1382488200,
+        "volatility": 2
+    },
+    {
+        "actual": 104.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "CPI Index Number",
+        "previous": 102.8,
+        "timestamp": 1382488200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.3,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 2.1,
+        "name": "Trimmed Mean CPI (YoY)",
+        "previous": 2.3,
+        "timestamp": 1382488200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.6,
+        "name": "Trimmed Mean CPI (QoQ)",
+        "previous": 0.6,
+        "timestamp": 1382488200,
+        "volatility": 1
+    },
+    {
+        "actual": 0.6,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.6,
+        "name": "Weighted mean CPI (QoQ)",
+        "previous": 0.6,
+        "timestamp": 1382488200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.3,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 2.3,
+        "name": "Weighted mean CPI (YoY)",
+        "previous": 2.5,
+        "timestamp": 1382488200,
+        "volatility": 0
+    },
+    {
+        "actual": 98.0,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 98.0,
+        "name": "French Business Survey",
+        "previous": 97.0,
+        "timestamp": 1382510700,
+        "volatility": 0
+    },
+    {
+        "actual": 4.6,
+        "country": "Denmark",
+        "currency": "DKK",
+        "name": "Consumer Confidence",
+        "previous": 4.7,
+        "timestamp": 1382511600,
+        "volatility": 0
+    },
+    {
+        "actual": -2.0,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch Consumer Spending",
+        "previous": -2.0,
+        "timestamp": 1382513400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.32,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian Trade Balance Non-EU",
+        "previous": 0.57,
+        "timestamp": 1382515200,
+        "volatility": 0
+    },
+    {
+        "actual": -1.8,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": -2.5,
+        "name": "Spanish Trade Balance",
+        "previous": -0.8,
+        "timestamp": 1382515200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.06,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": 0.1,
+        "name": "Industrial Production (YoY)",
+        "previous": -0.57,
+        "timestamp": 1382515200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": 0.5,
+        "name": "CPI (MoM)",
+        "previous": 0.3,
+        "timestamp": 1382515200,
+        "volatility": 1
+    },
+    {
+        "actual": 43.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 39.4,
+        "name": "Gross Mortgage Approvals",
+        "previous": 38.8,
+        "timestamp": 1382517000,
+        "volatility": 1
+    },
+    {
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BoE MPC Meeting Minutes",
+        "timestamp": 1382517000,
+        "volatility": 2
+    },
+    {
+        "actual": 2.64,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German 30-Year Bund Auction",
+        "previous": 2.47,
+        "timestamp": 1382520600,
+        "volatility": 0
+    },
+    {
+        "actual": 111.7,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 112.0,
+        "name": "FGV Consumer confidence",
+        "previous": 114.2,
+        "timestamp": 1382522400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.6,
+        "country": "United States",
+        "currency": "USD",
+        "name": "MBA Mortgage Applications (WoW)",
+        "previous": 0.3,
+        "timestamp": 1382526000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.2,
+        "name": "Import Price Index (MoM)",
+        "previous": 0.2,
+        "timestamp": 1382531400,
+        "volatility": 1
+    },
+    {
+        "actual": 0.3,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.8,
+        "name": "House Price Index (MoM)",
+        "previous": 0.8,
+        "timestamp": 1382533200,
+        "volatility": 0
+    },
+    {
+        "actual": 8.5,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 7.1,
+        "name": "House Price Index (YoY)",
+        "previous": 8.8,
+        "timestamp": 1382533200,
+        "volatility": 0
+    },
+    {
+        "actual": -7.7,
+        "country": "Belgium",
+        "currency": "EUR",
+        "forecast": -6.0,
+        "name": "Belgium NBB Business Climate",
+        "previous": -6.7,
+        "timestamp": 1382533200,
+        "volatility": 0
+    },
+    {
+        "actual": 114.78,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CB Employment Trends Index",
+        "previous": 113.98,
+        "timestamp": 1382536800,
+        "volatility": 0
+    },
+    {
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "BoC Monetary Policy Report",
+        "timestamp": 1382536800,
+        "volatility": 2
+    },
+    {
+        "actual": 1.0,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 1.0,
+        "name": "BoC Interest Rate Decision",
+        "previous": 1.0,
+        "timestamp": 1382536800,
+        "volatility": 2
+    },
+    {
+        "actual": -14.5,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -14.4,
+        "name": "Consumer Confidence",
+        "previous": -14.9,
+        "timestamp": 1382536800,
+        "volatility": 0
+    },
+    {
+        "actual": 5.246,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.938,
+        "name": "Crude Oil Inventories",
+        "previous": 3.999,
+        "timestamp": 1382538600,
+        "volatility": 2
+    },
+    {
+        "actual": 1.537,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -1.775,
+        "name": "EIA Weekly Distillates Stocks",
+        "previous": -1.801,
+        "timestamp": 1382538600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.805,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.25,
+        "name": "Gasoline Inventories",
+        "previous": -2.57,
+        "timestamp": 1382538600,
+        "volatility": 0
+    },
+    {
+        "actual": -4.48,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Foreign Exchange Flows",
+        "previous": -4.34,
+        "timestamp": 1382538600,
+        "volatility": 0
+    },
+    {
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "BoC Gov Poloz Speaks",
+        "timestamp": 1382541300,
+        "volatility": 2
+    },
+    {
+        "actual": -199.0,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "forecast": -750.0,
+        "name": "Trade Balance (MoM)",
+        "previous": -1.0,
+        "timestamp": 1382564700,
+        "volatility": 1
+    },
+    {
+        "actual": 1.0,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Foreign Bonds Buying",
+        "previous": 386.9,
+        "timestamp": 1382572200,
+        "volatility": 0
+    }
+]

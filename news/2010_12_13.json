@@ -1,0 +1,56 @@
+[
+    {
+        "actual": -0.2,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 0.1,
+        "name": "PPI (MoM)",
+        "previous": -0.4,
+        "timestamp": 1292228100,
+        "volatility": 1
+    },
+    {
+        "actual": 0.9,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.5,
+        "name": "PPI Input (MoM)",
+        "previous": 2.2,
+        "timestamp": 1292232600,
+        "volatility": 1
+    },
+    {
+        "actual": 78.1,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 75.8,
+        "name": "Capacity Utilization Rate",
+        "previous": 76.9,
+        "timestamp": 1292247000,
+        "volatility": 0
+    },
+    {
+        "actual": 3.7,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 4.8,
+        "name": "Industrial Production (YoY)",
+        "previous": 6.6,
+        "timestamp": 1292252400,
+        "volatility": 0
+    },
+    {
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "BoC Gov Carney Speaks",
+        "timestamp": 1292260200,
+        "volatility": 1
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB President Trichet Speaks",
+        "timestamp": 1292265000,
+        "volatility": 2
+    }
+]

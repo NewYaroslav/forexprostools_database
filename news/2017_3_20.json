@@ -1,0 +1,279 @@
+[
+    {
+        "actual": 1.3,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "Rightmove House Price Index (MoM)",
+        "previous": 2.0,
+        "timestamp": 1489968060,
+        "volatility": 0
+    },
+    {
+        "actual": 16.0,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch Consumer Confidence (Mar)",
+        "previous": 14.0,
+        "timestamp": 1489987800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "Estonia",
+        "currency": "EUR",
+        "name": "Estonian PPI (MoM) (Feb)",
+        "previous": 1.0,
+        "timestamp": 1489989600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.9,
+        "country": "Estonia",
+        "currency": "EUR",
+        "name": "Estonian PPI (YoY) (Feb)",
+        "previous": 1.5,
+        "timestamp": 1489989600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.3,
+        "name": "German PPI (MoM) (Feb)",
+        "previous": 0.7,
+        "timestamp": 1489993200,
+        "volatility": 1
+    },
+    {
+        "actual": 3.1,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 3.2,
+        "name": "German PPI (YoY) (Feb)",
+        "previous": 2.4,
+        "timestamp": 1489993200,
+        "volatility": 0
+    },
+    {
+        "actual": 22.0,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": 15.8,
+        "name": "Export Orders (YoY) (Feb)",
+        "previous": 5.2,
+        "timestamp": 1489996800,
+        "volatility": 0
+    },
+    {
+        "actual": 10.0,
+        "country": "Hungary",
+        "currency": "HUF",
+        "name": "Gross Wages (YoY) (Jan)",
+        "previous": 5.7,
+        "timestamp": 1489996800,
+        "volatility": 0
+    },
+    {
+        "actual": 8.4,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "forecast": 8.5,
+        "name": "Slovak Unemployment Rate (Feb)",
+        "previous": 8.6,
+        "timestamp": 1490002200,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "EU Finance Ministers Meeting",
+        "timestamp": 1490004000,
+        "volatility": 1
+    },
+    {
+        "actual": 1.6,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "Wages in euro zone (YoY) (Q4)",
+        "previous": 1.5,
+        "timestamp": 1490004000,
+        "volatility": 1
+    },
+    {
+        "actual": 1.6,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 1.6,
+        "name": "Labor Cost Index (YoY) (Q4)",
+        "previous": 1.4,
+        "timestamp": 1490004000,
+        "volatility": 0
+    },
+    {
+        "actual": -0.82,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch 3-Month T-bill Auction",
+        "previous": -0.74,
+        "timestamp": 1490006700,
+        "volatility": 0
+    },
+    {
+        "actual": -0.775,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch 6-Month T-bill Auction",
+        "previous": -0.8,
+        "timestamp": 1490006700,
+        "volatility": 0
+    },
+    {
+        "actual": -0.04,
+        "country": "Portugal",
+        "currency": "EUR",
+        "name": "Portuguese Current Account (Jan)",
+        "previous": 1.556,
+        "timestamp": 1490007600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Chile",
+        "currency": "CLP",
+        "forecast": 0.5,
+        "name": "GDP (YoY) (Q4)",
+        "previous": 1.6,
+        "timestamp": 1490009400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.34,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.03,
+        "name": "Chicago Fed National Activity (Feb)",
+        "previous": -0.02,
+        "timestamp": 1490013000,
+        "volatility": 0
+    },
+    {
+        "actual": 3.3,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.4,
+        "name": "Wholesale Sales (MoM) (Jan)",
+        "previous": 0.3,
+        "timestamp": 1490013000,
+        "volatility": 1
+    },
+    {
+        "actual": -0.522,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 12-Month BTF Auction",
+        "previous": -0.61,
+        "timestamp": 1490018400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.642,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 3-Month BTF Auction",
+        "previous": -0.81,
+        "timestamp": 1490018400,
+        "volatility": 0
+    },
+    {
+        "actual": -0.618,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 6-Month BTF Auction",
+        "previous": -0.74,
+        "timestamp": 1490018400,
+        "volatility": 0
+    },
+    {
+        "actual": 783.1,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Central Government Debt Stock (Feb)",
+        "previous": 800.2,
+        "timestamp": 1490020200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.76,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Month Bill Auction",
+        "previous": 0.78,
+        "timestamp": 1490023800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.89,
+        "country": "United States",
+        "currency": "USD",
+        "name": "6-Month Bill Auction",
+        "previous": 0.91,
+        "timestamp": 1490023800,
+        "volatility": 0
+    },
+    {
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German Buba President Weidmann Speaks",
+        "timestamp": 1490028300,
+        "volatility": 1
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "Chicago Fed President Evans Speaks",
+        "timestamp": 1490029800,
+        "volatility": 0
+    },
+    {
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "BoE MPC Member Haldane Speaks",
+        "timestamp": 1490034000,
+        "volatility": 1
+    },
+    {
+        "actual": 1.8,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "External Migration & Visitors (Feb)",
+        "previous": 11.0,
+        "timestamp": 1490046300,
+        "volatility": 0
+    },
+    {
+        "actual": 6.0,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "Permanent/Long-Term Migration (Feb)",
+        "previous": 6.0,
+        "timestamp": 1490046300,
+        "volatility": 0
+    },
+    {
+        "actual": -1.9,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "Visitor Arrivals (MoM)",
+        "previous": 1.8,
+        "timestamp": 1490046300,
+        "volatility": 0
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "U.S. President Trump Speaks",
+        "timestamp": 1490052600,
+        "volatility": 2
+    }
+]

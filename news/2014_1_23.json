@@ -1,0 +1,447 @@
+[
+    {
+        "actual": 2.3,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "MI Inflation Expectations",
+        "previous": 2.1,
+        "timestamp": 1390435200,
+        "volatility": 0
+    },
+    {
+        "actual": 49.6,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 50.6,
+        "name": "Caixin Manufacturing PMI",
+        "previous": 50.5,
+        "timestamp": 1390441500,
+        "volatility": 2
+    },
+    {
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "BoJ Monthly Report",
+        "timestamp": 1390453200,
+        "volatility": 1
+    },
+    {
+        "actual": 100.0,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 100.0,
+        "name": "French Business Survey",
+        "previous": 100.0,
+        "timestamp": 1390463100,
+        "volatility": 0
+    },
+    {
+        "actual": 48.8,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 47.5,
+        "name": "French Manufacturing PMI",
+        "previous": 47.0,
+        "timestamp": 1390463880,
+        "volatility": 1
+    },
+    {
+        "actual": 48.6,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 48.1,
+        "name": "French Services PMI",
+        "previous": 47.8,
+        "timestamp": 1390463880,
+        "volatility": 1
+    },
+    {
+        "actual": 6.3,
+        "country": "Denmark",
+        "currency": "DKK",
+        "forecast": 3.2,
+        "name": "Consumer Confidence",
+        "previous": 2.9,
+        "timestamp": 1390464000,
+        "volatility": 0
+    },
+    {
+        "actual": 26.03,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 26.0,
+        "name": "Spanish Unemployment Rate",
+        "previous": 25.98,
+        "timestamp": 1390464000,
+        "volatility": 0
+    },
+    {
+        "actual": 5.07,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "forecast": 2.02,
+        "name": "Industrial Production (YoY)",
+        "previous": -0.5,
+        "timestamp": 1390464000,
+        "volatility": 0
+    },
+    {
+        "actual": 56.3,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 54.6,
+        "name": "German Manufacturing PMI",
+        "previous": 54.3,
+        "timestamp": 1390465680,
+        "volatility": 2
+    },
+    {
+        "actual": 53.6,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 54.0,
+        "name": "German Services PMI",
+        "previous": 53.5,
+        "timestamp": 1390465680,
+        "volatility": 1
+    },
+    {
+        "actual": 7.5,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 7.5,
+        "name": "Unemployment Rate",
+        "previous": 7.5,
+        "timestamp": 1390465800,
+        "volatility": 0
+    },
+    {
+        "actual": 8.5,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "forecast": 8.3,
+        "name": "Dutch Unemployment Rate",
+        "previous": 8.2,
+        "timestamp": 1390465800,
+        "volatility": 0
+    },
+    {
+        "actual": 53.9,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 53.0,
+        "name": "Manufacturing PMI",
+        "previous": 52.7,
+        "timestamp": 1390467480,
+        "volatility": 1
+    },
+    {
+        "actual": 51.9,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 51.4,
+        "name": "Services PMI",
+        "previous": 51.0,
+        "timestamp": 1390467480,
+        "volatility": 1
+    },
+    {
+        "actual": 3.43,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian Trade Balance Non-EU",
+        "previous": 2.38,
+        "timestamp": 1390467600,
+        "volatility": 0
+    },
+    {
+        "actual": 23.5,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 19.2,
+        "name": "Current Account",
+        "previous": 22.2,
+        "timestamp": 1390467600,
+        "volatility": 0
+    },
+    {
+        "actual": 27.4,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "Current Account n.s.a.",
+        "previous": 26.6,
+        "timestamp": 1390467600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.8,
+        "country": "Germany",
+        "currency": "EUR",
+        "name": "German House Price Index (MoM)",
+        "previous": -0.4,
+        "timestamp": 1390471200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.34,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 2-Year BTAN Auction",
+        "previous": 0.39,
+        "timestamp": 1390471200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.94,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 4-Year BTAN Auction",
+        "previous": 0.66,
+        "timestamp": 1390471200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.24,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 5-Year BTAN Auction",
+        "previous": 0.83,
+        "timestamp": 1390471200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.87,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "10-Year Treasury Gilt Auction",
+        "previous": 2.73,
+        "timestamp": 1390473300,
+        "volatility": 0
+    },
+    {
+        "actual": 14.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 25.0,
+        "name": "CBI Distributive Trades Survey",
+        "previous": 34.0,
+        "timestamp": 1390474800,
+        "volatility": 0
+    },
+    {
+        "actual": 498.8,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "Central Bank reserves (USD)",
+        "previous": 499.1,
+        "timestamp": 1390474800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.8,
+        "country": "Russia",
+        "currency": "RUB",
+        "forecast": -0.1,
+        "name": "Industrial Production (YoY)",
+        "previous": -1.0,
+        "timestamp": 1390478400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.16,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.9,
+        "name": "Chicago Fed National Activity",
+        "previous": 0.69,
+        "timestamp": 1390483800,
+        "volatility": 0
+    },
+    {
+        "actual": 3.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.0,
+        "name": "Continuing Jobless Claims",
+        "previous": 3.0,
+        "timestamp": 1390483800,
+        "volatility": 0
+    },
+    {
+        "actual": 326.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 326.0,
+        "name": "Initial Jobless Claims",
+        "previous": 325.0,
+        "timestamp": 1390483800,
+        "volatility": 1
+    },
+    {
+        "actual": 331.5,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Jobless Claims 4-Week Avg.",
+        "previous": 335.25,
+        "timestamp": 1390483800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.3,
+        "name": "Core Retail Sales (MoM)",
+        "previous": 0.5,
+        "timestamp": 1390483800,
+        "volatility": 2
+    },
+    {
+        "actual": 0.6,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.3,
+        "name": "Retail Sales (MoM)",
+        "previous": -0.1,
+        "timestamp": 1390483800,
+        "volatility": 1
+    },
+    {
+        "actual": 53.7,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 55.0,
+        "name": "Manufacturing PMI",
+        "previous": 55.0,
+        "timestamp": 1390485480,
+        "volatility": 1
+    },
+    {
+        "actual": 7.6,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 8.0,
+        "name": "House Price Index (YoY)",
+        "previous": 8.2,
+        "timestamp": 1390485600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.4,
+        "name": "House Price Index (MoM)",
+        "previous": 0.5,
+        "timestamp": 1390485600,
+        "volatility": 0
+    },
+    {
+        "actual": 34.5,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Bloomberg Consumer Confidence",
+        "previous": 34.5,
+        "timestamp": 1390488300,
+        "volatility": 0
+    },
+    {
+        "actual": 1.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.4,
+        "name": "Existing Home Sales (MoM)",
+        "previous": -5.9,
+        "timestamp": 1390489200,
+        "volatility": 1
+    },
+    {
+        "actual": 4.87,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 4.94,
+        "name": "Existing Home Sales",
+        "previous": 4.82,
+        "timestamp": 1390489200,
+        "volatility": 2
+    },
+    {
+        "actual": -11.7,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": -13.0,
+        "name": "Consumer Confidence",
+        "previous": -13.5,
+        "timestamp": 1390489200,
+        "volatility": 0
+    },
+    {
+        "actual": -107.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -110.0,
+        "name": "Natural Gas Storage",
+        "previous": -287.0,
+        "timestamp": 1390491000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.99,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.588,
+        "name": "Crude Oil Inventories",
+        "previous": -7.658,
+        "timestamp": 1390492800,
+        "volatility": 2
+    },
+    {
+        "actual": -3.212,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": -0.851,
+        "name": "EIA Weekly Distillates Stocks",
+        "previous": -1.023,
+        "timestamp": 1390492800,
+        "volatility": 0
+    },
+    {
+        "actual": 2.123,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.081,
+        "name": "Gasoline Inventories",
+        "previous": 6.183,
+        "timestamp": 1390492800,
+        "volatility": 0
+    },
+    {
+        "actual": 5.0,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 2.0,
+        "name": "KC Fed Composite Index",
+        "previous": -3.0,
+        "timestamp": 1390492800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.661,
+        "country": "United States",
+        "currency": "USD",
+        "name": "10-Year TIPS Auction",
+        "previous": 0.56,
+        "timestamp": 1390500000,
+        "volatility": 0
+    },
+    {
+        "actual": 272.0,
+        "country": "Argentina",
+        "currency": "ARS",
+        "forecast": 915.0,
+        "name": "Trade Balance",
+        "previous": 901.0,
+        "timestamp": 1390503600,
+        "volatility": 0
+    }
+]

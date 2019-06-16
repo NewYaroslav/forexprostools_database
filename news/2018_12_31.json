@@ -1,0 +1,313 @@
+[
+    {
+        "actual": 0.3,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Housing Credit (Nov)",
+        "previous": 0.3,
+        "timestamp": 1546216200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": 0.3,
+        "name": "Private Sector Credit (MoM) (Nov)",
+        "previous": 0.4,
+        "timestamp": 1546216200,
+        "volatility": 1
+    },
+    {
+        "actual": 49.4,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 50.0,
+        "name": "Manufacturing PMI (Dec)",
+        "previous": 50.0,
+        "timestamp": 1546218000,
+        "volatility": 2
+    },
+    {
+        "actual": 53.8,
+        "country": "China",
+        "currency": "CNY",
+        "forecast": 53.2,
+        "name": "Non-Manufacturing PMI (Dec)",
+        "previous": 53.4,
+        "timestamp": 1546218000,
+        "volatility": 1
+    },
+    {
+        "actual": 671.9,
+        "country": "Singapore",
+        "currency": "SGD",
+        "name": "Bank Lending (Nov)",
+        "previous": 671.7,
+        "timestamp": 1546221600,
+        "volatility": 0
+    },
+    {
+        "country": "India",
+        "currency": "INR",
+        "name": "RBI Monetary and Credit Information Review",
+        "timestamp": 1546230600,
+        "volatility": 1
+    },
+    {
+        "actual": 5.69,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": 5.9,
+        "name": "M3 Money Supply (YoY) (Nov)",
+        "previous": 5.99,
+        "timestamp": 1546236000,
+        "volatility": 0
+    },
+    {
+        "actual": 5.56,
+        "country": "South Africa",
+        "currency": "ZAR",
+        "forecast": 5.56,
+        "name": "Private Sector Credit (Nov)",
+        "previous": 5.82,
+        "timestamp": 1546236000,
+        "volatility": 0
+    },
+    {
+        "actual": 7.4,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "name": "Money Supply (YoY)",
+        "previous": 8.0,
+        "timestamp": 1546239600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.65,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "Trade Balance (Nov)",
+        "previous": -0.46,
+        "timestamp": 1546239600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.5,
+        "country": "Hong Kong",
+        "currency": "HKD",
+        "name": "M3 Money Supply (Nov)",
+        "previous": -2.1,
+        "timestamp": 1546245000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.5,
+        "country": "Saudi Arabia",
+        "currency": "SAR",
+        "name": "GDP (YoY) (Q3)",
+        "previous": 1.6,
+        "timestamp": 1546245300,
+        "volatility": 0
+    },
+    {
+        "actual": 2.2,
+        "country": "Uganda",
+        "currency": "UGX",
+        "name": "CPI (YoY) (Dec)",
+        "previous": 3.0,
+        "timestamp": 1546245300,
+        "volatility": 0
+    },
+    {
+        "actual": 43.23,
+        "country": "Nigeria",
+        "currency": "NGN",
+        "name": "Foreign Reserves (USD) (Dec)",
+        "previous": 41.99,
+        "timestamp": 1546246800,
+        "volatility": 0
+    },
+    {
+        "actual": -8.5,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": -6.0,
+        "name": "Housing Equity Withdrawal (QoQ)",
+        "previous": -6.4,
+        "timestamp": 1546248600,
+        "volatility": 0
+    },
+    {
+        "actual": 6.6,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "name": "M2 Money Supply (YoY) (Nov)",
+        "previous": 7.3,
+        "timestamp": 1546249800,
+        "volatility": 0
+    },
+    {
+        "actual": 6.98,
+        "country": "Brazil",
+        "currency": "BRL",
+        "name": "Long Term Interest Rate TJLP (Q1)",
+        "previous": 6.98,
+        "timestamp": 1546250400,
+        "volatility": 0
+    },
+    {
+        "actual": -4.0,
+        "country": "Greece",
+        "currency": "EUR",
+        "name": "Greek Retail Sales (YoY) (Oct)",
+        "previous": 2.9,
+        "timestamp": 1546250400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.1,
+        "country": "Israel",
+        "currency": "ILS",
+        "name": "GDP Annualized (QoQ) (Q3)",
+        "previous": 0.8,
+        "timestamp": 1546254000,
+        "volatility": 1
+    },
+    {
+        "actual": 6.8,
+        "country": "Chile",
+        "currency": "CLP",
+        "name": "Unemployment Rate (Nov)",
+        "previous": 7.1,
+        "timestamp": 1546254000,
+        "volatility": 0
+    },
+    {
+        "actual": 5.71,
+        "country": "Kenya",
+        "currency": "KES",
+        "name": "CPI (YoY) (Dec)",
+        "previous": 5.58,
+        "timestamp": 1546254000,
+        "volatility": 0
+    },
+    {
+        "actual": 6.0,
+        "country": "Kenya",
+        "currency": "KES",
+        "name": "GDP (QoQ) (Q3)",
+        "previous": 6.3,
+        "timestamp": 1546256700,
+        "volatility": 0
+    },
+    {
+        "actual": 510.4,
+        "country": "India",
+        "currency": "INR",
+        "name": "Foreign Debt (USD) (Q3)",
+        "previous": 514.4,
+        "timestamp": 1546257600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.5,
+        "country": "India",
+        "currency": "INR",
+        "name": "Infrastructure Output (YoY) (Nov)",
+        "previous": 4.8,
+        "timestamp": 1546257600,
+        "volatility": 0
+    },
+    {
+        "actual": 7.0,
+        "country": "Chile",
+        "currency": "CLP",
+        "name": "Copper Production (YoY) (Nov)",
+        "previous": -3.2,
+        "timestamp": 1546257600,
+        "volatility": 0
+    },
+    {
+        "actual": -4.7,
+        "country": "Chile",
+        "currency": "CLP",
+        "name": "Chilean Manufacturing Production (YoY) (Nov)",
+        "previous": 9.0,
+        "timestamp": 1546257600,
+        "volatility": 0
+    },
+    {
+        "actual": 1.5,
+        "country": "Bahrain",
+        "currency": "BHD",
+        "name": "M2 Money Supply (Oct)",
+        "previous": 1.2,
+        "timestamp": 1546261200,
+        "volatility": 0
+    },
+    {
+        "actual": 9.0,
+        "country": "Bahrain",
+        "currency": "BHD",
+        "name": "Private Sector Credit (MoM) (Oct)",
+        "previous": 9.9,
+        "timestamp": 1546261200,
+        "volatility": 0
+    },
+    {
+        "actual": -4.6,
+        "country": "Qatar",
+        "currency": "QAR",
+        "name": "M2 Money Supply (YoY) (Nov)",
+        "previous": -1.2,
+        "timestamp": 1546263600,
+        "volatility": 0
+    },
+    {
+        "actual": 3.8,
+        "country": "Qatar",
+        "currency": "QAR",
+        "name": "Total Credit (YoY) (Nov)",
+        "previous": 4.3,
+        "timestamp": 1546263900,
+        "volatility": 0
+    },
+    {
+        "actual": 2.465,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Month Bill Auction",
+        "previous": 2.415,
+        "timestamp": 1546268400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.505,
+        "country": "United States",
+        "currency": "USD",
+        "name": "6-Month Bill Auction",
+        "previous": 2.48,
+        "timestamp": 1546268400,
+        "volatility": 0
+    },
+    {
+        "actual": -5.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 17.6,
+        "name": "Dallas Fed Mfg Business Index (Dec)",
+        "previous": 17.6,
+        "timestamp": 1546270200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.545,
+        "country": "United States",
+        "currency": "USD",
+        "name": "52-Week Bill Auction",
+        "previous": 2.635,
+        "timestamp": 1546273800,
+        "volatility": 0
+    }
+]

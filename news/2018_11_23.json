@@ -1,0 +1,484 @@
+[
+    {
+        "actual": 0.6,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "forecast": 0.6,
+        "name": "CPI (YoY) (Oct)",
+        "previous": 0.3,
+        "timestamp": 1542945600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.7,
+        "country": "Singapore",
+        "currency": "SGD",
+        "forecast": 0.8,
+        "name": "CPI (YoY) (Oct)",
+        "previous": 0.7,
+        "timestamp": 1542949200,
+        "volatility": 1
+    },
+    {
+        "actual": 1.1,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 1.1,
+        "name": "German GDP (YoY) (Q3)",
+        "previous": 1.1,
+        "timestamp": 1542956400,
+        "volatility": 1
+    },
+    {
+        "actual": -0.2,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": -0.2,
+        "name": "German GDP (QoQ) (Q3)",
+        "previous": -0.2,
+        "timestamp": 1542956400,
+        "volatility": 2
+    },
+    {
+        "actual": 32.9,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Currency Swaps (USD)",
+        "previous": 33.5,
+        "timestamp": 1542958200,
+        "volatility": 0
+    },
+    {
+        "actual": 202.6,
+        "country": "Thailand",
+        "currency": "THB",
+        "name": "Foreign Reserves (USD)",
+        "previous": 201.3,
+        "timestamp": 1542958200,
+        "volatility": 0
+    },
+    {
+        "actual": 4.5,
+        "country": "Spain",
+        "currency": "EUR",
+        "name": "Spanish PPI (YoY)",
+        "previous": 5.3,
+        "timestamp": 1542960000,
+        "volatility": 0
+    },
+    {
+        "actual": 8.25,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "name": "Industrial Production (YoY) (Oct)",
+        "previous": 1.64,
+        "timestamp": 1542960000,
+        "volatility": 0
+    },
+    {
+        "actual": 2.6,
+        "country": "Austria",
+        "currency": "EUR",
+        "name": "Austrian Industrial Production (YoY) (Sep)",
+        "previous": 2.8,
+        "timestamp": 1542960000,
+        "volatility": 0
+    },
+    {
+        "actual": 50.7,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 51.3,
+        "name": "French Manufacturing PMI (Nov)",
+        "previous": 51.2,
+        "timestamp": 1542960900,
+        "volatility": 1
+    },
+    {
+        "actual": 54.0,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 53.9,
+        "name": "French Markit Composite PMI (Nov)",
+        "previous": 54.1,
+        "timestamp": 1542960900,
+        "volatility": 0
+    },
+    {
+        "actual": 55.0,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 54.9,
+        "name": "French Services PMI (Nov)",
+        "previous": 55.3,
+        "timestamp": 1542960900,
+        "volatility": 1
+    },
+    {
+        "actual": 3.39,
+        "country": "Taiwan",
+        "currency": "TWD",
+        "name": "M2 Money Supply (Oct)",
+        "previous": 3.34,
+        "timestamp": 1542961200,
+        "volatility": 0
+    },
+    {
+        "actual": 52.2,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 53.2,
+        "name": "German Composite PMI (Nov)",
+        "previous": 53.4,
+        "timestamp": 1542961800,
+        "volatility": 0
+    },
+    {
+        "actual": 51.6,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 52.3,
+        "name": "German Manufacturing PMI (Nov)",
+        "previous": 52.2,
+        "timestamp": 1542961800,
+        "volatility": 2
+    },
+    {
+        "actual": 53.3,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 54.6,
+        "name": "German Services PMI (Nov)",
+        "previous": 54.7,
+        "timestamp": 1542961800,
+        "volatility": 1
+    },
+    {
+        "actual": 3.05,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian Trade Balance Non-EU (Oct)",
+        "previous": 0.08,
+        "timestamp": 1542963600,
+        "volatility": 0
+    },
+    {
+        "actual": 51.5,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 52.0,
+        "name": "Manufacturing PMI (Nov)",
+        "previous": 52.0,
+        "timestamp": 1542963600,
+        "volatility": 1
+    },
+    {
+        "actual": 52.4,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 53.0,
+        "name": "Markit Composite PMI (Nov)",
+        "previous": 53.1,
+        "timestamp": 1542963600,
+        "volatility": 1
+    },
+    {
+        "actual": 53.1,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 53.6,
+        "name": "Services PMI (Nov)",
+        "previous": 53.7,
+        "timestamp": 1542963600,
+        "volatility": 1
+    },
+    {
+        "actual": 10.9,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania Industrial Production (YoY) (Oct)",
+        "previous": -2.5,
+        "timestamp": 1542963600,
+        "volatility": 0
+    },
+    {
+        "actual": 7.4,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania Industrial Production (MoM) (Oct)",
+        "previous": -3.3,
+        "timestamp": 1542963600,
+        "volatility": 0
+    },
+    {
+        "actual": 4.39,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 4.44,
+        "name": "Mid-Month CPI (YoY) (Nov)",
+        "previous": 4.53,
+        "timestamp": 1542970800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.19,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 0.24,
+        "name": "Mid-Month CPI (MoM) (Nov)",
+        "previous": 0.58,
+        "timestamp": 1542970800,
+        "volatility": 0
+    },
+    {
+        "actual": 14.9,
+        "country": "India",
+        "currency": "INR",
+        "name": "Bank Loan Growth",
+        "previous": 14.6,
+        "timestamp": 1542972600,
+        "volatility": 0
+    },
+    {
+        "actual": 9.1,
+        "country": "India",
+        "currency": "INR",
+        "name": "Deposit Growth",
+        "previous": 9.0,
+        "timestamp": 1542972600,
+        "volatility": 0
+    },
+    {
+        "actual": 393.58,
+        "country": "India",
+        "currency": "INR",
+        "name": "FX Reserves, USD",
+        "previous": 393.01,
+        "timestamp": 1542972600,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB's De Guindos Speaks",
+        "timestamp": 1542974400,
+        "volatility": 1
+    },
+    {
+        "actual": 8.3,
+        "country": "Poland",
+        "currency": "PLN",
+        "forecast": 8.0,
+        "name": "M3 Money Supply (MoM) (Oct)",
+        "previous": 7.9,
+        "timestamp": 1542978000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.9,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 1.9,
+        "name": "Common CPI (YoY)",
+        "previous": 1.9,
+        "timestamp": 1542979800,
+        "volatility": 0
+    },
+    {
+        "actual": 1.6,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "Core CPI (YoY) (Oct)",
+        "previous": 1.5,
+        "timestamp": 1542979800,
+        "volatility": 1
+    },
+    {
+        "actual": 0.4,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "Core CPI (MoM) (Oct)",
+        "previous": 0.0,
+        "timestamp": 1542979800,
+        "volatility": 2
+    },
+    {
+        "actual": 0.1,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.3,
+        "name": "Core Retail Sales (MoM) (Sep)",
+        "previous": -0.4,
+        "timestamp": 1542979800,
+        "volatility": 2
+    },
+    {
+        "actual": 2.4,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 2.2,
+        "name": "CPI (YoY) (Oct)",
+        "previous": 2.2,
+        "timestamp": 1542979800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.3,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.1,
+        "name": "CPI (MoM) (Oct)",
+        "previous": -0.4,
+        "timestamp": 1542979800,
+        "volatility": 1
+    },
+    {
+        "actual": 2.0,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 2.0,
+        "name": "Median CPI (YoY)",
+        "previous": 2.0,
+        "timestamp": 1542979800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.1,
+        "name": "Retail Sales (MoM) (Sep)",
+        "previous": -0.1,
+        "timestamp": 1542979800,
+        "volatility": 1
+    },
+    {
+        "actual": 2.1,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 2.1,
+        "name": "Trimmed CPI (YoY)",
+        "previous": 2.1,
+        "timestamp": 1542979800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 0.8,
+        "name": "Economic Activity (MoM) (Sep)",
+        "previous": -0.1,
+        "timestamp": 1542981600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.1,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 2.75,
+        "name": "Economic Activity (YoY) (Sep)",
+        "previous": 1.8,
+        "timestamp": 1542981600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.5,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 2.6,
+        "name": "GDP (YoY) (Q3)",
+        "previous": 2.6,
+        "timestamp": 1542981600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.8,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": 0.9,
+        "name": "GDP (QoQ) (Q3)",
+        "previous": 0.9,
+        "timestamp": 1542981600,
+        "volatility": 1
+    },
+    {
+        "actual": 0.4,
+        "country": "Belgium",
+        "currency": "EUR",
+        "forecast": -1.8,
+        "name": "Belgium NBB Business Climate (Nov)",
+        "previous": -1.1,
+        "timestamp": 1542981600,
+        "volatility": 0
+    },
+    {
+        "actual": 55.4,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 55.8,
+        "name": "Manufacturing PMI (Nov)",
+        "previous": 55.7,
+        "timestamp": 1542984300,
+        "volatility": 1
+    },
+    {
+        "actual": 54.4,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 56.0,
+        "name": "Markit Composite PMI (Nov)",
+        "previous": 54.9,
+        "timestamp": 1542984300,
+        "volatility": 1
+    },
+    {
+        "actual": 54.4,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 55.0,
+        "name": "Services PMI (Nov)",
+        "previous": 54.8,
+        "timestamp": 1542984300,
+        "volatility": 1
+    },
+    {
+        "actual": -5.0,
+        "country": "Mexico",
+        "currency": "MXN",
+        "forecast": -4.0,
+        "name": "Current Account (USD) (Q3)",
+        "previous": -3.0,
+        "timestamp": 1542985860,
+        "volatility": 0
+    },
+    {
+        "actual": -1.6,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "Current Account % of GDP (Q3)",
+        "previous": 2.1,
+        "timestamp": 1542986100,
+        "volatility": 0
+    },
+    {
+        "actual": -5.8,
+        "country": "Argentina",
+        "currency": "ARS",
+        "forecast": -2.4,
+        "name": "Economic Activity (YoY) (Sep)",
+        "previous": -1.6,
+        "timestamp": 1542999600,
+        "volatility": 1
+    },
+    {
+        "actual": 277.0,
+        "country": "Argentina",
+        "currency": "ARS",
+        "forecast": 400.0,
+        "name": "Trade Balance (Oct)",
+        "previous": 314.0,
+        "timestamp": 1542999600,
+        "volatility": 0
+    }
+]

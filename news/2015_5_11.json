@@ -1,0 +1,378 @@
+[
+    {
+        "actual": 3.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "NAB Business Confidence (Apr)",
+        "previous": 3.0,
+        "timestamp": 1431307800,
+        "volatility": 1
+    },
+    {
+        "actual": 4.0,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "NAB Business Survey (Apr)",
+        "previous": 6.0,
+        "timestamp": 1431307800,
+        "volatility": 0
+    },
+    {
+        "actual": 6.9,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "forecast": 4.5,
+        "name": "Industrial Production (YoY) (Mar)",
+        "previous": 5.2,
+        "timestamp": 1431316860,
+        "volatility": 0
+    },
+    {
+        "actual": 7.4,
+        "country": "Norway",
+        "currency": "NOK",
+        "name": "Consumer Confidence (Q2)",
+        "previous": 13.6,
+        "timestamp": 1431318600,
+        "volatility": 0
+    },
+    {
+        "actual": -151.9,
+        "country": "Estonia",
+        "currency": "EUR",
+        "name": "Estonian Trade Balance (Mar)",
+        "previous": -132.0,
+        "timestamp": 1431320400,
+        "volatility": 0
+    },
+    {
+        "actual": 7.7,
+        "country": "Sweden",
+        "currency": "SEK",
+        "name": "Unemployment Rate (Apr)",
+        "previous": 7.9,
+        "timestamp": 1431324000,
+        "volatility": 0
+    },
+    {
+        "actual": 400.0,
+        "country": "Israel",
+        "currency": "ILS",
+        "name": "Budget Balance (Apr)",
+        "previous": -1.0,
+        "timestamp": 1431325800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "Denmark",
+        "currency": "DKK",
+        "forecast": 0.6,
+        "name": "CPI (YoY) (Apr)",
+        "previous": 0.6,
+        "timestamp": 1431327600,
+        "volatility": 1
+    },
+    {
+        "actual": 8.5,
+        "country": "Denmark",
+        "currency": "DKK",
+        "name": "Trade Balance (Mar)",
+        "previous": 6.8,
+        "timestamp": 1431327600,
+        "volatility": 0
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "ECB's Nowotny Speaks",
+        "timestamp": 1431327600,
+        "volatility": 1
+    },
+    {
+        "actual": 579.0,
+        "country": "Slovakia",
+        "currency": "EUR",
+        "forecast": 384.1,
+        "name": "Slovak Trade Balance (Mar)",
+        "previous": 512.3,
+        "timestamp": 1431327600,
+        "volatility": 0
+    },
+    {
+        "actual": 928.6,
+        "country": "Hungary",
+        "currency": "HUF",
+        "forecast": 785.0,
+        "name": "Trade Balance (EUR) (MoM) (Mar)",
+        "previous": 848.0,
+        "timestamp": 1431327600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.81,
+        "country": "Romania",
+        "currency": "RON",
+        "name": "Trade Balance (EUR) (Mar)",
+        "previous": -0.384,
+        "timestamp": 1431327600,
+        "volatility": 0
+    },
+    {
+        "actual": -1.4,
+        "country": "Netherlands",
+        "currency": "EUR",
+        "name": "Dutch Manufacturing Production (MoM) (Mar)",
+        "previous": 2.0,
+        "timestamp": 1431329400,
+        "volatility": 0
+    },
+    {
+        "actual": 2.1,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 2.3,
+        "name": "Core CPI YTD (Apr)",
+        "previous": 2.3,
+        "timestamp": 1431331200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 0.5,
+        "name": "Core Inflation (MoM) (Apr)",
+        "previous": 0.4,
+        "timestamp": 1431331200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 0.4,
+        "name": "CPI (MoM) (Apr)",
+        "previous": 0.3,
+        "timestamp": 1431331200,
+        "volatility": 0
+    },
+    {
+        "actual": 2.0,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 2.0,
+        "name": "CPI (YoY) (Apr)",
+        "previous": 2.0,
+        "timestamp": 1431331200,
+        "volatility": 0
+    },
+    {
+        "actual": -5.6,
+        "country": "Norway",
+        "currency": "NOK",
+        "name": "PPI (YoY) (Apr)",
+        "previous": -6.1,
+        "timestamp": 1431331200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania CPI (MoM) (Apr)",
+        "previous": 0.8,
+        "timestamp": 1431331200,
+        "volatility": 0
+    },
+    {
+        "actual": -1.0,
+        "country": "Lithuania",
+        "currency": "EUR",
+        "name": "Lithuania CPI (YoY) (Apr)",
+        "previous": -1.4,
+        "timestamp": 1431331200,
+        "volatility": 0
+    },
+    {
+        "actual": 105.8,
+        "country": "Malaysia",
+        "currency": "MYR",
+        "name": "FX Reserves USD",
+        "previous": 105.6,
+        "timestamp": 1431334800,
+        "volatility": 0
+    },
+    {
+        "actual": 19.3,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "name": "Retail Sales (YoY) (Mar)",
+        "previous": 16.5,
+        "timestamp": 1431334800,
+        "volatility": 0
+    },
+    {
+        "actual": 5.0,
+        "country": "Greece",
+        "currency": "EUR",
+        "name": "Greek Industrial Production (YoY) (Mar)",
+        "previous": 1.9,
+        "timestamp": 1431334800,
+        "volatility": 0
+    },
+    {
+        "actual": 12.5,
+        "country": "Zambia",
+        "currency": "ZMK",
+        "name": "Interest Rate Decision (May)",
+        "previous": 12.5,
+        "timestamp": 1431336000,
+        "volatility": 0
+    },
+    {
+        "actual": 7.7,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "U.K. Construction Output (YoY) (Mar)",
+        "previous": 7.0,
+        "timestamp": 1431336600,
+        "volatility": 0
+    },
+    {
+        "actual": 2.3,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "Construction Output (MoM) (Mar)",
+        "previous": -1.6,
+        "timestamp": 1431336600,
+        "volatility": 0
+    },
+    {
+        "actual": -192.5,
+        "country": "Latvia",
+        "currency": "EUR",
+        "name": "Latvian Trade Balance (Mar)",
+        "previous": -154.9,
+        "timestamp": 1431338400,
+        "volatility": 0
+    },
+    {
+        "actual": -1.97,
+        "country": "Portugal",
+        "currency": "EUR",
+        "name": "Portuguese Trade Balance (Mar)",
+        "previous": -2.12,
+        "timestamp": 1431338460,
+        "volatility": 0
+    },
+    {
+        "actual": 375.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 375.0,
+        "name": "BoE QE Total (May)",
+        "previous": 375.0,
+        "timestamp": 1431342000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.5,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.5,
+        "name": "BoE Interest Rate Decision (May)",
+        "previous": 0.5,
+        "timestamp": 1431342000,
+        "volatility": 2
+    },
+    {
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "Eurogroup Meetings",
+        "timestamp": 1431345600,
+        "volatility": 1
+    },
+    {
+        "actual": -0.176,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 12-Month BTF Auction",
+        "previous": -0.181,
+        "timestamp": 1431349200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.18,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 3-Month BTF Auction",
+        "previous": -0.186,
+        "timestamp": 1431349200,
+        "volatility": 0
+    },
+    {
+        "actual": -0.177,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 6-Month BTF Auction",
+        "previous": -0.181,
+        "timestamp": 1431349200,
+        "volatility": 0
+    },
+    {
+        "actual": 128.22,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CB Employment Trends Index (May)",
+        "previous": 127.15,
+        "timestamp": 1431352800,
+        "volatility": 0
+    },
+    {
+        "actual": -1.9,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Fed Labor Market Conditions Index",
+        "previous": -1.8,
+        "timestamp": 1431352800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.02,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Month Bill Auction",
+        "previous": 0.015,
+        "timestamp": 1431358200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.085,
+        "country": "United States",
+        "currency": "USD",
+        "name": "6-Month Bill Auction",
+        "previous": 0.07,
+        "timestamp": 1431358200,
+        "volatility": 0
+    },
+    {
+        "actual": -2.4,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 0.6,
+        "name": "BRC Retail Sales Monitor (YoY) (Apr)",
+        "previous": 3.2,
+        "timestamp": 1431385260,
+        "volatility": 1
+    },
+    {
+        "actual": 1.0,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "Foreign Reserves (USD) (Apr)",
+        "previous": 1.0,
+        "timestamp": 1431388200,
+        "volatility": 0
+    }
+]

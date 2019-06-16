@@ -1,0 +1,265 @@
+[
+    {
+        "actual": -1.2,
+        "country": "China",
+        "currency": "CNY",
+        "name": "House Prices (YoY)",
+        "previous": -0.7,
+        "timestamp": 1337306400,
+        "volatility": 0
+    },
+    {
+        "actual": 0.2,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 0.3,
+        "name": "German PPI (MoM)",
+        "previous": 0.6,
+        "timestamp": 1337320800,
+        "volatility": 1
+    },
+    {
+        "actual": 2.4,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 2.6,
+        "name": "German PPI (YoY)",
+        "previous": 3.3,
+        "timestamp": 1337320800,
+        "volatility": 0
+    },
+    {
+        "actual": 3.5,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": -1.1,
+        "name": "Italian Industrial New Orders (MoM)",
+        "previous": -2.6,
+        "timestamp": 1337328000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.0,
+        "country": "Italy",
+        "currency": "EUR",
+        "name": "Italian Industrial Sales (MoM)",
+        "previous": 2.3,
+        "timestamp": 1337328000,
+        "volatility": 0
+    },
+    {
+        "actual": -3.25,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": -3.5,
+        "name": "Spanish Trade Balance",
+        "previous": -3.75,
+        "timestamp": 1337340000,
+        "volatility": 0
+    },
+    {
+        "actual": 17.3,
+        "country": "India",
+        "currency": "INR",
+        "name": "Bank Loan Growth",
+        "previous": 17.6,
+        "timestamp": 1337340600,
+        "volatility": 0
+    },
+    {
+        "actual": 291.8,
+        "country": "India",
+        "currency": "INR",
+        "name": "FX Reserves, USD",
+        "previous": 293.17,
+        "timestamp": 1337340600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.35,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": 0.5,
+        "name": "IBC-Br Economic Activity",
+        "previous": -0.38,
+        "timestamp": 1337340600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.4,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.3,
+        "name": "Core CPI (MoM)",
+        "previous": 0.3,
+        "timestamp": 1337344200,
+        "volatility": 2
+    },
+    {
+        "actual": 0.4,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 0.3,
+        "name": "CPI (MoM)",
+        "previous": 0.4,
+        "timestamp": 1337344200,
+        "volatility": 1
+    },
+    {
+        "actual": 2.0,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 2.0,
+        "name": "CPI (YoY)",
+        "previous": 1.9,
+        "timestamp": 1337344200,
+        "volatility": 0
+    },
+    {
+        "actual": 5.6,
+        "country": "Chile",
+        "currency": "CLP",
+        "forecast": 5.5,
+        "name": "GDP (YoY)",
+        "previous": 4.5,
+        "timestamp": 1337344200,
+        "volatility": 0
+    },
+    {
+        "actual": 1382.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "U.S. Baker Hughes Oil Rig Count",
+        "previous": 1372.0,
+        "timestamp": 1337360400,
+        "volatility": 1
+    },
+    {
+        "actual": 4.0,
+        "country": "Argentina",
+        "currency": "ARS",
+        "forecast": 5.0,
+        "name": "Economic Activity (YoY)",
+        "previous": 5.2,
+        "timestamp": 1337367600,
+        "volatility": 1
+    },
+    {
+        "actual": 7.1,
+        "country": "Argentina",
+        "currency": "ARS",
+        "forecast": 7.7,
+        "name": "Unemployment Rate",
+        "previous": 6.7,
+        "timestamp": 1337367600,
+        "volatility": 0
+    },
+    {
+        "actual": 25.0,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "name": "CFTC GBP speculative net positions",
+        "previous": 25.3,
+        "timestamp": 1337369400,
+        "volatility": 1
+    },
+    {
+        "actual": 114.1,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Gold speculative net positions",
+        "previous": 123.3,
+        "timestamp": 1337369400,
+        "volatility": 1
+    },
+    {
+        "actual": 11.5,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Silver speculative net positions",
+        "previous": 12.6,
+        "timestamp": 1337369400,
+        "volatility": 0
+    },
+    {
+        "actual": 51.0,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "CFTC CAD speculative net positions",
+        "previous": 60.1,
+        "timestamp": 1337369400,
+        "volatility": 0
+    },
+    {
+        "actual": 14.4,
+        "country": "Mexico",
+        "currency": "MXN",
+        "name": "CFTC MXN speculative net positions",
+        "previous": 36.9,
+        "timestamp": 1337369400,
+        "volatility": 0
+    },
+    {
+        "actual": -26.7,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "name": "CFTC CHF speculative net positions",
+        "previous": -16.5,
+        "timestamp": 1337369400,
+        "volatility": 0
+    },
+    {
+        "actual": 4.7,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "CFTC AUD speculative net positions",
+        "previous": 25.1,
+        "timestamp": 1337369400,
+        "volatility": 1
+    },
+    {
+        "actual": -34.3,
+        "country": "Japan",
+        "currency": "JPY",
+        "name": "CFTC JPY speculative net positions",
+        "previous": -41.1,
+        "timestamp": 1337369400,
+        "volatility": 1
+    },
+    {
+        "actual": 2.6,
+        "country": "New Zealand",
+        "currency": "NZD",
+        "name": "CFTC NZD speculative net positions",
+        "previous": 6.2,
+        "timestamp": 1337369400,
+        "volatility": 0
+    },
+    {
+        "actual": -173.9,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "name": "CFTC EUR speculative net positions",
+        "previous": -144.0,
+        "timestamp": 1337369400,
+        "volatility": 1
+    },
+    {
+        "actual": 184.5,
+        "country": "United States",
+        "currency": "USD",
+        "name": "CFTC Crude Oil speculative net positions",
+        "previous": 184.0,
+        "timestamp": 1337373000,
+        "volatility": 1
+    },
+    {
+        "actual": 5.0,
+        "country": "Russia",
+        "currency": "RUB",
+        "name": "CFTC RUB speculative positions",
+        "previous": 5.4,
+        "timestamp": 1337373000,
+        "volatility": 1
+    }
+]

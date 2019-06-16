@@ -1,0 +1,471 @@
+[
+    {
+        "actual": 50.9,
+        "country": "South Korea",
+        "currency": "KRW",
+        "name": "Nikkei Manufacturing PMI",
+        "previous": 50.8,
+        "timestamp": 1391385600,
+        "volatility": 0
+    },
+    {
+        "actual": -0.3,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "ANZ Job Advertisements (MoM)",
+        "previous": -0.8,
+        "timestamp": 1391387400,
+        "volatility": 0
+    },
+    {
+        "actual": -2.9,
+        "country": "Australia",
+        "currency": "AUD",
+        "forecast": -0.3,
+        "name": "Building Approvals (MoM)",
+        "previous": -0.3,
+        "timestamp": 1391387400,
+        "volatility": 1
+    },
+    {
+        "actual": 53.4,
+        "country": "China",
+        "currency": "CNY",
+        "name": "Non-Manufacturing PMI",
+        "previous": 54.6,
+        "timestamp": 1391389200,
+        "volatility": 1
+    },
+    {
+        "actual": 1.52,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": 0.55,
+        "name": "Trade Balance",
+        "previous": 0.78,
+        "timestamp": 1391396400,
+        "volatility": 1
+    },
+    {
+        "actual": 8.22,
+        "country": "Indonesia",
+        "currency": "IDR",
+        "forecast": 8.38,
+        "name": "Inflation (YoY)",
+        "previous": 8.38,
+        "timestamp": 1391400000,
+        "volatility": 0
+    },
+    {
+        "actual": 1.93,
+        "country": "Thailand",
+        "currency": "THB",
+        "forecast": 1.71,
+        "name": "CPI (YoY)",
+        "previous": 1.67,
+        "timestamp": 1391401800,
+        "volatility": 1
+    },
+    {
+        "actual": 51.4,
+        "country": "India",
+        "currency": "INR",
+        "name": "Nikkei Markit Manufacturing PMI",
+        "previous": 50.7,
+        "timestamp": 1391403600,
+        "volatility": 0
+    },
+    {
+        "actual": -9.9,
+        "country": "Australia",
+        "currency": "AUD",
+        "name": "Commodity Prices (YoY)",
+        "previous": -3.6,
+        "timestamp": 1391405400,
+        "volatility": 0
+    },
+    {
+        "actual": 56.4,
+        "country": "Sweden",
+        "currency": "SEK",
+        "forecast": 54.4,
+        "name": "Manufacturing PMI",
+        "previous": 52.2,
+        "timestamp": 1391412600,
+        "volatility": 0
+    },
+    {
+        "actual": 52.8,
+        "country": "Norway",
+        "currency": "NOK",
+        "forecast": 52.6,
+        "name": "Manufacturing PMI",
+        "previous": 51.4,
+        "timestamp": 1391414400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.72,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 1.6,
+        "name": "CPI (MoM)",
+        "previous": 0.46,
+        "timestamp": 1391414400,
+        "volatility": 1
+    },
+    {
+        "actual": 7.48,
+        "country": "Turkey",
+        "currency": "TRY",
+        "forecast": 7.5,
+        "name": "CPI (YoY)",
+        "previous": 7.4,
+        "timestamp": 1391414400,
+        "volatility": 1
+    },
+    {
+        "actual": 3.32,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "PPI (MoM)",
+        "previous": 1.11,
+        "timestamp": 1391414400,
+        "volatility": 0
+    },
+    {
+        "actual": 10.72,
+        "country": "Turkey",
+        "currency": "TRY",
+        "name": "PPI (YoY)",
+        "previous": 6.97,
+        "timestamp": 1391414400,
+        "volatility": 0
+    },
+    {
+        "actual": 57.9,
+        "country": "Hungary",
+        "currency": "HUF",
+        "name": "Manufacturing PMI",
+        "previous": 50.5,
+        "timestamp": 1391414400,
+        "volatility": 0
+    },
+    {
+        "actual": 52.2,
+        "country": "Spain",
+        "currency": "EUR",
+        "forecast": 51.5,
+        "name": "Spanish Manufacturing PMI",
+        "previous": 50.8,
+        "timestamp": 1391415180,
+        "volatility": 1
+    },
+    {
+        "actual": 56.1,
+        "country": "Switzerland",
+        "currency": "CHF",
+        "forecast": 55.4,
+        "name": "SVME PMI",
+        "previous": 55.0,
+        "timestamp": 1391416200,
+        "volatility": 1
+    },
+    {
+        "actual": 55.9,
+        "country": "Czech Republic",
+        "currency": "CZK",
+        "forecast": 55.5,
+        "name": "Markit PMI",
+        "previous": 54.7,
+        "timestamp": 1391416200,
+        "volatility": 0
+    },
+    {
+        "actual": 53.1,
+        "country": "Italy",
+        "currency": "EUR",
+        "forecast": 53.5,
+        "name": "Italian Manufacturing PMI",
+        "previous": 53.3,
+        "timestamp": 1391416980,
+        "volatility": 1
+    },
+    {
+        "actual": 49.3,
+        "country": "France",
+        "currency": "EUR",
+        "forecast": 48.8,
+        "name": "French Manufacturing PMI",
+        "previous": 48.8,
+        "timestamp": 1391417280,
+        "volatility": 1
+    },
+    {
+        "actual": 56.5,
+        "country": "Germany",
+        "currency": "EUR",
+        "forecast": 56.3,
+        "name": "German Manufacturing PMI",
+        "previous": 56.3,
+        "timestamp": 1391417580,
+        "volatility": 2
+    },
+    {
+        "actual": 54.0,
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "forecast": 53.9,
+        "name": "Manufacturing PMI",
+        "previous": 53.9,
+        "timestamp": 1391417880,
+        "volatility": 1
+    },
+    {
+        "actual": 56.7,
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "forecast": 57.0,
+        "name": "Manufacturing PMI",
+        "previous": 57.2,
+        "timestamp": 1391419680,
+        "volatility": 2
+    },
+    {
+        "actual": -6.0,
+        "country": "Russia",
+        "currency": "RUB",
+        "forecast": -1.0,
+        "name": "Business Confidence",
+        "previous": -8.0,
+        "timestamp": 1391428800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.7,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 1.0,
+        "name": "IPPI (MoM)",
+        "previous": 0.2,
+        "timestamp": 1391434200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.4,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "IPPI (YoY)",
+        "previous": 0.3,
+        "timestamp": 1391434200,
+        "volatility": 0
+    },
+    {
+        "actual": 1.9,
+        "country": "Canada",
+        "currency": "CAD",
+        "forecast": 2.0,
+        "name": "RMPI (MoM)",
+        "previous": -4.2,
+        "timestamp": 1391434200,
+        "volatility": 1
+    },
+    {
+        "actual": 2.1,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "RMPI (YoY)",
+        "previous": -2.5,
+        "timestamp": 1391434200,
+        "volatility": 0
+    },
+    {
+        "actual": 53.7,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 53.8,
+        "name": "Manufacturing PMI",
+        "previous": 53.7,
+        "timestamp": 1391435880,
+        "volatility": 1
+    },
+    {
+        "country": "United States",
+        "currency": "USD",
+        "name": "Treasury Secretary Lew Speaks",
+        "timestamp": 1391436000,
+        "volatility": 1
+    },
+    {
+        "actual": 0.15,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 12-Month BTF Auction",
+        "previous": 0.19,
+        "timestamp": 1391436000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.131,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 3-Month BTF Auction",
+        "previous": 0.156,
+        "timestamp": 1391436000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.136,
+        "country": "France",
+        "currency": "EUR",
+        "name": "French 6-Month BTF Auction",
+        "previous": 0.176,
+        "timestamp": 1391436000,
+        "volatility": 0
+    },
+    {
+        "actual": 51.7,
+        "country": "Canada",
+        "currency": "CAD",
+        "name": "RBC Manufacturing PMI",
+        "previous": 53.5,
+        "timestamp": 1391437800,
+        "volatility": 0
+    },
+    {
+        "actual": 0.1,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 0.2,
+        "name": "Construction Spending (MoM)",
+        "previous": 0.8,
+        "timestamp": 1391439600,
+        "volatility": 0
+    },
+    {
+        "actual": 52.3,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 55.8,
+        "name": "ISM Manufacturing Employment",
+        "previous": 56.9,
+        "timestamp": 1391439600,
+        "volatility": 1
+    },
+    {
+        "actual": 51.3,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 56.4,
+        "name": "ISM Manufacturing PMI",
+        "previous": 57.0,
+        "timestamp": 1391439600,
+        "volatility": 2
+    },
+    {
+        "actual": 60.5,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 54.0,
+        "name": "ISM Manufacturing Prices",
+        "previous": 53.5,
+        "timestamp": 1391439600,
+        "volatility": 0
+    },
+    {
+        "actual": 0.04,
+        "country": "United States",
+        "currency": "USD",
+        "name": "3-Month Bill Auction",
+        "previous": 0.055,
+        "timestamp": 1391445000,
+        "volatility": 0
+    },
+    {
+        "actual": 0.06,
+        "country": "United States",
+        "currency": "USD",
+        "name": "6-Month Bill Auction",
+        "previous": 0.065,
+        "timestamp": 1391445000,
+        "volatility": 0
+    },
+    {
+        "actual": -4.06,
+        "country": "Brazil",
+        "currency": "BRL",
+        "forecast": -4.6,
+        "name": "Trade Balance",
+        "previous": 2.65,
+        "timestamp": 1391446800,
+        "volatility": 0
+    },
+    {
+        "actual": -2.0,
+        "country": "United States",
+        "currency": "USD",
+        "name": "Global Semiconductor Sales (MoM)",
+        "previous": 0.6,
+        "timestamp": 1391457600,
+        "volatility": 0
+    },
+    {
+        "actual": 7.3,
+        "country": "United States",
+        "currency": "USD",
+        "name": "All Car Sales",
+        "previous": 7.73,
+        "timestamp": 1391461200,
+        "volatility": 0
+    },
+    {
+        "actual": 5.12,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 5.3,
+        "name": "Domestic Car Sales",
+        "previous": 5.25,
+        "timestamp": 1391461200,
+        "volatility": 0
+    },
+    {
+        "actual": 15.24,
+        "country": "United States",
+        "currency": "USD",
+        "forecast": 15.7,
+        "name": "Total Vehicle Sales",
+        "previous": 15.4,
+        "timestamp": 1391461200,
+        "volatility": 0
+    },
+    {
+        "actual": 0.5,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 0.5,
+        "name": "CPI (MoM)",
+        "previous": 0.1,
+        "timestamp": 1391468400,
+        "volatility": 0
+    },
+    {
+        "actual": 1.1,
+        "country": "South Korea",
+        "currency": "KRW",
+        "forecast": 1.1,
+        "name": "CPI (YoY)",
+        "previous": 1.1,
+        "timestamp": 1391468400,
+        "volatility": 1
+    },
+    {
+        "actual": 51.9,
+        "country": "Japan",
+        "currency": "JPY",
+        "forecast": 47.2,
+        "name": "Monetary Base (YoY)",
+        "previous": 46.6,
+        "timestamp": 1391471400,
+        "volatility": 0
+    }
+]
